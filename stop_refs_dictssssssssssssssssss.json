@@ -1,0 +1,354 @@
+[
+  {
+    "route_id": "9011001067700000",
+    "service_id": "3",
+    "trip_id": "33010000201399605",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "4",
+    "trip_id": "33010000201400106",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "3",
+    "trip_id": "33010000201400390",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000201400607",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000201400749",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000201400820",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000201401530",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "3",
+    "trip_id": "33010000201402027",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "2",
+    "trip_id": "33010000201402098",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "3",
+    "trip_id": "33010000201402169",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000210966185",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000210966258",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "4",
+    "trip_id": "33010000201399747",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "2",
+    "trip_id": "33010000201399960",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "3",
+    "trip_id": "33010000201400031",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000201400678",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000201401743",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "3",
+    "trip_id": "33010000201402382",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000201402674",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000210966474",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000210966550",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000210966632",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000210966704",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "3",
+    "trip_id": "33010000201399676",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "2",
+    "trip_id": "33010000201400319",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "4",
+    "trip_id": "33010000201400463",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000201401175",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000201401601",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "2",
+    "trip_id": "33010000201402240",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "2",
+    "trip_id": "33010000201402311",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "4",
+    "trip_id": "33010000201402457",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "4",
+    "trip_id": "33010000201402532",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000210966402",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "4",
+    "trip_id": "33010000201399818",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "2",
+    "trip_id": "33010000201399889",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "2",
+    "trip_id": "33010000201400177",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "3",
+    "trip_id": "33010000201400248",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "4",
+    "trip_id": "33010000201400536",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000201401672",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000201401814",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000201401885",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "8",
+    "trip_id": "33010000201401956",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000201402603",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  },
+  {
+    "route_id": "9011001067700000",
+    "service_id": "1",
+    "trip_id": "33010000210966330",
+    "trip_headsign": "",
+    "direction_id": "0",
+    "shape_id": "1033010000151338695"
+  }
+]
