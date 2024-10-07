@@ -1,0 +1,2042 @@
+{
+  "feed_version": "2024-09-28",
+  "route_id": "9011003090000000",
+  "agency_id": "33010000000001407",
+  "route_short_name": "900",
+  "route_long_name": "Gr\u00e4s\u00f6f\u00e4rjan",
+  "route_type": "1000",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "5033010000127809561",
+      "trips": [
+        {
+          "trip_id": "33010000198589320",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589329",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589374",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589491",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589518",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589527",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589536",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589554",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589626",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589644",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589662",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589311",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589401",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589428",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589446",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589464",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589500",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589590",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589599",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589653",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589834",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589338",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589347",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589392",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589410",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589419",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589437",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589473",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589509",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589545",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589563",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589572",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589635",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589681",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589722",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589731",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589356",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589365",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589383",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589455",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589482",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589581",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589608",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589617",
+          "stops": [
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ]
+        }
+      ],
+      "points": [
+        [
+          "60.340718",
+          "18.446784"
+        ],
+        [
+          "60.346237",
+          "18.460930"
+        ]
+      ]
+    },
+    {
+      "shape_id": "5033010000127809579",
+      "trips": [
+        {
+          "trip_id": "33010000198589861",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589870",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589879",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589888",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589906",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589924",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589969",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589987",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590050",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590059",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590095",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590113",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590140",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590149",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590213",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590254",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589843",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589852",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589897",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589951",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589978",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590014",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590032",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590077",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590104",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590131",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590194",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589933",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589942",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589960",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590023",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590068",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590158",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590167",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590176",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590185",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590263",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589915",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198589996",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590005",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590041",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590086",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        },
+        {
+          "trip_id": "33010000198590122",
+          "stops": [
+            {
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ]
+        }
+      ],
+      "points": [
+        [
+          "60.346237",
+          "18.460930"
+        ],
+        [
+          "60.340718",
+          "18.446784"
+        ]
+      ]
+    }
+  ]
+}

@@ -15,7 +15,6 @@ def list_to_dict(headers, list):
 
 routes_dict = dict()
 trips_dict = dict()
-shapes_dict = dict()
 stops_dict = dict()
 stop_refs_dict = dict()
 
@@ -45,42 +44,44 @@ for trip in trips:
             trip_headers.append(header)
     else:
         if trip[5] in prev_trip_shape:
-            shape_trips_dict[trip[5]].append(list_to_dict(trip_headers, trip))
+            shape_trips_dict[trip[5]].append(dict(trip_id = trip[2]))
         else:
             shape_trips_dict[trip[5]] = list()
-            shape_trips_dict[trip[5]].append(list_to_dict(trip_headers, trip))
+            shape_trips_dict[trip[5]].append(dict(trip_id = trip[2]))
             prev_trip_shape.add(trip[5])
 
 prev_trip = set()
-for i in range(190):
+for trip in trips:
     # spacial handeling of first line
-    trip = trips[i]
-    if trip is trips[0]:
-        for header in trip:
-            trip_headers.append(header)
-    else:
-        #if trip[5] not in prev_trip:
-            trips_dict[trip[0]][trip[5]] = list()
-            trips_dict[trip[0]][trip[5]].append(shape_trips_dict[trip[5]])
-            prev_trip.add(trip[5])
-            print(prev_trip)
-
-shapes = open(f"{code}/shapes.txt", "r", encoding="UTF8")
-shapes = csv.reader(shapes)
-shapes = list(shapes)
-shape_headers = list()
-prev_shape = None
-for shape in shapes:
-    if shape is shapes[0]:
-        for header in shape:
-            shape_headers.append(header)
-    else:
-        if shape[0] == prev_shape:
-            shapes_dict[shape[0]].append([shape[1], shape[2]])
+    if trip is not trips[0]:
+        if trip[0] in prev_trip:
+            trips_dict[trip[0]][trip[5]] = dict(shape_id = trip[5], trips = shape_trips_dict[trip[5]])
         else:
-            shapes_dict[shape[0]] = list()
-            shapes_dict[shape[0]].append([shape[1], shape[2]])
-            prev_shape = shape[0]
+            trips_dict[trip[0]] = dict()
+            trips_dict[trip[0]][trip[5]] = dict(shape_id = trip[5], trips = shape_trips_dict[trip[5]])
+            prev_trip.add(trip[0])
+
+
+def get_shapes(code):
+    shapes_dict = dict()
+    shapes = open(f"{code}/shapes.txt", "r", encoding="UTF8")
+    shapes = csv.reader(shapes)
+    shapes = list(shapes)
+    shape_headers = list()
+    prev_shape = None
+    for shape in shapes:
+        if shape is shapes[0]:
+            for header in shape:
+                shape_headers.append(header)
+        else:
+            if shape[0] == prev_shape:
+                shapes_dict[shape[0]].append([shape[1], shape[2]])
+            else:
+                shapes_dict[shape[0]] = list()
+                shapes_dict[shape[0]].append([shape[1], shape[2]])
+                prev_shape = shape[0]
+
+    return shapes_dict
 
 stops = open(f"{code}/stops.txt", "r", encoding="UTF8")
 stops = csv.reader(stops)
@@ -110,19 +111,36 @@ for stop_ref in stop_refs:
             stop_refs_dict[stop_ref[0]].append(stop_ref[3])
             prev_stop_ref = stop_ref[0]
 
-#export = open(f"route_{route['route_id']}.json", 'w', encoding="UTF8")
-export = open(f"routes_dict.json", 'w', encoding="UTF8")
-json.dump(routes_dict, export, indent=2)
-export = open(f"trips_dict.json", 'w', encoding="UTF8")
-json.dump(trips_dict, export, indent=2)
-export = open(f"shapes_dict.json", 'w', encoding="UTF8")
-json.dump(shapes_dict, export, indent=2)
-export = open(f"stops_dict.json", 'w', encoding="UTF8")
-json.dump(stops_dict, export, indent=2)
-export = open(f"stop_refs_dict.json", 'w', encoding="UTF8")
-json.dump(stop_refs_dict, export, indent=2)
-export = open(f"stop_refs_dictssssssssssssssssss.json", 'w', encoding="UTF8")
-json.dump(shape_trips_dict[trip[5]], export, indent=2)
+shapes_dict = get_shapes(code)
 
+#export = open(f"routes_dict.json", 'w', encoding="UTF8")
+#json.dump(routes_dict, export, indent=2)
+#export = open(f"trips_dict.json", 'w', encoding="UTF8")
+#json.dump(trips_dict, export, indent=2)
+#export = open(f"shapes_dict.json", 'w', encoding="UTF8")
+#json.dump(shapes_dict, export, indent=2)
+#export = open(f"stops_dict.json", 'w', encoding="UTF8")
+#json.dump(stops_dict, export, indent=2)
+#export = open(f"stop_refs_dict.json", 'w', encoding="UTF8")
+#json.dump(stop_refs_dict, export, indent=2)
+
+
+# Write route specific files
+
+for route in routes_dict.values():
+    route_dict = dict()
+    route_dict["feed_version"] = version
+    route_dict.update(route)
+    route_dict["shapes"] = list(trips_dict[route["route_id"]].values())
+    for shape in range(len(route_dict["shapes"])):
+        route_dict["shapes"][shape]["points"] = shapes_dict[route_dict["shapes"][shape]["shape_id"]]
+        for trip in range(len(route_dict["shapes"][shape]["trips"])):
+            route_dict["shapes"][shape]["trips"][trip]["stops"] = stop_refs_dict[route_dict["shapes"][shape]["trips"][trip]["trip_id"]]
+            for stop in range(len(route_dict["shapes"][shape]["trips"][trip]["stops"])):
+                route_dict["shapes"][shape]["trips"][trip]["stops"][stop] = stops_dict[route_dict["shapes"][shape]["trips"][trip]["stops"][stop]]
+    
+
+    export = open(f"docs/route_{route['route_id']}.json", 'w', encoding="UTF8")
+    json.dump(route_dict, export, indent=2)
 
 print("done")
