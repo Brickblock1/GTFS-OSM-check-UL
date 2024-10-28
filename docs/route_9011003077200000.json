@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003077200000",
   "agency_id": "33010000000001407",
   "route_short_name": "772",
@@ -11,77 +11,12 @@
       "shape_id": "1033010000000721552",
       "trips": [
         {
-          "trip_id": "33010000201225091",
-          "stops": [
-            {
-              "stop_id": "9022003793033001",
-              "stop_name": "\u00d6sterv\u00e5la busstation",
-              "stop_lat": "60.180156",
-              "stop_lon": "17.179672",
-              "location_type": "0",
-              "parent_station": "9021003793033000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003793115001",
-              "stop_name": "\u00d6sterv\u00e5la Gr\u00e4sbov\u00e4gen",
-              "stop_lat": "60.177939",
-              "stop_lon": "17.177939",
-              "location_type": "0",
-              "parent_station": "9021003793115000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003793097001",
-              "stop_name": "Harbo centrum",
-              "stop_lat": "60.105200",
-              "stop_lon": "17.198612",
-              "location_type": "0",
-              "parent_station": "9021003793097000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003700544001",
-              "stop_name": "Uppsala Librob\u00e4ck",
-              "stop_lat": "59.874309",
-              "stop_lon": "17.594509",
-              "location_type": "0",
-              "parent_station": "9021003700544000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003700129005",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.861286",
-              "stop_lon": "17.620461",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "E"
-            },
-            {
-              "stop_id": "9022003700032004",
-              "stop_name": "Uppsala Klostergatan",
-              "stop_lat": "59.860788",
-              "stop_lon": "17.639552",
-              "location_type": "0",
-              "parent_station": "9021003700032000",
-              "platform_code": "J"
-            },
-            {
-              "stop_id": "9022003700600007",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857419",
-              "stop_lon": "17.646774",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B4"
-            }
-          ]
-        },
-        {
           "trip_id": "33010000201225063",
+          "service_id": "1",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003793033001",
               "stop_name": "\u00d6sterv\u00e5la busstation",
               "stop_lat": "60.180156",
@@ -91,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003793115001",
               "stop_name": "\u00d6sterv\u00e5la Gr\u00e4sbov\u00e4gen",
               "stop_lat": "60.177939",
@@ -100,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003793097001",
               "stop_name": "Harbo centrum",
               "stop_lat": "60.105200",
@@ -109,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700544001",
               "stop_name": "Uppsala Librob\u00e4ck",
               "stop_lat": "59.874309",
@@ -118,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700129005",
               "stop_name": "Uppsala Ekonomikum",
               "stop_lat": "59.861286",
@@ -127,6 +70,8 @@
               "platform_code": "E"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700032004",
               "stop_name": "Uppsala Klostergatan",
               "stop_lat": "59.860788",
@@ -136,6 +81,8 @@
               "platform_code": "J"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700600007",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857419",
@@ -144,12 +91,20 @@
               "parent_station": "9021003700600000",
               "platform_code": "B4"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
         },
         {
           "trip_id": "33010000201225077",
+          "service_id": "1",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003793033001",
               "stop_name": "\u00d6sterv\u00e5la busstation",
               "stop_lat": "60.180156",
@@ -159,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003793115001",
               "stop_name": "\u00d6sterv\u00e5la Gr\u00e4sbov\u00e4gen",
               "stop_lat": "60.177939",
@@ -168,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003793097001",
               "stop_name": "Harbo centrum",
               "stop_lat": "60.105200",
@@ -177,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700544001",
               "stop_name": "Uppsala Librob\u00e4ck",
               "stop_lat": "59.874309",
@@ -186,6 +147,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700129005",
               "stop_name": "Uppsala Ekonomikum",
               "stop_lat": "59.861286",
@@ -195,6 +158,8 @@
               "platform_code": "E"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700032004",
               "stop_name": "Uppsala Klostergatan",
               "stop_lat": "59.860788",
@@ -204,6 +169,8 @@
               "platform_code": "J"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700600007",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857419",
@@ -212,7 +179,100 @@
               "parent_station": "9021003700600000",
               "platform_code": "B4"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000213813339",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003793033001",
+              "stop_name": "\u00d6sterv\u00e5la busstation",
+              "stop_lat": "60.180156",
+              "stop_lon": "17.179672",
+              "location_type": "0",
+              "parent_station": "9021003793033000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003793115001",
+              "stop_name": "\u00d6sterv\u00e5la Gr\u00e4sbov\u00e4gen",
+              "stop_lat": "60.177939",
+              "stop_lon": "17.177939",
+              "location_type": "0",
+              "parent_station": "9021003793115000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003793097001",
+              "stop_name": "Harbo centrum",
+              "stop_lat": "60.105200",
+              "stop_lon": "17.198612",
+              "location_type": "0",
+              "parent_station": "9021003793097000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700544001",
+              "stop_name": "Uppsala Librob\u00e4ck",
+              "stop_lat": "59.874309",
+              "stop_lon": "17.594509",
+              "location_type": "0",
+              "parent_station": "9021003700544000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700129005",
+              "stop_name": "Uppsala Ekonomikum",
+              "stop_lat": "59.861286",
+              "stop_lon": "17.620461",
+              "location_type": "0",
+              "parent_station": "9021003700129000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700032004",
+              "stop_name": "Uppsala Klostergatan",
+              "stop_lat": "59.860788",
+              "stop_lon": "17.639552",
+              "location_type": "0",
+              "parent_station": "9021003700032000",
+              "platform_code": "J"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
         }
       ],
       "points": [
@@ -6198,9 +6258,12 @@
       "shape_id": "1033010000045709840",
       "trips": [
         {
-          "trip_id": "33010000213319653",
+          "trip_id": "33010000214577531",
+          "service_id": "5",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003793033001",
               "stop_name": "\u00d6sterv\u00e5la busstation",
               "stop_lat": "60.180156",
@@ -6210,6 +6273,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003793115001",
               "stop_name": "\u00d6sterv\u00e5la Gr\u00e4sbov\u00e4gen",
               "stop_lat": "60.177939",
@@ -6219,6 +6284,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003793097001",
               "stop_name": "Harbo centrum",
               "stop_lat": "60.105200",
@@ -6228,6 +6295,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700544001",
               "stop_name": "Uppsala Librob\u00e4ck",
               "stop_lat": "59.874309",
@@ -6237,6 +6306,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700129005",
               "stop_name": "Uppsala Ekonomikum",
               "stop_lat": "59.861286",
@@ -6246,6 +6317,8 @@
               "platform_code": "E"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700032006",
               "stop_name": "Uppsala Klostergatan",
               "stop_lat": "59.861469",
@@ -6255,6 +6328,8 @@
               "platform_code": "D"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700600007",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857419",
@@ -6263,12 +6338,20 @@
               "parent_station": "9021003700600000",
               "platform_code": "B4"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "5",
+            "start_date": "20241025",
+            "end_date": "20241213"
+          }
         },
         {
-          "trip_id": "33010000213319625",
+          "trip_id": "33010000214577517",
+          "service_id": "5",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003793033001",
               "stop_name": "\u00d6sterv\u00e5la busstation",
               "stop_lat": "60.180156",
@@ -6278,6 +6361,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003793115001",
               "stop_name": "\u00d6sterv\u00e5la Gr\u00e4sbov\u00e4gen",
               "stop_lat": "60.177939",
@@ -6287,6 +6372,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003793097001",
               "stop_name": "Harbo centrum",
               "stop_lat": "60.105200",
@@ -6296,6 +6383,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700544001",
               "stop_name": "Uppsala Librob\u00e4ck",
               "stop_lat": "59.874309",
@@ -6305,6 +6394,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700129005",
               "stop_name": "Uppsala Ekonomikum",
               "stop_lat": "59.861286",
@@ -6314,6 +6405,8 @@
               "platform_code": "E"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700032006",
               "stop_name": "Uppsala Klostergatan",
               "stop_lat": "59.861469",
@@ -6323,6 +6416,8 @@
               "platform_code": "D"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700600007",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857419",
@@ -6331,12 +6426,20 @@
               "parent_station": "9021003700600000",
               "platform_code": "B4"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "5",
+            "start_date": "20241025",
+            "end_date": "20241213"
+          }
         },
         {
-          "trip_id": "33010000213319639",
+          "trip_id": "33010000214577503",
+          "service_id": "5",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003793033001",
               "stop_name": "\u00d6sterv\u00e5la busstation",
               "stop_lat": "60.180156",
@@ -6346,6 +6449,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003793115001",
               "stop_name": "\u00d6sterv\u00e5la Gr\u00e4sbov\u00e4gen",
               "stop_lat": "60.177939",
@@ -6355,6 +6460,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003793097001",
               "stop_name": "Harbo centrum",
               "stop_lat": "60.105200",
@@ -6364,6 +6471,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700544001",
               "stop_name": "Uppsala Librob\u00e4ck",
               "stop_lat": "59.874309",
@@ -6373,6 +6482,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700129005",
               "stop_name": "Uppsala Ekonomikum",
               "stop_lat": "59.861286",
@@ -6382,6 +6493,8 @@
               "platform_code": "E"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700032006",
               "stop_name": "Uppsala Klostergatan",
               "stop_lat": "59.861469",
@@ -6391,6 +6504,8 @@
               "platform_code": "D"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700600007",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857419",
@@ -6399,7 +6514,12 @@
               "parent_station": "9021003700600000",
               "platform_code": "B4"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "5",
+            "start_date": "20241025",
+            "end_date": "20241213"
+          }
         }
       ],
       "points": [
@@ -12260,6 +12380,18 @@
           "17.638450"
         ],
         [
+          "59.861469",
+          "17.638340"
+        ],
+        [
+          "59.861522",
+          "17.638468"
+        ],
+        [
+          "59.861411",
+          "17.638658"
+        ],
+        [
           "59.861374",
           "17.638728"
         ],
@@ -12268,8 +12400,8 @@
           "17.639906"
         ],
         [
-          "59.860711",
-          "17.639941"
+          "59.860720",
+          "17.639923"
         ],
         [
           "59.860711",
@@ -12284,7 +12416,7 @@
           "17.640218"
         ],
         [
-          "59.860563",
+          "59.860555",
           "17.640218"
         ],
         [
@@ -12296,8 +12428,8 @@
           "17.640843"
         ],
         [
-          "59.859936",
-          "17.641415"
+          "59.859937",
+          "17.641397"
         ],
         [
           "59.859936",
@@ -12308,8 +12440,8 @@
           "17.641675"
         ],
         [
-          "59.859697",
-          "17.641848"
+          "59.859706",
+          "17.641849"
         ],
         [
           "59.859697",
@@ -12324,28 +12456,80 @@
           "17.642627"
         ],
         [
+          "59.859172",
+          "17.642765"
+        ],
+        [
+          "59.859163",
+          "17.642765"
+        ],
+        [
           "59.859062",
           "17.642938"
         ],
         [
-          "59.859114",
-          "17.643066"
+          "59.859140",
+          "17.643121"
         ],
         [
-          "59.859322",
-          "17.643595"
+          "59.859140",
+          "17.643139"
         ],
         [
-          "59.859340",
-          "17.643649"
+          "59.859253",
+          "17.643430"
         ],
         [
-          "59.859110",
-          "17.644047"
+          "59.859262",
+          "17.643449"
         ],
         [
-          "59.859072",
-          "17.644134"
+          "59.859261",
+          "17.643484"
+        ],
+        [
+          "59.859270",
+          "17.643503"
+        ],
+        [
+          "59.859270",
+          "17.643521"
+        ],
+        [
+          "59.859269",
+          "17.643556"
+        ],
+        [
+          "59.859269",
+          "17.643574"
+        ],
+        [
+          "59.859259",
+          "17.643627"
+        ],
+        [
+          "59.859250",
+          "17.643644"
+        ],
+        [
+          "59.859222",
+          "17.643714"
+        ],
+        [
+          "59.859212",
+          "17.643749"
+        ],
+        [
+          "59.859194",
+          "17.643802"
+        ],
+        [
+          "59.859046",
+          "17.644062"
+        ],
+        [
+          "59.858715",
+          "17.644632"
         ],
         [
           "59.858503",
@@ -12360,16 +12544,32 @@
           "17.645412"
         ],
         [
+          "59.858200",
+          "17.645550"
+        ],
+        [
+          "59.858191",
+          "17.645549"
+        ],
+        [
           "59.858034",
           "17.645826"
+        ],
+        [
+          "59.857813",
+          "17.646207"
+        ],
+        [
+          "59.857804",
+          "17.646224"
         ],
         [
           "59.857712",
           "17.646380"
         ],
         [
-          "59.857547",
-          "17.646656"
+          "59.857446",
+          "17.646829"
         ],
         [
           "59.857419",
@@ -12382,8 +12582,11 @@
       "trips": [
         {
           "trip_id": "33010000201225105",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700600010",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857305",
@@ -12393,6 +12596,8 @@
               "platform_code": "C2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700129002",
               "stop_name": "Uppsala Ekonomikum",
               "stop_lat": "59.861604",
@@ -12402,6 +12607,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700544002",
               "stop_name": "Uppsala Librob\u00e4ck",
               "stop_lat": "59.873891",
@@ -12411,6 +12618,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003793097002",
               "stop_name": "Harbo centrum",
               "stop_lat": "60.105260",
@@ -12420,6 +12629,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003793115002",
               "stop_name": "\u00d6sterv\u00e5la Gr\u00e4sbov\u00e4gen",
               "stop_lat": "60.177591",
@@ -12429,6 +12640,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003793033002",
               "stop_name": "\u00d6sterv\u00e5la busstation",
               "stop_lat": "60.180556",
@@ -12437,12 +12650,20 @@
               "parent_station": "9021003793033000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
           "trip_id": "33010000201225119",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700600010",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857305",
@@ -12452,6 +12673,8 @@
               "platform_code": "C2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700129002",
               "stop_name": "Uppsala Ekonomikum",
               "stop_lat": "59.861604",
@@ -12461,6 +12684,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700544002",
               "stop_name": "Uppsala Librob\u00e4ck",
               "stop_lat": "59.873891",
@@ -12470,6 +12695,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003793097002",
               "stop_name": "Harbo centrum",
               "stop_lat": "60.105260",
@@ -12479,6 +12706,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003793115002",
               "stop_name": "\u00d6sterv\u00e5la Gr\u00e4sbov\u00e4gen",
               "stop_lat": "60.177591",
@@ -12488,6 +12717,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003793033002",
               "stop_name": "\u00d6sterv\u00e5la busstation",
               "stop_lat": "60.180556",
@@ -12496,12 +12727,20 @@
               "parent_station": "9021003793033000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
           "trip_id": "33010000201225133",
+          "service_id": "5",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700600010",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857305",
@@ -12511,6 +12750,8 @@
               "platform_code": "C2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700129002",
               "stop_name": "Uppsala Ekonomikum",
               "stop_lat": "59.861604",
@@ -12520,6 +12761,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700544002",
               "stop_name": "Uppsala Librob\u00e4ck",
               "stop_lat": "59.873891",
@@ -12529,6 +12772,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003793097002",
               "stop_name": "Harbo centrum",
               "stop_lat": "60.105260",
@@ -12538,6 +12783,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003793115002",
               "stop_name": "\u00d6sterv\u00e5la Gr\u00e4sbov\u00e4gen",
               "stop_lat": "60.177591",
@@ -12547,6 +12794,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003793033002",
               "stop_name": "\u00d6sterv\u00e5la busstation",
               "stop_lat": "60.180556",
@@ -12555,7 +12804,89 @@
               "parent_station": "9021003793033000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "5",
+            "start_date": "20241025",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "33010000213813357",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600010",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857305",
+              "stop_lon": "17.647285",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "C2"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700129002",
+              "stop_name": "Uppsala Ekonomikum",
+              "stop_lat": "59.861604",
+              "stop_lon": "17.618212",
+              "location_type": "0",
+              "parent_station": "9021003700129000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700544002",
+              "stop_name": "Uppsala Librob\u00e4ck",
+              "stop_lat": "59.873891",
+              "stop_lon": "17.595558",
+              "location_type": "0",
+              "parent_station": "9021003700544000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793097002",
+              "stop_name": "Harbo centrum",
+              "stop_lat": "60.105260",
+              "stop_lon": "17.199748",
+              "location_type": "0",
+              "parent_station": "9021003793097000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793115002",
+              "stop_name": "\u00d6sterv\u00e5la Gr\u00e4sbov\u00e4gen",
+              "stop_lat": "60.177591",
+              "stop_lon": "17.178573",
+              "location_type": "0",
+              "parent_station": "9021003793115000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793033002",
+              "stop_name": "\u00d6sterv\u00e5la busstation",
+              "stop_lat": "60.180556",
+              "stop_lon": "17.179995",
+              "location_type": "0",
+              "parent_station": "9021003793033000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
         }
       ],
       "points": [

@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003091700000",
   "agency_id": "33010000000001407",
   "route_short_name": "917",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000201089783",
+          "service_id": "142",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782017001",
               "stop_name": "\u00d6sterbybruk bussterminal",
               "stop_lat": "60.197054",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782262001",
               "stop_name": "\u00d6sterbybruk Klockstapeln",
               "stop_lat": "60.194740",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782258001",
               "stop_name": "\u00d6sterbybruk K\u00e4bboda",
               "stop_lat": "60.188676",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782234001",
               "stop_name": "Ulsarby v\u00e4gsk\u00e4l",
               "stop_lat": "60.174723",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782215001",
               "stop_name": "Knaby",
               "stop_lat": "60.166153",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782207001",
               "stop_name": "Alunda v\u00e4gsk\u00e4l",
               "stop_lat": "60.161982",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782206001",
               "stop_name": "\u00d6sterby 817",
               "stop_lat": "60.161473",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782209001",
               "stop_name": "Skarph\u00e4radstorp",
               "stop_lat": "60.161842",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782210001",
               "stop_name": "Skarph\u00e4rad",
               "stop_lat": "60.163028",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782220001",
               "stop_name": "Gimo \u00d6rnv\u00e4gen",
               "stop_lat": "60.166960",
@@ -104,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782233002",
               "stop_name": "Gimo Vretaskolan",
               "stop_lat": "60.170473",
@@ -113,6 +136,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782069003",
               "stop_name": "Gimo Sporthallen",
               "stop_lat": "60.173184",
@@ -122,6 +147,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782223001",
               "stop_name": "Gimo Bruksgymnasiet",
               "stop_lat": "60.172298",
@@ -130,7 +157,12 @@
               "parent_station": "9021003782223000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "142",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [

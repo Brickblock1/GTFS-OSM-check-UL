@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003042000000",
   "agency_id": "33010000000001407",
   "route_short_name": "420",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000198830095",
+          "service_id": "142",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782514001",
               "stop_name": "Skoby \u00c5saborg IP",
               "stop_lat": "60.032674",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782131002",
               "stop_name": "Skoby v\u00e4gsk\u00e4l",
               "stop_lat": "60.034969",
@@ -32,6 +37,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782049001",
               "stop_name": "Sp\u00e5nga by (Alunda)",
               "stop_lat": "60.037470",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782132002",
               "stop_name": "Sp\u00e5nga v\u00e4gsk\u00e4l",
               "stop_lat": "60.037005",
@@ -50,6 +59,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782515001",
               "stop_name": "S\u00f6derby by",
               "stop_lat": "60.047982",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782135002",
               "stop_name": "S\u00f6derby (Alunda)",
               "stop_lat": "60.047537",
@@ -68,6 +81,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782137002",
               "stop_name": "Alunda kyrka",
               "stop_lat": "60.058803",
@@ -77,6 +92,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782018002",
               "stop_name": "Alunda bussterminal",
               "stop_lat": "60.062906",
@@ -86,6 +103,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782149003",
               "stop_name": "Alunda Olandsskolan",
               "stop_lat": "60.067382",
@@ -94,7 +113,12 @@
               "parent_station": "9021003782149000",
               "platform_code": "C"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "142",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -1693,8 +1717,11 @@
       "trips": [
         {
           "trip_id": "33010000198830118",
+          "service_id": "142",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782149001",
               "stop_name": "Alunda Olandsskolan",
               "stop_lat": "60.067552",
@@ -1704,6 +1731,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782018003",
               "stop_name": "Alunda bussterminal",
               "stop_lat": "60.062717",
@@ -1713,6 +1742,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782137001",
               "stop_name": "Alunda kyrka",
               "stop_lat": "60.058353",
@@ -1722,6 +1753,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782515001",
               "stop_name": "S\u00f6derby by",
               "stop_lat": "60.047982",
@@ -1731,6 +1764,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782135001",
               "stop_name": "S\u00f6derby (Alunda)",
               "stop_lat": "60.047040",
@@ -1740,6 +1775,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782452001",
               "stop_name": "S\u00f6derbyg\u00e4rde",
               "stop_lat": "60.040960",
@@ -1749,6 +1786,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782049001",
               "stop_name": "Sp\u00e5nga by (Alunda)",
               "stop_lat": "60.037470",
@@ -1758,6 +1797,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782132003",
               "stop_name": "Sp\u00e5nga v\u00e4gsk\u00e4l",
               "stop_lat": "60.036260",
@@ -1767,6 +1808,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782514001",
               "stop_name": "Skoby \u00c5saborg IP",
               "stop_lat": "60.032674",
@@ -1775,12 +1818,20 @@
               "parent_station": "9021003782514000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "142",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         },
         {
           "trip_id": "33010000198830141",
+          "service_id": "143",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782149001",
               "stop_name": "Alunda Olandsskolan",
               "stop_lat": "60.067552",
@@ -1790,6 +1841,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782018003",
               "stop_name": "Alunda bussterminal",
               "stop_lat": "60.062717",
@@ -1799,6 +1852,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782137001",
               "stop_name": "Alunda kyrka",
               "stop_lat": "60.058353",
@@ -1808,6 +1863,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782515001",
               "stop_name": "S\u00f6derby by",
               "stop_lat": "60.047982",
@@ -1817,6 +1874,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782135001",
               "stop_name": "S\u00f6derby (Alunda)",
               "stop_lat": "60.047040",
@@ -1826,6 +1885,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782452001",
               "stop_name": "S\u00f6derbyg\u00e4rde",
               "stop_lat": "60.040960",
@@ -1835,6 +1896,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782049001",
               "stop_name": "Sp\u00e5nga by (Alunda)",
               "stop_lat": "60.037470",
@@ -1844,6 +1907,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782132003",
               "stop_name": "Sp\u00e5nga v\u00e4gsk\u00e4l",
               "stop_lat": "60.036260",
@@ -1853,6 +1918,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782514001",
               "stop_name": "Skoby \u00c5saborg IP",
               "stop_lat": "60.032674",
@@ -1861,7 +1928,12 @@
               "parent_station": "9021003782514000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "143",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [

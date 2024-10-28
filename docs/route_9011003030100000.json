@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003030100000",
   "agency_id": "33010000000001407",
   "route_short_name": "301",
@@ -11,9 +11,12 @@
       "shape_id": "1033010000143992284",
       "trips": [
         {
-          "trip_id": "33010000200631194",
+          "trip_id": "33010000213896055",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -23,6 +26,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -32,6 +37,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111002",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.560165",
@@ -41,6 +48,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -50,6 +59,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -59,6 +70,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -68,6 +81,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038001",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557684",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -104,6 +125,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -113,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -122,6 +147,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -131,6 +158,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -140,6 +169,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -148,12 +179,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000200632632",
+          "trip_id": "33010000213896575",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -163,6 +202,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -172,6 +213,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111002",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.560165",
@@ -181,6 +224,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -190,6 +235,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -199,6 +246,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -208,6 +257,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -217,6 +268,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -226,6 +279,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038001",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557684",
@@ -235,6 +290,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -244,6 +301,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -253,6 +312,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -262,6 +323,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -271,6 +334,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -280,6 +345,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -288,12 +355,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000200631606",
+          "trip_id": "33010000213896835",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -303,6 +378,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -312,6 +389,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111002",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.560165",
@@ -321,6 +400,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -330,6 +411,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -339,6 +422,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -348,6 +433,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -357,6 +444,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -366,6 +455,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038001",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557684",
@@ -375,6 +466,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -384,6 +477,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -393,6 +488,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -402,6 +499,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -411,6 +510,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -420,6 +521,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -428,12 +531,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000200632834",
+          "trip_id": "33010000213896965",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -443,6 +554,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -452,6 +565,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111002",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.560165",
@@ -461,6 +576,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -470,6 +587,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -479,6 +598,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -488,6 +609,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -497,6 +620,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -506,6 +631,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038001",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557684",
@@ -515,6 +642,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -524,6 +653,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -533,6 +664,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -542,6 +675,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -551,6 +686,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -560,6 +697,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -568,12 +707,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000200632018",
+          "trip_id": "33010000213896185",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -583,6 +730,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -592,6 +741,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111002",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.560165",
@@ -601,6 +752,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -610,6 +763,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -619,6 +774,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -628,6 +785,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -637,6 +796,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -646,6 +807,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038001",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557684",
@@ -655,6 +818,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -664,6 +829,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -673,6 +840,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -682,6 +851,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -691,6 +862,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -700,6 +873,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -708,12 +883,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000200632430",
+          "trip_id": "33010000213896705",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -723,6 +906,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -732,6 +917,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111002",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.560165",
@@ -741,6 +928,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -750,6 +939,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -759,6 +950,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -768,6 +961,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -777,6 +972,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -786,6 +983,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038001",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557684",
@@ -795,6 +994,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -804,6 +1005,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -813,6 +1016,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -822,6 +1027,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -831,6 +1038,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -840,6 +1049,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -848,12 +1059,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000201277792",
+          "trip_id": "33010000213896315",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -863,6 +1082,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -872,6 +1093,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111002",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.560165",
@@ -881,6 +1104,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -890,6 +1115,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -899,6 +1126,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -908,6 +1137,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -917,6 +1148,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -926,6 +1159,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038001",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557684",
@@ -935,6 +1170,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -944,6 +1181,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -953,6 +1192,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -962,6 +1203,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -971,6 +1214,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -980,6 +1225,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -988,12 +1235,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000201277995",
+          "trip_id": "33010000213896445",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -1003,6 +1258,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -1012,6 +1269,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111002",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.560165",
@@ -1021,6 +1280,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -1030,6 +1291,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -1039,6 +1302,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -1048,6 +1313,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -1057,6 +1324,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -1066,6 +1335,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038001",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557684",
@@ -1075,6 +1346,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -1084,6 +1357,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -1093,6 +1368,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -1102,6 +1379,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -1111,6 +1390,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -1120,6 +1401,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -1128,12 +1411,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000201278198",
+          "trip_id": "33010000213897095",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -1143,6 +1434,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -1152,6 +1445,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111002",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.560165",
@@ -1161,6 +1456,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -1170,6 +1467,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -1179,6 +1478,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -1188,6 +1489,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -1197,6 +1500,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -1206,6 +1511,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038001",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557684",
@@ -1215,6 +1522,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -1224,6 +1533,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -1233,6 +1544,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -1242,6 +1555,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -1251,6 +1566,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -1260,6 +1577,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -1268,12 +1587,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000201277589",
+          "trip_id": "33010000213897225",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -1283,6 +1610,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -1292,6 +1621,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111002",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.560165",
@@ -1301,6 +1632,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -1310,6 +1643,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -1319,6 +1654,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -1328,6 +1665,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -1337,6 +1676,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -1346,6 +1687,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038001",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557684",
@@ -1355,6 +1698,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -1364,6 +1709,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -1373,6 +1720,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -1382,6 +1731,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -1391,6 +1742,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -1400,6 +1753,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -1408,7 +1763,12 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         }
       ],
       "points": [
@@ -4118,9 +4478,12 @@
       "shape_id": "1033010000143992219",
       "trips": [
         {
-          "trip_id": "33010000200633049",
+          "trip_id": "33010000213897499",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -4130,6 +4493,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -4139,6 +4504,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040002",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.560830",
@@ -4148,6 +4515,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -4157,6 +4526,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -4166,6 +4537,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -4175,6 +4548,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038002",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557429",
@@ -4184,6 +4559,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -4193,6 +4570,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -4202,6 +4581,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -4211,6 +4592,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -4220,6 +4603,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -4229,6 +4614,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111001",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.559794",
@@ -4238,6 +4625,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -4247,6 +4636,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -4256,6 +4647,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -4264,12 +4657,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000200634486",
+          "trip_id": "33010000213898023",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -4279,6 +4680,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -4288,6 +4691,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040002",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.560830",
@@ -4297,6 +4702,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -4306,6 +4713,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -4315,6 +4724,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -4324,6 +4735,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038002",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557429",
@@ -4333,6 +4746,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -4342,6 +4757,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -4351,6 +4768,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -4360,6 +4779,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -4369,6 +4790,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -4378,6 +4801,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111001",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.559794",
@@ -4387,6 +4812,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -4396,6 +4823,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -4405,6 +4834,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -4413,12 +4844,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000200633252",
+          "trip_id": "33010000213897761",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -4428,6 +4867,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -4437,6 +4878,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040002",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.560830",
@@ -4446,6 +4889,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -4455,6 +4900,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -4464,6 +4911,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -4473,6 +4922,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038002",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557429",
@@ -4482,6 +4933,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -4491,6 +4944,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -4500,6 +4955,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -4509,6 +4966,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -4518,6 +4977,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -4527,6 +4988,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111001",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.559794",
@@ -4536,6 +4999,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -4545,6 +5010,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -4554,6 +5021,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -4562,12 +5031,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000200633455",
+          "trip_id": "33010000213897892",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -4577,6 +5054,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -4586,6 +5065,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040002",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.560830",
@@ -4595,6 +5076,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -4604,6 +5087,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -4613,6 +5098,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -4622,6 +5109,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038002",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557429",
@@ -4631,6 +5120,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -4640,6 +5131,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -4649,6 +5142,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -4658,6 +5153,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -4667,6 +5164,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -4676,6 +5175,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111001",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.559794",
@@ -4685,6 +5186,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -4694,6 +5197,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -4703,6 +5208,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -4711,12 +5218,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000200633658",
+          "trip_id": "33010000213898154",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -4726,6 +5241,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -4735,6 +5252,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040002",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.560830",
@@ -4744,6 +5263,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -4753,6 +5274,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -4762,6 +5285,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -4771,6 +5296,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038002",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557429",
@@ -4780,6 +5307,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -4789,6 +5318,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -4798,6 +5329,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -4807,6 +5340,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -4816,6 +5351,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -4825,6 +5362,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111001",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.559794",
@@ -4834,6 +5373,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -4843,6 +5384,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -4852,6 +5395,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -4860,12 +5405,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000200634072",
+          "trip_id": "33010000213897368",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -4875,6 +5428,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -4884,6 +5439,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040002",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.560830",
@@ -4893,6 +5450,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -4902,6 +5461,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -4911,6 +5472,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -4920,6 +5483,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038002",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557429",
@@ -4929,6 +5494,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -4938,6 +5505,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -4947,6 +5516,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -4956,6 +5527,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -4965,6 +5538,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -4974,6 +5549,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111001",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.559794",
@@ -4983,6 +5560,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -4992,6 +5571,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -5001,6 +5582,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -5009,12 +5592,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000200635103",
+          "trip_id": "33010000213897630",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -5024,6 +5615,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -5033,6 +5626,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040002",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.560830",
@@ -5042,6 +5637,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -5051,6 +5648,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -5060,6 +5659,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -5069,6 +5670,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038002",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557429",
@@ -5078,6 +5681,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -5087,6 +5692,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -5096,6 +5703,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -5105,6 +5714,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -5114,6 +5725,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -5123,6 +5736,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111001",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.559794",
@@ -5132,6 +5747,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -5141,6 +5758,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -5150,6 +5769,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -5158,12 +5779,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000200634900",
+          "trip_id": "33010000213898285",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -5173,6 +5802,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -5182,6 +5813,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040002",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.560830",
@@ -5191,6 +5824,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -5200,6 +5835,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -5209,6 +5846,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -5218,6 +5857,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038002",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557429",
@@ -5227,6 +5868,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -5236,6 +5879,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -5245,6 +5890,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -5254,6 +5901,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -5263,6 +5912,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -5272,6 +5923,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111001",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.559794",
@@ -5281,6 +5934,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -5290,6 +5945,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -5299,6 +5956,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -5307,12 +5966,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000201277375",
+          "trip_id": "33010000213898416",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -5322,6 +5989,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -5331,6 +6000,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040002",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.560830",
@@ -5340,6 +6011,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -5349,6 +6022,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -5358,6 +6033,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -5367,6 +6044,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038002",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557429",
@@ -5376,6 +6055,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -5385,6 +6066,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -5394,6 +6077,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -5403,6 +6088,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -5412,6 +6099,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -5421,6 +6110,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111001",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.559794",
@@ -5430,6 +6121,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -5439,6 +6132,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -5448,6 +6143,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -5456,12 +6153,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000201276967",
+          "trip_id": "33010000213898547",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -5471,6 +6176,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -5480,6 +6187,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040002",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.560830",
@@ -5489,6 +6198,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -5498,6 +6209,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -5507,6 +6220,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -5516,6 +6231,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038002",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557429",
@@ -5525,6 +6242,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -5534,6 +6253,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -5543,6 +6264,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -5552,6 +6275,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -5561,6 +6286,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -5570,6 +6297,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111001",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.559794",
@@ -5579,6 +6308,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -5588,6 +6319,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -5597,6 +6330,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -5605,12 +6340,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000201277171",
+          "trip_id": "33010000213898678",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -5620,6 +6363,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -5629,6 +6374,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040002",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.560830",
@@ -5638,6 +6385,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -5647,6 +6396,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -5656,6 +6407,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -5665,6 +6418,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705038002",
               "stop_name": "B\u00e5lsta Dyarne",
               "stop_lat": "59.557429",
@@ -5674,6 +6429,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018002",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.553920",
@@ -5683,6 +6440,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108002",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.547519",
@@ -5692,6 +6451,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705028002",
               "stop_name": "B\u00e5lsta Kalmar kyrka",
               "stop_lat": "59.544417",
@@ -5701,6 +6462,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705108001",
               "stop_name": "B\u00e5lsta Gyproc",
               "stop_lat": "59.548481",
@@ -5710,6 +6473,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705018001",
               "stop_name": "B\u00e5lsta Helg\u00f6v\u00e4gen/Aronsborg",
               "stop_lat": "59.554059",
@@ -5719,6 +6484,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705111001",
               "stop_name": "B\u00e5lsta Infra Park",
               "stop_lat": "59.559794",
@@ -5728,6 +6495,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -5737,6 +6506,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -5746,6 +6517,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -5754,7 +6527,12 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         }
       ],
       "points": [
@@ -8568,9 +9346,12 @@
       "shape_id": "1033010000143992255",
       "trips": [
         {
-          "trip_id": "33010000200635319",
+          "trip_id": "33010000213898946",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -8580,6 +9361,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -8589,6 +9372,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040002",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.560830",
@@ -8598,6 +9383,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -8607,6 +9394,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -8616,6 +9405,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -8625,6 +9416,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -8634,6 +9427,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -8643,6 +9438,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -8651,12 +9448,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000200635515",
+          "trip_id": "33010000213899318",
+          "service_id": "11",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -8666,6 +9471,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -8675,6 +9482,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040002",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.560830",
@@ -8684,6 +9493,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -8693,6 +9504,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -8702,6 +9515,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -8711,6 +9526,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -8720,6 +9537,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -8729,6 +9548,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -8737,12 +9558,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "11",
+            "start_date": "20241026",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000200635907",
+          "trip_id": "33010000213898822",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -8752,6 +9581,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -8761,6 +9592,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040002",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.560830",
@@ -8770,6 +9603,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -8779,6 +9614,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -8788,6 +9625,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -8797,6 +9636,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -8806,6 +9647,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -8815,6 +9658,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -8823,12 +9668,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000200635711",
+          "trip_id": "33010000213899070",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -8838,6 +9691,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -8847,6 +9702,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040002",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.560830",
@@ -8856,6 +9713,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -8865,6 +9724,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -8874,6 +9735,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -8883,6 +9746,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -8892,6 +9757,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -8901,6 +9768,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -8909,12 +9778,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000201276752",
+          "trip_id": "33010000213899194",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -8924,6 +9801,8 @@
               "platform_code": "B2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044002",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.565899",
@@ -8933,6 +9812,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040002",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.560830",
@@ -8942,6 +9823,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036002",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.557036",
@@ -8951,6 +9834,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705034001",
               "stop_name": "B\u00e5lsta Kalmarsand",
               "stop_lat": "59.553188",
@@ -8960,6 +9845,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705036001",
               "stop_name": "B\u00e5lsta F\u00e5n\u00e4s",
               "stop_lat": "59.556052",
@@ -8969,6 +9856,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705040001",
               "stop_name": "B\u00e5lsta Kalmar Livs",
               "stop_lat": "59.561564",
@@ -8978,6 +9867,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705044001",
               "stop_name": "B\u00e5lsta Mans\u00e4ngen",
               "stop_lat": "59.566464",
@@ -8987,6 +9878,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003004",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.569137",
@@ -8995,7 +9888,12 @@
               "parent_station": "9021003705003000",
               "platform_code": "B2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         }
       ],
       "points": [

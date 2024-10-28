@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003042700000",
   "agency_id": "33010000000001407",
   "route_short_name": "427",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000201261636",
+          "service_id": "142",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782525001",
               "stop_name": "Uddarby",
               "stop_lat": "60.171687",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782218001",
               "stop_name": "Myra",
               "stop_lat": "60.165090",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782008001",
               "stop_name": "H\u00e5nstensbo v\u00e4gsk\u00e4l",
               "stop_lat": "60.171335",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782221001",
               "stop_name": "Pesarby",
               "stop_lat": "60.171111",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782226001",
               "stop_name": "Br\u00e4cksta vsk. 827",
               "stop_lat": "60.172789",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782237001",
               "stop_name": "Mumsarby",
               "stop_lat": "60.177821",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782250001",
               "stop_name": "Dannemora kyrka",
               "stop_lat": "60.184216",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782010001",
               "stop_name": "Valtins",
               "stop_lat": "60.190775",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782260001",
               "stop_name": "Gryttjom v\u00e4gsk\u00e4l",
               "stop_lat": "60.194711",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782267001",
               "stop_name": "Gryttjom 817",
               "stop_lat": "60.196136",
@@ -104,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782271001",
               "stop_name": "Dannemora Sekund\u00e4rstation",
               "stop_lat": "60.197223",
@@ -113,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782270001",
               "stop_name": "Dannemora Hagl\u00f6sa vsk.",
               "stop_lat": "60.197467",
@@ -122,6 +147,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782274001",
               "stop_name": "Dannemora j\u00e4rnv\u00e4gs\u00f6verg\u00e5ngen",
               "stop_lat": "60.197320",
@@ -131,6 +158,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782281001",
               "stop_name": "Dannemora V\u00e4rdshus",
               "stop_lat": "60.199585",
@@ -140,6 +169,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782282002",
               "stop_name": "Dannemora v\u00e4gsk\u00e4l",
               "stop_lat": "60.200524",
@@ -149,6 +180,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782286002",
               "stop_name": "Dannemora gruva",
               "stop_lat": "60.202350",
@@ -158,6 +191,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782292002",
               "stop_name": "Dannemora Granbacksv\u00e4gen",
               "stop_lat": "60.206268",
@@ -167,6 +202,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782107001",
               "stop_name": "\u00d6sterbybruk Lantg\u00e5rdsv\u00e4gen",
               "stop_lat": "60.204890",
@@ -176,6 +213,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782273001",
               "stop_name": "\u00d6sterbybruk M\u00e4stersmeden",
               "stop_lat": "60.196629",
@@ -185,6 +224,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782507001",
               "stop_name": "\u00d6sterbybruk Torget",
               "stop_lat": "60.196081",
@@ -194,6 +235,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782483003",
               "stop_name": "\u00d6sterbybruk \u00d6sterbyskolan",
               "stop_lat": "60.195601",
@@ -202,7 +245,12 @@
               "parent_station": "9021003782483000",
               "platform_code": "C"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "142",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -3121,8 +3169,11 @@
       "trips": [
         {
           "trip_id": "33010000198830584",
+          "service_id": "142",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782017005",
               "stop_name": "\u00d6sterbybruk bussterminal",
               "stop_lat": "60.196950",
@@ -3132,6 +3183,8 @@
               "platform_code": "E"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782483003",
               "stop_name": "\u00d6sterbybruk \u00d6sterbyskolan",
               "stop_lat": "60.195601",
@@ -3141,6 +3194,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782273002",
               "stop_name": "\u00d6sterbybruk M\u00e4stersmeden",
               "stop_lat": "60.196616",
@@ -3150,6 +3205,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782107002",
               "stop_name": "\u00d6sterbybruk Lantg\u00e5rdsv\u00e4gen",
               "stop_lat": "60.204890",
@@ -3159,6 +3216,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782292001",
               "stop_name": "Dannemora Granbacksv\u00e4gen",
               "stop_lat": "60.206268",
@@ -3168,6 +3227,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782286001",
               "stop_name": "Dannemora gruva",
               "stop_lat": "60.202350",
@@ -3177,6 +3238,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782282001",
               "stop_name": "Dannemora v\u00e4gsk\u00e4l",
               "stop_lat": "60.200524",
@@ -3186,6 +3249,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782296002",
               "stop_name": "Dannemora Film v\u00e4gsk\u00e4l",
               "stop_lat": "60.199846",
@@ -3195,6 +3260,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782281002",
               "stop_name": "Dannemora V\u00e4rdshus",
               "stop_lat": "60.199597",
@@ -3204,6 +3271,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782274002",
               "stop_name": "Dannemora j\u00e4rnv\u00e4gs\u00f6verg\u00e5ngen",
               "stop_lat": "60.197506",
@@ -3213,6 +3282,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782270002",
               "stop_name": "Dannemora Hagl\u00f6sa vsk.",
               "stop_lat": "60.197532",
@@ -3222,6 +3293,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782271002",
               "stop_name": "Dannemora Sekund\u00e4rstation",
               "stop_lat": "60.197267",
@@ -3231,6 +3304,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782267002",
               "stop_name": "Gryttjom 817",
               "stop_lat": "60.195962",
@@ -3240,6 +3315,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782260002",
               "stop_name": "Gryttjom v\u00e4gsk\u00e4l",
               "stop_lat": "60.194748",
@@ -3249,6 +3326,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782010002",
               "stop_name": "Valtins",
               "stop_lat": "60.190555",
@@ -3258,6 +3337,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782250002",
               "stop_name": "Dannemora kyrka",
               "stop_lat": "60.183899",
@@ -3267,6 +3348,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782237002",
               "stop_name": "Mumsarby",
               "stop_lat": "60.177814",
@@ -3276,6 +3359,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782226002",
               "stop_name": "Br\u00e4cksta vsk. 827",
               "stop_lat": "60.172584",
@@ -3285,6 +3370,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782221002",
               "stop_name": "Pesarby",
               "stop_lat": "60.171209",
@@ -3294,6 +3381,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782008002",
               "stop_name": "H\u00e5nstensbo v\u00e4gsk\u00e4l",
               "stop_lat": "60.171379",
@@ -3303,6 +3392,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782218002",
               "stop_name": "Myra",
               "stop_lat": "60.165090",
@@ -3312,6 +3403,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782219002",
               "stop_name": "Ackarby v\u00e4gsk\u00e4l",
               "stop_lat": "60.172459",
@@ -3321,6 +3414,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782071002",
               "stop_name": "Bennarby v\u00e4gsk\u00e4l",
               "stop_lat": "60.175448",
@@ -3329,12 +3424,20 @@
               "parent_station": "9021003782071000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "142",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         },
         {
           "trip_id": "33010000198830621",
+          "service_id": "143",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782017005",
               "stop_name": "\u00d6sterbybruk bussterminal",
               "stop_lat": "60.196950",
@@ -3344,6 +3447,8 @@
               "platform_code": "E"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782483003",
               "stop_name": "\u00d6sterbybruk \u00d6sterbyskolan",
               "stop_lat": "60.195601",
@@ -3353,6 +3458,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782273002",
               "stop_name": "\u00d6sterbybruk M\u00e4stersmeden",
               "stop_lat": "60.196616",
@@ -3362,6 +3469,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782107002",
               "stop_name": "\u00d6sterbybruk Lantg\u00e5rdsv\u00e4gen",
               "stop_lat": "60.204890",
@@ -3371,6 +3480,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782292001",
               "stop_name": "Dannemora Granbacksv\u00e4gen",
               "stop_lat": "60.206268",
@@ -3380,6 +3491,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782286001",
               "stop_name": "Dannemora gruva",
               "stop_lat": "60.202350",
@@ -3389,6 +3502,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782282001",
               "stop_name": "Dannemora v\u00e4gsk\u00e4l",
               "stop_lat": "60.200524",
@@ -3398,6 +3513,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782296002",
               "stop_name": "Dannemora Film v\u00e4gsk\u00e4l",
               "stop_lat": "60.199846",
@@ -3407,6 +3524,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782281002",
               "stop_name": "Dannemora V\u00e4rdshus",
               "stop_lat": "60.199597",
@@ -3416,6 +3535,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782274002",
               "stop_name": "Dannemora j\u00e4rnv\u00e4gs\u00f6verg\u00e5ngen",
               "stop_lat": "60.197506",
@@ -3425,6 +3546,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782270002",
               "stop_name": "Dannemora Hagl\u00f6sa vsk.",
               "stop_lat": "60.197532",
@@ -3434,6 +3557,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782271002",
               "stop_name": "Dannemora Sekund\u00e4rstation",
               "stop_lat": "60.197267",
@@ -3443,6 +3568,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782267002",
               "stop_name": "Gryttjom 817",
               "stop_lat": "60.195962",
@@ -3452,6 +3579,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782260002",
               "stop_name": "Gryttjom v\u00e4gsk\u00e4l",
               "stop_lat": "60.194748",
@@ -3461,6 +3590,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782010002",
               "stop_name": "Valtins",
               "stop_lat": "60.190555",
@@ -3470,6 +3601,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782250002",
               "stop_name": "Dannemora kyrka",
               "stop_lat": "60.183899",
@@ -3479,6 +3612,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782237002",
               "stop_name": "Mumsarby",
               "stop_lat": "60.177814",
@@ -3488,6 +3623,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782226002",
               "stop_name": "Br\u00e4cksta vsk. 827",
               "stop_lat": "60.172584",
@@ -3497,6 +3634,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782221002",
               "stop_name": "Pesarby",
               "stop_lat": "60.171209",
@@ -3506,6 +3645,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782008002",
               "stop_name": "H\u00e5nstensbo v\u00e4gsk\u00e4l",
               "stop_lat": "60.171379",
@@ -3515,6 +3656,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782218002",
               "stop_name": "Myra",
               "stop_lat": "60.165090",
@@ -3524,6 +3667,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782219002",
               "stop_name": "Ackarby v\u00e4gsk\u00e4l",
               "stop_lat": "60.172459",
@@ -3533,6 +3678,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782071002",
               "stop_name": "Bennarby v\u00e4gsk\u00e4l",
               "stop_lat": "60.175448",
@@ -3541,7 +3688,12 @@
               "parent_station": "9021003782071000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "143",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [

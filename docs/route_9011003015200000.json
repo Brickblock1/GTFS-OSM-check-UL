@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003015200000",
   "agency_id": "33010000000001407",
   "route_short_name": "152",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000198941864",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780913001",
               "stop_name": "Uppsala Lugnet (vid \u00e5n)",
               "stop_lat": "59.795219",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780912001",
               "stop_name": "Uppsala Pustn\u00e4s",
               "stop_lat": "59.804350",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780914001",
               "stop_name": "Uppsala N\u00e5ntuna g\u00e5rd",
               "stop_lat": "59.813343",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700364001",
               "stop_name": "Uppsala V\u00e4vstolsv\u00e4gen",
               "stop_lat": "59.814881",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700355001",
               "stop_name": "Uppsala Handarbetsv\u00e4gen",
               "stop_lat": "59.820816",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700353001",
               "stop_name": "Uppsala K\u00e4llarb\u00e4cksv\u00e4gen",
               "stop_lat": "59.826529",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700340001",
               "stop_name": "Uppsala Daneport",
               "stop_lat": "59.810996",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700343001",
               "stop_name": "Uppsala Sk\u00e5neresan",
               "stop_lat": "59.807953",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780965001",
               "stop_name": "Uppsala Upps\u00e4vjaskolan",
               "stop_lat": "59.820323",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700359002",
               "stop_name": "Uppsala Akademiv\u00e4gen",
               "stop_lat": "59.820405",
@@ -104,6 +125,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700360002",
               "stop_name": "Uppsala Fiskgjusev\u00e4gen",
               "stop_lat": "59.819863",
@@ -113,6 +136,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700361002",
               "stop_name": "Uppsala Hultv\u00e4gen",
               "stop_lat": "59.818434",
@@ -122,6 +147,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700362002",
               "stop_name": "Uppsala Backmov\u00e4gen",
               "stop_lat": "59.815924",
@@ -131,6 +158,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780197003",
               "stop_name": "Danmarks skola",
               "stop_lat": "59.830519",
@@ -139,7 +168,12 @@
               "parent_station": "9021003780197000",
               "platform_code": "C"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -2570,8 +2604,11 @@
       "trips": [
         {
           "trip_id": "33010000198941886",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780197003",
               "stop_name": "Danmarks skola",
               "stop_lat": "59.830519",
@@ -2581,6 +2618,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700363001",
               "stop_name": "Uppsala Nyckelaxet",
               "stop_lat": "59.814647",
@@ -2590,6 +2629,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700362001",
               "stop_name": "Uppsala Backmov\u00e4gen",
               "stop_lat": "59.815895",
@@ -2599,6 +2640,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700361001",
               "stop_name": "Uppsala Hultv\u00e4gen",
               "stop_lat": "59.818239",
@@ -2608,6 +2651,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780965001",
               "stop_name": "Uppsala Upps\u00e4vjaskolan",
               "stop_lat": "59.820323",
@@ -2617,6 +2662,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700340002",
               "stop_name": "Uppsala Daneport",
               "stop_lat": "59.810873",
@@ -2626,6 +2673,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700355001",
               "stop_name": "Uppsala Handarbetsv\u00e4gen",
               "stop_lat": "59.820816",
@@ -2635,6 +2684,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700336001",
               "stop_name": "Uppsala Kuggebro",
               "stop_lat": "59.832305",
@@ -2643,12 +2694,20 @@
               "parent_station": "9021003700336000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         },
         {
           "trip_id": "33010000201341537",
+          "service_id": "113",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780197003",
               "stop_name": "Danmarks skola",
               "stop_lat": "59.830519",
@@ -2658,6 +2717,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700363001",
               "stop_name": "Uppsala Nyckelaxet",
               "stop_lat": "59.814647",
@@ -2667,6 +2728,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700362001",
               "stop_name": "Uppsala Backmov\u00e4gen",
               "stop_lat": "59.815895",
@@ -2676,6 +2739,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700361001",
               "stop_name": "Uppsala Hultv\u00e4gen",
               "stop_lat": "59.818239",
@@ -2685,6 +2750,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780965001",
               "stop_name": "Uppsala Upps\u00e4vjaskolan",
               "stop_lat": "59.820323",
@@ -2694,6 +2761,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700340002",
               "stop_name": "Uppsala Daneport",
               "stop_lat": "59.810873",
@@ -2703,6 +2772,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700355001",
               "stop_name": "Uppsala Handarbetsv\u00e4gen",
               "stop_lat": "59.820816",
@@ -2712,6 +2783,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700336001",
               "stop_name": "Uppsala Kuggebro",
               "stop_lat": "59.832305",
@@ -2720,7 +2793,12 @@
               "parent_station": "9021003700336000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "113",
+            "start_date": "20241106",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [

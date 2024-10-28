@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003013500000",
   "agency_id": "33010000000001407",
   "route_short_name": "135",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000213223981",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780502001",
               "stop_name": "Karbo",
               "stop_lat": "59.897919",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779533001",
               "stop_name": "Lindesberg",
               "stop_lat": "59.892139",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779995001",
               "stop_name": "Fiby",
               "stop_lat": "59.887866",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780853001",
               "stop_name": "Jobsbo",
               "stop_lat": "59.886459",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779534001",
               "stop_name": "Kil (V\u00e4nge)",
               "stop_lat": "59.885458",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779535001",
               "stop_name": "H\u00f6rnbo",
               "stop_lat": "59.884319",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779222001",
               "stop_name": "H\u00f6rnbo 2",
               "stop_lat": "59.883240",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780854001",
               "stop_name": "Stora Kil",
               "stop_lat": "59.880327",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779536001",
               "stop_name": "Kilsberg",
               "stop_lat": "59.876269",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779537001",
               "stop_name": "Norr\u00e4ngen (V\u00e4nge)",
               "stop_lat": "59.873850",
@@ -104,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779538001",
               "stop_name": "R\u00f6mbatorp",
               "stop_lat": "59.873528",
@@ -113,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779539001",
               "stop_name": "Karlsro",
               "stop_lat": "59.869343",
@@ -122,6 +147,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779540001",
               "stop_name": "Finnstavillorna (V\u00e4nge)",
               "stop_lat": "59.867019",
@@ -131,6 +158,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780910001",
               "stop_name": "Finnsta (V\u00e4nge)",
               "stop_lat": "59.863802",
@@ -140,6 +169,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780157001",
               "stop_name": "V\u00e4nge skola",
               "stop_lat": "59.856738",
@@ -148,7 +179,12 @@
               "parent_station": "9021003780157000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -1710,9 +1746,12 @@
       "shape_id": "1033010000213223929",
       "trips": [
         {
-          "trip_id": "33010000213224033",
+          "trip_id": "33010000213224006",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780157001",
               "stop_name": "V\u00e4nge skola",
               "stop_lat": "59.856738",
@@ -1722,6 +1761,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780910001",
               "stop_name": "Finnsta (V\u00e4nge)",
               "stop_lat": "59.863802",
@@ -1731,6 +1772,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779540001",
               "stop_name": "Finnstavillorna (V\u00e4nge)",
               "stop_lat": "59.867019",
@@ -1740,6 +1783,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779539001",
               "stop_name": "Karlsro",
               "stop_lat": "59.869343",
@@ -1749,6 +1794,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779538001",
               "stop_name": "R\u00f6mbatorp",
               "stop_lat": "59.873528",
@@ -1758,6 +1805,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779537001",
               "stop_name": "Norr\u00e4ngen (V\u00e4nge)",
               "stop_lat": "59.873850",
@@ -1767,6 +1816,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779536001",
               "stop_name": "Kilsberg",
               "stop_lat": "59.876269",
@@ -1776,6 +1827,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780854002",
               "stop_name": "Stora Kil",
               "stop_lat": "59.880333",
@@ -1785,6 +1838,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779222002",
               "stop_name": "H\u00f6rnbo 2",
               "stop_lat": "59.883321",
@@ -1794,6 +1849,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779535001",
               "stop_name": "H\u00f6rnbo",
               "stop_lat": "59.884319",
@@ -1803,6 +1860,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779534001",
               "stop_name": "Kil (V\u00e4nge)",
               "stop_lat": "59.885458",
@@ -1812,6 +1871,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780853001",
               "stop_name": "Jobsbo",
               "stop_lat": "59.886459",
@@ -1821,6 +1882,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779995001",
               "stop_name": "Fiby",
               "stop_lat": "59.887866",
@@ -1830,6 +1893,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779533001",
               "stop_name": "Lindesberg",
               "stop_lat": "59.892139",
@@ -1839,6 +1904,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780502002",
               "stop_name": "Karbo",
               "stop_lat": "59.897899",
@@ -1847,12 +1914,196 @@
               "parent_station": "9021003780502000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
+        },
+        {
+          "trip_id": "33010000213224033",
+          "service_id": "65",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003780157001",
+              "stop_name": "V\u00e4nge skola",
+              "stop_lat": "59.856738",
+              "stop_lon": "17.435434",
+              "location_type": "0",
+              "parent_station": "9021003780157000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780910001",
+              "stop_name": "Finnsta (V\u00e4nge)",
+              "stop_lat": "59.863802",
+              "stop_lon": "17.429067",
+              "location_type": "0",
+              "parent_station": "9021003780910000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779540001",
+              "stop_name": "Finnstavillorna (V\u00e4nge)",
+              "stop_lat": "59.867019",
+              "stop_lon": "17.414906",
+              "location_type": "0",
+              "parent_station": "9021003779540000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779539001",
+              "stop_name": "Karlsro",
+              "stop_lat": "59.869343",
+              "stop_lon": "17.409787",
+              "location_type": "0",
+              "parent_station": "9021003779539000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779538001",
+              "stop_name": "R\u00f6mbatorp",
+              "stop_lat": "59.873528",
+              "stop_lon": "17.401542",
+              "location_type": "0",
+              "parent_station": "9021003779538000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779537001",
+              "stop_name": "Norr\u00e4ngen (V\u00e4nge)",
+              "stop_lat": "59.873850",
+              "stop_lon": "17.400147",
+              "location_type": "0",
+              "parent_station": "9021003779537000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779536001",
+              "stop_name": "Kilsberg",
+              "stop_lat": "59.876269",
+              "stop_lon": "17.395370",
+              "location_type": "0",
+              "parent_station": "9021003779536000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780854002",
+              "stop_name": "Stora Kil",
+              "stop_lat": "59.880333",
+              "stop_lon": "17.391885",
+              "location_type": "0",
+              "parent_station": "9021003780854000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779222002",
+              "stop_name": "H\u00f6rnbo 2",
+              "stop_lat": "59.883321",
+              "stop_lon": "17.392009",
+              "location_type": "0",
+              "parent_station": "9021003779222000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779535001",
+              "stop_name": "H\u00f6rnbo",
+              "stop_lat": "59.884319",
+              "stop_lon": "17.389681",
+              "location_type": "0",
+              "parent_station": "9021003779535000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779534001",
+              "stop_name": "Kil (V\u00e4nge)",
+              "stop_lat": "59.885458",
+              "stop_lon": "17.387538",
+              "location_type": "0",
+              "parent_station": "9021003779534000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780853001",
+              "stop_name": "Jobsbo",
+              "stop_lat": "59.886459",
+              "stop_lon": "17.386425",
+              "location_type": "0",
+              "parent_station": "9021003780853000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779995001",
+              "stop_name": "Fiby",
+              "stop_lat": "59.887866",
+              "stop_lon": "17.385848",
+              "location_type": "0",
+              "parent_station": "9021003779995000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779533001",
+              "stop_name": "Lindesberg",
+              "stop_lat": "59.892139",
+              "stop_lon": "17.384390",
+              "location_type": "0",
+              "parent_station": "9021003779533000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780502002",
+              "stop_name": "Karbo",
+              "stop_lat": "59.897899",
+              "stop_lon": "17.390631",
+              "location_type": "0",
+              "parent_station": "9021003780502000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         },
         {
           "trip_id": "33010000213224060",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780157001",
               "stop_name": "V\u00e4nge skola",
               "stop_lat": "59.856738",
@@ -1862,6 +2113,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780910001",
               "stop_name": "Finnsta (V\u00e4nge)",
               "stop_lat": "59.863802",
@@ -1871,6 +2124,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779540001",
               "stop_name": "Finnstavillorna (V\u00e4nge)",
               "stop_lat": "59.867019",
@@ -1880,6 +2135,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779539001",
               "stop_name": "Karlsro",
               "stop_lat": "59.869343",
@@ -1889,6 +2146,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779538001",
               "stop_name": "R\u00f6mbatorp",
               "stop_lat": "59.873528",
@@ -1898,6 +2157,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779537001",
               "stop_name": "Norr\u00e4ngen (V\u00e4nge)",
               "stop_lat": "59.873850",
@@ -1907,6 +2168,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779536001",
               "stop_name": "Kilsberg",
               "stop_lat": "59.876269",
@@ -1916,6 +2179,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780854002",
               "stop_name": "Stora Kil",
               "stop_lat": "59.880333",
@@ -1925,6 +2190,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779222002",
               "stop_name": "H\u00f6rnbo 2",
               "stop_lat": "59.883321",
@@ -1934,6 +2201,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779535001",
               "stop_name": "H\u00f6rnbo",
               "stop_lat": "59.884319",
@@ -1943,6 +2212,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779534001",
               "stop_name": "Kil (V\u00e4nge)",
               "stop_lat": "59.885458",
@@ -1952,6 +2223,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780853001",
               "stop_name": "Jobsbo",
               "stop_lat": "59.886459",
@@ -1961,6 +2234,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779995001",
               "stop_name": "Fiby",
               "stop_lat": "59.887866",
@@ -1970,6 +2245,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779533001",
               "stop_name": "Lindesberg",
               "stop_lat": "59.892139",
@@ -1979,6 +2256,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780502002",
               "stop_name": "Karbo",
               "stop_lat": "59.897899",
@@ -1987,147 +2266,12 @@
               "parent_station": "9021003780502000",
               "platform_code": "B"
             }
-          ]
-        },
-        {
-          "trip_id": "33010000213224006",
-          "stops": [
-            {
-              "stop_id": "9022003780157001",
-              "stop_name": "V\u00e4nge skola",
-              "stop_lat": "59.856738",
-              "stop_lon": "17.435434",
-              "location_type": "0",
-              "parent_station": "9021003780157000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780910001",
-              "stop_name": "Finnsta (V\u00e4nge)",
-              "stop_lat": "59.863802",
-              "stop_lon": "17.429067",
-              "location_type": "0",
-              "parent_station": "9021003780910000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003779540001",
-              "stop_name": "Finnstavillorna (V\u00e4nge)",
-              "stop_lat": "59.867019",
-              "stop_lon": "17.414906",
-              "location_type": "0",
-              "parent_station": "9021003779540000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003779539001",
-              "stop_name": "Karlsro",
-              "stop_lat": "59.869343",
-              "stop_lon": "17.409787",
-              "location_type": "0",
-              "parent_station": "9021003779539000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003779538001",
-              "stop_name": "R\u00f6mbatorp",
-              "stop_lat": "59.873528",
-              "stop_lon": "17.401542",
-              "location_type": "0",
-              "parent_station": "9021003779538000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003779537001",
-              "stop_name": "Norr\u00e4ngen (V\u00e4nge)",
-              "stop_lat": "59.873850",
-              "stop_lon": "17.400147",
-              "location_type": "0",
-              "parent_station": "9021003779537000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003779536001",
-              "stop_name": "Kilsberg",
-              "stop_lat": "59.876269",
-              "stop_lon": "17.395370",
-              "location_type": "0",
-              "parent_station": "9021003779536000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780854002",
-              "stop_name": "Stora Kil",
-              "stop_lat": "59.880333",
-              "stop_lon": "17.391885",
-              "location_type": "0",
-              "parent_station": "9021003780854000",
-              "platform_code": "B"
-            },
-            {
-              "stop_id": "9022003779222002",
-              "stop_name": "H\u00f6rnbo 2",
-              "stop_lat": "59.883321",
-              "stop_lon": "17.392009",
-              "location_type": "0",
-              "parent_station": "9021003779222000",
-              "platform_code": "B"
-            },
-            {
-              "stop_id": "9022003779535001",
-              "stop_name": "H\u00f6rnbo",
-              "stop_lat": "59.884319",
-              "stop_lon": "17.389681",
-              "location_type": "0",
-              "parent_station": "9021003779535000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003779534001",
-              "stop_name": "Kil (V\u00e4nge)",
-              "stop_lat": "59.885458",
-              "stop_lon": "17.387538",
-              "location_type": "0",
-              "parent_station": "9021003779534000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780853001",
-              "stop_name": "Jobsbo",
-              "stop_lat": "59.886459",
-              "stop_lon": "17.386425",
-              "location_type": "0",
-              "parent_station": "9021003780853000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003779995001",
-              "stop_name": "Fiby",
-              "stop_lat": "59.887866",
-              "stop_lon": "17.385848",
-              "location_type": "0",
-              "parent_station": "9021003779995000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003779533001",
-              "stop_name": "Lindesberg",
-              "stop_lat": "59.892139",
-              "stop_lon": "17.384390",
-              "location_type": "0",
-              "parent_station": "9021003779533000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780502002",
-              "stop_name": "Karbo",
-              "stop_lat": "59.897899",
-              "stop_lon": "17.390631",
-              "location_type": "0",
-              "parent_station": "9021003780502000",
-              "platform_code": "B"
-            }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [

@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003012900000",
   "agency_id": "33010000000001407",
   "route_short_name": "129",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000198948548",
+          "service_id": "96",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780564001",
               "stop_name": "Tuna skola",
               "stop_lat": "60.021235",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -31,12 +36,20 @@
               "parent_station": "9021003780894000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "96",
+            "start_date": "20241105",
+            "end_date": "20250610"
+          }
         },
         {
           "trip_id": "33010000198948522",
+          "service_id": "97",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780564001",
               "stop_name": "Tuna skola",
               "stop_lat": "60.021235",
@@ -46,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -54,12 +69,20 @@
               "parent_station": "9021003780894000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "97",
+            "start_date": "20241105",
+            "end_date": "20250612"
+          }
         },
         {
           "trip_id": "33010000198948536",
+          "service_id": "97",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780564001",
               "stop_name": "Tuna skola",
               "stop_lat": "60.021235",
@@ -69,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -77,12 +102,20 @@
               "parent_station": "9021003780894000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "97",
+            "start_date": "20241105",
+            "end_date": "20250612"
+          }
         },
         {
           "trip_id": "33010000198948560",
+          "service_id": "98",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780564001",
               "stop_name": "Tuna skola",
               "stop_lat": "60.021235",
@@ -92,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -100,30 +135,12 @@
               "parent_station": "9021003780894000",
               "platform_code": "A"
             }
-          ]
-        },
-        {
-          "trip_id": "33010000211952710",
-          "stops": [
-            {
-              "stop_id": "9022003780564001",
-              "stop_name": "Tuna skola",
-              "stop_lat": "60.021235",
-              "stop_lon": "18.061803",
-              "location_type": "0",
-              "parent_station": "9021003780564000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780894001",
-              "stop_name": "Stavby skola",
-              "stop_lat": "60.009775",
-              "stop_lon": "17.966354",
-              "location_type": "0",
-              "parent_station": "9021003780894000",
-              "platform_code": "A"
-            }
-          ]
+          ],
+          "service": {
+            "service_id": "98",
+            "start_date": "20241105",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -1674,12 +1691,96 @@
       ]
     },
     {
+      "shape_id": "1033010000157626211",
+      "trips": [
+        {
+          "trip_id": "33010000198948573",
+          "service_id": "99",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003780564001",
+              "stop_name": "Tuna skola",
+              "stop_lat": "60.021235",
+              "stop_lon": "18.061803",
+              "location_type": "0",
+              "parent_station": "9021003780564000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780107001",
+              "stop_name": "G\u00e5vsta skola",
+              "stop_lat": "59.946165",
+              "stop_lon": "17.878181",
+              "location_type": "0",
+              "parent_station": "9021003780107000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "99",
+            "start_date": "20241106",
+            "end_date": "20241211"
+          }
+        },
+        {
+          "trip_id": "33010000211952723",
+          "service_id": "102",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003780564001",
+              "stop_name": "Tuna skola",
+              "stop_lat": "60.021235",
+              "stop_lon": "18.061803",
+              "location_type": "0",
+              "parent_station": "9021003780564000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780107001",
+              "stop_name": "G\u00e5vsta skola",
+              "stop_lat": "59.946165",
+              "stop_lon": "17.878181",
+              "location_type": "0",
+              "parent_station": "9021003780107000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "102",
+            "start_date": "20241218",
+            "end_date": "20250611"
+          }
+        }
+      ],
+      "points": [
+        [
+          "60.021235",
+          "18.061803"
+        ],
+        [
+          "59.946165",
+          "17.878181"
+        ]
+      ]
+    },
+    {
       "shape_id": "1033010000023162877",
       "trips": [
         {
           "trip_id": "33010000198948584",
+          "service_id": "100",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -1689,6 +1790,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780107001",
               "stop_name": "G\u00e5vsta skola",
               "stop_lat": "59.946165",
@@ -1697,12 +1800,20 @@
               "parent_station": "9021003780107000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "100",
+            "start_date": "20241104",
+            "end_date": "20250609"
+          }
         },
         {
           "trip_id": "33010000198948595",
+          "service_id": "101",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -1712,6 +1823,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780107001",
               "stop_name": "G\u00e5vsta skola",
               "stop_lat": "59.946165",
@@ -1720,7 +1833,12 @@
               "parent_station": "9021003780107000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "101",
+            "start_date": "20241104",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -3935,50 +4053,15 @@
       ]
     },
     {
-      "shape_id": "1033010000157626211",
-      "trips": [
-        {
-          "trip_id": "33010000211952723",
-          "stops": [
-            {
-              "stop_id": "9022003780564001",
-              "stop_name": "Tuna skola",
-              "stop_lat": "60.021235",
-              "stop_lon": "18.061803",
-              "location_type": "0",
-              "parent_station": "9021003780564000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780107001",
-              "stop_name": "G\u00e5vsta skola",
-              "stop_lat": "59.946165",
-              "stop_lon": "17.878181",
-              "location_type": "0",
-              "parent_station": "9021003780107000",
-              "platform_code": "A"
-            }
-          ]
-        }
-      ],
-      "points": [
-        [
-          "60.021235",
-          "18.061803"
-        ],
-        [
-          "59.946165",
-          "17.878181"
-        ]
-      ]
-    },
-    {
       "shape_id": "1033010000023162913",
       "trips": [
         {
           "trip_id": "33010000198948652",
+          "service_id": "97",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -3988,6 +4071,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780564001",
               "stop_name": "Tuna skola",
               "stop_lat": "60.021235",
@@ -3996,12 +4081,20 @@
               "parent_station": "9021003780564000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "97",
+            "start_date": "20241105",
+            "end_date": "20250612"
+          }
         },
         {
           "trip_id": "33010000198948608",
+          "service_id": "97",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -4011,6 +4104,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780564001",
               "stop_name": "Tuna skola",
               "stop_lat": "60.021235",
@@ -4019,12 +4114,20 @@
               "parent_station": "9021003780564000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "97",
+            "start_date": "20241105",
+            "end_date": "20250612"
+          }
         },
         {
           "trip_id": "33010000198948640",
+          "service_id": "96",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -4034,6 +4137,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780564001",
               "stop_name": "Tuna skola",
               "stop_lat": "60.021235",
@@ -4042,12 +4147,20 @@
               "parent_station": "9021003780564000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "96",
+            "start_date": "20241105",
+            "end_date": "20250610"
+          }
         },
         {
           "trip_id": "33010000198948666",
+          "service_id": "93",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -4057,6 +4170,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780564001",
               "stop_name": "Tuna skola",
               "stop_lat": "60.021235",
@@ -4065,104 +4180,20 @@
               "parent_station": "9021003780564000",
               "platform_code": "A"
             }
-          ]
-        },
-        {
-          "trip_id": "33010000211952763",
-          "stops": [
-            {
-              "stop_id": "9022003780894001",
-              "stop_name": "Stavby skola",
-              "stop_lat": "60.009775",
-              "stop_lon": "17.966354",
-              "location_type": "0",
-              "parent_station": "9021003780894000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780564001",
-              "stop_name": "Tuna skola",
-              "stop_lat": "60.021235",
-              "stop_lon": "18.061803",
-              "location_type": "0",
-              "parent_station": "9021003780564000",
-              "platform_code": "A"
-            }
-          ]
-        },
-        {
-          "trip_id": "33010000211952777",
-          "stops": [
-            {
-              "stop_id": "9022003780894001",
-              "stop_name": "Stavby skola",
-              "stop_lat": "60.009775",
-              "stop_lon": "17.966354",
-              "location_type": "0",
-              "parent_station": "9021003780894000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780564001",
-              "stop_name": "Tuna skola",
-              "stop_lat": "60.021235",
-              "stop_lon": "18.061803",
-              "location_type": "0",
-              "parent_station": "9021003780564000",
-              "platform_code": "A"
-            }
-          ]
-        },
-        {
-          "trip_id": "33010000211952751",
-          "stops": [
-            {
-              "stop_id": "9022003780894001",
-              "stop_name": "Stavby skola",
-              "stop_lat": "60.009775",
-              "stop_lon": "17.966354",
-              "location_type": "0",
-              "parent_station": "9021003780894000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780564001",
-              "stop_name": "Tuna skola",
-              "stop_lat": "60.021235",
-              "stop_lon": "18.061803",
-              "location_type": "0",
-              "parent_station": "9021003780564000",
-              "platform_code": "A"
-            }
-          ]
-        },
-        {
-          "trip_id": "33010000213510216",
-          "stops": [
-            {
-              "stop_id": "9022003780894001",
-              "stop_name": "Stavby skola",
-              "stop_lat": "60.009775",
-              "stop_lon": "17.966354",
-              "location_type": "0",
-              "parent_station": "9021003780894000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780564001",
-              "stop_name": "Tuna skola",
-              "stop_lat": "60.021235",
-              "stop_lon": "18.061803",
-              "location_type": "0",
-              "parent_station": "9021003780564000",
-              "platform_code": "A"
-            }
-          ]
+          ],
+          "service": {
+            "service_id": "93",
+            "start_date": "20241105",
+            "end_date": "20250611"
+          }
         },
         {
           "trip_id": "33010000213510226",
+          "service_id": "97",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -4172,6 +4203,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780564001",
               "stop_name": "Tuna skola",
               "stop_lat": "60.021235",
@@ -4180,12 +4213,20 @@
               "parent_station": "9021003780564000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "97",
+            "start_date": "20241105",
+            "end_date": "20250612"
+          }
         },
         {
           "trip_id": "33010000213510236",
+          "service_id": "97",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -4195,6 +4236,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780564001",
               "stop_name": "Tuna skola",
               "stop_lat": "60.021235",
@@ -4203,7 +4246,45 @@
               "parent_station": "9021003780564000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "97",
+            "start_date": "20241105",
+            "end_date": "20250612"
+          }
+        },
+        {
+          "trip_id": "33010000213510216",
+          "service_id": "97",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003780894001",
+              "stop_name": "Stavby skola",
+              "stop_lat": "60.009775",
+              "stop_lon": "17.966354",
+              "location_type": "0",
+              "parent_station": "9021003780894000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780564001",
+              "stop_name": "Tuna skola",
+              "stop_lat": "60.021235",
+              "stop_lon": "18.061803",
+              "location_type": "0",
+              "parent_station": "9021003780564000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "97",
+            "start_date": "20241105",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -5982,8 +6063,11 @@
       "trips": [
         {
           "trip_id": "33010000198948689",
+          "service_id": "100",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780107001",
               "stop_name": "G\u00e5vsta skola",
               "stop_lat": "59.946165",
@@ -5993,6 +6077,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -6001,12 +6087,20 @@
               "parent_station": "9021003780894000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "100",
+            "start_date": "20241104",
+            "end_date": "20250609"
+          }
         },
         {
           "trip_id": "33010000198948700",
+          "service_id": "101",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780107001",
               "stop_name": "G\u00e5vsta skola",
               "stop_lat": "59.946165",
@@ -6016,6 +6110,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -6024,7 +6120,12 @@
               "parent_station": "9021003780894000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "101",
+            "start_date": "20241104",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -7758,32 +7859,12 @@
       "shape_id": "1033010000157626229",
       "trips": [
         {
-          "trip_id": "33010000211952790",
-          "stops": [
-            {
-              "stop_id": "9022003780107001",
-              "stop_name": "G\u00e5vsta skola",
-              "stop_lat": "59.946165",
-              "stop_lon": "17.878181",
-              "location_type": "0",
-              "parent_station": "9021003780107000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780564001",
-              "stop_name": "Tuna skola",
-              "stop_lat": "60.021235",
-              "stop_lon": "18.061803",
-              "location_type": "0",
-              "parent_station": "9021003780564000",
-              "platform_code": "A"
-            }
-          ]
-        },
-        {
           "trip_id": "33010000213510200",
+          "service_id": "103",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780107001",
               "stop_name": "G\u00e5vsta skola",
               "stop_lat": "59.946165",
@@ -7793,6 +7874,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780564001",
               "stop_name": "Tuna skola",
               "stop_lat": "60.021235",
@@ -7801,7 +7884,12 @@
               "parent_station": "9021003780564000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "103",
+            "start_date": "20241106",
+            "end_date": "20250611"
+          }
         }
       ],
       "points": [

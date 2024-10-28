@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003012100000",
   "agency_id": "33010000000001407",
   "route_short_name": "121",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000198962746",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003779982001",
               "stop_name": "\u00d6ster-Edinge 106",
               "stop_lat": "59.960652",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779604001",
               "stop_name": "Backen (\u00d6ster-Edinge)",
               "stop_lat": "59.960946",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780617001",
               "stop_name": "Norr-Edinge",
               "stop_lat": "59.961228",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780617002",
               "stop_name": "Norr-Edinge",
               "stop_lat": "59.961539",
@@ -50,6 +59,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780617003",
               "stop_name": "Norr-Edinge",
               "stop_lat": "59.961477",
@@ -59,6 +70,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779605001",
               "stop_name": "V\u00e4ster\u00e4ngen (Lydinge)",
               "stop_lat": "59.961516",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779606001",
               "stop_name": "Byle",
               "stop_lat": "59.962593",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780630001",
               "stop_name": "Lydinge 820",
               "stop_lat": "59.967041",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780651001",
               "stop_name": "Ormeryd",
               "stop_lat": "59.975838",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780664002",
               "stop_name": "Gr\u00e4nome",
               "stop_lat": "59.981004",
@@ -104,6 +125,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780664001",
               "stop_name": "Gr\u00e4nome",
               "stop_lat": "59.981581",
@@ -113,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780672002",
               "stop_name": "Lydinge v\u00e4gsk\u00e4l",
               "stop_lat": "59.984849",
@@ -122,6 +147,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780687002",
               "stop_name": "Gamla Gr\u00e4nome",
               "stop_lat": "59.993521",
@@ -131,6 +158,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780741001",
               "stop_name": "Inninge",
               "stop_lat": "60.003904",
@@ -140,6 +169,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782561001",
               "stop_name": "Skoby skolh\u00e5llplats",
               "stop_lat": "60.030004",
@@ -149,6 +180,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780944001",
               "stop_name": "Berget (Stavby)",
               "stop_lat": "60.027920",
@@ -158,6 +191,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780759001",
               "stop_name": "Skeberga",
               "stop_lat": "60.021835",
@@ -167,6 +202,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780746001",
               "stop_name": "Nyby 116",
               "stop_lat": "60.020463",
@@ -176,6 +213,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780737001",
               "stop_name": "Eriksbergs v\u00e4gsk\u00e4l 116",
               "stop_lat": "60.018930",
@@ -185,6 +224,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780747002",
               "stop_name": "Lejdet",
               "stop_lat": "60.020782",
@@ -194,6 +235,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780746002",
               "stop_name": "Nyby 116",
               "stop_lat": "60.020427",
@@ -203,6 +246,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -211,7 +256,12 @@
               "parent_station": "9021003780894000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -5938,8 +5988,11 @@
       "trips": [
         {
           "trip_id": "33010000198962806",
+          "service_id": "68",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -5949,6 +6002,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780687001",
               "stop_name": "Gamla Gr\u00e4nome",
               "stop_lat": "59.992551",
@@ -5958,6 +6013,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779416001",
               "stop_name": "Sunnersbol skolh\u00e5llplats",
               "stop_lat": "59.984223",
@@ -5967,6 +6024,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780664001",
               "stop_name": "Gr\u00e4nome",
               "stop_lat": "59.981581",
@@ -5976,6 +6035,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780664002",
               "stop_name": "Gr\u00e4nome",
               "stop_lat": "59.981004",
@@ -5985,6 +6046,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780651002",
               "stop_name": "Ormeryd",
               "stop_lat": "59.975270",
@@ -5994,6 +6057,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780630002",
               "stop_name": "Lydinge 820",
               "stop_lat": "59.966662",
@@ -6003,6 +6068,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779606001",
               "stop_name": "Byle",
               "stop_lat": "59.962593",
@@ -6012,6 +6079,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779605001",
               "stop_name": "V\u00e4ster\u00e4ngen (Lydinge)",
               "stop_lat": "59.961516",
@@ -6021,6 +6090,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780617003",
               "stop_name": "Norr-Edinge",
               "stop_lat": "59.961477",
@@ -6030,6 +6101,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780617002",
               "stop_name": "Norr-Edinge",
               "stop_lat": "59.961539",
@@ -6039,6 +6112,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780617001",
               "stop_name": "Norr-Edinge",
               "stop_lat": "59.961228",
@@ -6048,6 +6123,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779604001",
               "stop_name": "Backen (\u00d6ster-Edinge)",
               "stop_lat": "59.960946",
@@ -6057,6 +6134,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780614005",
               "stop_name": "\u00d6ster-Edinge",
               "stop_lat": "59.960652",
@@ -6066,6 +6145,8 @@
               "platform_code": "E"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780614003",
               "stop_name": "\u00d6ster-Edinge",
               "stop_lat": "59.958541",
@@ -6074,7 +6155,12 @@
               "parent_station": "9021003780614000",
               "platform_code": "C"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "68",
+            "start_date": "20241104",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -8741,8 +8827,11 @@
       "trips": [
         {
           "trip_id": "33010000201344772",
+          "service_id": "94",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -8752,6 +8841,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779461001",
               "stop_name": "Krogen (Stavby)",
               "stop_lat": "60.000637",
@@ -8761,6 +8852,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780687001",
               "stop_name": "Gamla Gr\u00e4nome",
               "stop_lat": "59.992551",
@@ -8770,6 +8863,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779416001",
               "stop_name": "Sunnersbol skolh\u00e5llplats",
               "stop_lat": "59.984223",
@@ -8779,6 +8874,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780664001",
               "stop_name": "Gr\u00e4nome",
               "stop_lat": "59.981581",
@@ -8788,6 +8885,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780664002",
               "stop_name": "Gr\u00e4nome",
               "stop_lat": "59.981004",
@@ -8797,6 +8896,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780651002",
               "stop_name": "Ormeryd",
               "stop_lat": "59.975270",
@@ -8806,6 +8907,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780630002",
               "stop_name": "Lydinge 820",
               "stop_lat": "59.966662",
@@ -8815,6 +8918,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779606001",
               "stop_name": "Byle",
               "stop_lat": "59.962593",
@@ -8824,6 +8929,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779605001",
               "stop_name": "V\u00e4ster\u00e4ngen (Lydinge)",
               "stop_lat": "59.961516",
@@ -8833,6 +8940,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780617003",
               "stop_name": "Norr-Edinge",
               "stop_lat": "59.961477",
@@ -8842,6 +8951,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780617002",
               "stop_name": "Norr-Edinge",
               "stop_lat": "59.961539",
@@ -8851,6 +8962,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780617001",
               "stop_name": "Norr-Edinge",
               "stop_lat": "59.961228",
@@ -8860,6 +8973,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779604001",
               "stop_name": "Backen (\u00d6ster-Edinge)",
               "stop_lat": "59.960946",
@@ -8869,6 +8984,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780614005",
               "stop_name": "\u00d6ster-Edinge",
               "stop_lat": "59.960652",
@@ -8878,6 +8995,8 @@
               "platform_code": "E"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780614003",
               "stop_name": "\u00d6ster-Edinge",
               "stop_lat": "59.958541",
@@ -8886,12 +9005,20 @@
               "parent_station": "9021003780614000",
               "platform_code": "C"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "94",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         },
         {
           "trip_id": "33010000201344801",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780894001",
               "stop_name": "Stavby skola",
               "stop_lat": "60.009775",
@@ -8901,6 +9028,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779461001",
               "stop_name": "Krogen (Stavby)",
               "stop_lat": "60.000637",
@@ -8910,6 +9039,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780687001",
               "stop_name": "Gamla Gr\u00e4nome",
               "stop_lat": "59.992551",
@@ -8919,6 +9050,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779416001",
               "stop_name": "Sunnersbol skolh\u00e5llplats",
               "stop_lat": "59.984223",
@@ -8928,6 +9061,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780664001",
               "stop_name": "Gr\u00e4nome",
               "stop_lat": "59.981581",
@@ -8937,6 +9072,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780664002",
               "stop_name": "Gr\u00e4nome",
               "stop_lat": "59.981004",
@@ -8946,6 +9083,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780651002",
               "stop_name": "Ormeryd",
               "stop_lat": "59.975270",
@@ -8955,6 +9094,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780630002",
               "stop_name": "Lydinge 820",
               "stop_lat": "59.966662",
@@ -8964,6 +9105,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779606001",
               "stop_name": "Byle",
               "stop_lat": "59.962593",
@@ -8973,6 +9116,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779605001",
               "stop_name": "V\u00e4ster\u00e4ngen (Lydinge)",
               "stop_lat": "59.961516",
@@ -8982,6 +9127,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780617003",
               "stop_name": "Norr-Edinge",
               "stop_lat": "59.961477",
@@ -8991,6 +9138,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780617002",
               "stop_name": "Norr-Edinge",
               "stop_lat": "59.961539",
@@ -9000,6 +9149,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780617001",
               "stop_name": "Norr-Edinge",
               "stop_lat": "59.961228",
@@ -9009,6 +9160,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779604001",
               "stop_name": "Backen (\u00d6ster-Edinge)",
               "stop_lat": "59.960946",
@@ -9018,6 +9171,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780614005",
               "stop_name": "\u00d6ster-Edinge",
               "stop_lat": "59.960652",
@@ -9027,6 +9182,8 @@
               "platform_code": "E"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780614003",
               "stop_name": "\u00d6ster-Edinge",
               "stop_lat": "59.958541",
@@ -9035,7 +9192,12 @@
               "parent_station": "9021003780614000",
               "platform_code": "C"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [

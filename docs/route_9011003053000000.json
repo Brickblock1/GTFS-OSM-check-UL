@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003053000000",
   "agency_id": "33010000000001407",
   "route_short_name": "530",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000198779820",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760644001",
               "stop_name": "Getingbo",
               "stop_lat": "60.184895",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760404001",
               "stop_name": "Annedals v\u00e4gsk\u00e4l",
               "stop_lat": "60.172975",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760436001",
               "stop_name": "Nyv\u00e4ga",
               "stop_lat": "60.187140",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760721001",
               "stop_name": "Stynsberg",
               "stop_lat": "60.196456",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760143001",
               "stop_name": "Postboda",
               "stop_lat": "60.213908",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760142001",
               "stop_name": "Degerbo",
               "stop_lat": "60.216148",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760139001",
               "stop_name": "Ubblixbo",
               "stop_lat": "60.210372",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760136001",
               "stop_name": "Mittskog",
               "stop_lat": "60.201711",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760134001",
               "stop_name": "Persbo",
               "stop_lat": "60.201568",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760705001",
               "stop_name": "Mossbo",
               "stop_lat": "60.204548",
@@ -104,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760139001",
               "stop_name": "Ubblixbo",
               "stop_lat": "60.210372",
@@ -113,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760405001",
               "stop_name": "M\u00e5nkarbo Tallbacksskolan",
               "stop_lat": "60.225555",
@@ -121,7 +146,12 @@
               "parent_station": "9021003760405000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -3068,8 +3098,11 @@
       "trips": [
         {
           "trip_id": "33010000201233415",
+          "service_id": "67",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760371001",
               "stop_name": "Tierp Centralskolan",
               "stop_lat": "60.345962",
@@ -3079,6 +3112,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760405001",
               "stop_name": "M\u00e5nkarbo Tallbacksskolan",
               "stop_lat": "60.225555",
@@ -3088,6 +3123,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760134002",
               "stop_name": "Persbo",
               "stop_lat": "60.201612",
@@ -3097,6 +3134,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760414001",
               "stop_name": "Mamre (530)",
               "stop_lat": "60.202879",
@@ -3106,6 +3145,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760705001",
               "stop_name": "Mossbo",
               "stop_lat": "60.204548",
@@ -3115,6 +3156,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760139001",
               "stop_name": "Ubblixbo",
               "stop_lat": "60.210372",
@@ -3124,6 +3167,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760142002",
               "stop_name": "Degerbo",
               "stop_lat": "60.215742",
@@ -3133,6 +3178,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760143001",
               "stop_name": "Postboda",
               "stop_lat": "60.213908",
@@ -3142,6 +3189,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760721001",
               "stop_name": "Stynsberg",
               "stop_lat": "60.196456",
@@ -3151,6 +3200,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760436001",
               "stop_name": "Nyv\u00e4ga",
               "stop_lat": "60.187140",
@@ -3160,6 +3211,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760404002",
               "stop_name": "Annedals v\u00e4gsk\u00e4l",
               "stop_lat": "60.172913",
@@ -3169,6 +3222,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760644001",
               "stop_name": "Getingbo",
               "stop_lat": "60.184895",
@@ -3177,7 +3232,12 @@
               "parent_station": "9021003760644000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "67",
+            "start_date": "20241025",
+            "end_date": "20250523"
+          }
         }
       ],
       "points": [
@@ -10204,8 +10264,11 @@
       "trips": [
         {
           "trip_id": "33010000201233390",
+          "service_id": "68",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760405001",
               "stop_name": "M\u00e5nkarbo Tallbacksskolan",
               "stop_lat": "60.225555",
@@ -10215,6 +10278,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760134002",
               "stop_name": "Persbo",
               "stop_lat": "60.201612",
@@ -10224,6 +10289,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760414001",
               "stop_name": "Mamre (530)",
               "stop_lat": "60.202879",
@@ -10233,6 +10300,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760705001",
               "stop_name": "Mossbo",
               "stop_lat": "60.204548",
@@ -10242,6 +10311,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760139001",
               "stop_name": "Ubblixbo",
               "stop_lat": "60.210372",
@@ -10251,6 +10322,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760142002",
               "stop_name": "Degerbo",
               "stop_lat": "60.215742",
@@ -10260,6 +10333,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760143001",
               "stop_name": "Postboda",
               "stop_lat": "60.213908",
@@ -10269,6 +10344,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760721001",
               "stop_name": "Stynsberg",
               "stop_lat": "60.196456",
@@ -10278,6 +10355,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760436001",
               "stop_name": "Nyv\u00e4ga",
               "stop_lat": "60.187140",
@@ -10287,6 +10366,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760404002",
               "stop_name": "Annedals v\u00e4gsk\u00e4l",
               "stop_lat": "60.172913",
@@ -10296,6 +10377,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760644001",
               "stop_name": "Getingbo",
               "stop_lat": "60.184895",
@@ -10304,7 +10387,12 @@
               "parent_station": "9021003760644000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "68",
+            "start_date": "20241104",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -13251,8 +13339,11 @@
       "trips": [
         {
           "trip_id": "33010000201233365",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760405001",
               "stop_name": "M\u00e5nkarbo Tallbacksskolan",
               "stop_lat": "60.225555",
@@ -13262,6 +13353,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760142002",
               "stop_name": "Degerbo",
               "stop_lat": "60.215742",
@@ -13271,6 +13364,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760143001",
               "stop_name": "Postboda",
               "stop_lat": "60.213908",
@@ -13280,6 +13375,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760721001",
               "stop_name": "Stynsberg",
               "stop_lat": "60.196456",
@@ -13289,6 +13386,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760436001",
               "stop_name": "Nyv\u00e4ga",
               "stop_lat": "60.187140",
@@ -13298,6 +13397,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760404002",
               "stop_name": "Annedals v\u00e4gsk\u00e4l",
               "stop_lat": "60.172913",
@@ -13307,6 +13408,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760644001",
               "stop_name": "Getingbo",
               "stop_lat": "60.184895",
@@ -13315,7 +13418,12 @@
               "parent_station": "9021003760644000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [

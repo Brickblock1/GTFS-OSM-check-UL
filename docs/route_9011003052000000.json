@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003052000000",
   "agency_id": "33010000000001407",
   "route_short_name": "520",
@@ -11,230 +11,12 @@
       "shape_id": "1033010000193119651",
       "trips": [
         {
-          "trip_id": "33010000198785155",
-          "stops": [
-            {
-              "stop_id": "9022003760412004",
-              "stop_name": "Sk\u00e4rplinge bussterminal",
-              "stop_lat": "60.470198",
-              "stop_lon": "17.758875",
-              "location_type": "0",
-              "parent_station": "9021003760412000",
-              "platform_code": "D"
-            },
-            {
-              "stop_id": "9022003760039001",
-              "stop_name": "Sk\u00e4rplinge Bussgaraget",
-              "stop_lat": "60.473139",
-              "stop_lon": "17.752377",
-              "location_type": "0",
-              "parent_station": "9021003760039000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760267001",
-              "stop_name": "Vidv\u00e4g \u00f6stra",
-              "stop_lat": "60.471525",
-              "stop_lon": "17.726894",
-              "location_type": "0",
-              "parent_station": "9021003760267000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760268001",
-              "stop_name": "Vidv\u00e4g v\u00e4stra",
-              "stop_lat": "60.467878",
-              "stop_lon": "17.717004",
-              "location_type": "0",
-              "parent_station": "9021003760268000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760045001",
-              "stop_name": "Maln \u00f6stra",
-              "stop_lat": "60.467024",
-              "stop_lon": "17.674006",
-              "location_type": "0",
-              "parent_station": "9021003760045000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760270001",
-              "stop_name": "Maln",
-              "stop_lat": "60.465203",
-              "stop_lon": "17.667520",
-              "location_type": "0",
-              "parent_station": "9021003760270000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760272001",
-              "stop_name": "G\u00e4llbo v\u00e4gsk\u00e4l",
-              "stop_lat": "60.462232",
-              "stop_lon": "17.660350",
-              "location_type": "0",
-              "parent_station": "9021003760272000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760278001",
-              "stop_name": "Stav v\u00e4gsk\u00e4l",
-              "stop_lat": "60.453305",
-              "stop_lon": "17.622128",
-              "location_type": "0",
-              "parent_station": "9021003760278000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760280001",
-              "stop_name": "V\u00e4stlands kyrka",
-              "stop_lat": "60.449258",
-              "stop_lon": "17.614088",
-              "location_type": "0",
-              "parent_station": "9021003760280000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760286001",
-              "stop_name": "Tillf\u00e4llet",
-              "stop_lat": "60.442068",
-              "stop_lon": "17.609383",
-              "location_type": "0",
-              "parent_station": "9021003760286000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760289001",
-              "stop_name": "Bj\u00f6rnbacken",
-              "stop_lat": "60.435890",
-              "stop_lon": "17.604172",
-              "location_type": "0",
-              "parent_station": "9021003760289000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760295001",
-              "stop_name": "\u00d6stra Vad v\u00e4gsk\u00e4l",
-              "stop_lat": "60.430837",
-              "stop_lon": "17.602803",
-              "location_type": "0",
-              "parent_station": "9021003760295000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760048001",
-              "stop_name": "Str\u00f6msbergsheden",
-              "stop_lat": "60.416661",
-              "stop_lon": "17.592163",
-              "location_type": "0",
-              "parent_station": "9021003760048000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760312001",
-              "stop_name": "Str\u00f6msbergs v\u00e4gsk\u00e4l",
-              "stop_lat": "60.408064",
-              "stop_lon": "17.574432",
-              "location_type": "0",
-              "parent_station": "9021003760312000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760331001",
-              "stop_name": "Rockn\u00f6",
-              "stop_lat": "60.386705",
-              "stop_lon": "17.553504",
-              "location_type": "0",
-              "parent_station": "9021003760331000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760352001",
-              "stop_name": "Ersta",
-              "stop_lat": "60.376265",
-              "stop_lon": "17.552093",
-              "location_type": "0",
-              "parent_station": "9021003760352000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760358001",
-              "stop_name": "Tolfta",
-              "stop_lat": "60.373697",
-              "stop_lon": "17.550777",
-              "location_type": "0",
-              "parent_station": "9021003760358000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760369001",
-              "stop_name": "Tierp Sjukarby norra",
-              "stop_lat": "60.364758",
-              "stop_lon": "17.535454",
-              "location_type": "0",
-              "parent_station": "9021003760369000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760308001",
-              "stop_name": "Tierp Ridhuset",
-              "stop_lat": "60.361557",
-              "stop_lon": "17.525480",
-              "location_type": "0",
-              "parent_station": "9021003760308000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760050001",
-              "stop_name": "Tierp Br\u00e4ckstav\u00e4gen",
-              "stop_lat": "60.356988",
-              "stop_lon": "17.512193",
-              "location_type": "0",
-              "parent_station": "9021003760050000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760049001",
-              "stop_name": "Tierp Vegavallen",
-              "stop_lat": "60.352761",
-              "stop_lon": "17.506446",
-              "location_type": "0",
-              "parent_station": "9021003760049000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760382001",
-              "stop_name": "Tierp H\u00f6gbergsskolan",
-              "stop_lat": "60.346884",
-              "stop_lon": "17.501303",
-              "location_type": "0",
-              "parent_station": "9021003760382000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760370001",
-              "stop_name": "Tierp Tegelbruksgatan",
-              "stop_lat": "60.344001",
-              "stop_lon": "17.507711",
-              "location_type": "0",
-              "parent_station": "9021003760370000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760005007",
-              "stop_name": "Tierp station",
-              "stop_lat": "60.345486",
-              "stop_lon": "17.512371",
-              "location_type": "0",
-              "parent_station": "9021003760005000",
-              "platform_code": "B4"
-            }
-          ]
-        },
-        {
           "trip_id": "33010000213503989",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760412004",
               "stop_name": "Sk\u00e4rplinge bussterminal",
               "stop_lat": "60.470198",
@@ -244,6 +26,8 @@
               "platform_code": "D"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760039001",
               "stop_name": "Sk\u00e4rplinge Bussgaraget",
               "stop_lat": "60.473139",
@@ -253,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760267001",
               "stop_name": "Vidv\u00e4g \u00f6stra",
               "stop_lat": "60.471525",
@@ -262,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760268001",
               "stop_name": "Vidv\u00e4g v\u00e4stra",
               "stop_lat": "60.467878",
@@ -271,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760045001",
               "stop_name": "Maln \u00f6stra",
               "stop_lat": "60.467024",
@@ -280,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760270001",
               "stop_name": "Maln",
               "stop_lat": "60.465203",
@@ -289,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760272001",
               "stop_name": "G\u00e4llbo v\u00e4gsk\u00e4l",
               "stop_lat": "60.462232",
@@ -298,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760278001",
               "stop_name": "Stav v\u00e4gsk\u00e4l",
               "stop_lat": "60.453305",
@@ -307,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760280001",
               "stop_name": "V\u00e4stlands kyrka",
               "stop_lat": "60.449258",
@@ -316,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760286001",
               "stop_name": "Tillf\u00e4llet",
               "stop_lat": "60.442068",
@@ -325,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760289001",
               "stop_name": "Bj\u00f6rnbacken",
               "stop_lat": "60.435890",
@@ -334,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760295001",
               "stop_name": "\u00d6stra Vad v\u00e4gsk\u00e4l",
               "stop_lat": "60.430837",
@@ -343,6 +147,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760048001",
               "stop_name": "Str\u00f6msbergsheden",
               "stop_lat": "60.416661",
@@ -352,6 +158,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760312001",
               "stop_name": "Str\u00f6msbergs v\u00e4gsk\u00e4l",
               "stop_lat": "60.408064",
@@ -361,6 +169,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760331001",
               "stop_name": "Rockn\u00f6",
               "stop_lat": "60.386705",
@@ -370,6 +180,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760352001",
               "stop_name": "Ersta",
               "stop_lat": "60.376265",
@@ -379,6 +191,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760358001",
               "stop_name": "Tolfta",
               "stop_lat": "60.373697",
@@ -388,6 +202,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760369001",
               "stop_name": "Tierp Sjukarby norra",
               "stop_lat": "60.364758",
@@ -397,6 +213,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760308001",
               "stop_name": "Tierp Ridhuset",
               "stop_lat": "60.361557",
@@ -406,6 +224,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760050001",
               "stop_name": "Tierp Br\u00e4ckstav\u00e4gen",
               "stop_lat": "60.356988",
@@ -415,6 +235,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760049001",
               "stop_name": "Tierp Vegavallen",
               "stop_lat": "60.352761",
@@ -424,6 +246,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760382001",
               "stop_name": "Tierp H\u00f6gbergsskolan",
               "stop_lat": "60.346884",
@@ -433,6 +257,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760370001",
               "stop_name": "Tierp Tegelbruksgatan",
               "stop_lat": "60.344001",
@@ -442,6 +268,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760005007",
               "stop_name": "Tierp station",
               "stop_lat": "60.345486",
@@ -450,7 +278,12 @@
               "parent_station": "9021003760005000",
               "platform_code": "B4"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -3108,248 +2941,12 @@
       "shape_id": "1033010000193119691",
       "trips": [
         {
-          "trip_id": "33010000201235215",
-          "stops": [
-            {
-              "stop_id": "9022003760412004",
-              "stop_name": "Sk\u00e4rplinge bussterminal",
-              "stop_lat": "60.470198",
-              "stop_lon": "17.758875",
-              "location_type": "0",
-              "parent_station": "9021003760412000",
-              "platform_code": "D"
-            },
-            {
-              "stop_id": "9022003760039001",
-              "stop_name": "Sk\u00e4rplinge Bussgaraget",
-              "stop_lat": "60.473139",
-              "stop_lon": "17.752377",
-              "location_type": "0",
-              "parent_station": "9021003760039000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760267001",
-              "stop_name": "Vidv\u00e4g \u00f6stra",
-              "stop_lat": "60.471525",
-              "stop_lon": "17.726894",
-              "location_type": "0",
-              "parent_station": "9021003760267000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760268001",
-              "stop_name": "Vidv\u00e4g v\u00e4stra",
-              "stop_lat": "60.467878",
-              "stop_lon": "17.717004",
-              "location_type": "0",
-              "parent_station": "9021003760268000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760045001",
-              "stop_name": "Maln \u00f6stra",
-              "stop_lat": "60.467024",
-              "stop_lon": "17.674006",
-              "location_type": "0",
-              "parent_station": "9021003760045000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760270001",
-              "stop_name": "Maln",
-              "stop_lat": "60.465203",
-              "stop_lon": "17.667520",
-              "location_type": "0",
-              "parent_station": "9021003760270000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760272001",
-              "stop_name": "G\u00e4llbo v\u00e4gsk\u00e4l",
-              "stop_lat": "60.462232",
-              "stop_lon": "17.660350",
-              "location_type": "0",
-              "parent_station": "9021003760272000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760278001",
-              "stop_name": "Stav v\u00e4gsk\u00e4l",
-              "stop_lat": "60.453305",
-              "stop_lon": "17.622128",
-              "location_type": "0",
-              "parent_station": "9021003760278000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760280001",
-              "stop_name": "V\u00e4stlands kyrka",
-              "stop_lat": "60.449258",
-              "stop_lon": "17.614088",
-              "location_type": "0",
-              "parent_station": "9021003760280000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760286001",
-              "stop_name": "Tillf\u00e4llet",
-              "stop_lat": "60.442068",
-              "stop_lon": "17.609383",
-              "location_type": "0",
-              "parent_station": "9021003760286000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760289001",
-              "stop_name": "Bj\u00f6rnbacken",
-              "stop_lat": "60.435890",
-              "stop_lon": "17.604172",
-              "location_type": "0",
-              "parent_station": "9021003760289000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760295001",
-              "stop_name": "\u00d6stra Vad v\u00e4gsk\u00e4l",
-              "stop_lat": "60.430837",
-              "stop_lon": "17.602803",
-              "location_type": "0",
-              "parent_station": "9021003760295000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760048001",
-              "stop_name": "Str\u00f6msbergsheden",
-              "stop_lat": "60.416661",
-              "stop_lon": "17.592163",
-              "location_type": "0",
-              "parent_station": "9021003760048000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760316001",
-              "stop_name": "Str\u00f6msbergs bruk",
-              "stop_lat": "60.403753",
-              "stop_lon": "17.580658",
-              "location_type": "0",
-              "parent_station": "9021003760316000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760630001",
-              "stop_name": "Dorkarby",
-              "stop_lat": "60.407853",
-              "stop_lon": "17.578159",
-              "location_type": "0",
-              "parent_station": "9021003760630000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760312001",
-              "stop_name": "Str\u00f6msbergs v\u00e4gsk\u00e4l",
-              "stop_lat": "60.408064",
-              "stop_lon": "17.574432",
-              "location_type": "0",
-              "parent_station": "9021003760312000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760331001",
-              "stop_name": "Rockn\u00f6",
-              "stop_lat": "60.386705",
-              "stop_lon": "17.553504",
-              "location_type": "0",
-              "parent_station": "9021003760331000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760352001",
-              "stop_name": "Ersta",
-              "stop_lat": "60.376265",
-              "stop_lon": "17.552093",
-              "location_type": "0",
-              "parent_station": "9021003760352000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760358001",
-              "stop_name": "Tolfta",
-              "stop_lat": "60.373697",
-              "stop_lon": "17.550777",
-              "location_type": "0",
-              "parent_station": "9021003760358000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760369001",
-              "stop_name": "Tierp Sjukarby norra",
-              "stop_lat": "60.364758",
-              "stop_lon": "17.535454",
-              "location_type": "0",
-              "parent_station": "9021003760369000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760308001",
-              "stop_name": "Tierp Ridhuset",
-              "stop_lat": "60.361557",
-              "stop_lon": "17.525480",
-              "location_type": "0",
-              "parent_station": "9021003760308000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760050001",
-              "stop_name": "Tierp Br\u00e4ckstav\u00e4gen",
-              "stop_lat": "60.356988",
-              "stop_lon": "17.512193",
-              "location_type": "0",
-              "parent_station": "9021003760050000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760049001",
-              "stop_name": "Tierp Vegavallen",
-              "stop_lat": "60.352761",
-              "stop_lon": "17.506446",
-              "location_type": "0",
-              "parent_station": "9021003760049000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760382001",
-              "stop_name": "Tierp H\u00f6gbergsskolan",
-              "stop_lat": "60.346884",
-              "stop_lon": "17.501303",
-              "location_type": "0",
-              "parent_station": "9021003760382000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760370001",
-              "stop_name": "Tierp Tegelbruksgatan",
-              "stop_lat": "60.344001",
-              "stop_lon": "17.507711",
-              "location_type": "0",
-              "parent_station": "9021003760370000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760005007",
-              "stop_name": "Tierp station",
-              "stop_lat": "60.345486",
-              "stop_lon": "17.512371",
-              "location_type": "0",
-              "parent_station": "9021003760005000",
-              "platform_code": "B4"
-            }
-          ]
-        },
-        {
           "trip_id": "33010000213504023",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760412004",
               "stop_name": "Sk\u00e4rplinge bussterminal",
               "stop_lat": "60.470198",
@@ -3359,6 +2956,8 @@
               "platform_code": "D"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760039001",
               "stop_name": "Sk\u00e4rplinge Bussgaraget",
               "stop_lat": "60.473139",
@@ -3368,6 +2967,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760267001",
               "stop_name": "Vidv\u00e4g \u00f6stra",
               "stop_lat": "60.471525",
@@ -3377,6 +2978,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760268001",
               "stop_name": "Vidv\u00e4g v\u00e4stra",
               "stop_lat": "60.467878",
@@ -3386,6 +2989,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760045001",
               "stop_name": "Maln \u00f6stra",
               "stop_lat": "60.467024",
@@ -3395,6 +3000,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760270001",
               "stop_name": "Maln",
               "stop_lat": "60.465203",
@@ -3404,6 +3011,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760272001",
               "stop_name": "G\u00e4llbo v\u00e4gsk\u00e4l",
               "stop_lat": "60.462232",
@@ -3413,6 +3022,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760278001",
               "stop_name": "Stav v\u00e4gsk\u00e4l",
               "stop_lat": "60.453305",
@@ -3422,6 +3033,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760280001",
               "stop_name": "V\u00e4stlands kyrka",
               "stop_lat": "60.449258",
@@ -3431,6 +3044,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760286001",
               "stop_name": "Tillf\u00e4llet",
               "stop_lat": "60.442068",
@@ -3440,6 +3055,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760289001",
               "stop_name": "Bj\u00f6rnbacken",
               "stop_lat": "60.435890",
@@ -3449,6 +3066,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760295001",
               "stop_name": "\u00d6stra Vad v\u00e4gsk\u00e4l",
               "stop_lat": "60.430837",
@@ -3458,6 +3077,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760048001",
               "stop_name": "Str\u00f6msbergsheden",
               "stop_lat": "60.416661",
@@ -3467,6 +3088,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760316001",
               "stop_name": "Str\u00f6msbergs bruk",
               "stop_lat": "60.403753",
@@ -3476,6 +3099,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760630001",
               "stop_name": "Dorkarby",
               "stop_lat": "60.407853",
@@ -3485,6 +3110,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760312001",
               "stop_name": "Str\u00f6msbergs v\u00e4gsk\u00e4l",
               "stop_lat": "60.408064",
@@ -3494,6 +3121,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760331001",
               "stop_name": "Rockn\u00f6",
               "stop_lat": "60.386705",
@@ -3503,6 +3132,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760352001",
               "stop_name": "Ersta",
               "stop_lat": "60.376265",
@@ -3512,6 +3143,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760358001",
               "stop_name": "Tolfta",
               "stop_lat": "60.373697",
@@ -3521,6 +3154,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760369001",
               "stop_name": "Tierp Sjukarby norra",
               "stop_lat": "60.364758",
@@ -3530,6 +3165,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760308001",
               "stop_name": "Tierp Ridhuset",
               "stop_lat": "60.361557",
@@ -3539,6 +3176,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760050001",
               "stop_name": "Tierp Br\u00e4ckstav\u00e4gen",
               "stop_lat": "60.356988",
@@ -3548,6 +3187,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760049001",
               "stop_name": "Tierp Vegavallen",
               "stop_lat": "60.352761",
@@ -3557,6 +3198,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760382001",
               "stop_name": "Tierp H\u00f6gbergsskolan",
               "stop_lat": "60.346884",
@@ -3566,6 +3209,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760370001",
               "stop_name": "Tierp Tegelbruksgatan",
               "stop_lat": "60.344001",
@@ -3575,6 +3220,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760005007",
               "stop_name": "Tierp station",
               "stop_lat": "60.345486",
@@ -3583,7 +3230,12 @@
               "parent_station": "9021003760005000",
               "platform_code": "B4"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [

@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003085900000",
   "agency_id": "33010000000001407",
   "route_short_name": "859",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000198603840",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782055001",
               "stop_name": "\u00d6sthammar Trastgatan",
               "stop_lat": "60.252465",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782054001",
               "stop_name": "\u00d6sthammar Albrektsgatan",
               "stop_lat": "60.252057",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782053001",
               "stop_name": "\u00d6sthammar Esplanaden",
               "stop_lat": "60.255008",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782004002",
               "stop_name": "\u00d6sthammar busstation",
               "stop_lat": "60.258385",
@@ -50,6 +59,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782076002",
               "stop_name": "\u00d6sthammar V\u00e5rdcentrum",
               "stop_lat": "60.259664",
@@ -59,6 +70,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782367002",
               "stop_name": "\u00d6sthammar Ulrikeberg",
               "stop_lat": "60.259715",
@@ -68,6 +81,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782045002",
               "stop_name": "\u00d6sthammar Hantverksv\u00e4gen",
               "stop_lat": "60.258403",
@@ -77,6 +92,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782129002",
               "stop_name": "\u00d6sthammar Samhall",
               "stop_lat": "60.256731",
@@ -86,6 +103,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003782046004",
               "stop_name": "\u00d6sthammar Ringv\u00e4gen",
               "stop_lat": "60.256057",
@@ -95,6 +114,8 @@
               "platform_code": "D"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782356002",
               "stop_name": "\u00d6sthammar Gammelbyn",
               "stop_lat": "60.255563",
@@ -104,6 +125,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782372002",
               "stop_name": "Eds v\u00e4gsk\u00e4l (v. 76)",
               "stop_lat": "60.263715",
@@ -113,6 +136,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782385002",
               "stop_name": "Motorp",
               "stop_lat": "60.272826",
@@ -122,6 +147,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782396002",
               "stop_name": "Brudgrind",
               "stop_lat": "60.276449",
@@ -131,6 +158,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782406002",
               "stop_name": "Norrskedika IP",
               "stop_lat": "60.280501",
@@ -140,6 +169,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782099002",
               "stop_name": "Norrskedika bygdeg\u00e5rd",
               "stop_lat": "60.284886",
@@ -149,6 +180,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782430002",
               "stop_name": "Norrskedika norra",
               "stop_lat": "60.288350",
@@ -158,6 +191,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782082001",
               "stop_name": "Forsmarks bruk",
               "stop_lat": "60.369667",
@@ -167,6 +202,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782081002",
               "stop_name": "Forsmark Maskinuthyrningen",
               "stop_lat": "60.380497",
@@ -176,6 +213,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782056002",
               "stop_name": "Forsmark Personalbost\u00e4derna",
               "stop_lat": "60.399364",
@@ -185,6 +224,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782016002",
               "stop_name": "Forsmarks kraftverk 1-2",
               "stop_lat": "60.403186",
@@ -194,6 +235,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782056001",
               "stop_name": "Forsmark Personalbost\u00e4derna",
               "stop_lat": "60.398790",
@@ -203,6 +246,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782116002",
               "stop_name": "Forsmarks kraftverk 3",
               "stop_lat": "60.407659",
@@ -211,7 +256,12 @@
               "parent_station": "9021003782116000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         }
       ],
       "points": [
@@ -3378,8 +3428,11 @@
       "trips": [
         {
           "trip_id": "33010000198603867",
+          "service_id": "160",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782016002",
               "stop_name": "Forsmarks kraftverk 1-2",
               "stop_lat": "60.403186",
@@ -3389,6 +3442,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782056001",
               "stop_name": "Forsmark Personalbost\u00e4derna",
               "stop_lat": "60.398790",
@@ -3398,6 +3453,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782116002",
               "stop_name": "Forsmarks kraftverk 3",
               "stop_lat": "60.407659",
@@ -3407,6 +3464,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782081001",
               "stop_name": "Forsmark Maskinuthyrningen",
               "stop_lat": "60.380448",
@@ -3416,6 +3475,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782082002",
               "stop_name": "Forsmarks bruk",
               "stop_lat": "60.369350",
@@ -3425,6 +3486,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782430001",
               "stop_name": "Norrskedika norra",
               "stop_lat": "60.287938",
@@ -3434,6 +3497,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782099001",
               "stop_name": "Norrskedika bygdeg\u00e5rd",
               "stop_lat": "60.286294",
@@ -3443,6 +3508,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782406001",
               "stop_name": "Norrskedika IP",
               "stop_lat": "60.280015",
@@ -3452,6 +3519,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782396001",
               "stop_name": "Brudgrind",
               "stop_lat": "60.276952",
@@ -3461,6 +3530,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782385001",
               "stop_name": "Motorp",
               "stop_lat": "60.272372",
@@ -3470,6 +3541,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782372001",
               "stop_name": "Eds v\u00e4gsk\u00e4l (v. 76)",
               "stop_lat": "60.263618",
@@ -3479,6 +3552,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "1",
               "stop_id": "9022003782046003",
               "stop_name": "\u00d6sthammar Ringv\u00e4gen",
               "stop_lat": "60.255927",
@@ -3488,6 +3563,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782129001",
               "stop_name": "\u00d6sthammar Samhall",
               "stop_lat": "60.256869",
@@ -3497,6 +3574,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782045001",
               "stop_name": "\u00d6sthammar Hantverksv\u00e4gen",
               "stop_lat": "60.258442",
@@ -3506,6 +3585,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782367002",
               "stop_name": "\u00d6sthammar Ulrikeberg",
               "stop_lat": "60.259715",
@@ -3515,6 +3596,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782076002",
               "stop_name": "\u00d6sthammar V\u00e5rdcentrum",
               "stop_lat": "60.259664",
@@ -3524,6 +3607,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782004003",
               "stop_name": "\u00d6sthammar busstation",
               "stop_lat": "60.258412",
@@ -3533,6 +3618,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782053002",
               "stop_name": "\u00d6sthammar Esplanaden",
               "stop_lat": "60.255799",
@@ -3542,6 +3629,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782054002",
               "stop_name": "\u00d6sthammar Albrektsgatan",
               "stop_lat": "60.252139",
@@ -3551,6 +3640,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782055002",
               "stop_name": "\u00d6sthammar Trastgatan",
               "stop_lat": "60.252514",
@@ -3559,12 +3650,20 @@
               "parent_station": "9021003782055000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "160",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
           "trip_id": "33010000201098755",
+          "service_id": "40",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782016002",
               "stop_name": "Forsmarks kraftverk 1-2",
               "stop_lat": "60.403186",
@@ -3574,6 +3673,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782056001",
               "stop_name": "Forsmark Personalbost\u00e4derna",
               "stop_lat": "60.398790",
@@ -3583,6 +3684,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782116002",
               "stop_name": "Forsmarks kraftverk 3",
               "stop_lat": "60.407659",
@@ -3592,6 +3695,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782081001",
               "stop_name": "Forsmark Maskinuthyrningen",
               "stop_lat": "60.380448",
@@ -3601,6 +3706,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003782082002",
               "stop_name": "Forsmarks bruk",
               "stop_lat": "60.369350",
@@ -3610,6 +3717,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782430001",
               "stop_name": "Norrskedika norra",
               "stop_lat": "60.287938",
@@ -3619,6 +3728,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782099001",
               "stop_name": "Norrskedika bygdeg\u00e5rd",
               "stop_lat": "60.286294",
@@ -3628,6 +3739,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782406001",
               "stop_name": "Norrskedika IP",
               "stop_lat": "60.280015",
@@ -3637,6 +3750,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782396001",
               "stop_name": "Brudgrind",
               "stop_lat": "60.276952",
@@ -3646,6 +3761,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782385001",
               "stop_name": "Motorp",
               "stop_lat": "60.272372",
@@ -3655,6 +3772,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782372001",
               "stop_name": "Eds v\u00e4gsk\u00e4l (v. 76)",
               "stop_lat": "60.263618",
@@ -3664,6 +3783,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "1",
               "stop_id": "9022003782046003",
               "stop_name": "\u00d6sthammar Ringv\u00e4gen",
               "stop_lat": "60.255927",
@@ -3673,6 +3794,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782129001",
               "stop_name": "\u00d6sthammar Samhall",
               "stop_lat": "60.256869",
@@ -3682,6 +3805,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782045001",
               "stop_name": "\u00d6sthammar Hantverksv\u00e4gen",
               "stop_lat": "60.258442",
@@ -3691,6 +3816,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782367002",
               "stop_name": "\u00d6sthammar Ulrikeberg",
               "stop_lat": "60.259715",
@@ -3700,6 +3827,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782076002",
               "stop_name": "\u00d6sthammar V\u00e5rdcentrum",
               "stop_lat": "60.259664",
@@ -3709,6 +3838,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782004003",
               "stop_name": "\u00d6sthammar busstation",
               "stop_lat": "60.258412",
@@ -3718,6 +3849,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782053002",
               "stop_name": "\u00d6sthammar Esplanaden",
               "stop_lat": "60.255799",
@@ -3727,6 +3860,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782054002",
               "stop_name": "\u00d6sthammar Albrektsgatan",
               "stop_lat": "60.252139",
@@ -3736,6 +3871,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003782055002",
               "stop_name": "\u00d6sthammar Trastgatan",
               "stop_lat": "60.252514",
@@ -3744,7 +3881,12 @@
               "parent_station": "9021003782055000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "40",
+            "start_date": "20241101",
+            "end_date": "20241101"
+          }
         }
       ],
       "points": [

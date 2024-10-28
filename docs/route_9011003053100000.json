@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003053100000",
   "agency_id": "33010000000001407",
   "route_short_name": "531",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000198780044",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760602002",
               "stop_name": "Lunda (Tolfta)",
               "stop_lat": "60.389576",
@@ -23,6 +26,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760630002",
               "stop_name": "Dorkarby",
               "stop_lat": "60.407970",
@@ -32,6 +37,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760316001",
               "stop_name": "Str\u00f6msbergs bruk",
               "stop_lat": "60.403753",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760630001",
               "stop_name": "Dorkarby",
               "stop_lat": "60.407853",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760331001",
               "stop_name": "Rockn\u00f6",
               "stop_lat": "60.386705",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760352001",
               "stop_name": "Ersta",
               "stop_lat": "60.376265",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760358001",
               "stop_name": "Tolfta",
               "stop_lat": "60.373697",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760369001",
               "stop_name": "Tierp Sjukarby norra",
               "stop_lat": "60.364758",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760072001",
               "stop_name": "Svanby \u00f6stra",
               "stop_lat": "60.331055",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760334001",
               "stop_name": "Sk\u00e4msta",
               "stop_lat": "60.323653",
@@ -104,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760314001",
               "stop_name": "Vallby v\u00e4stra",
               "stop_lat": "60.318450",
@@ -113,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760712001",
               "stop_name": "Vallby \u00f6stra v\u00e4ndplan",
               "stop_lat": "60.315447",
@@ -122,6 +147,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760314002",
               "stop_name": "Vallby v\u00e4stra",
               "stop_lat": "60.319159",
@@ -131,6 +158,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760334002",
               "stop_name": "Sk\u00e4msta",
               "stop_lat": "60.324490",
@@ -140,6 +169,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760072002",
               "stop_name": "Svanby \u00f6stra",
               "stop_lat": "60.331098",
@@ -149,6 +180,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760018001",
               "stop_name": "Tierp Torggatan",
               "stop_lat": "60.340816",
@@ -158,6 +191,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760400001",
               "stop_name": "Tierp Aspenskolan",
               "stop_lat": "60.345987",
@@ -167,6 +202,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760371002",
               "stop_name": "Tierp Centralskolan",
               "stop_lat": "60.345858",
@@ -175,7 +212,12 @@
               "parent_station": "9021003760371000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -3786,8 +3828,11 @@
       "trips": [
         {
           "trip_id": "33010000198780114",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760400001",
               "stop_name": "Tierp Aspenskolan",
               "stop_lat": "60.345987",
@@ -3797,6 +3842,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760371002",
               "stop_name": "Tierp Centralskolan",
               "stop_lat": "60.345858",
@@ -3806,6 +3853,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760072001",
               "stop_name": "Svanby \u00f6stra",
               "stop_lat": "60.331055",
@@ -3815,6 +3864,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760334001",
               "stop_name": "Sk\u00e4msta",
               "stop_lat": "60.323653",
@@ -3824,6 +3875,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760314001",
               "stop_name": "Vallby v\u00e4stra",
               "stop_lat": "60.318450",
@@ -3833,6 +3886,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760712001",
               "stop_name": "Vallby \u00f6stra v\u00e4ndplan",
               "stop_lat": "60.315447",
@@ -3842,6 +3897,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760314002",
               "stop_name": "Vallby v\u00e4stra",
               "stop_lat": "60.319159",
@@ -3851,6 +3908,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760334002",
               "stop_name": "Sk\u00e4msta",
               "stop_lat": "60.324490",
@@ -3860,6 +3919,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760072002",
               "stop_name": "Svanby \u00f6stra",
               "stop_lat": "60.331098",
@@ -3869,6 +3930,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760086002",
               "stop_name": "Tierp \u00c5skarbyg\u00e5rden",
               "stop_lat": "60.348376",
@@ -3878,6 +3941,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760062002",
               "stop_name": "Tierp Skatv\u00e4gen",
               "stop_lat": "60.353250",
@@ -3887,6 +3952,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760051002",
               "stop_name": "Tierp Skaldjursv\u00e4gen",
               "stop_lat": "60.357175",
@@ -3896,6 +3963,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760374002",
               "stop_name": "Tierp Sjukarby s\u00f6dra",
               "stop_lat": "60.360975",
@@ -3905,6 +3974,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760369002",
               "stop_name": "Tierp Sjukarby norra",
               "stop_lat": "60.365427",
@@ -3914,6 +3985,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760358002",
               "stop_name": "Tolfta",
               "stop_lat": "60.373499",
@@ -3923,6 +3996,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760352002",
               "stop_name": "Ersta",
               "stop_lat": "60.376245",
@@ -3932,6 +4007,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760331002",
               "stop_name": "Rockn\u00f6",
               "stop_lat": "60.386194",
@@ -3941,6 +4018,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760602002",
               "stop_name": "Lunda (Tolfta)",
               "stop_lat": "60.389576",
@@ -3950,6 +4029,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760630002",
               "stop_name": "Dorkarby",
               "stop_lat": "60.407970",
@@ -3959,6 +4040,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760316001",
               "stop_name": "Str\u00f6msbergs bruk",
               "stop_lat": "60.403753",
@@ -3967,12 +4050,20 @@
               "parent_station": "9021003760316000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         },
         {
           "trip_id": "33010000198780079",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760400001",
               "stop_name": "Tierp Aspenskolan",
               "stop_lat": "60.345987",
@@ -3982,6 +4073,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760371002",
               "stop_name": "Tierp Centralskolan",
               "stop_lat": "60.345858",
@@ -3991,6 +4084,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760072001",
               "stop_name": "Svanby \u00f6stra",
               "stop_lat": "60.331055",
@@ -4000,6 +4095,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760334001",
               "stop_name": "Sk\u00e4msta",
               "stop_lat": "60.323653",
@@ -4009,6 +4106,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760314001",
               "stop_name": "Vallby v\u00e4stra",
               "stop_lat": "60.318450",
@@ -4018,6 +4117,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760712001",
               "stop_name": "Vallby \u00f6stra v\u00e4ndplan",
               "stop_lat": "60.315447",
@@ -4027,6 +4128,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760314002",
               "stop_name": "Vallby v\u00e4stra",
               "stop_lat": "60.319159",
@@ -4036,6 +4139,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760334002",
               "stop_name": "Sk\u00e4msta",
               "stop_lat": "60.324490",
@@ -4045,6 +4150,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760072002",
               "stop_name": "Svanby \u00f6stra",
               "stop_lat": "60.331098",
@@ -4054,6 +4161,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760086002",
               "stop_name": "Tierp \u00c5skarbyg\u00e5rden",
               "stop_lat": "60.348376",
@@ -4063,6 +4172,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760062002",
               "stop_name": "Tierp Skatv\u00e4gen",
               "stop_lat": "60.353250",
@@ -4072,6 +4183,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760051002",
               "stop_name": "Tierp Skaldjursv\u00e4gen",
               "stop_lat": "60.357175",
@@ -4081,6 +4194,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760374002",
               "stop_name": "Tierp Sjukarby s\u00f6dra",
               "stop_lat": "60.360975",
@@ -4090,6 +4205,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760369002",
               "stop_name": "Tierp Sjukarby norra",
               "stop_lat": "60.365427",
@@ -4099,6 +4216,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760358002",
               "stop_name": "Tolfta",
               "stop_lat": "60.373499",
@@ -4108,6 +4227,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760352002",
               "stop_name": "Ersta",
               "stop_lat": "60.376245",
@@ -4117,6 +4238,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760331002",
               "stop_name": "Rockn\u00f6",
               "stop_lat": "60.386194",
@@ -4126,6 +4249,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760602002",
               "stop_name": "Lunda (Tolfta)",
               "stop_lat": "60.389576",
@@ -4135,6 +4260,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760630002",
               "stop_name": "Dorkarby",
               "stop_lat": "60.407970",
@@ -4144,6 +4271,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760316001",
               "stop_name": "Str\u00f6msbergs bruk",
               "stop_lat": "60.403753",
@@ -4152,7 +4281,12 @@
               "parent_station": "9021003760316000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [

@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003017400000",
   "agency_id": "33010000000001407",
   "route_short_name": "174",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000199984400",
+          "service_id": "120",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780376001",
               "stop_name": "Lagga skola",
               "stop_lat": "59.796715",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780379001",
               "stop_name": "H\u00f6gby Lagga",
               "stop_lat": "59.798036",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780382001",
               "stop_name": "S\u00e4by v\u00e4gsk\u00e4l",
               "stop_lat": "59.800554",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780383001",
               "stop_name": "V\u00e4sby Lagga",
               "stop_lat": "59.801688",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780370002",
               "stop_name": "Karlslund Lagga",
               "stop_lat": "59.792379",
@@ -59,6 +70,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003730181002",
               "stop_name": "Morby norra",
               "stop_lat": "59.786895",
@@ -68,6 +81,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780364002",
               "stop_name": "Morby s\u00f6dra",
               "stop_lat": "59.784370",
@@ -77,6 +92,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003730112002",
               "stop_name": "Fridhem Lagga",
               "stop_lat": "59.783527",
@@ -86,6 +103,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003730113002",
               "stop_name": "Stenbylund",
               "stop_lat": "59.782808",
@@ -95,6 +114,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003730159003",
               "stop_name": "Marma Lagga skolh\u00e5llplats",
               "stop_lat": "59.781638",
@@ -104,6 +125,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003730123001",
               "stop_name": "Marma Energiskog",
               "stop_lat": "59.779855",
@@ -113,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003730124001",
               "stop_name": "Marma 2",
               "stop_lat": "59.778306",
@@ -122,6 +147,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003730089001",
               "stop_name": "Lingsberg",
               "stop_lat": "59.775767",
@@ -131,6 +158,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003730151001",
               "stop_name": "Marma 3",
               "stop_lat": "59.764462",
@@ -140,6 +169,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003730063001",
               "stop_name": "Myrtorpet",
               "stop_lat": "59.753071",
@@ -149,6 +180,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003730000002",
               "stop_name": "Knivsta Ar-terminalen",
               "stop_lat": "59.740379",
@@ -158,6 +191,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780255001",
               "stop_name": "Knivsta Bo\u00e4ngsv\u00e4gen",
               "stop_lat": "59.735323",
@@ -167,6 +202,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780539002",
               "stop_name": "Knivsta Gredelbybacken",
               "stop_lat": "59.728380",
@@ -176,6 +213,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780240001",
               "stop_name": "Knivsta Thunmanskolan",
               "stop_lat": "59.722273",
@@ -184,7 +223,12 @@
               "parent_station": "9021003780240000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "120",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         }
       ],
       "points": [

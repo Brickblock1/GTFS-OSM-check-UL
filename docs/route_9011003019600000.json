@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003019600000",
   "agency_id": "33010000000001407",
   "route_short_name": "196",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000198915018",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003779482001",
               "stop_name": "Lindbacken skola",
               "stop_lat": "59.909440",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779148001",
               "stop_name": "Lindbacken",
               "stop_lat": "59.912363",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779145001",
               "stop_name": "Norrhagen",
               "stop_lat": "59.905941",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779142001",
               "stop_name": "J\u00e4lla",
               "stop_lat": "59.904062",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780201001",
               "stop_name": "Godeg\u00e5rd",
               "stop_lat": "59.898092",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780202001",
               "stop_name": "Sk\u00e4ve",
               "stop_lat": "59.890125",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700425001",
               "stop_name": "Uppsala Brillinge",
               "stop_lat": "59.878468",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700141003",
               "stop_name": "Uppsala Gr\u00e4nbystaden",
               "stop_lat": "59.875725",
@@ -86,6 +103,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700541001",
               "stop_name": "Uppsala Molngatan",
               "stop_lat": "59.869840",
@@ -94,7 +113,12 @@
               "parent_station": "9021003700541000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [

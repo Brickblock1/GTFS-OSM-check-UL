@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003015100000",
   "agency_id": "33010000000001407",
   "route_short_name": "151",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000198946161",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003779645001",
               "stop_name": "Villinge",
               "stop_lat": "59.834725",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779077002",
               "stop_name": "Falebro",
               "stop_lat": "59.824139",
@@ -32,6 +37,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779075002",
               "stop_name": "Berga",
               "stop_lat": "59.818612",
@@ -41,6 +48,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779975001",
               "stop_name": "Bj\u00f6rkbackag\u00e5rden (Danmark)",
               "stop_lat": "59.804762",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780392001",
               "stop_name": "Edebybro 808",
               "stop_lat": "59.807505",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780396001",
               "stop_name": "Edeby Danmark",
               "stop_lat": "59.812039",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780400001",
               "stop_name": "Linn\u00e9s Hammarby",
               "stop_lat": "59.816847",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780401001",
               "stop_name": "Hammarby Danmark",
               "stop_lat": "59.819243",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780406001",
               "stop_name": "Tjocksta",
               "stop_lat": "59.827024",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780405001",
               "stop_name": "Charlottenberg",
               "stop_lat": "59.826863",
@@ -104,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780407001",
               "stop_name": "Danmarks pr\u00e4stg\u00e5rd",
               "stop_lat": "59.828430",
@@ -113,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780410001",
               "stop_name": "G\u00f6ransg\u00e5rden",
               "stop_lat": "59.830783",
@@ -122,6 +147,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779670001",
               "stop_name": "Danmarksby",
               "stop_lat": "59.832427",
@@ -131,6 +158,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780197003",
               "stop_name": "Danmarks skola",
               "stop_lat": "59.830519",
@@ -139,7 +168,12 @@
               "parent_station": "9021003780197000",
               "platform_code": "C"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -2398,8 +2432,11 @@
       "trips": [
         {
           "trip_id": "33010000198946180",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780197003",
               "stop_name": "Danmarks skola",
               "stop_lat": "59.830519",
@@ -2409,6 +2446,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700362001",
               "stop_name": "Uppsala Backmov\u00e4gen",
               "stop_lat": "59.815895",
@@ -2418,6 +2457,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700361001",
               "stop_name": "Uppsala Hultv\u00e4gen",
               "stop_lat": "59.818239",
@@ -2427,6 +2468,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780965001",
               "stop_name": "Uppsala Upps\u00e4vjaskolan",
               "stop_lat": "59.820323",
@@ -2436,6 +2479,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700340002",
               "stop_name": "Uppsala Daneport",
               "stop_lat": "59.810873",
@@ -2444,7 +2489,12 @@
               "parent_station": "9021003700340000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -3531,8 +3581,11 @@
       "trips": [
         {
           "trip_id": "33010000198946236",
+          "service_id": "55",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700340001",
               "stop_name": "Uppsala Daneport",
               "stop_lat": "59.810996",
@@ -3542,6 +3595,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700364001",
               "stop_name": "Uppsala V\u00e4vstolsv\u00e4gen",
               "stop_lat": "59.814881",
@@ -3551,6 +3606,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780914002",
               "stop_name": "Uppsala N\u00e5ntuna g\u00e5rd",
               "stop_lat": "59.813343",
@@ -3560,6 +3617,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780912002",
               "stop_name": "Uppsala Pustn\u00e4s",
               "stop_lat": "59.804350",
@@ -3569,6 +3628,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780913002",
               "stop_name": "Uppsala Lugnet (vid \u00e5n)",
               "stop_lat": "59.795219",
@@ -3578,6 +3639,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700553002",
               "stop_name": "Uppsala N\u00e5ntuna v\u00e4gsk\u00e4l",
               "stop_lat": "59.785660",
@@ -3587,6 +3650,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700555001",
               "stop_name": "Uppsala Lugnet",
               "stop_lat": "59.792751",
@@ -3596,6 +3661,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700340001",
               "stop_name": "Uppsala Daneport",
               "stop_lat": "59.810996",
@@ -3605,6 +3672,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700355001",
               "stop_name": "Uppsala Handarbetsv\u00e4gen",
               "stop_lat": "59.820816",
@@ -3614,6 +3683,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780965001",
               "stop_name": "Uppsala Upps\u00e4vjaskolan",
               "stop_lat": "59.820323",
@@ -3623,6 +3694,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779075002",
               "stop_name": "Berga",
               "stop_lat": "59.818612",
@@ -3632,6 +3705,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780391003",
               "stop_name": "S\u00f6derby (Danmark)",
               "stop_lat": "59.804762",
@@ -3641,6 +3716,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780197003",
               "stop_name": "Danmarks skola",
               "stop_lat": "59.830519",
@@ -3649,12 +3726,20 @@
               "parent_station": "9021003780197000",
               "platform_code": "C"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "55",
+            "start_date": "20241025",
+            "end_date": "20241213"
+          }
         },
         {
           "trip_id": "33010000213509910",
+          "service_id": "69",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700340001",
               "stop_name": "Uppsala Daneport",
               "stop_lat": "59.810996",
@@ -3664,6 +3749,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700364001",
               "stop_name": "Uppsala V\u00e4vstolsv\u00e4gen",
               "stop_lat": "59.814881",
@@ -3673,6 +3760,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780914002",
               "stop_name": "Uppsala N\u00e5ntuna g\u00e5rd",
               "stop_lat": "59.813343",
@@ -3682,6 +3771,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780912002",
               "stop_name": "Uppsala Pustn\u00e4s",
               "stop_lat": "59.804350",
@@ -3691,6 +3782,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780913002",
               "stop_name": "Uppsala Lugnet (vid \u00e5n)",
               "stop_lat": "59.795219",
@@ -3700,6 +3793,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700553002",
               "stop_name": "Uppsala N\u00e5ntuna v\u00e4gsk\u00e4l",
               "stop_lat": "59.785660",
@@ -3709,6 +3804,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700555001",
               "stop_name": "Uppsala Lugnet",
               "stop_lat": "59.792751",
@@ -3718,6 +3815,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700340001",
               "stop_name": "Uppsala Daneport",
               "stop_lat": "59.810996",
@@ -3727,6 +3826,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700355001",
               "stop_name": "Uppsala Handarbetsv\u00e4gen",
               "stop_lat": "59.820816",
@@ -3736,6 +3837,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780965001",
               "stop_name": "Uppsala Upps\u00e4vjaskolan",
               "stop_lat": "59.820323",
@@ -3745,6 +3848,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779075002",
               "stop_name": "Berga",
               "stop_lat": "59.818612",
@@ -3754,6 +3859,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780391003",
               "stop_name": "S\u00f6derby (Danmark)",
               "stop_lat": "59.804762",
@@ -3763,6 +3870,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780197003",
               "stop_name": "Danmarks skola",
               "stop_lat": "59.830519",
@@ -3771,7 +3880,12 @@
               "parent_station": "9021003780197000",
               "platform_code": "C"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "69",
+            "start_date": "20241216",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -7306,8 +7420,11 @@
       "trips": [
         {
           "trip_id": "33010000198946259",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780965001",
               "stop_name": "Uppsala Upps\u00e4vjaskolan",
               "stop_lat": "59.820323",
@@ -7317,6 +7434,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700340001",
               "stop_name": "Uppsala Daneport",
               "stop_lat": "59.810996",
@@ -7326,6 +7445,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700364001",
               "stop_name": "Uppsala V\u00e4vstolsv\u00e4gen",
               "stop_lat": "59.814881",
@@ -7335,6 +7456,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780914002",
               "stop_name": "Uppsala N\u00e5ntuna g\u00e5rd",
               "stop_lat": "59.813343",
@@ -7344,6 +7467,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780912002",
               "stop_name": "Uppsala Pustn\u00e4s",
               "stop_lat": "59.804350",
@@ -7353,6 +7478,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780913002",
               "stop_name": "Uppsala Lugnet (vid \u00e5n)",
               "stop_lat": "59.795219",
@@ -7361,7 +7488,12 @@
               "parent_station": "9021003780913000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -8556,8 +8688,11 @@
       "trips": [
         {
           "trip_id": "33010000201341478",
+          "service_id": "55",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780197003",
               "stop_name": "Danmarks skola",
               "stop_lat": "59.830519",
@@ -8567,6 +8702,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779645001",
               "stop_name": "Villinge",
               "stop_lat": "59.834725",
@@ -8576,6 +8713,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779075002",
               "stop_name": "Berga",
               "stop_lat": "59.818612",
@@ -8585,6 +8724,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779975001",
               "stop_name": "Bj\u00f6rkbackag\u00e5rden (Danmark)",
               "stop_lat": "59.804762",
@@ -8594,6 +8735,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780386001",
               "stop_name": "Linn\u00e9s Hammarby v\u00e4gsk\u00e4l",
               "stop_lat": "59.803558",
@@ -8603,6 +8746,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780392001",
               "stop_name": "Edebybro 808",
               "stop_lat": "59.807505",
@@ -8612,6 +8757,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780396001",
               "stop_name": "Edeby Danmark",
               "stop_lat": "59.812039",
@@ -8621,6 +8768,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780400001",
               "stop_name": "Linn\u00e9s Hammarby",
               "stop_lat": "59.816847",
@@ -8630,6 +8779,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780401001",
               "stop_name": "Hammarby Danmark",
               "stop_lat": "59.819243",
@@ -8639,6 +8790,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780406001",
               "stop_name": "Tjocksta",
               "stop_lat": "59.827024",
@@ -8648,6 +8801,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780405001",
               "stop_name": "Charlottenberg",
               "stop_lat": "59.826863",
@@ -8657,6 +8812,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780407001",
               "stop_name": "Danmarks pr\u00e4stg\u00e5rd",
               "stop_lat": "59.828430",
@@ -8666,6 +8823,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780410001",
               "stop_name": "G\u00f6ransg\u00e5rden",
               "stop_lat": "59.830783",
@@ -8675,6 +8834,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779670001",
               "stop_name": "Danmarksby",
               "stop_lat": "59.832427",
@@ -8683,12 +8844,20 @@
               "parent_station": "9021003779670000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "55",
+            "start_date": "20241025",
+            "end_date": "20241213"
+          }
         },
         {
           "trip_id": "33010000201341505",
+          "service_id": "111",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780197003",
               "stop_name": "Danmarks skola",
               "stop_lat": "59.830519",
@@ -8698,6 +8867,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779645001",
               "stop_name": "Villinge",
               "stop_lat": "59.834725",
@@ -8707,6 +8878,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779075002",
               "stop_name": "Berga",
               "stop_lat": "59.818612",
@@ -8716,6 +8889,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779975001",
               "stop_name": "Bj\u00f6rkbackag\u00e5rden (Danmark)",
               "stop_lat": "59.804762",
@@ -8725,6 +8900,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780386001",
               "stop_name": "Linn\u00e9s Hammarby v\u00e4gsk\u00e4l",
               "stop_lat": "59.803558",
@@ -8734,6 +8911,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780392001",
               "stop_name": "Edebybro 808",
               "stop_lat": "59.807505",
@@ -8743,6 +8922,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780396001",
               "stop_name": "Edeby Danmark",
               "stop_lat": "59.812039",
@@ -8752,6 +8933,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780400001",
               "stop_name": "Linn\u00e9s Hammarby",
               "stop_lat": "59.816847",
@@ -8761,6 +8944,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780401001",
               "stop_name": "Hammarby Danmark",
               "stop_lat": "59.819243",
@@ -8770,6 +8955,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780406001",
               "stop_name": "Tjocksta",
               "stop_lat": "59.827024",
@@ -8779,6 +8966,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780405001",
               "stop_name": "Charlottenberg",
               "stop_lat": "59.826863",
@@ -8788,6 +8977,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780407001",
               "stop_name": "Danmarks pr\u00e4stg\u00e5rd",
               "stop_lat": "59.828430",
@@ -8797,6 +8988,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780410001",
               "stop_name": "G\u00f6ransg\u00e5rden",
               "stop_lat": "59.830783",
@@ -8806,6 +8999,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779670001",
               "stop_name": "Danmarksby",
               "stop_lat": "59.832427",
@@ -8814,143 +9009,20 @@
               "parent_station": "9021003779670000",
               "platform_code": "A"
             }
-          ]
-        },
-        {
-          "trip_id": "33010000213509888",
-          "stops": [
-            {
-              "stop_id": "9022003780197003",
-              "stop_name": "Danmarks skola",
-              "stop_lat": "59.830519",
-              "stop_lon": "17.739581",
-              "location_type": "0",
-              "parent_station": "9021003780197000",
-              "platform_code": "C"
-            },
-            {
-              "stop_id": "9022003779645001",
-              "stop_name": "Villinge",
-              "stop_lat": "59.834725",
-              "stop_lon": "17.723968",
-              "location_type": "0",
-              "parent_station": "9021003779645000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003779075002",
-              "stop_name": "Berga",
-              "stop_lat": "59.818612",
-              "stop_lon": "17.739676",
-              "location_type": "0",
-              "parent_station": "9021003779075000",
-              "platform_code": "B"
-            },
-            {
-              "stop_id": "9022003779975001",
-              "stop_name": "Bj\u00f6rkbackag\u00e5rden (Danmark)",
-              "stop_lat": "59.804762",
-              "stop_lon": "17.751046",
-              "location_type": "0",
-              "parent_station": "9021003779975000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780386001",
-              "stop_name": "Linn\u00e9s Hammarby v\u00e4gsk\u00e4l",
-              "stop_lat": "59.803558",
-              "stop_lon": "17.769224",
-              "location_type": "0",
-              "parent_station": "9021003780386000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780392001",
-              "stop_name": "Edebybro 808",
-              "stop_lat": "59.807505",
-              "stop_lon": "17.773627",
-              "location_type": "0",
-              "parent_station": "9021003780392000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780396001",
-              "stop_name": "Edeby Danmark",
-              "stop_lat": "59.812039",
-              "stop_lon": "17.775445",
-              "location_type": "0",
-              "parent_station": "9021003780396000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780400001",
-              "stop_name": "Linn\u00e9s Hammarby",
-              "stop_lat": "59.816847",
-              "stop_lon": "17.776352",
-              "location_type": "0",
-              "parent_station": "9021003780400000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780401001",
-              "stop_name": "Hammarby Danmark",
-              "stop_lat": "59.819243",
-              "stop_lon": "17.780042",
-              "location_type": "0",
-              "parent_station": "9021003780401000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780406001",
-              "stop_name": "Tjocksta",
-              "stop_lat": "59.827024",
-              "stop_lon": "17.777292",
-              "location_type": "0",
-              "parent_station": "9021003780406000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780405001",
-              "stop_name": "Charlottenberg",
-              "stop_lat": "59.826863",
-              "stop_lon": "17.768794",
-              "location_type": "0",
-              "parent_station": "9021003780405000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780407001",
-              "stop_name": "Danmarks pr\u00e4stg\u00e5rd",
-              "stop_lat": "59.828430",
-              "stop_lon": "17.762484",
-              "location_type": "0",
-              "parent_station": "9021003780407000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003780410001",
-              "stop_name": "G\u00f6ransg\u00e5rden",
-              "stop_lat": "59.830783",
-              "stop_lon": "17.750334",
-              "location_type": "0",
-              "parent_station": "9021003780410000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003779670001",
-              "stop_name": "Danmarksby",
-              "stop_lat": "59.832427",
-              "stop_lon": "17.744775",
-              "location_type": "0",
-              "parent_station": "9021003779670000",
-              "platform_code": "A"
-            }
-          ]
+          ],
+          "service": {
+            "service_id": "111",
+            "start_date": "20241106",
+            "end_date": "20241212"
+          }
         },
         {
           "trip_id": "33010000213509865",
+          "service_id": "69",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780197003",
               "stop_name": "Danmarks skola",
               "stop_lat": "59.830519",
@@ -8960,6 +9032,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779645001",
               "stop_name": "Villinge",
               "stop_lat": "59.834725",
@@ -8969,6 +9043,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779075002",
               "stop_name": "Berga",
               "stop_lat": "59.818612",
@@ -8978,6 +9054,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779975001",
               "stop_name": "Bj\u00f6rkbackag\u00e5rden (Danmark)",
               "stop_lat": "59.804762",
@@ -8987,6 +9065,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780386001",
               "stop_name": "Linn\u00e9s Hammarby v\u00e4gsk\u00e4l",
               "stop_lat": "59.803558",
@@ -8996,6 +9076,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780392001",
               "stop_name": "Edebybro 808",
               "stop_lat": "59.807505",
@@ -9005,6 +9087,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780396001",
               "stop_name": "Edeby Danmark",
               "stop_lat": "59.812039",
@@ -9014,6 +9098,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780400001",
               "stop_name": "Linn\u00e9s Hammarby",
               "stop_lat": "59.816847",
@@ -9023,6 +9109,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780401001",
               "stop_name": "Hammarby Danmark",
               "stop_lat": "59.819243",
@@ -9032,6 +9120,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780406001",
               "stop_name": "Tjocksta",
               "stop_lat": "59.827024",
@@ -9041,6 +9131,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780405001",
               "stop_name": "Charlottenberg",
               "stop_lat": "59.826863",
@@ -9050,6 +9142,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780407001",
               "stop_name": "Danmarks pr\u00e4stg\u00e5rd",
               "stop_lat": "59.828430",
@@ -9059,6 +9153,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780410001",
               "stop_name": "G\u00f6ransg\u00e5rden",
               "stop_lat": "59.830783",
@@ -9068,6 +9164,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779670001",
               "stop_name": "Danmarksby",
               "stop_lat": "59.832427",
@@ -9076,7 +9174,177 @@
               "parent_station": "9021003779670000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "69",
+            "start_date": "20241216",
+            "end_date": "20250612"
+          }
+        },
+        {
+          "trip_id": "33010000213509888",
+          "service_id": "112",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003780197003",
+              "stop_name": "Danmarks skola",
+              "stop_lat": "59.830519",
+              "stop_lon": "17.739581",
+              "location_type": "0",
+              "parent_station": "9021003780197000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779645001",
+              "stop_name": "Villinge",
+              "stop_lat": "59.834725",
+              "stop_lon": "17.723968",
+              "location_type": "0",
+              "parent_station": "9021003779645000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779075002",
+              "stop_name": "Berga",
+              "stop_lat": "59.818612",
+              "stop_lon": "17.739676",
+              "location_type": "0",
+              "parent_station": "9021003779075000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779975001",
+              "stop_name": "Bj\u00f6rkbackag\u00e5rden (Danmark)",
+              "stop_lat": "59.804762",
+              "stop_lon": "17.751046",
+              "location_type": "0",
+              "parent_station": "9021003779975000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780386001",
+              "stop_name": "Linn\u00e9s Hammarby v\u00e4gsk\u00e4l",
+              "stop_lat": "59.803558",
+              "stop_lon": "17.769224",
+              "location_type": "0",
+              "parent_station": "9021003780386000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780392001",
+              "stop_name": "Edebybro 808",
+              "stop_lat": "59.807505",
+              "stop_lon": "17.773627",
+              "location_type": "0",
+              "parent_station": "9021003780392000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780396001",
+              "stop_name": "Edeby Danmark",
+              "stop_lat": "59.812039",
+              "stop_lon": "17.775445",
+              "location_type": "0",
+              "parent_station": "9021003780396000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780400001",
+              "stop_name": "Linn\u00e9s Hammarby",
+              "stop_lat": "59.816847",
+              "stop_lon": "17.776352",
+              "location_type": "0",
+              "parent_station": "9021003780400000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780401001",
+              "stop_name": "Hammarby Danmark",
+              "stop_lat": "59.819243",
+              "stop_lon": "17.780042",
+              "location_type": "0",
+              "parent_station": "9021003780401000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780406001",
+              "stop_name": "Tjocksta",
+              "stop_lat": "59.827024",
+              "stop_lon": "17.777292",
+              "location_type": "0",
+              "parent_station": "9021003780406000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780405001",
+              "stop_name": "Charlottenberg",
+              "stop_lat": "59.826863",
+              "stop_lon": "17.768794",
+              "location_type": "0",
+              "parent_station": "9021003780405000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780407001",
+              "stop_name": "Danmarks pr\u00e4stg\u00e5rd",
+              "stop_lat": "59.828430",
+              "stop_lon": "17.762484",
+              "location_type": "0",
+              "parent_station": "9021003780407000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780410001",
+              "stop_name": "G\u00f6ransg\u00e5rden",
+              "stop_lat": "59.830783",
+              "stop_lon": "17.750334",
+              "location_type": "0",
+              "parent_station": "9021003780410000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779670001",
+              "stop_name": "Danmarksby",
+              "stop_lat": "59.832427",
+              "stop_lon": "17.744775",
+              "location_type": "0",
+              "parent_station": "9021003779670000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "112",
+            "start_date": "20241218",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [

@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003027400000",
   "agency_id": "33010000000001407",
   "route_short_name": "274",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000210954344",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003781732001",
               "stop_name": "Gunsta (Bred)",
               "stop_lat": "59.687789",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781253001",
               "stop_name": "Sk\u00e4lby (Bred)",
               "stop_lat": "59.675112",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781800001",
               "stop_name": "Breds-H\u00e4llby",
               "stop_lat": "59.667265",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781733001",
               "stop_name": "Ytterby (Bred)",
               "stop_lat": "59.656938",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781734001",
               "stop_name": "Ekensberg (Tillinge)",
               "stop_lat": "59.629292",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781150001",
               "stop_name": "Tedav\u00e4gen",
               "stop_lat": "59.622349",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781148001",
               "stop_name": "Dr\u00e4llsta v\u00e4gsk\u00e4l",
               "stop_lat": "59.621693",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781175001",
               "stop_name": "Hovdesta",
               "stop_lat": "59.633847",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781735001",
               "stop_name": "Ullbro",
               "stop_lat": "59.639081",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781736001",
               "stop_name": "H\u00e4sselby (Tillinge)",
               "stop_lat": "59.638585",
@@ -104,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781737001",
               "stop_name": "\u00d6r (Tillinge)",
               "stop_lat": "59.636717",
@@ -113,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781169002",
               "stop_name": "Tillinge kyrka",
               "stop_lat": "59.631663",
@@ -122,6 +147,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781637001",
               "stop_name": "Hummelsta skola",
               "stop_lat": "59.623943",
@@ -131,6 +158,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781161001",
               "stop_name": "Dorsilla v\u00e4gsk\u00e4l",
               "stop_lat": "59.629430",
@@ -140,6 +169,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781169001",
               "stop_name": "Tillinge kyrka",
               "stop_lat": "59.631690",
@@ -149,6 +180,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781355001",
               "stop_name": "Enk\u00f6ping V\u00e4sterleden",
               "stop_lat": "59.637412",
@@ -158,6 +191,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781415004",
               "stop_name": "Enk\u00f6ping Westerlundska gymnasiet",
               "stop_lat": "59.634164",
@@ -167,6 +202,8 @@
               "platform_code": "2"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781416001",
               "stop_name": "Enk\u00f6ping S:t Iliansskolan",
               "stop_lat": "59.642282",
@@ -175,7 +212,12 @@
               "parent_station": "9021003781416000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [

@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003018800000",
   "agency_id": "33010000000001407",
   "route_short_name": "188",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000201323141",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003191216001",
               "stop_name": "Sigtuna H\u00e4llsboskolan",
               "stop_lat": "59.627257",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191002001",
               "stop_name": "Sigtuna Tvillingbackarna",
               "stop_lat": "59.622388",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191004001",
               "stop_name": "Sigtuna M\u00e4larg\u00e5rden",
               "stop_lat": "59.623370",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191006001",
               "stop_name": "Sigtuna K\u00e4mpasten",
               "stop_lat": "59.622073",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191008001",
               "stop_name": "Sigtuna Stora Sjudarg\u00e5rden",
               "stop_lat": "59.617632",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191007001",
               "stop_name": "Sigtuna Lilla Sjudarg\u00e5rden",
               "stop_lat": "59.616508",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191009001",
               "stop_name": "Sigtuna folkh\u00f6gskola",
               "stop_lat": "59.615104",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191167001",
               "stop_name": "Sigtuna L\u00e4roverket",
               "stop_lat": "59.614097",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191010001",
               "stop_name": "Sigtuna Sigtunastiftelsen",
               "stop_lat": "59.614536",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191011001",
               "stop_name": "Sigtuna Doktorsg\u00e5rden",
               "stop_lat": "59.614985",
@@ -104,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191210001",
               "stop_name": "Sigtuna Klockbacken",
               "stop_lat": "59.615940",
@@ -113,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191040001",
               "stop_name": "Sigtuna busstation",
               "stop_lat": "59.617453",
@@ -122,6 +147,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191215001",
               "stop_name": "Pilsbo",
               "stop_lat": "59.623800",
@@ -131,6 +158,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003791227001",
               "stop_name": "Sigtuna Ragvaldsbov\u00e4gen",
               "stop_lat": "59.626767",
@@ -140,6 +169,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191223001",
               "stop_name": "Venngarnsv\u00e4gen",
               "stop_lat": "59.648507",
@@ -149,6 +180,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191226001",
               "stop_name": "Murarbo",
               "stop_lat": "59.652634",
@@ -158,6 +191,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191229001",
               "stop_name": "\u00d6sterby (v\u00e4g 263)",
               "stop_lat": "59.659434",
@@ -167,6 +202,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191230001",
               "stop_name": "Fridsberg",
               "stop_lat": "59.664803",
@@ -176,6 +213,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191231001",
               "stop_name": "Haga kyrka",
               "stop_lat": "59.671998",
@@ -185,6 +224,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191233001",
               "stop_name": "Skr\u00e5msta - L\u00e4nsgr\u00e4nsen",
               "stop_lat": "59.682548",
@@ -194,6 +235,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780222001",
               "stop_name": "Ala",
               "stop_lat": "59.691286",
@@ -203,6 +246,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780230001",
               "stop_name": "\u00d6rsandsv\u00e4gen",
               "stop_lat": "59.705897",
@@ -212,6 +257,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780231001",
               "stop_name": "Hakn\u00e4sv\u00e4gen",
               "stop_lat": "59.710551",
@@ -221,6 +268,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780233002",
               "stop_name": "Vassunda",
               "stop_lat": "59.714167",
@@ -230,6 +279,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780245001",
               "stop_name": "Brantshammar",
               "stop_lat": "59.726670",
@@ -239,6 +290,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780248001",
               "stop_name": "Rosenlund",
               "stop_lat": "59.729416",
@@ -248,6 +301,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780139001",
               "stop_name": "Tuna bro",
               "stop_lat": "59.731059",
@@ -257,6 +312,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780253001",
               "stop_name": "Rickebasta",
               "stop_lat": "59.734226",
@@ -266,6 +323,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780252001",
               "stop_name": "Alsike kyrka",
               "stop_lat": "59.733967",
@@ -275,6 +334,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780258001",
               "stop_name": "Krusenberg",
               "stop_lat": "59.739038",
@@ -284,6 +345,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780264001",
               "stop_name": "Moralund (Krusenberg)",
               "stop_lat": "59.745409",
@@ -293,6 +356,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780287001",
               "stop_name": "Dragontorpet",
               "stop_lat": "59.752722",
@@ -302,6 +367,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780544001",
               "stop_name": "Morga",
               "stop_lat": "59.757912",
@@ -311,6 +378,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780317001",
               "stop_name": "Fredrikslund",
               "stop_lat": "59.764689",
@@ -320,6 +389,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780331001",
               "stop_name": "Djupviken",
               "stop_lat": "59.770301",
@@ -329,6 +400,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780352001",
               "stop_name": "Kungshamn",
               "stop_lat": "59.780531",
@@ -338,6 +411,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700553001",
               "stop_name": "Uppsala N\u00e5ntuna v\u00e4gsk\u00e4l",
               "stop_lat": "59.786413",
@@ -347,6 +422,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700289001",
               "stop_name": "Uppsala Sunnerstabacken",
               "stop_lat": "59.790371",
@@ -356,6 +433,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700287001",
               "stop_name": "Uppsala L\u00e4rkv\u00e4gen",
               "stop_lat": "59.796994",
@@ -365,6 +444,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700285001",
               "stop_name": "Uppsala Holmv\u00e4gen",
               "stop_lat": "59.805660",
@@ -374,6 +455,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700284001",
               "stop_name": "Uppsala Ultunaall\u00e9n",
               "stop_lat": "59.813145",
@@ -383,6 +466,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700225003",
               "stop_name": "Uppsala Campus Ultuna",
               "stop_lat": "59.815325",
@@ -392,6 +477,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700224001",
               "stop_name": "Uppsala Veterin\u00e4rv\u00e4gen",
               "stop_lat": "59.818594",
@@ -401,6 +488,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700388001",
               "stop_name": "Uppsala Hammarby kyrkog\u00e5rd",
               "stop_lat": "59.827760",
@@ -410,6 +499,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700387001",
               "stop_name": "Uppsala Uller\u00e5ker norra",
               "stop_lat": "59.832760",
@@ -419,6 +510,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700525001",
               "stop_name": "Uppsala Science Park",
               "stop_lat": "59.843157",
@@ -428,6 +521,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700025001",
               "stop_name": "Uppsala Akademiska sjukhuset s\u00f6dra",
               "stop_lat": "59.846365",
@@ -437,6 +532,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700587001",
               "stop_name": "Uppsala Akademiska sjukhuset",
               "stop_lat": "59.850552",
@@ -446,6 +543,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700578003",
               "stop_name": "Uppsala Svandammen",
               "stop_lat": "59.852461",
@@ -455,6 +554,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700325001",
               "stop_name": "Uppsala B\u00e4verns gr\u00e4nd",
               "stop_lat": "59.856129",
@@ -464,6 +565,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700600014",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857263",
@@ -472,7 +575,12 @@
               "parent_station": "9021003700600000",
               "platform_code": "D1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         }
       ],
       "points": [
@@ -5514,9 +5622,12 @@
       "shape_id": "1033010000198357920",
       "trips": [
         {
-          "trip_id": "33010000198915958",
+          "trip_id": "33010000214128261",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700600014",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857263",
@@ -5526,6 +5637,8 @@
               "platform_code": "D1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700578004",
               "stop_name": "Uppsala Svandammen",
               "stop_lat": "59.852965",
@@ -5535,6 +5648,8 @@
               "platform_code": "D"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700587002",
               "stop_name": "Uppsala Akademiska sjukhuset",
               "stop_lat": "59.850454",
@@ -5544,6 +5659,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700025002",
               "stop_name": "Uppsala Akademiska sjukhuset s\u00f6dra",
               "stop_lat": "59.846579",
@@ -5553,6 +5670,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700525002",
               "stop_name": "Uppsala Science Park",
               "stop_lat": "59.843179",
@@ -5562,6 +5681,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700387002",
               "stop_name": "Uppsala Uller\u00e5ker norra",
               "stop_lat": "59.832638",
@@ -5571,6 +5692,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700388002",
               "stop_name": "Uppsala Hammarby kyrkog\u00e5rd",
               "stop_lat": "59.827511",
@@ -5580,6 +5703,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700224005",
               "stop_name": "Uppsala Veterin\u00e4rv\u00e4gen",
               "stop_lat": "59.818780",
@@ -5589,6 +5714,8 @@
               "platform_code": "E"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700225002",
               "stop_name": "Uppsala Campus Ultuna",
               "stop_lat": "59.815865",
@@ -5598,6 +5725,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700284002",
               "stop_name": "Uppsala Ultunaall\u00e9n",
               "stop_lat": "59.813240",
@@ -5607,6 +5736,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700285004",
               "stop_name": "Uppsala Holmv\u00e4gen",
               "stop_lat": "59.805619",
@@ -5616,6 +5747,8 @@
               "platform_code": "D"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700287002",
               "stop_name": "Uppsala L\u00e4rkv\u00e4gen",
               "stop_lat": "59.796241",
@@ -5625,6 +5758,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700289004",
               "stop_name": "Uppsala Sunnerstabacken",
               "stop_lat": "59.790065",
@@ -5634,6 +5769,8 @@
               "platform_code": "D"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003700553002",
               "stop_name": "Uppsala N\u00e5ntuna v\u00e4gsk\u00e4l",
               "stop_lat": "59.785660",
@@ -5643,6 +5780,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780352002",
               "stop_name": "Kungshamn",
               "stop_lat": "59.779970",
@@ -5652,6 +5791,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780331002",
               "stop_name": "Djupviken",
               "stop_lat": "59.770210",
@@ -5661,6 +5802,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780317002",
               "stop_name": "Fredrikslund",
               "stop_lat": "59.764346",
@@ -5670,6 +5813,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780544002",
               "stop_name": "Morga",
               "stop_lat": "59.758310",
@@ -5679,6 +5824,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780287002",
               "stop_name": "Dragontorpet",
               "stop_lat": "59.752699",
@@ -5688,6 +5835,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780264002",
               "stop_name": "Moralund (Krusenberg)",
               "stop_lat": "59.745238",
@@ -5697,6 +5846,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780258002",
               "stop_name": "Krusenberg",
               "stop_lat": "59.738956",
@@ -5706,6 +5857,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780252002",
               "stop_name": "Alsike kyrka",
               "stop_lat": "59.733885",
@@ -5715,6 +5868,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780253002",
               "stop_name": "Rickebasta",
               "stop_lat": "59.734080",
@@ -5724,6 +5879,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780139002",
               "stop_name": "Tuna bro",
               "stop_lat": "59.730820",
@@ -5733,6 +5890,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780248002",
               "stop_name": "Rosenlund",
               "stop_lat": "59.728807",
@@ -5742,6 +5901,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780245002",
               "stop_name": "Brantshammar",
               "stop_lat": "59.726473",
@@ -5751,6 +5912,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780233001",
               "stop_name": "Vassunda",
               "stop_lat": "59.714081",
@@ -5760,6 +5923,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780231002",
               "stop_name": "Hakn\u00e4sv\u00e4gen",
               "stop_lat": "59.710278",
@@ -5769,6 +5934,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780230002",
               "stop_name": "\u00d6rsandsv\u00e4gen",
               "stop_lat": "59.705829",
@@ -5778,6 +5945,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780222002",
               "stop_name": "Ala",
               "stop_lat": "59.691305",
@@ -5787,6 +5956,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191233002",
               "stop_name": "Skr\u00e5msta - L\u00e4nsgr\u00e4nsen",
               "stop_lat": "59.682525",
@@ -5796,6 +5967,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191231002",
               "stop_name": "Haga kyrka",
               "stop_lat": "59.672106",
@@ -5805,6 +5978,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191230002",
               "stop_name": "Fridsberg",
               "stop_lat": "59.664851",
@@ -5814,6 +5989,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191229002",
               "stop_name": "\u00d6sterby (v\u00e4g 263)",
               "stop_lat": "59.658434",
@@ -5823,6 +6000,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191226002",
               "stop_name": "Murarbo",
               "stop_lat": "59.652615",
@@ -5832,6 +6011,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191223002",
               "stop_name": "Venngarnsv\u00e4gen",
               "stop_lat": "59.649696",
@@ -5841,6 +6022,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191028002",
               "stop_name": "Vibyv\u00e4gen norra",
               "stop_lat": "59.632316",
@@ -5850,6 +6033,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003791227002",
               "stop_name": "Ragvaldsbov\u00e4gen (Sigtuna)",
               "stop_lat": "59.626662",
@@ -5859,6 +6044,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191215002",
               "stop_name": "Pilsbo",
               "stop_lat": "59.623533",
@@ -5868,6 +6055,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191040002",
               "stop_name": "Sigtuna busstation",
               "stop_lat": "59.617333",
@@ -5877,6 +6066,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191210002",
               "stop_name": "Sigtuna Klockbacken",
               "stop_lat": "59.615971",
@@ -5886,6 +6077,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191011002",
               "stop_name": "Sigtuna Doktorsg\u00e5rden",
               "stop_lat": "59.615068",
@@ -5895,6 +6088,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191010002",
               "stop_name": "Sigtuna Sigtunastiftelsen",
               "stop_lat": "59.614717",
@@ -5904,6 +6099,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191167002",
               "stop_name": "Sigtuna L\u00e4roverket",
               "stop_lat": "59.614188",
@@ -5913,6 +6110,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191009002",
               "stop_name": "Sigtuna folkh\u00f6gskola",
               "stop_lat": "59.615193",
@@ -5922,6 +6121,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191007002",
               "stop_name": "Sigtuna Lilla Sjudarg\u00e5rden",
               "stop_lat": "59.616646",
@@ -5931,6 +6132,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191008002",
               "stop_name": "Sigtuna Stora Sjudarg\u00e5rden",
               "stop_lat": "59.617769",
@@ -5940,6 +6143,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191006002",
               "stop_name": "Sigtuna K\u00e4mpasten",
               "stop_lat": "59.622017",
@@ -5949,6 +6154,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191004002",
               "stop_name": "Sigtuna M\u00e4larg\u00e5rden",
               "stop_lat": "59.623250",
@@ -5958,6 +6165,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003191002002",
               "stop_name": "Sigtuna Tvillingbackarna",
               "stop_lat": "59.622354",
@@ -5967,6 +6176,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003191216001",
               "stop_name": "Sigtuna H\u00e4llsboskolan",
               "stop_lat": "59.627257",
@@ -5975,7 +6186,12 @@
               "parent_station": "9021003191216000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         }
       ],
       "points": [
@@ -6276,6 +6492,14 @@
           "17.640015"
         ],
         [
+          "59.846579",
+          "17.639948"
+        ],
+        [
+          "59.846498",
+          "17.639979"
+        ],
+        [
           "59.846475",
           "17.639728"
         ],
@@ -6285,7 +6509,7 @@
         ],
         [
           "59.846435",
-          "17.639351"
+          "17.639334"
         ],
         [
           "59.846428",
@@ -6293,7 +6517,7 @@
         ],
         [
           "59.846302",
-          "17.637917"
+          "17.637935"
         ],
         [
           "59.846302",
@@ -6302,6 +6526,10 @@
         [
           "59.846295",
           "17.637827"
+        ],
+        [
+          "59.846271",
+          "17.637594"
         ],
         [
           "59.846263",
@@ -6320,20 +6548,12 @@
           "17.637372"
         ],
         [
-          "59.846014",
-          "17.637383"
-        ],
-        [
           "59.846005",
           "17.637383"
         ],
         [
           "59.845968",
           "17.637434"
-        ],
-        [
-          "59.845526",
-          "17.637606"
         ],
         [
           "59.845201",

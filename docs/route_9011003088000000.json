@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003088000000",
   "agency_id": "33010000000001407",
   "route_short_name": "880",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000199833827",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700600009",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857360",
@@ -23,6 +26,8 @@
               "platform_code": "C1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700333002",
               "stop_name": "Uppsala Kungs\u00e4ngsesplanaden",
               "stop_lat": "59.850028",
@@ -32,6 +37,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700547002",
               "stop_name": "Uppsala St\u00e5lgatan s\u00f6dra",
               "stop_lat": "59.845264",
@@ -41,6 +48,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003730000002",
               "stop_name": "Knivsta Ar-terminalen",
               "stop_lat": "59.740379",
@@ -50,6 +59,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003191085001",
               "stop_name": "Arlanda Flygskolan",
               "stop_lat": "59.641116",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003191157001",
               "stop_name": "Arlanda Driftv\u00e4gen",
               "stop_lat": "59.648068",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003191088003",
               "stop_name": "Arlanda SAS-hangaren",
               "stop_lat": "59.649782",
@@ -77,6 +92,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003191003002",
               "stop_name": "Arlanda Halmsj\u00f6n",
               "stop_lat": "59.654488",
@@ -85,7 +102,12 @@
               "parent_station": "9021003191003000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         }
       ],
       "points": [
@@ -4912,8 +4934,11 @@
       "trips": [
         {
           "trip_id": "33010000198597481",
+          "service_id": "1",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003191003001",
               "stop_name": "Arlanda Halmsj\u00f6n",
               "stop_lat": "59.653993",
@@ -4923,6 +4948,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003191088005",
               "stop_name": "Arlanda SAS-hangaren",
               "stop_lat": "59.650134",
@@ -4932,6 +4959,8 @@
               "platform_code": "E"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003191157002",
               "stop_name": "Arlanda Driftv\u00e4gen",
               "stop_lat": "59.648153",
@@ -4941,6 +4970,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003191085002",
               "stop_name": "Arlanda Flygskolan",
               "stop_lat": "59.640263",
@@ -4950,6 +4981,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003730000001",
               "stop_name": "Knivsta Ar-terminalen",
               "stop_lat": "59.740153",
@@ -4959,6 +4992,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700547001",
               "stop_name": "Uppsala St\u00e5lgatan s\u00f6dra",
               "stop_lat": "59.845717",
@@ -4968,6 +5003,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700333001",
               "stop_name": "Uppsala Kungs\u00e4ngsesplanaden",
               "stop_lat": "59.850218",
@@ -4977,6 +5014,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700600014",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857263",
@@ -4985,7 +5024,111 @@
               "parent_station": "9021003700600000",
               "platform_code": "D1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000214452257",
+          "service_id": "5",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003191003001",
+              "stop_name": "Arlanda Halmsj\u00f6n",
+              "stop_lat": "59.653993",
+              "stop_lon": "17.954251",
+              "location_type": "0",
+              "parent_station": "9021003191003000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003191088005",
+              "stop_name": "Arlanda SAS-hangaren",
+              "stop_lat": "59.650134",
+              "stop_lon": "17.947512",
+              "location_type": "0",
+              "parent_station": "9021003191088000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003191157002",
+              "stop_name": "Arlanda Driftv\u00e4gen",
+              "stop_lat": "59.648153",
+              "stop_lon": "17.941780",
+              "location_type": "0",
+              "parent_station": "9021003191157000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003191085002",
+              "stop_name": "Arlanda Flygskolan",
+              "stop_lat": "59.640263",
+              "stop_lon": "17.940551",
+              "location_type": "0",
+              "parent_station": "9021003191085000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003730000001",
+              "stop_name": "Knivsta Ar-terminalen",
+              "stop_lat": "59.740153",
+              "stop_lon": "17.808994",
+              "location_type": "0",
+              "parent_station": "9021003730000000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700547001",
+              "stop_name": "Uppsala St\u00e5lgatan s\u00f6dra",
+              "stop_lat": "59.845717",
+              "stop_lon": "17.673820",
+              "location_type": "0",
+              "parent_station": "9021003700547000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700333001",
+              "stop_name": "Uppsala Kungs\u00e4ngsesplanaden",
+              "stop_lat": "59.850218",
+              "stop_lon": "17.659028",
+              "location_type": "0",
+              "parent_station": "9021003700333000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600014",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857263",
+              "stop_lon": "17.648354",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "D1"
+            }
+          ],
+          "service": {
+            "service_id": "5",
+            "start_date": "20241025",
+            "end_date": "20241213"
+          }
         }
       ],
       "points": [
@@ -10115,7 +10258,7 @@
         ],
         [
           "59.845576",
-          "17.671118"
+          "17.671135"
         ],
         [
           "59.845576",
@@ -10140,10 +10283,6 @@
         [
           "59.845547",
           "17.670599"
-        ],
-        [
-          "59.845534",
-          "17.670294"
         ],
         [
           "59.845534",
@@ -10334,52 +10473,96 @@
           "17.664666"
         ],
         [
-          "59.847330",
-          "17.664560"
+          "59.847329",
+          "17.664613"
         ],
         [
-          "59.847339",
-          "17.664525"
+          "59.847357",
+          "17.664508"
         ],
         [
-          "59.847368",
-          "17.664348"
+          "59.847367",
+          "17.664419"
         ],
         [
-          "59.847417",
-          "17.664119"
+          "59.847396",
+          "17.664278"
         ],
         [
-          "59.847436",
-          "17.664031"
+          "59.847425",
+          "17.664137"
         ],
         [
-          "59.847464",
-          "17.663961"
+          "59.847472",
+          "17.663997"
         ],
         [
-          "59.847549",
-          "17.663662"
+          "59.847528",
+          "17.663857"
         ],
         [
-          "59.847815",
-          "17.663213"
+          "59.847556",
+          "17.663788"
+        ],
+        [
+          "59.847630",
+          "17.663631"
+        ],
+        [
+          "59.847667",
+          "17.663544"
+        ],
+        [
+          "59.847879",
+          "17.663181"
+        ],
+        [
+          "59.847907",
+          "17.663058"
+        ],
+        [
+          "59.848073",
+          "17.662764"
         ],
         [
           "59.848073",
           "17.662746"
         ],
         [
-          "59.848073",
-          "17.662746"
+          "59.849197",
+          "17.660721"
         ],
         [
-          "59.849299",
-          "17.660530"
+          "59.849207",
+          "17.660703"
+        ],
+        [
+          "59.849336",
+          "17.660461"
+        ],
+        [
+          "59.849437",
+          "17.660288"
+        ],
+        [
+          "59.849446",
+          "17.660270"
+        ],
+        [
+          "59.849455",
+          "17.660253"
         ],
         [
           "59.850045",
           "17.659179"
+        ],
+        [
+          "59.850174",
+          "17.658955"
+        ],
+        [
+          "59.850218",
+          "17.659028"
         ],
         [
           "59.850174",

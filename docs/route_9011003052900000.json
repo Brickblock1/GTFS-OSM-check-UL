@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003052900000",
   "agency_id": "33010000000001407",
   "route_short_name": "529",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000198779657",
+          "service_id": "96",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760122001",
               "stop_name": "H\u00e5lln\u00e4s skola",
               "stop_lat": "60.534771",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760129001",
               "stop_name": "Karlholm Bj\u00f6rk\u00e4ngsskolan",
               "stop_lat": "60.521354",
@@ -31,12 +36,20 @@
               "parent_station": "9021003760129000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "96",
+            "start_date": "20241105",
+            "end_date": "20250610"
+          }
         },
         {
           "trip_id": "33010000213041721",
+          "service_id": "96",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760122001",
               "stop_name": "H\u00e5lln\u00e4s skola",
               "stop_lat": "60.534771",
@@ -46,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760129001",
               "stop_name": "Karlholm Bj\u00f6rk\u00e4ngsskolan",
               "stop_lat": "60.521354",
@@ -54,7 +69,12 @@
               "parent_station": "9021003760129000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "96",
+            "start_date": "20241105",
+            "end_date": "20250610"
+          }
         }
       ],
       "points": [
@@ -2813,8 +2833,11 @@
       "trips": [
         {
           "trip_id": "33010000198779681",
+          "service_id": "96",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760412005",
               "stop_name": "Sk\u00e4rplinge bussterminal",
               "stop_lat": "60.470333",
@@ -2824,6 +2847,8 @@
               "platform_code": "E"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760129001",
               "stop_name": "Karlholm Bj\u00f6rk\u00e4ngsskolan",
               "stop_lat": "60.521354",
@@ -2832,12 +2857,20 @@
               "parent_station": "9021003760129000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "96",
+            "start_date": "20241105",
+            "end_date": "20250610"
+          }
         },
         {
           "trip_id": "33010000198779693",
+          "service_id": "96",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760412005",
               "stop_name": "Sk\u00e4rplinge bussterminal",
               "stop_lat": "60.470333",
@@ -2847,6 +2880,8 @@
               "platform_code": "E"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760129001",
               "stop_name": "Karlholm Bj\u00f6rk\u00e4ngsskolan",
               "stop_lat": "60.521354",
@@ -2855,7 +2890,12 @@
               "parent_station": "9021003760129000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "96",
+            "start_date": "20241105",
+            "end_date": "20250610"
+          }
         }
       ],
       "points": [
@@ -3958,8 +3998,11 @@
       "trips": [
         {
           "trip_id": "33010000198779729",
+          "service_id": "96",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760129001",
               "stop_name": "Karlholm Bj\u00f6rk\u00e4ngsskolan",
               "stop_lat": "60.521354",
@@ -3969,6 +4012,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760412005",
               "stop_name": "Sk\u00e4rplinge bussterminal",
               "stop_lat": "60.470333",
@@ -3977,12 +4022,20 @@
               "parent_station": "9021003760412000",
               "platform_code": "E"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "96",
+            "start_date": "20241105",
+            "end_date": "20250610"
+          }
         },
         {
           "trip_id": "33010000198779717",
+          "service_id": "96",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760129001",
               "stop_name": "Karlholm Bj\u00f6rk\u00e4ngsskolan",
               "stop_lat": "60.521354",
@@ -3992,6 +4045,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760412005",
               "stop_name": "Sk\u00e4rplinge bussterminal",
               "stop_lat": "60.470333",
@@ -4000,7 +4055,12 @@
               "parent_station": "9021003760412000",
               "platform_code": "E"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "96",
+            "start_date": "20241105",
+            "end_date": "20250610"
+          }
         }
       ],
       "points": [
@@ -5183,8 +5243,11 @@
       "trips": [
         {
           "trip_id": "33010000198779705",
+          "service_id": "96",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760129001",
               "stop_name": "Karlholm Bj\u00f6rk\u00e4ngsskolan",
               "stop_lat": "60.521354",
@@ -5194,6 +5257,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760122001",
               "stop_name": "H\u00e5lln\u00e4s skola",
               "stop_lat": "60.534771",
@@ -5202,7 +5267,12 @@
               "parent_station": "9021003760122000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "96",
+            "start_date": "20241105",
+            "end_date": "20250610"
+          }
         }
       ],
       "points": [

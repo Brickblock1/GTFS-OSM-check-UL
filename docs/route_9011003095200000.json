@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003095200000",
   "agency_id": "33010000000001407",
   "route_short_name": "952",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000198572381",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760005002",
               "stop_name": "Tierp station",
               "stop_lat": "60.345683",
@@ -23,6 +26,8 @@
               "platform_code": "A2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760395001",
               "stop_name": "Tierp Atlas Copco",
               "stop_lat": "60.359460",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760433001",
               "stop_name": "Tierp samhall",
               "stop_lat": "60.358458",
@@ -40,12 +47,20 @@
               "parent_station": "9021003760433000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
           "trip_id": "33010000198572391",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760005002",
               "stop_name": "Tierp station",
               "stop_lat": "60.345683",
@@ -55,6 +70,8 @@
               "platform_code": "A2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760395001",
               "stop_name": "Tierp Atlas Copco",
               "stop_lat": "60.359460",
@@ -64,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760433001",
               "stop_name": "Tierp samhall",
               "stop_lat": "60.358458",
@@ -72,7 +91,12 @@
               "parent_station": "9021003760433000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         }
       ],
       "points": [
@@ -686,73 +710,12 @@
       "shape_id": "1033010000193095842",
       "trips": [
         {
-          "trip_id": "33010000198572422",
-          "stops": [
-            {
-              "stop_id": "9022003760395001",
-              "stop_name": "Tierp Atlas Copco",
-              "stop_lat": "60.359460",
-              "stop_lon": "17.511941",
-              "location_type": "0",
-              "parent_station": "9021003760395000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760433001",
-              "stop_name": "Tierp samhall",
-              "stop_lat": "60.358458",
-              "stop_lon": "17.513085",
-              "location_type": "0",
-              "parent_station": "9021003760433000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760005007",
-              "stop_name": "Tierp station",
-              "stop_lat": "60.345486",
-              "stop_lon": "17.512371",
-              "location_type": "0",
-              "parent_station": "9021003760005000",
-              "platform_code": "B4"
-            }
-          ]
-        },
-        {
-          "trip_id": "33010000198572432",
-          "stops": [
-            {
-              "stop_id": "9022003760395001",
-              "stop_name": "Tierp Atlas Copco",
-              "stop_lat": "60.359460",
-              "stop_lon": "17.511941",
-              "location_type": "0",
-              "parent_station": "9021003760395000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760433001",
-              "stop_name": "Tierp samhall",
-              "stop_lat": "60.358458",
-              "stop_lon": "17.513085",
-              "location_type": "0",
-              "parent_station": "9021003760433000",
-              "platform_code": "A"
-            },
-            {
-              "stop_id": "9022003760005007",
-              "stop_name": "Tierp station",
-              "stop_lat": "60.345486",
-              "stop_lon": "17.512371",
-              "location_type": "0",
-              "parent_station": "9021003760005000",
-              "platform_code": "B4"
-            }
-          ]
-        },
-        {
           "trip_id": "33010000198572401",
+          "service_id": "176",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760395001",
               "stop_name": "Tierp Atlas Copco",
               "stop_lat": "60.359460",
@@ -762,6 +725,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760433001",
               "stop_name": "Tierp samhall",
               "stop_lat": "60.358458",
@@ -771,6 +736,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760005007",
               "stop_name": "Tierp station",
               "stop_lat": "60.345486",
@@ -779,12 +746,20 @@
               "parent_station": "9021003760005000",
               "platform_code": "B4"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "176",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
           "trip_id": "33010000198572412",
+          "service_id": "5",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760395001",
               "stop_name": "Tierp Atlas Copco",
               "stop_lat": "60.359460",
@@ -794,6 +769,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760433001",
               "stop_name": "Tierp samhall",
               "stop_lat": "60.358458",
@@ -803,6 +780,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760005007",
               "stop_name": "Tierp station",
               "stop_lat": "60.345486",
@@ -811,12 +790,20 @@
               "parent_station": "9021003760005000",
               "platform_code": "B4"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "5",
+            "start_date": "20241025",
+            "end_date": "20241213"
+          }
         },
         {
           "trip_id": "33010000198572442",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760395001",
               "stop_name": "Tierp Atlas Copco",
               "stop_lat": "60.359460",
@@ -826,6 +813,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760433001",
               "stop_name": "Tierp samhall",
               "stop_lat": "60.358458",
@@ -835,6 +824,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760005007",
               "stop_name": "Tierp station",
               "stop_lat": "60.345486",
@@ -843,7 +834,144 @@
               "parent_station": "9021003760005000",
               "platform_code": "B4"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000198572422",
+          "service_id": "9",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003760395001",
+              "stop_name": "Tierp Atlas Copco",
+              "stop_lat": "60.359460",
+              "stop_lon": "17.511941",
+              "location_type": "0",
+              "parent_station": "9021003760395000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003760433001",
+              "stop_name": "Tierp samhall",
+              "stop_lat": "60.358458",
+              "stop_lon": "17.513085",
+              "location_type": "0",
+              "parent_station": "9021003760433000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003760005007",
+              "stop_name": "Tierp station",
+              "stop_lat": "60.345486",
+              "stop_lon": "17.512371",
+              "location_type": "0",
+              "parent_station": "9021003760005000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000198572432",
+          "service_id": "9",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003760395001",
+              "stop_name": "Tierp Atlas Copco",
+              "stop_lat": "60.359460",
+              "stop_lon": "17.511941",
+              "location_type": "0",
+              "parent_station": "9021003760395000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003760433001",
+              "stop_name": "Tierp samhall",
+              "stop_lat": "60.358458",
+              "stop_lon": "17.513085",
+              "location_type": "0",
+              "parent_station": "9021003760433000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003760005007",
+              "stop_name": "Tierp station",
+              "stop_lat": "60.345486",
+              "stop_lon": "17.512371",
+              "location_type": "0",
+              "parent_station": "9021003760005000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000213670700",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003760395001",
+              "stop_name": "Tierp Atlas Copco",
+              "stop_lat": "60.359460",
+              "stop_lon": "17.511941",
+              "location_type": "0",
+              "parent_station": "9021003760395000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003760433001",
+              "stop_name": "Tierp samhall",
+              "stop_lat": "60.358458",
+              "stop_lon": "17.513085",
+              "location_type": "0",
+              "parent_station": "9021003760433000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003760005007",
+              "stop_name": "Tierp station",
+              "stop_lat": "60.345486",
+              "stop_lon": "17.512371",
+              "location_type": "0",
+              "parent_station": "9021003760005000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
         }
       ],
       "points": [

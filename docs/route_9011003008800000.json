@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003008800000",
   "agency_id": "33010000000001407",
   "route_short_name": "88",
@@ -11,9 +11,12 @@
       "shape_id": "1033010000184023323",
       "trips": [
         {
-          "trip_id": "33010000198590411",
+          "trip_id": "33010000198590434",
+          "service_id": "69",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003779142001",
               "stop_name": "J\u00e4lla",
               "stop_lat": "59.904062",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780201001",
               "stop_name": "Godeg\u00e5rd",
               "stop_lat": "59.898092",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780202001",
               "stop_name": "Sk\u00e4ve",
               "stop_lat": "59.890125",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700425001",
               "stop_name": "Uppsala Brillinge",
               "stop_lat": "59.878468",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700141003",
               "stop_name": "Uppsala Gr\u00e4nbystaden",
               "stop_lat": "59.875725",
@@ -59,6 +70,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700541001",
               "stop_name": "Uppsala Molngatan",
               "stop_lat": "59.869840",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700146001",
               "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
               "stop_lat": "59.866155",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700062013",
               "stop_name": "Uppsala Vaksala torg",
               "stop_lat": "59.861377",
@@ -86,6 +103,8 @@
               "platform_code": "M"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700600007",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857419",
@@ -94,12 +113,20 @@
               "parent_station": "9021003700600000",
               "platform_code": "B4"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "69",
+            "start_date": "20241216",
+            "end_date": "20250612"
+          }
         },
         {
-          "trip_id": "33010000198590434",
+          "trip_id": "33010000198590411",
+          "service_id": "69",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003779142001",
               "stop_name": "J\u00e4lla",
               "stop_lat": "59.904062",
@@ -109,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780201001",
               "stop_name": "Godeg\u00e5rd",
               "stop_lat": "59.898092",
@@ -118,6 +147,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780202001",
               "stop_name": "Sk\u00e4ve",
               "stop_lat": "59.890125",
@@ -127,6 +158,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700425001",
               "stop_name": "Uppsala Brillinge",
               "stop_lat": "59.878468",
@@ -136,6 +169,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700141003",
               "stop_name": "Uppsala Gr\u00e4nbystaden",
               "stop_lat": "59.875725",
@@ -145,6 +180,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700541001",
               "stop_name": "Uppsala Molngatan",
               "stop_lat": "59.869840",
@@ -154,6 +191,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700146001",
               "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
               "stop_lat": "59.866155",
@@ -163,6 +202,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700062013",
               "stop_name": "Uppsala Vaksala torg",
               "stop_lat": "59.861377",
@@ -172,6 +213,8 @@
               "platform_code": "M"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003700600007",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857419",
@@ -180,7 +223,232 @@
               "parent_station": "9021003700600000",
               "platform_code": "B4"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "69",
+            "start_date": "20241216",
+            "end_date": "20250612"
+          }
+        },
+        {
+          "trip_id": "33010000214452090",
+          "service_id": "55",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003779142001",
+              "stop_name": "J\u00e4lla",
+              "stop_lat": "59.904062",
+              "stop_lon": "17.716061",
+              "location_type": "0",
+              "parent_station": "9021003779142000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780201001",
+              "stop_name": "Godeg\u00e5rd",
+              "stop_lat": "59.898092",
+              "stop_lon": "17.708606",
+              "location_type": "0",
+              "parent_station": "9021003780201000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780202001",
+              "stop_name": "Sk\u00e4ve",
+              "stop_lat": "59.890125",
+              "stop_lon": "17.698234",
+              "location_type": "0",
+              "parent_station": "9021003780202000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700425001",
+              "stop_name": "Uppsala Brillinge",
+              "stop_lat": "59.878468",
+              "stop_lon": "17.682140",
+              "location_type": "0",
+              "parent_station": "9021003700425000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700141003",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875725",
+              "stop_lon": "17.676146",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700541001",
+              "stop_name": "Uppsala Molngatan",
+              "stop_lat": "59.869840",
+              "stop_lon": "17.663120",
+              "location_type": "0",
+              "parent_station": "9021003700541000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700146001",
+              "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
+              "stop_lat": "59.866155",
+              "stop_lon": "17.655148",
+              "location_type": "0",
+              "parent_station": "9021003700146000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700062013",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861377",
+              "stop_lon": "17.645011",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "M"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "55",
+            "start_date": "20241025",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "33010000214452072",
+          "service_id": "55",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003779142001",
+              "stop_name": "J\u00e4lla",
+              "stop_lat": "59.904062",
+              "stop_lon": "17.716061",
+              "location_type": "0",
+              "parent_station": "9021003779142000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780201001",
+              "stop_name": "Godeg\u00e5rd",
+              "stop_lat": "59.898092",
+              "stop_lon": "17.708606",
+              "location_type": "0",
+              "parent_station": "9021003780201000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780202001",
+              "stop_name": "Sk\u00e4ve",
+              "stop_lat": "59.890125",
+              "stop_lon": "17.698234",
+              "location_type": "0",
+              "parent_station": "9021003780202000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700425001",
+              "stop_name": "Uppsala Brillinge",
+              "stop_lat": "59.878468",
+              "stop_lon": "17.682140",
+              "location_type": "0",
+              "parent_station": "9021003700425000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700141003",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875725",
+              "stop_lon": "17.676146",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700541001",
+              "stop_name": "Uppsala Molngatan",
+              "stop_lat": "59.869840",
+              "stop_lon": "17.663120",
+              "location_type": "0",
+              "parent_station": "9021003700541000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700146001",
+              "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
+              "stop_lat": "59.866155",
+              "stop_lon": "17.655148",
+              "location_type": "0",
+              "parent_station": "9021003700146000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700062013",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861377",
+              "stop_lon": "17.645011",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "M"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "55",
+            "start_date": "20241025",
+            "end_date": "20241213"
+          }
         }
       ],
       "points": [
@@ -1469,6 +1737,14 @@
           "17.645028"
         ],
         [
+          "59.861377",
+          "17.645011"
+        ],
+        [
+          "59.861358",
+          "17.645046"
+        ],
+        [
           "59.861245",
           "17.644790"
         ],
@@ -1477,7 +1753,7 @@
           "17.644661"
         ],
         [
-          "59.861184",
+          "59.861175",
           "17.644661"
         ],
         [
@@ -1485,7 +1761,7 @@
           "17.644496"
         ],
         [
-          "59.861036",
+          "59.861045",
           "17.644350"
         ],
         [
@@ -1497,12 +1773,12 @@
           "17.644148"
         ],
         [
-          "59.860748",
-          "17.643727"
+          "59.860757",
+          "17.643728"
         ],
         [
           "59.860748",
-          "17.643727"
+          "17.643709"
         ],
         [
           "59.860687",
@@ -1525,8 +1801,8 @@
           "17.643269"
         ],
         [
-          "59.860452",
-          "17.643086"
+          "59.860460",
+          "17.643104"
         ],
         [
           "59.860452",
@@ -1546,7 +1822,7 @@
         ],
         [
           "59.860303",
-          "17.642774"
+          "17.642792"
         ],
         [
           "59.860303",
@@ -1557,8 +1833,8 @@
           "17.642334"
         ],
         [
-          "59.859885",
-          "17.641877"
+          "59.859894",
+          "17.641895"
         ],
         [
           "59.859885",
@@ -1569,8 +1845,8 @@
           "17.641675"
         ],
         [
-          "59.859697",
-          "17.641848"
+          "59.859706",
+          "17.641849"
         ],
         [
           "59.859697",
@@ -1585,28 +1861,80 @@
           "17.642627"
         ],
         [
+          "59.859172",
+          "17.642765"
+        ],
+        [
+          "59.859163",
+          "17.642765"
+        ],
+        [
           "59.859062",
           "17.642938"
         ],
         [
-          "59.859114",
-          "17.643066"
+          "59.859140",
+          "17.643121"
         ],
         [
-          "59.859322",
-          "17.643595"
+          "59.859140",
+          "17.643139"
         ],
         [
-          "59.859340",
-          "17.643649"
+          "59.859253",
+          "17.643430"
         ],
         [
-          "59.859082",
-          "17.644099"
+          "59.859262",
+          "17.643449"
         ],
         [
-          "59.859072",
-          "17.644134"
+          "59.859261",
+          "17.643484"
+        ],
+        [
+          "59.859270",
+          "17.643503"
+        ],
+        [
+          "59.859270",
+          "17.643521"
+        ],
+        [
+          "59.859269",
+          "17.643556"
+        ],
+        [
+          "59.859269",
+          "17.643574"
+        ],
+        [
+          "59.859259",
+          "17.643627"
+        ],
+        [
+          "59.859250",
+          "17.643644"
+        ],
+        [
+          "59.859222",
+          "17.643714"
+        ],
+        [
+          "59.859212",
+          "17.643749"
+        ],
+        [
+          "59.859194",
+          "17.643802"
+        ],
+        [
+          "59.859046",
+          "17.644062"
+        ],
+        [
+          "59.858715",
+          "17.644632"
         ],
         [
           "59.858503",
@@ -1621,16 +1949,32 @@
           "17.645412"
         ],
         [
+          "59.858200",
+          "17.645550"
+        ],
+        [
+          "59.858191",
+          "17.645549"
+        ],
+        [
           "59.858034",
           "17.645826"
+        ],
+        [
+          "59.857813",
+          "17.646207"
+        ],
+        [
+          "59.857804",
+          "17.646224"
         ],
         [
           "59.857712",
           "17.646380"
         ],
         [
-          "59.857547",
-          "17.646656"
+          "59.857446",
+          "17.646829"
         ],
         [
           "59.857419",
@@ -1643,8 +1987,11 @@
       "trips": [
         {
           "trip_id": "33010000198590528",
+          "service_id": "70",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700600003",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857430",
@@ -1654,6 +2001,8 @@
               "platform_code": "A3"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700062002",
               "stop_name": "Uppsala Vaksala torg",
               "stop_lat": "59.861522",
@@ -1663,6 +2012,8 @@
               "platform_code": "L"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700146002",
               "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
               "stop_lat": "59.866575",
@@ -1672,6 +2023,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700541002",
               "stop_name": "Uppsala Molngatan",
               "stop_lat": "59.869337",
@@ -1681,6 +2034,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700141002",
               "stop_name": "Uppsala Gr\u00e4nbystaden",
               "stop_lat": "59.875931",
@@ -1690,15 +2045,19 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700425002",
               "stop_name": "Uppsala Brillinge",
-              "stop_lat": "59.878672",
-              "stop_lon": "17.682973",
+              "stop_lat": "59.878359",
+              "stop_lon": "17.682259",
               "location_type": "0",
               "parent_station": "9021003700425000",
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780202002",
               "stop_name": "Sk\u00e4ve",
               "stop_lat": "59.890847",
@@ -1708,6 +2067,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780201002",
               "stop_name": "Godeg\u00e5rd",
               "stop_lat": "59.897550",
@@ -1717,6 +2078,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779142002",
               "stop_name": "J\u00e4lla",
               "stop_lat": "59.904208",
@@ -1725,184 +2088,20 @@
               "parent_station": "9021003779142000",
               "platform_code": "B"
             }
-          ]
-        },
-        {
-          "trip_id": "33010000198590510",
-          "stops": [
-            {
-              "stop_id": "9022003700600003",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857430",
-              "stop_lon": "17.645989",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "A3"
-            },
-            {
-              "stop_id": "9022003700062002",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861522",
-              "stop_lon": "17.645537",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "L"
-            },
-            {
-              "stop_id": "9022003700146002",
-              "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
-              "stop_lat": "59.866575",
-              "stop_lon": "17.656528",
-              "location_type": "0",
-              "parent_station": "9021003700146000",
-              "platform_code": "B"
-            },
-            {
-              "stop_id": "9022003700541002",
-              "stop_name": "Uppsala Molngatan",
-              "stop_lat": "59.869337",
-              "stop_lon": "17.662520",
-              "location_type": "0",
-              "parent_station": "9021003700541000",
-              "platform_code": "B"
-            },
-            {
-              "stop_id": "9022003700141002",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875931",
-              "stop_lon": "17.676175",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "B"
-            },
-            {
-              "stop_id": "9022003700425002",
-              "stop_name": "Uppsala Brillinge",
-              "stop_lat": "59.878672",
-              "stop_lon": "17.682973",
-              "location_type": "0",
-              "parent_station": "9021003700425000",
-              "platform_code": "B"
-            },
-            {
-              "stop_id": "9022003780202002",
-              "stop_name": "Sk\u00e4ve",
-              "stop_lat": "59.890847",
-              "stop_lon": "17.699258",
-              "location_type": "0",
-              "parent_station": "9021003780202000",
-              "platform_code": "B"
-            },
-            {
-              "stop_id": "9022003780201002",
-              "stop_name": "Godeg\u00e5rd",
-              "stop_lat": "59.897550",
-              "stop_lon": "17.708217",
-              "location_type": "0",
-              "parent_station": "9021003780201000",
-              "platform_code": "B"
-            },
-            {
-              "stop_id": "9022003779142002",
-              "stop_name": "J\u00e4lla",
-              "stop_lat": "59.904208",
-              "stop_lon": "17.716516",
-              "location_type": "0",
-              "parent_station": "9021003779142000",
-              "platform_code": "B"
-            }
-          ]
-        },
-        {
-          "trip_id": "33010000198590569",
-          "stops": [
-            {
-              "stop_id": "9022003700600003",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857430",
-              "stop_lon": "17.645989",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "A3"
-            },
-            {
-              "stop_id": "9022003700062002",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861522",
-              "stop_lon": "17.645537",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "L"
-            },
-            {
-              "stop_id": "9022003700146002",
-              "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
-              "stop_lat": "59.866575",
-              "stop_lon": "17.656528",
-              "location_type": "0",
-              "parent_station": "9021003700146000",
-              "platform_code": "B"
-            },
-            {
-              "stop_id": "9022003700541002",
-              "stop_name": "Uppsala Molngatan",
-              "stop_lat": "59.869337",
-              "stop_lon": "17.662520",
-              "location_type": "0",
-              "parent_station": "9021003700541000",
-              "platform_code": "B"
-            },
-            {
-              "stop_id": "9022003700141002",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875931",
-              "stop_lon": "17.676175",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "B"
-            },
-            {
-              "stop_id": "9022003700425002",
-              "stop_name": "Uppsala Brillinge",
-              "stop_lat": "59.878672",
-              "stop_lon": "17.682973",
-              "location_type": "0",
-              "parent_station": "9021003700425000",
-              "platform_code": "B"
-            },
-            {
-              "stop_id": "9022003780202002",
-              "stop_name": "Sk\u00e4ve",
-              "stop_lat": "59.890847",
-              "stop_lon": "17.699258",
-              "location_type": "0",
-              "parent_station": "9021003780202000",
-              "platform_code": "B"
-            },
-            {
-              "stop_id": "9022003780201002",
-              "stop_name": "Godeg\u00e5rd",
-              "stop_lat": "59.897550",
-              "stop_lon": "17.708217",
-              "location_type": "0",
-              "parent_station": "9021003780201000",
-              "platform_code": "B"
-            },
-            {
-              "stop_id": "9022003779142002",
-              "stop_name": "J\u00e4lla",
-              "stop_lat": "59.904208",
-              "stop_lon": "17.716516",
-              "location_type": "0",
-              "parent_station": "9021003779142000",
-              "platform_code": "B"
-            }
-          ]
+          ],
+          "service": {
+            "service_id": "70",
+            "start_date": "20241216",
+            "end_date": "20250609"
+          }
         },
         {
           "trip_id": "33010000198590457",
+          "service_id": "71",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700600003",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857430",
@@ -1912,6 +2111,8 @@
               "platform_code": "A3"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700062002",
               "stop_name": "Uppsala Vaksala torg",
               "stop_lat": "59.861522",
@@ -1921,6 +2122,8 @@
               "platform_code": "L"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700146002",
               "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
               "stop_lat": "59.866575",
@@ -1930,6 +2133,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700541002",
               "stop_name": "Uppsala Molngatan",
               "stop_lat": "59.869337",
@@ -1939,6 +2144,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700141002",
               "stop_name": "Uppsala Gr\u00e4nbystaden",
               "stop_lat": "59.875931",
@@ -1948,15 +2155,19 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700425002",
               "stop_name": "Uppsala Brillinge",
-              "stop_lat": "59.878672",
-              "stop_lon": "17.682973",
+              "stop_lat": "59.878359",
+              "stop_lon": "17.682259",
               "location_type": "0",
               "parent_station": "9021003700425000",
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780202002",
               "stop_name": "Sk\u00e4ve",
               "stop_lat": "59.890847",
@@ -1966,6 +2177,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780201002",
               "stop_name": "Godeg\u00e5rd",
               "stop_lat": "59.897550",
@@ -1975,6 +2188,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779142002",
               "stop_name": "J\u00e4lla",
               "stop_lat": "59.904208",
@@ -1983,12 +2198,20 @@
               "parent_station": "9021003779142000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "71",
+            "start_date": "20241217",
+            "end_date": "20250612"
+          }
         },
         {
           "trip_id": "33010000198590479",
+          "service_id": "69",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700600003",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857430",
@@ -1998,6 +2221,8 @@
               "platform_code": "A3"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700062002",
               "stop_name": "Uppsala Vaksala torg",
               "stop_lat": "59.861522",
@@ -2007,6 +2232,8 @@
               "platform_code": "L"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700146002",
               "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
               "stop_lat": "59.866575",
@@ -2016,6 +2243,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700541002",
               "stop_name": "Uppsala Molngatan",
               "stop_lat": "59.869337",
@@ -2025,6 +2254,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700141002",
               "stop_name": "Uppsala Gr\u00e4nbystaden",
               "stop_lat": "59.875931",
@@ -2034,15 +2265,19 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700425002",
               "stop_name": "Uppsala Brillinge",
-              "stop_lat": "59.878672",
-              "stop_lon": "17.682973",
+              "stop_lat": "59.878359",
+              "stop_lon": "17.682259",
               "location_type": "0",
               "parent_station": "9021003700425000",
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780202002",
               "stop_name": "Sk\u00e4ve",
               "stop_lat": "59.890847",
@@ -2052,6 +2287,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780201002",
               "stop_name": "Godeg\u00e5rd",
               "stop_lat": "59.897550",
@@ -2061,6 +2298,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779142002",
               "stop_name": "J\u00e4lla",
               "stop_lat": "59.904208",
@@ -2069,12 +2308,20 @@
               "parent_station": "9021003779142000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "69",
+            "start_date": "20241216",
+            "end_date": "20250612"
+          }
         },
         {
           "trip_id": "33010000198590546",
+          "service_id": "69",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700600003",
               "stop_name": "Uppsala Centralstationen",
               "stop_lat": "59.857430",
@@ -2084,6 +2331,8 @@
               "platform_code": "A3"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700062002",
               "stop_name": "Uppsala Vaksala torg",
               "stop_lat": "59.861522",
@@ -2093,6 +2342,8 @@
               "platform_code": "L"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700146002",
               "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
               "stop_lat": "59.866575",
@@ -2102,6 +2353,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700541002",
               "stop_name": "Uppsala Molngatan",
               "stop_lat": "59.869337",
@@ -2111,6 +2364,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700141002",
               "stop_name": "Uppsala Gr\u00e4nbystaden",
               "stop_lat": "59.875931",
@@ -2120,15 +2375,19 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003700425002",
               "stop_name": "Uppsala Brillinge",
-              "stop_lat": "59.878672",
-              "stop_lon": "17.682973",
+              "stop_lat": "59.878359",
+              "stop_lon": "17.682259",
               "location_type": "0",
               "parent_station": "9021003700425000",
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780202002",
               "stop_name": "Sk\u00e4ve",
               "stop_lat": "59.890847",
@@ -2138,6 +2397,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780201002",
               "stop_name": "Godeg\u00e5rd",
               "stop_lat": "59.897550",
@@ -2147,6 +2408,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779142002",
               "stop_name": "J\u00e4lla",
               "stop_lat": "59.904208",
@@ -2155,7 +2418,892 @@
               "parent_station": "9021003779142000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "69",
+            "start_date": "20241216",
+            "end_date": "20250612"
+          }
+        },
+        {
+          "trip_id": "33010000198590510",
+          "service_id": "70",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600003",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857430",
+              "stop_lon": "17.645989",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "A3"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700062002",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861522",
+              "stop_lon": "17.645537",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "L"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700146002",
+              "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
+              "stop_lat": "59.866575",
+              "stop_lon": "17.656528",
+              "location_type": "0",
+              "parent_station": "9021003700146000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700541002",
+              "stop_name": "Uppsala Molngatan",
+              "stop_lat": "59.869337",
+              "stop_lon": "17.662520",
+              "location_type": "0",
+              "parent_station": "9021003700541000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700141002",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875931",
+              "stop_lon": "17.676175",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700425002",
+              "stop_name": "Uppsala Brillinge",
+              "stop_lat": "59.878359",
+              "stop_lon": "17.682259",
+              "location_type": "0",
+              "parent_station": "9021003700425000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780202002",
+              "stop_name": "Sk\u00e4ve",
+              "stop_lat": "59.890847",
+              "stop_lon": "17.699258",
+              "location_type": "0",
+              "parent_station": "9021003780202000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780201002",
+              "stop_name": "Godeg\u00e5rd",
+              "stop_lat": "59.897550",
+              "stop_lon": "17.708217",
+              "location_type": "0",
+              "parent_station": "9021003780201000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779142002",
+              "stop_name": "J\u00e4lla",
+              "stop_lat": "59.904208",
+              "stop_lon": "17.716516",
+              "location_type": "0",
+              "parent_station": "9021003779142000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "70",
+            "start_date": "20241216",
+            "end_date": "20250609"
+          }
+        },
+        {
+          "trip_id": "33010000198590569",
+          "service_id": "70",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600003",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857430",
+              "stop_lon": "17.645989",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "A3"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700062002",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861522",
+              "stop_lon": "17.645537",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "L"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700146002",
+              "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
+              "stop_lat": "59.866575",
+              "stop_lon": "17.656528",
+              "location_type": "0",
+              "parent_station": "9021003700146000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700541002",
+              "stop_name": "Uppsala Molngatan",
+              "stop_lat": "59.869337",
+              "stop_lon": "17.662520",
+              "location_type": "0",
+              "parent_station": "9021003700541000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700141002",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875931",
+              "stop_lon": "17.676175",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700425002",
+              "stop_name": "Uppsala Brillinge",
+              "stop_lat": "59.878359",
+              "stop_lon": "17.682259",
+              "location_type": "0",
+              "parent_station": "9021003700425000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780202002",
+              "stop_name": "Sk\u00e4ve",
+              "stop_lat": "59.890847",
+              "stop_lon": "17.699258",
+              "location_type": "0",
+              "parent_station": "9021003780202000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780201002",
+              "stop_name": "Godeg\u00e5rd",
+              "stop_lat": "59.897550",
+              "stop_lon": "17.708217",
+              "location_type": "0",
+              "parent_station": "9021003780201000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779142002",
+              "stop_name": "J\u00e4lla",
+              "stop_lat": "59.904208",
+              "stop_lon": "17.716516",
+              "location_type": "0",
+              "parent_station": "9021003779142000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "70",
+            "start_date": "20241216",
+            "end_date": "20250609"
+          }
+        },
+        {
+          "trip_id": "33010000214452180",
+          "service_id": "72",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600003",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857430",
+              "stop_lon": "17.645989",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "A3"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700062002",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861522",
+              "stop_lon": "17.645537",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "L"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700146002",
+              "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
+              "stop_lat": "59.866575",
+              "stop_lon": "17.656528",
+              "location_type": "0",
+              "parent_station": "9021003700146000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700541002",
+              "stop_name": "Uppsala Molngatan",
+              "stop_lat": "59.869337",
+              "stop_lon": "17.662520",
+              "location_type": "0",
+              "parent_station": "9021003700541000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700141002",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875931",
+              "stop_lon": "17.676175",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700425002",
+              "stop_name": "Uppsala Brillinge",
+              "stop_lat": "59.878359",
+              "stop_lon": "17.682259",
+              "location_type": "0",
+              "parent_station": "9021003700425000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780202002",
+              "stop_name": "Sk\u00e4ve",
+              "stop_lat": "59.890847",
+              "stop_lon": "17.699258",
+              "location_type": "0",
+              "parent_station": "9021003780202000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780201002",
+              "stop_name": "Godeg\u00e5rd",
+              "stop_lat": "59.897550",
+              "stop_lon": "17.708217",
+              "location_type": "0",
+              "parent_station": "9021003780201000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779142002",
+              "stop_name": "J\u00e4lla",
+              "stop_lat": "59.904208",
+              "stop_lon": "17.716516",
+              "location_type": "0",
+              "parent_station": "9021003779142000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "72",
+            "start_date": "20241025",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "33010000214452126",
+          "service_id": "73",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600003",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857430",
+              "stop_lon": "17.645989",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "A3"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700062002",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861522",
+              "stop_lon": "17.645537",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "L"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700146002",
+              "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
+              "stop_lat": "59.866575",
+              "stop_lon": "17.656528",
+              "location_type": "0",
+              "parent_station": "9021003700146000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700541002",
+              "stop_name": "Uppsala Molngatan",
+              "stop_lat": "59.869337",
+              "stop_lon": "17.662520",
+              "location_type": "0",
+              "parent_station": "9021003700541000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700141002",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875931",
+              "stop_lon": "17.676175",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700425002",
+              "stop_name": "Uppsala Brillinge",
+              "stop_lat": "59.878359",
+              "stop_lon": "17.682259",
+              "location_type": "0",
+              "parent_station": "9021003700425000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780202002",
+              "stop_name": "Sk\u00e4ve",
+              "stop_lat": "59.890847",
+              "stop_lon": "17.699258",
+              "location_type": "0",
+              "parent_station": "9021003780202000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780201002",
+              "stop_name": "Godeg\u00e5rd",
+              "stop_lat": "59.897550",
+              "stop_lon": "17.708217",
+              "location_type": "0",
+              "parent_station": "9021003780201000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779142002",
+              "stop_name": "J\u00e4lla",
+              "stop_lat": "59.904208",
+              "stop_lon": "17.716516",
+              "location_type": "0",
+              "parent_station": "9021003779142000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "73",
+            "start_date": "20241104",
+            "end_date": "20241209"
+          }
+        },
+        {
+          "trip_id": "33010000214452162",
+          "service_id": "73",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600003",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857430",
+              "stop_lon": "17.645989",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "A3"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700062002",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861522",
+              "stop_lon": "17.645537",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "L"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700146002",
+              "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
+              "stop_lat": "59.866575",
+              "stop_lon": "17.656528",
+              "location_type": "0",
+              "parent_station": "9021003700146000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700541002",
+              "stop_name": "Uppsala Molngatan",
+              "stop_lat": "59.869337",
+              "stop_lon": "17.662520",
+              "location_type": "0",
+              "parent_station": "9021003700541000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700141002",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875931",
+              "stop_lon": "17.676175",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700425002",
+              "stop_name": "Uppsala Brillinge",
+              "stop_lat": "59.878359",
+              "stop_lon": "17.682259",
+              "location_type": "0",
+              "parent_station": "9021003700425000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780202002",
+              "stop_name": "Sk\u00e4ve",
+              "stop_lat": "59.890847",
+              "stop_lon": "17.699258",
+              "location_type": "0",
+              "parent_station": "9021003780202000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780201002",
+              "stop_name": "Godeg\u00e5rd",
+              "stop_lat": "59.897550",
+              "stop_lon": "17.708217",
+              "location_type": "0",
+              "parent_station": "9021003780201000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779142002",
+              "stop_name": "J\u00e4lla",
+              "stop_lat": "59.904208",
+              "stop_lon": "17.716516",
+              "location_type": "0",
+              "parent_station": "9021003779142000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "73",
+            "start_date": "20241104",
+            "end_date": "20241209"
+          }
+        },
+        {
+          "trip_id": "33010000214452108",
+          "service_id": "73",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600003",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857430",
+              "stop_lon": "17.645989",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "A3"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700062002",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861522",
+              "stop_lon": "17.645537",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "L"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700146002",
+              "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
+              "stop_lat": "59.866575",
+              "stop_lon": "17.656528",
+              "location_type": "0",
+              "parent_station": "9021003700146000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700541002",
+              "stop_name": "Uppsala Molngatan",
+              "stop_lat": "59.869337",
+              "stop_lon": "17.662520",
+              "location_type": "0",
+              "parent_station": "9021003700541000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700141002",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875931",
+              "stop_lon": "17.676175",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700425002",
+              "stop_name": "Uppsala Brillinge",
+              "stop_lat": "59.878359",
+              "stop_lon": "17.682259",
+              "location_type": "0",
+              "parent_station": "9021003700425000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780202002",
+              "stop_name": "Sk\u00e4ve",
+              "stop_lat": "59.890847",
+              "stop_lon": "17.699258",
+              "location_type": "0",
+              "parent_station": "9021003780202000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780201002",
+              "stop_name": "Godeg\u00e5rd",
+              "stop_lat": "59.897550",
+              "stop_lon": "17.708217",
+              "location_type": "0",
+              "parent_station": "9021003780201000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779142002",
+              "stop_name": "J\u00e4lla",
+              "stop_lat": "59.904208",
+              "stop_lon": "17.716516",
+              "location_type": "0",
+              "parent_station": "9021003779142000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "73",
+            "start_date": "20241104",
+            "end_date": "20241209"
+          }
+        },
+        {
+          "trip_id": "33010000214452144",
+          "service_id": "55",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600003",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857430",
+              "stop_lon": "17.645989",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "A3"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700062002",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861522",
+              "stop_lon": "17.645537",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "L"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700146002",
+              "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
+              "stop_lat": "59.866575",
+              "stop_lon": "17.656528",
+              "location_type": "0",
+              "parent_station": "9021003700146000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700541002",
+              "stop_name": "Uppsala Molngatan",
+              "stop_lat": "59.869337",
+              "stop_lon": "17.662520",
+              "location_type": "0",
+              "parent_station": "9021003700541000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700141002",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875931",
+              "stop_lon": "17.676175",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700425002",
+              "stop_name": "Uppsala Brillinge",
+              "stop_lat": "59.878359",
+              "stop_lon": "17.682259",
+              "location_type": "0",
+              "parent_station": "9021003700425000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780202002",
+              "stop_name": "Sk\u00e4ve",
+              "stop_lat": "59.890847",
+              "stop_lon": "17.699258",
+              "location_type": "0",
+              "parent_station": "9021003780202000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780201002",
+              "stop_name": "Godeg\u00e5rd",
+              "stop_lat": "59.897550",
+              "stop_lon": "17.708217",
+              "location_type": "0",
+              "parent_station": "9021003780201000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779142002",
+              "stop_name": "J\u00e4lla",
+              "stop_lat": "59.904208",
+              "stop_lon": "17.716516",
+              "location_type": "0",
+              "parent_station": "9021003779142000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "55",
+            "start_date": "20241025",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "33010000214452198",
+          "service_id": "55",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600003",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857430",
+              "stop_lon": "17.645989",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "A3"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700062002",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861522",
+              "stop_lon": "17.645537",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "L"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700146002",
+              "stop_name": "Uppsala \u00d6ster\u00e4ngsgatan norra",
+              "stop_lat": "59.866575",
+              "stop_lon": "17.656528",
+              "location_type": "0",
+              "parent_station": "9021003700146000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700541002",
+              "stop_name": "Uppsala Molngatan",
+              "stop_lat": "59.869337",
+              "stop_lon": "17.662520",
+              "location_type": "0",
+              "parent_station": "9021003700541000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700141002",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875931",
+              "stop_lon": "17.676175",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700425002",
+              "stop_name": "Uppsala Brillinge",
+              "stop_lat": "59.878359",
+              "stop_lon": "17.682259",
+              "location_type": "0",
+              "parent_station": "9021003700425000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780202002",
+              "stop_name": "Sk\u00e4ve",
+              "stop_lat": "59.890847",
+              "stop_lon": "17.699258",
+              "location_type": "0",
+              "parent_station": "9021003780202000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780201002",
+              "stop_name": "Godeg\u00e5rd",
+              "stop_lat": "59.897550",
+              "stop_lon": "17.708217",
+              "location_type": "0",
+              "parent_station": "9021003780201000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779142002",
+              "stop_name": "J\u00e4lla",
+              "stop_lat": "59.904208",
+              "stop_lon": "17.716516",
+              "location_type": "0",
+              "parent_station": "9021003779142000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "55",
+            "start_date": "20241025",
+            "end_date": "20241213"
+          }
         }
       ],
       "points": [
@@ -2364,14 +3512,6 @@
           "17.662486"
         ],
         [
-          "59.869337",
-          "17.662520"
-        ],
-        [
-          "59.869346",
-          "17.662485"
-        ],
-        [
           "59.869756",
           "17.663365"
         ],
@@ -2380,12 +3520,28 @@
           "17.664355"
         ],
         [
+          "59.870697",
+          "17.665418"
+        ],
+        [
           "59.870706",
           "17.665418"
         ],
         [
+          "59.870705",
+          "17.665436"
+        ],
+        [
           "59.870801",
           "17.665655"
+        ],
+        [
+          "59.870888",
+          "17.665839"
+        ],
+        [
+          "59.870897",
+          "17.665857"
         ],
         [
           "59.871132",
@@ -2394,6 +3550,10 @@
         [
           "59.871934",
           "17.668094"
+        ],
+        [
+          "59.871969",
+          "17.668167"
         ],
         [
           "59.872056",
@@ -2408,8 +3568,24 @@
           "17.670514"
         ],
         [
+          "59.873415",
+          "17.671302"
+        ],
+        [
           "59.873414",
           "17.671319"
+        ],
+        [
+          "59.873414",
+          "17.671319"
+        ],
+        [
+          "59.873484",
+          "17.671484"
+        ],
+        [
+          "59.873493",
+          "17.671485"
         ],
         [
           "59.873876",
@@ -2418,10 +3594,6 @@
         [
           "59.873954",
           "17.672528"
-        ],
-        [
-          "59.874146",
-          "17.672914"
         ],
         [
           "59.874190",
@@ -2476,10 +3648,6 @@
           "17.674289"
         ],
         [
-          "59.874938",
-          "17.674673"
-        ],
-        [
           "59.875086",
           "17.675020"
         ],
@@ -2520,11 +3688,11 @@
           "17.675529"
         ],
         [
-          "59.875783",
-          "17.675881"
+          "59.875932",
+          "17.676122"
         ],
         [
-          "59.875932",
+          "59.875941",
           "17.676122"
         ],
         [
@@ -2660,12 +3828,8 @@
           "17.681841"
         ],
         [
-          "59.878474",
-          "17.682337"
-        ],
-        [
-          "59.878483",
-          "17.682355"
+          "59.878396",
+          "17.682172"
         ],
         [
           "59.878527",
@@ -2812,6 +3976,10 @@
           "17.686208"
         ],
         [
+          "59.881229",
+          "17.686208"
+        ],
+        [
           "59.881291",
           "17.686282"
         ],
@@ -2838,6 +4006,10 @@
         [
           "59.881625",
           "17.686748"
+        ],
+        [
+          "59.881687",
+          "17.686823"
         ],
         [
           "59.881687",
@@ -3216,16 +4388,28 @@
           "17.697810"
         ],
         [
+          "59.889933",
+          "17.697866"
+        ],
+        [
           "59.890426",
           "17.698501"
         ],
         [
-          "59.890523",
-          "17.698632"
+          "59.890514",
+          "17.698631"
         ],
         [
           "59.890523",
           "17.698632"
+        ],
+        [
+          "59.890884",
+          "17.699135"
+        ],
+        [
+          "59.890847",
+          "17.699258"
         ],
         [
           "59.890884",

@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003023700000",
   "agency_id": "33010000000001407",
   "route_short_name": "237",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000210956862",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003781872001",
               "stop_name": "Tuna 2 (Hj\u00e4lsta)",
               "stop_lat": "59.693124",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781772001",
               "stop_name": "Lundbacka",
               "stop_lat": "59.692636",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781873001",
               "stop_name": "Hj\u00e4lsta (Ekolsundskorset)",
               "stop_lat": "59.688481",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781902001",
               "stop_name": "Hj\u00e4lsta Hj\u00e4lstav\u00e4gen",
               "stop_lat": "59.689099",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781874001",
               "stop_name": "Eriksdal",
               "stop_lat": "59.699039",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781280001",
               "stop_name": "\u00d6stersta bro",
               "stop_lat": "59.704785",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781875001",
               "stop_name": "Tuna by (Hj\u00e4lsta)",
               "stop_lat": "59.700571",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781622001",
               "stop_name": "Furuby (Giresta)",
               "stop_lat": "59.699769",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781771001",
               "stop_name": "Finsta (Giresta)",
               "stop_lat": "59.701011",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781623001",
               "stop_name": "H\u00e4rvesta g\u00e5rd",
               "stop_lat": "59.697857",
@@ -104,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781624001",
               "stop_name": "Ramsta (Biskopskulla)",
               "stop_lat": "59.707378",
@@ -113,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781625001",
               "stop_name": "Varstabacken",
               "stop_lat": "59.713414",
@@ -122,6 +147,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781585001",
               "stop_name": "\u00d6rsundsbro skola",
               "stop_lat": "59.733624",
@@ -130,7 +157,12 @@
               "parent_station": "9021003781585000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [

@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003012600000",
   "agency_id": "33010000000001407",
   "route_short_name": "126",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000201345683",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003779411001",
               "stop_name": "Funbosl\u00e4tt",
               "stop_lat": "59.889587",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779607001",
               "stop_name": "Brudgatan",
               "stop_lat": "59.896293",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779608001",
               "stop_name": "Klinten",
               "stop_lat": "59.903194",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779609001",
               "stop_name": "Snuggan",
               "stop_lat": "59.908514",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780877001",
               "stop_name": "Fr\u00f6tuna",
               "stop_lat": "59.909606",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779596001",
               "stop_name": "Ny-Karby",
               "stop_lat": "59.922721",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780984001",
               "stop_name": "Kallesta",
               "stop_lat": "59.923222",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779649001",
               "stop_name": "\u00c5rby (Rasbo)",
               "stop_lat": "59.919646",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780982001",
               "stop_name": "Johannelund",
               "stop_lat": "59.912618",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779437001",
               "stop_name": "Ryssbol",
               "stop_lat": "59.903707",
@@ -104,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779610001",
               "stop_name": "\u00c4lvg\u00e4rde",
               "stop_lat": "59.916548",
@@ -113,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780981001",
               "stop_name": "Sandbol",
               "stop_lat": "59.920137",
@@ -122,6 +147,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780985001",
               "stop_name": "\u00c5rsta (G\u00e5vsta)",
               "stop_lat": "59.928163",
@@ -131,6 +158,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779612001",
               "stop_name": "Karlsborg (G\u00e5vsta)",
               "stop_lat": "59.934373",
@@ -140,6 +169,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779612002",
               "stop_name": "Karlsborg (G\u00e5vsta)",
               "stop_lat": "59.936065",
@@ -149,6 +180,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780107001",
               "stop_name": "G\u00e5vsta skola",
               "stop_lat": "59.946165",
@@ -157,7 +190,12 @@
               "parent_station": "9021003780107000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -4656,8 +4694,11 @@
       "trips": [
         {
           "trip_id": "33010000201345655",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003779411001",
               "stop_name": "Funbosl\u00e4tt",
               "stop_lat": "59.889587",
@@ -4667,6 +4708,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779607001",
               "stop_name": "Brudgatan",
               "stop_lat": "59.896293",
@@ -4676,6 +4719,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779608001",
               "stop_name": "Klinten",
               "stop_lat": "59.903194",
@@ -4685,6 +4730,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779609001",
               "stop_name": "Snuggan",
               "stop_lat": "59.908514",
@@ -4694,6 +4741,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780877001",
               "stop_name": "Fr\u00f6tuna",
               "stop_lat": "59.909606",
@@ -4703,6 +4752,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779596001",
               "stop_name": "Ny-Karby",
               "stop_lat": "59.922721",
@@ -4712,6 +4763,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780984001",
               "stop_name": "Kallesta",
               "stop_lat": "59.923222",
@@ -4721,6 +4774,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779649001",
               "stop_name": "\u00c5rby (Rasbo)",
               "stop_lat": "59.919646",
@@ -4730,6 +4785,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780983001",
               "stop_name": "Visteby",
               "stop_lat": "59.904703",
@@ -4739,6 +4796,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780982001",
               "stop_name": "Johannelund",
               "stop_lat": "59.912618",
@@ -4748,6 +4807,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779437001",
               "stop_name": "Ryssbol",
               "stop_lat": "59.903707",
@@ -4757,6 +4818,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779610001",
               "stop_name": "\u00c4lvg\u00e4rde",
               "stop_lat": "59.916548",
@@ -4766,6 +4829,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780981001",
               "stop_name": "Sandbol",
               "stop_lat": "59.920137",
@@ -4775,6 +4840,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780985001",
               "stop_name": "\u00c5rsta (G\u00e5vsta)",
               "stop_lat": "59.928163",
@@ -4784,6 +4851,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779612001",
               "stop_name": "Karlsborg (G\u00e5vsta)",
               "stop_lat": "59.934373",
@@ -4793,6 +4862,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779612002",
               "stop_name": "Karlsborg (G\u00e5vsta)",
               "stop_lat": "59.936065",
@@ -4802,6 +4873,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780107001",
               "stop_name": "G\u00e5vsta skola",
               "stop_lat": "59.946165",
@@ -4810,7 +4883,12 @@
               "parent_station": "9021003780107000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -10325,8 +10403,11 @@
       "trips": [
         {
           "trip_id": "33010000201345708",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780107006",
               "stop_name": "G\u00e5vsta skola",
               "stop_lat": "59.945998",
@@ -10336,6 +10417,8 @@
               "platform_code": "F"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779612002",
               "stop_name": "Karlsborg (G\u00e5vsta)",
               "stop_lat": "59.936065",
@@ -10345,6 +10428,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779612001",
               "stop_name": "Karlsborg (G\u00e5vsta)",
               "stop_lat": "59.934373",
@@ -10354,6 +10439,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780985001",
               "stop_name": "\u00c5rsta (G\u00e5vsta)",
               "stop_lat": "59.928163",
@@ -10363,6 +10450,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780981001",
               "stop_name": "Sandbol",
               "stop_lat": "59.920137",
@@ -10372,6 +10461,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779649001",
               "stop_name": "\u00c5rby (Rasbo)",
               "stop_lat": "59.919646",
@@ -10381,6 +10472,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780984001",
               "stop_name": "Kallesta",
               "stop_lat": "59.923222",
@@ -10390,6 +10483,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779596001",
               "stop_name": "Ny-Karby",
               "stop_lat": "59.922721",
@@ -10399,6 +10494,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780877001",
               "stop_name": "Fr\u00f6tuna",
               "stop_lat": "59.909606",
@@ -10408,6 +10505,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779609001",
               "stop_name": "Snuggan",
               "stop_lat": "59.908514",
@@ -10417,6 +10516,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779608001",
               "stop_name": "Klinten",
               "stop_lat": "59.903194",
@@ -10426,6 +10527,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779607001",
               "stop_name": "Brudgatan",
               "stop_lat": "59.896293",
@@ -10435,6 +10538,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779411001",
               "stop_name": "Funbosl\u00e4tt",
               "stop_lat": "59.889587",
@@ -10443,7 +10548,12 @@
               "parent_station": "9021003779411000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -13242,8 +13352,11 @@
       "trips": [
         {
           "trip_id": "33010000201345771",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780107006",
               "stop_name": "G\u00e5vsta skola",
               "stop_lat": "59.945998",
@@ -13253,6 +13366,8 @@
               "platform_code": "F"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779612002",
               "stop_name": "Karlsborg (G\u00e5vsta)",
               "stop_lat": "59.936065",
@@ -13262,6 +13377,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779612001",
               "stop_name": "Karlsborg (G\u00e5vsta)",
               "stop_lat": "59.934373",
@@ -13271,6 +13388,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780985001",
               "stop_name": "\u00c5rsta (G\u00e5vsta)",
               "stop_lat": "59.928163",
@@ -13280,6 +13399,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780981001",
               "stop_name": "Sandbol",
               "stop_lat": "59.920137",
@@ -13289,6 +13410,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780983001",
               "stop_name": "Visteby",
               "stop_lat": "59.904703",
@@ -13298,6 +13421,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779610001",
               "stop_name": "\u00c4lvg\u00e4rde",
               "stop_lat": "59.916548",
@@ -13307,6 +13432,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780982001",
               "stop_name": "Johannelund",
               "stop_lat": "59.912618",
@@ -13316,6 +13443,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779437001",
               "stop_name": "Ryssbol",
               "stop_lat": "59.903707",
@@ -13325,6 +13454,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780981001",
               "stop_name": "Sandbol",
               "stop_lat": "59.920137",
@@ -13334,6 +13465,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779649001",
               "stop_name": "\u00c5rby (Rasbo)",
               "stop_lat": "59.919646",
@@ -13343,6 +13476,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780984001",
               "stop_name": "Kallesta",
               "stop_lat": "59.923222",
@@ -13352,6 +13487,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779596001",
               "stop_name": "Ny-Karby",
               "stop_lat": "59.922721",
@@ -13361,6 +13498,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780877001",
               "stop_name": "Fr\u00f6tuna",
               "stop_lat": "59.909606",
@@ -13370,6 +13509,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779609001",
               "stop_name": "Snuggan",
               "stop_lat": "59.908514",
@@ -13379,6 +13520,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779608001",
               "stop_name": "Klinten",
               "stop_lat": "59.903194",
@@ -13388,6 +13531,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779607001",
               "stop_name": "Brudgatan",
               "stop_lat": "59.896293",
@@ -13397,6 +13542,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779411001",
               "stop_name": "Funbosl\u00e4tt",
               "stop_lat": "59.889587",
@@ -13405,7 +13552,12 @@
               "parent_station": "9021003779411000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -18960,8 +19112,11 @@
       "trips": [
         {
           "trip_id": "33010000201345739",
+          "service_id": "95",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780107006",
               "stop_name": "G\u00e5vsta skola",
               "stop_lat": "59.945998",
@@ -18971,6 +19126,8 @@
               "platform_code": "F"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779612002",
               "stop_name": "Karlsborg (G\u00e5vsta)",
               "stop_lat": "59.936065",
@@ -18980,6 +19137,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779612001",
               "stop_name": "Karlsborg (G\u00e5vsta)",
               "stop_lat": "59.934373",
@@ -18989,6 +19148,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780985001",
               "stop_name": "\u00c5rsta (G\u00e5vsta)",
               "stop_lat": "59.928163",
@@ -18998,6 +19159,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780981001",
               "stop_name": "Sandbol",
               "stop_lat": "59.920137",
@@ -19007,6 +19170,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779610001",
               "stop_name": "\u00c4lvg\u00e4rde",
               "stop_lat": "59.916548",
@@ -19016,6 +19181,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780982001",
               "stop_name": "Johannelund",
               "stop_lat": "59.912618",
@@ -19025,6 +19192,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779437001",
               "stop_name": "Ryssbol",
               "stop_lat": "59.903707",
@@ -19034,6 +19203,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780981001",
               "stop_name": "Sandbol",
               "stop_lat": "59.920137",
@@ -19043,6 +19214,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779649001",
               "stop_name": "\u00c5rby (Rasbo)",
               "stop_lat": "59.919646",
@@ -19052,6 +19225,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780984001",
               "stop_name": "Kallesta",
               "stop_lat": "59.923222",
@@ -19061,6 +19236,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779596001",
               "stop_name": "Ny-Karby",
               "stop_lat": "59.922721",
@@ -19070,6 +19247,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780877001",
               "stop_name": "Fr\u00f6tuna",
               "stop_lat": "59.909606",
@@ -19079,6 +19258,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779609001",
               "stop_name": "Snuggan",
               "stop_lat": "59.908514",
@@ -19088,6 +19269,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779608001",
               "stop_name": "Klinten",
               "stop_lat": "59.903194",
@@ -19097,6 +19280,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779607001",
               "stop_name": "Brudgatan",
               "stop_lat": "59.896293",
@@ -19106,6 +19291,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779411001",
               "stop_name": "Funbosl\u00e4tt",
               "stop_lat": "59.889587",
@@ -19114,7 +19301,12 @@
               "parent_station": "9021003779411000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "95",
+            "start_date": "20241104",
+            "end_date": "20250611"
+          }
         }
       ],
       "points": [

@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003052100000",
   "agency_id": "33010000000001407",
   "route_short_name": "521",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000198778600",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760645001",
               "stop_name": "Kilsk\u00e4r",
               "stop_lat": "60.567062",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760120001",
               "stop_name": "Hammarvikens v\u00e4gsk\u00e4l",
               "stop_lat": "60.555736",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760418001",
               "stop_name": "Sladahamns v\u00e4gsk\u00e4l",
               "stop_lat": "60.545721",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760118001",
               "stop_name": "Klungsten",
               "stop_lat": "60.542933",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760121001",
               "stop_name": "Storstens v\u00e4gsk\u00e4l",
               "stop_lat": "60.538428",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760116001",
               "stop_name": "Slada",
               "stop_lat": "60.536611",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760128001",
               "stop_name": "Romsmarens v\u00e4gsk\u00e4l",
               "stop_lat": "60.591386",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760125001",
               "stop_name": "H\u00e5llen",
               "stop_lat": "60.575603",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760123001",
               "stop_name": "Hj\u00e4lmungeskogen",
               "stop_lat": "60.549678",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760195001",
               "stop_name": "Hj\u00e4lmunge macken",
               "stop_lat": "60.536829",
@@ -104,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003799002001",
               "stop_name": "Hj\u00e4lmunge kvarn",
               "stop_lat": "60.537013",
@@ -113,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760196001",
               "stop_name": "Verstuberget",
               "stop_lat": "60.536194",
@@ -122,6 +147,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760122001",
               "stop_name": "H\u00e5lln\u00e4s skola",
               "stop_lat": "60.534771",
@@ -130,7 +157,12 @@
               "parent_station": "9021003760122000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -3929,8 +3961,11 @@
       "trips": [
         {
           "trip_id": "33010000198778630",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760122002",
               "stop_name": "H\u00e5lln\u00e4s skola",
               "stop_lat": "60.534619",
@@ -3940,6 +3975,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760397001",
               "stop_name": "Sikhj\u00e4lma",
               "stop_lat": "60.561283",
@@ -3949,6 +3986,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760610001",
               "stop_name": "Storsand",
               "stop_lat": "60.564531",
@@ -3958,6 +3997,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760196002",
               "stop_name": "Verstuberget",
               "stop_lat": "60.536340",
@@ -3967,6 +4008,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003799002002",
               "stop_name": "Hj\u00e4lmunge kvarn",
               "stop_lat": "60.536935",
@@ -3976,6 +4019,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760195002",
               "stop_name": "Hj\u00e4lmunge macken",
               "stop_lat": "60.536794",
@@ -3985,6 +4030,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760116002",
               "stop_name": "Slada",
               "stop_lat": "60.536611",
@@ -3994,6 +4041,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760121002",
               "stop_name": "Storstens v\u00e4gsk\u00e4l",
               "stop_lat": "60.538432",
@@ -4003,6 +4052,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760118002",
               "stop_name": "Klungsten",
               "stop_lat": "60.542933",
@@ -4012,6 +4063,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760418001",
               "stop_name": "Sladahamns v\u00e4gsk\u00e4l",
               "stop_lat": "60.545721",
@@ -4021,6 +4074,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760645001",
               "stop_name": "Kilsk\u00e4r",
               "stop_lat": "60.567062",
@@ -4030,6 +4085,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760120002",
               "stop_name": "Hammarvikens v\u00e4gsk\u00e4l",
               "stop_lat": "60.555736",
@@ -4039,6 +4096,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760121001",
               "stop_name": "Storstens v\u00e4gsk\u00e4l",
               "stop_lat": "60.538428",
@@ -4048,6 +4107,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760123002",
               "stop_name": "Hj\u00e4lmungeskogen",
               "stop_lat": "60.549678",
@@ -4057,6 +4118,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760125002",
               "stop_name": "H\u00e5llen",
               "stop_lat": "60.575603",
@@ -4066,6 +4129,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760128002",
               "stop_name": "Romsmarens v\u00e4gsk\u00e4l",
               "stop_lat": "60.591386",
@@ -4074,7 +4139,12 @@
               "parent_station": "9021003760128000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -9869,8 +9939,11 @@
       "trips": [
         {
           "trip_id": "33010000198778662",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760412006",
               "stop_name": "Sk\u00e4rplinge bussterminal",
               "stop_lat": "60.470487",
@@ -9880,6 +9953,8 @@
               "platform_code": "F"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760200002",
               "stop_name": "Sikhj\u00e4lma v\u00e4gsk\u00e4l",
               "stop_lat": "60.533113",
@@ -9889,6 +9964,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760122002",
               "stop_name": "H\u00e5lln\u00e4s skola",
               "stop_lat": "60.534619",
@@ -9898,6 +9975,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760204001",
               "stop_name": "Lingn\u00e5re",
               "stop_lat": "60.532211",
@@ -9907,6 +9986,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760196002",
               "stop_name": "Verstuberget",
               "stop_lat": "60.536340",
@@ -9916,6 +9997,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003799002002",
               "stop_name": "Hj\u00e4lmunge kvarn",
               "stop_lat": "60.536935",
@@ -9925,6 +10008,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760195002",
               "stop_name": "Hj\u00e4lmunge macken",
               "stop_lat": "60.536794",
@@ -9934,6 +10019,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760116002",
               "stop_name": "Slada",
               "stop_lat": "60.536611",
@@ -9943,6 +10030,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760121002",
               "stop_name": "Storstens v\u00e4gsk\u00e4l",
               "stop_lat": "60.538432",
@@ -9952,6 +10041,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760118002",
               "stop_name": "Klungsten",
               "stop_lat": "60.542933",
@@ -9961,6 +10052,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760418001",
               "stop_name": "Sladahamns v\u00e4gsk\u00e4l",
               "stop_lat": "60.545721",
@@ -9970,6 +10063,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760645001",
               "stop_name": "Kilsk\u00e4r",
               "stop_lat": "60.567062",
@@ -9979,6 +10074,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760120002",
               "stop_name": "Hammarvikens v\u00e4gsk\u00e4l",
               "stop_lat": "60.555736",
@@ -9988,6 +10085,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760121001",
               "stop_name": "Storstens v\u00e4gsk\u00e4l",
               "stop_lat": "60.538428",
@@ -9997,6 +10096,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760123002",
               "stop_name": "Hj\u00e4lmungeskogen",
               "stop_lat": "60.549678",
@@ -10006,6 +10107,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760125002",
               "stop_name": "H\u00e5llen",
               "stop_lat": "60.575603",
@@ -10015,6 +10118,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760128002",
               "stop_name": "Romsmarens v\u00e4gsk\u00e4l",
               "stop_lat": "60.591386",
@@ -10023,7 +10128,12 @@
               "parent_station": "9021003760128000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -15646,8 +15756,11 @@
       "trips": [
         {
           "trip_id": "33010000198778692",
+          "service_id": "159",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760412006",
               "stop_name": "Sk\u00e4rplinge bussterminal",
               "stop_lat": "60.470487",
@@ -15657,6 +15770,8 @@
               "platform_code": "F"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760397001",
               "stop_name": "Sikhj\u00e4lma",
               "stop_lat": "60.561283",
@@ -15666,6 +15781,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760610001",
               "stop_name": "Storsand",
               "stop_lat": "60.564531",
@@ -15675,6 +15792,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760196002",
               "stop_name": "Verstuberget",
               "stop_lat": "60.536340",
@@ -15684,6 +15803,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003799002002",
               "stop_name": "Hj\u00e4lmunge kvarn",
               "stop_lat": "60.536935",
@@ -15693,6 +15814,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760195002",
               "stop_name": "Hj\u00e4lmunge macken",
               "stop_lat": "60.536794",
@@ -15702,6 +15825,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760116002",
               "stop_name": "Slada",
               "stop_lat": "60.536611",
@@ -15711,6 +15836,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760121002",
               "stop_name": "Storstens v\u00e4gsk\u00e4l",
               "stop_lat": "60.538432",
@@ -15720,6 +15847,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760118002",
               "stop_name": "Klungsten",
               "stop_lat": "60.542933",
@@ -15729,6 +15858,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760418001",
               "stop_name": "Sladahamns v\u00e4gsk\u00e4l",
               "stop_lat": "60.545721",
@@ -15738,6 +15869,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760645001",
               "stop_name": "Kilsk\u00e4r",
               "stop_lat": "60.567062",
@@ -15747,6 +15880,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760121001",
               "stop_name": "Storstens v\u00e4gsk\u00e4l",
               "stop_lat": "60.538428",
@@ -15756,6 +15891,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760123002",
               "stop_name": "Hj\u00e4lmungeskogen",
               "stop_lat": "60.549678",
@@ -15765,6 +15902,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760125002",
               "stop_name": "H\u00e5llen",
               "stop_lat": "60.575603",
@@ -15774,6 +15913,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760128002",
               "stop_name": "Romsmarens v\u00e4gsk\u00e4l",
               "stop_lat": "60.591386",
@@ -15782,7 +15923,12 @@
               "parent_station": "9021003760128000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "159",
+            "start_date": "20241025",
+            "end_date": "20250611"
+          }
         }
       ],
       "points": [

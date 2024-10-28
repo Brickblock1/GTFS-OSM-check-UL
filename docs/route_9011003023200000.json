@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003023200000",
   "agency_id": "33010000000001407",
   "route_short_name": "232",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000210957197",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003781585001",
               "stop_name": "\u00d6rsundsbro skola",
               "stop_lat": "59.733624",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781210002",
               "stop_name": "Enk\u00f6ping station",
               "stop_lat": "59.644289",
@@ -32,6 +37,8 @@
               "platform_code": "A2"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781416001",
               "stop_name": "Enk\u00f6ping S:t Iliansskolan",
               "stop_lat": "59.642282",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781415004",
               "stop_name": "Enk\u00f6ping Westerlundska gymnasiet",
               "stop_lat": "59.634164",
@@ -49,7 +58,12 @@
               "parent_station": "9021003781415000",
               "platform_code": "2"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -6116,8 +6130,11 @@
       "trips": [
         {
           "trip_id": "33010000213053330",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003781764001",
               "stop_name": "Harn\u00e4s",
               "stop_lat": "59.817727",
@@ -6127,6 +6144,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781586001",
               "stop_name": "Groddammen",
               "stop_lat": "59.809741",
@@ -6136,6 +6155,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781351001",
               "stop_name": "\u00c5loppe",
               "stop_lat": "59.805432",
@@ -6145,6 +6166,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781876001",
               "stop_name": "\u00c4ngstorp",
               "stop_lat": "59.788857",
@@ -6154,6 +6177,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781587001",
               "stop_name": "Bj\u00f6rktorp",
               "stop_lat": "59.785383",
@@ -6163,6 +6188,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781588001",
               "stop_name": "Gottvallen",
               "stop_lat": "59.780447",
@@ -6172,6 +6199,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781589001",
               "stop_name": "Resta",
               "stop_lat": "59.772144",
@@ -6181,6 +6210,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781887001",
               "stop_name": "Mosta skola",
               "stop_lat": "59.755428",
@@ -6190,6 +6221,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781595001",
               "stop_name": "Mosta (Nys\u00e4tra)",
               "stop_lat": "59.750621",
@@ -6199,6 +6232,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781590001",
               "stop_name": "Oxdjupet Skjutbanan",
               "stop_lat": "59.770216",
@@ -6208,6 +6243,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781591001",
               "stop_name": "Oxdjupet Odonv\u00e4gen",
               "stop_lat": "59.766723",
@@ -6217,6 +6254,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781880001",
               "stop_name": "Smedstorp",
               "stop_lat": "59.751012",
@@ -6226,6 +6265,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781766001",
               "stop_name": "\u00d6rsunda (Nys\u00e4tra)",
               "stop_lat": "59.743492",
@@ -6235,6 +6276,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781592001",
               "stop_name": "Rosenborg",
               "stop_lat": "59.740861",
@@ -6244,6 +6287,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781585001",
               "stop_name": "\u00d6rsundsbro skola",
               "stop_lat": "59.733624",
@@ -6252,7 +6297,12 @@
               "parent_station": "9021003781585000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -8771,8 +8821,11 @@
       "trips": [
         {
           "trip_id": "33010000212608329",
+          "service_id": "67",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003781585001",
               "stop_name": "\u00d6rsundsbro skola",
               "stop_lat": "59.733624",
@@ -8782,6 +8835,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781592001",
               "stop_name": "Rosenborg",
               "stop_lat": "59.740861",
@@ -8791,6 +8846,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781766001",
               "stop_name": "\u00d6rsunda (Nys\u00e4tra)",
               "stop_lat": "59.743492",
@@ -8800,6 +8857,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781880001",
               "stop_name": "Smedstorp",
               "stop_lat": "59.751012",
@@ -8809,6 +8868,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781591001",
               "stop_name": "Oxdjupet Odonv\u00e4gen",
               "stop_lat": "59.766723",
@@ -8818,6 +8879,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781590001",
               "stop_name": "Oxdjupet Skjutbanan",
               "stop_lat": "59.770216",
@@ -8827,6 +8890,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781596001",
               "stop_name": "Alsta Nys\u00e4tra",
               "stop_lat": "59.749920",
@@ -8836,6 +8901,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781596003",
               "stop_name": "Alsta Nys\u00e4tra",
               "stop_lat": "59.750283",
@@ -8845,6 +8912,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781968001",
               "stop_name": "Fiskebacken Mosta",
               "stop_lat": "59.750041",
@@ -8854,6 +8923,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781595001",
               "stop_name": "Mosta (Nys\u00e4tra)",
               "stop_lat": "59.750621",
@@ -8863,6 +8934,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781913001",
               "stop_name": "H\u00f6gborg",
               "stop_lat": "59.750341",
@@ -8872,6 +8945,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781767001",
               "stop_name": "H\u00f6gby (Nys\u00e4tra)",
               "stop_lat": "59.748568",
@@ -8881,6 +8956,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781914001",
               "stop_name": "Fiskmansbo (Nys\u00e4tra)",
               "stop_lat": "59.747547",
@@ -8890,6 +8967,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781887001",
               "stop_name": "Mosta skola",
               "stop_lat": "59.755428",
@@ -8899,6 +8978,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781589001",
               "stop_name": "Resta",
               "stop_lat": "59.772144",
@@ -8908,6 +8989,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781588001",
               "stop_name": "Gottvallen",
               "stop_lat": "59.780447",
@@ -8917,6 +9000,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781587001",
               "stop_name": "Bj\u00f6rktorp",
               "stop_lat": "59.785383",
@@ -8926,6 +9011,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781876001",
               "stop_name": "\u00c4ngstorp",
               "stop_lat": "59.788857",
@@ -8935,6 +9022,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781351001",
               "stop_name": "\u00c5loppe",
               "stop_lat": "59.805432",
@@ -8944,6 +9033,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781586001",
               "stop_name": "Groddammen",
               "stop_lat": "59.809741",
@@ -8953,6 +9044,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781764001",
               "stop_name": "Harn\u00e4s",
               "stop_lat": "59.817727",
@@ -8961,12 +9054,20 @@
               "parent_station": "9021003781764000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "67",
+            "start_date": "20241025",
+            "end_date": "20250523"
+          }
         },
         {
           "trip_id": "33010000212608393",
+          "service_id": "103",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003781585001",
               "stop_name": "\u00d6rsundsbro skola",
               "stop_lat": "59.733624",
@@ -8976,6 +9077,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781592001",
               "stop_name": "Rosenborg",
               "stop_lat": "59.740861",
@@ -8985,6 +9088,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781766001",
               "stop_name": "\u00d6rsunda (Nys\u00e4tra)",
               "stop_lat": "59.743492",
@@ -8994,6 +9099,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781880001",
               "stop_name": "Smedstorp",
               "stop_lat": "59.751012",
@@ -9003,6 +9110,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781591001",
               "stop_name": "Oxdjupet Odonv\u00e4gen",
               "stop_lat": "59.766723",
@@ -9012,6 +9121,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781590001",
               "stop_name": "Oxdjupet Skjutbanan",
               "stop_lat": "59.770216",
@@ -9021,6 +9132,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781596001",
               "stop_name": "Alsta Nys\u00e4tra",
               "stop_lat": "59.749920",
@@ -9030,6 +9143,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781596003",
               "stop_name": "Alsta Nys\u00e4tra",
               "stop_lat": "59.750283",
@@ -9039,6 +9154,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781968001",
               "stop_name": "Fiskebacken Mosta",
               "stop_lat": "59.750041",
@@ -9048,6 +9165,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781595001",
               "stop_name": "Mosta (Nys\u00e4tra)",
               "stop_lat": "59.750621",
@@ -9057,6 +9176,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781913001",
               "stop_name": "H\u00f6gborg",
               "stop_lat": "59.750341",
@@ -9066,6 +9187,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781767001",
               "stop_name": "H\u00f6gby (Nys\u00e4tra)",
               "stop_lat": "59.748568",
@@ -9075,6 +9198,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781914001",
               "stop_name": "Fiskmansbo (Nys\u00e4tra)",
               "stop_lat": "59.747547",
@@ -9084,6 +9209,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781887001",
               "stop_name": "Mosta skola",
               "stop_lat": "59.755428",
@@ -9093,6 +9220,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781589001",
               "stop_name": "Resta",
               "stop_lat": "59.772144",
@@ -9102,6 +9231,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781588001",
               "stop_name": "Gottvallen",
               "stop_lat": "59.780447",
@@ -9111,6 +9242,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781587001",
               "stop_name": "Bj\u00f6rktorp",
               "stop_lat": "59.785383",
@@ -9120,6 +9253,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781876001",
               "stop_name": "\u00c4ngstorp",
               "stop_lat": "59.788857",
@@ -9129,6 +9264,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781351001",
               "stop_name": "\u00c5loppe",
               "stop_lat": "59.805432",
@@ -9138,6 +9275,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781586001",
               "stop_name": "Groddammen",
               "stop_lat": "59.809741",
@@ -9147,6 +9286,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781764001",
               "stop_name": "Harn\u00e4s",
               "stop_lat": "59.817727",
@@ -9155,12 +9296,20 @@
               "parent_station": "9021003781764000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "103",
+            "start_date": "20241106",
+            "end_date": "20250611"
+          }
         },
         {
           "trip_id": "33010000212608295",
+          "service_id": "132",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003781585001",
               "stop_name": "\u00d6rsundsbro skola",
               "stop_lat": "59.733624",
@@ -9170,6 +9319,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781592001",
               "stop_name": "Rosenborg",
               "stop_lat": "59.740861",
@@ -9179,6 +9330,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781766001",
               "stop_name": "\u00d6rsunda (Nys\u00e4tra)",
               "stop_lat": "59.743492",
@@ -9188,6 +9341,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781880001",
               "stop_name": "Smedstorp",
               "stop_lat": "59.751012",
@@ -9197,6 +9352,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781591001",
               "stop_name": "Oxdjupet Odonv\u00e4gen",
               "stop_lat": "59.766723",
@@ -9206,6 +9363,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781590001",
               "stop_name": "Oxdjupet Skjutbanan",
               "stop_lat": "59.770216",
@@ -9215,6 +9374,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781596001",
               "stop_name": "Alsta Nys\u00e4tra",
               "stop_lat": "59.749920",
@@ -9224,6 +9385,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781596003",
               "stop_name": "Alsta Nys\u00e4tra",
               "stop_lat": "59.750283",
@@ -9233,6 +9396,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781968001",
               "stop_name": "Fiskebacken Mosta",
               "stop_lat": "59.750041",
@@ -9242,6 +9407,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781595001",
               "stop_name": "Mosta (Nys\u00e4tra)",
               "stop_lat": "59.750621",
@@ -9251,6 +9418,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781913001",
               "stop_name": "H\u00f6gborg",
               "stop_lat": "59.750341",
@@ -9260,6 +9429,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781767001",
               "stop_name": "H\u00f6gby (Nys\u00e4tra)",
               "stop_lat": "59.748568",
@@ -9269,6 +9440,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781914001",
               "stop_name": "Fiskmansbo (Nys\u00e4tra)",
               "stop_lat": "59.747547",
@@ -9278,6 +9451,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781887001",
               "stop_name": "Mosta skola",
               "stop_lat": "59.755428",
@@ -9287,6 +9462,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781589001",
               "stop_name": "Resta",
               "stop_lat": "59.772144",
@@ -9296,6 +9473,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781588001",
               "stop_name": "Gottvallen",
               "stop_lat": "59.780447",
@@ -9305,6 +9484,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781587001",
               "stop_name": "Bj\u00f6rktorp",
               "stop_lat": "59.785383",
@@ -9314,6 +9495,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781876001",
               "stop_name": "\u00c4ngstorp",
               "stop_lat": "59.788857",
@@ -9323,6 +9506,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781351001",
               "stop_name": "\u00c5loppe",
               "stop_lat": "59.805432",
@@ -9332,6 +9517,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781586001",
               "stop_name": "Groddammen",
               "stop_lat": "59.809741",
@@ -9341,6 +9528,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781764001",
               "stop_name": "Harn\u00e4s",
               "stop_lat": "59.817727",
@@ -9349,7 +9538,12 @@
               "parent_station": "9021003781764000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "132",
+            "start_date": "20241104",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -12576,8 +12770,11 @@
       "trips": [
         {
           "trip_id": "33010000212608425",
+          "service_id": "98",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003781415004",
               "stop_name": "Enk\u00f6ping Westerlundska gymnasiet",
               "stop_lat": "59.634164",
@@ -12587,6 +12784,8 @@
               "platform_code": "2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781416001",
               "stop_name": "Enk\u00f6ping S:t Iliansskolan",
               "stop_lat": "59.642282",
@@ -12596,6 +12795,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781551001",
               "stop_name": "Tyresta",
               "stop_lat": "59.667474",
@@ -12605,6 +12806,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781781001",
               "stop_name": "Skillinge",
               "stop_lat": "59.677458",
@@ -12614,6 +12817,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781826001",
               "stop_name": "Hallarby by",
               "stop_lat": "59.685313",
@@ -12623,6 +12828,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781548001",
               "stop_name": "Hallarby",
               "stop_lat": "59.690450",
@@ -12632,6 +12839,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781270001",
               "stop_name": "Hallarbyv\u00e4gen",
               "stop_lat": "59.692346",
@@ -12641,6 +12850,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781625001",
               "stop_name": "Varstabacken",
               "stop_lat": "59.713414",
@@ -12650,6 +12861,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781585001",
               "stop_name": "\u00d6rsundsbro skola",
               "stop_lat": "59.733624",
@@ -12659,6 +12872,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781592001",
               "stop_name": "Rosenborg",
               "stop_lat": "59.740861",
@@ -12668,6 +12883,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781766001",
               "stop_name": "\u00d6rsunda (Nys\u00e4tra)",
               "stop_lat": "59.743492",
@@ -12677,6 +12894,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781596001",
               "stop_name": "Alsta Nys\u00e4tra",
               "stop_lat": "59.749920",
@@ -12686,6 +12905,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781596003",
               "stop_name": "Alsta Nys\u00e4tra",
               "stop_lat": "59.750283",
@@ -12695,6 +12916,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781968001",
               "stop_name": "Fiskebacken Mosta",
               "stop_lat": "59.750041",
@@ -12704,6 +12927,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781595001",
               "stop_name": "Mosta (Nys\u00e4tra)",
               "stop_lat": "59.750621",
@@ -12713,6 +12938,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781887001",
               "stop_name": "Mosta skola",
               "stop_lat": "59.755428",
@@ -12722,6 +12949,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781589001",
               "stop_name": "Resta",
               "stop_lat": "59.772144",
@@ -12731,6 +12960,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781588001",
               "stop_name": "Gottvallen",
               "stop_lat": "59.780447",
@@ -12740,6 +12971,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781587001",
               "stop_name": "Bj\u00f6rktorp",
               "stop_lat": "59.785383",
@@ -12749,6 +12982,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781876001",
               "stop_name": "\u00c4ngstorp",
               "stop_lat": "59.788857",
@@ -12758,6 +12993,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781351001",
               "stop_name": "\u00c5loppe",
               "stop_lat": "59.805432",
@@ -12766,7 +13003,12 @@
               "parent_station": "9021003781351000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "98",
+            "start_date": "20241105",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -18873,8 +19115,11 @@
       "trips": [
         {
           "trip_id": "33010000212608490",
+          "service_id": "100",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003781415004",
               "stop_name": "Enk\u00f6ping Westerlundska gymnasiet",
               "stop_lat": "59.634164",
@@ -18884,6 +19129,8 @@
               "platform_code": "2"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781551001",
               "stop_name": "Tyresta",
               "stop_lat": "59.667474",
@@ -18893,6 +19140,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781781001",
               "stop_name": "Skillinge",
               "stop_lat": "59.677458",
@@ -18902,6 +19151,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781826001",
               "stop_name": "Hallarby by",
               "stop_lat": "59.685313",
@@ -18911,6 +19162,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781548001",
               "stop_name": "Hallarby",
               "stop_lat": "59.690450",
@@ -18920,6 +19173,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781270001",
               "stop_name": "Hallarbyv\u00e4gen",
               "stop_lat": "59.692346",
@@ -18929,6 +19184,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781625001",
               "stop_name": "Varstabacken",
               "stop_lat": "59.713414",
@@ -18938,6 +19195,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781585001",
               "stop_name": "\u00d6rsundsbro skola",
               "stop_lat": "59.733624",
@@ -18947,6 +19206,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781592001",
               "stop_name": "Rosenborg",
               "stop_lat": "59.740861",
@@ -18956,6 +19217,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781766001",
               "stop_name": "\u00d6rsunda (Nys\u00e4tra)",
               "stop_lat": "59.743492",
@@ -18965,6 +19228,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781596001",
               "stop_name": "Alsta Nys\u00e4tra",
               "stop_lat": "59.749920",
@@ -18974,6 +19239,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781596003",
               "stop_name": "Alsta Nys\u00e4tra",
               "stop_lat": "59.750283",
@@ -18983,6 +19250,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781968001",
               "stop_name": "Fiskebacken Mosta",
               "stop_lat": "59.750041",
@@ -18992,6 +19261,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781595001",
               "stop_name": "Mosta (Nys\u00e4tra)",
               "stop_lat": "59.750621",
@@ -19001,6 +19272,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781887001",
               "stop_name": "Mosta skola",
               "stop_lat": "59.755428",
@@ -19010,6 +19283,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781589001",
               "stop_name": "Resta",
               "stop_lat": "59.772144",
@@ -19019,6 +19294,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781588001",
               "stop_name": "Gottvallen",
               "stop_lat": "59.780447",
@@ -19028,6 +19305,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781587001",
               "stop_name": "Bj\u00f6rktorp",
               "stop_lat": "59.785383",
@@ -19037,6 +19316,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781876001",
               "stop_name": "\u00c4ngstorp",
               "stop_lat": "59.788857",
@@ -19046,6 +19327,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781351001",
               "stop_name": "\u00c5loppe",
               "stop_lat": "59.805432",
@@ -19054,12 +19337,20 @@
               "parent_station": "9021003781351000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "100",
+            "start_date": "20241104",
+            "end_date": "20250609"
+          }
         },
         {
           "trip_id": "33010000213053363",
+          "service_id": "67",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003781415004",
               "stop_name": "Enk\u00f6ping Westerlundska gymnasiet",
               "stop_lat": "59.634164",
@@ -19069,6 +19360,8 @@
               "platform_code": "2"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781551001",
               "stop_name": "Tyresta",
               "stop_lat": "59.667474",
@@ -19078,6 +19371,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781781001",
               "stop_name": "Skillinge",
               "stop_lat": "59.677458",
@@ -19087,6 +19382,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781826001",
               "stop_name": "Hallarby by",
               "stop_lat": "59.685313",
@@ -19096,6 +19393,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781548001",
               "stop_name": "Hallarby",
               "stop_lat": "59.690450",
@@ -19105,6 +19404,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781270001",
               "stop_name": "Hallarbyv\u00e4gen",
               "stop_lat": "59.692346",
@@ -19114,6 +19415,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781625001",
               "stop_name": "Varstabacken",
               "stop_lat": "59.713414",
@@ -19123,6 +19426,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003781585001",
               "stop_name": "\u00d6rsundsbro skola",
               "stop_lat": "59.733624",
@@ -19132,6 +19437,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781592001",
               "stop_name": "Rosenborg",
               "stop_lat": "59.740861",
@@ -19141,6 +19448,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781766001",
               "stop_name": "\u00d6rsunda (Nys\u00e4tra)",
               "stop_lat": "59.743492",
@@ -19150,6 +19459,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781596001",
               "stop_name": "Alsta Nys\u00e4tra",
               "stop_lat": "59.749920",
@@ -19159,6 +19470,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781596003",
               "stop_name": "Alsta Nys\u00e4tra",
               "stop_lat": "59.750283",
@@ -19168,6 +19481,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781968001",
               "stop_name": "Fiskebacken Mosta",
               "stop_lat": "59.750041",
@@ -19177,6 +19492,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781595001",
               "stop_name": "Mosta (Nys\u00e4tra)",
               "stop_lat": "59.750621",
@@ -19186,6 +19503,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781887001",
               "stop_name": "Mosta skola",
               "stop_lat": "59.755428",
@@ -19195,6 +19514,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781589001",
               "stop_name": "Resta",
               "stop_lat": "59.772144",
@@ -19204,6 +19525,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781588001",
               "stop_name": "Gottvallen",
               "stop_lat": "59.780447",
@@ -19213,6 +19536,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781587001",
               "stop_name": "Bj\u00f6rktorp",
               "stop_lat": "59.785383",
@@ -19222,6 +19547,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781876001",
               "stop_name": "\u00c4ngstorp",
               "stop_lat": "59.788857",
@@ -19231,6 +19558,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781351001",
               "stop_name": "\u00c5loppe",
               "stop_lat": "59.805432",
@@ -19239,7 +19568,12 @@
               "parent_station": "9021003781351000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "67",
+            "start_date": "20241025",
+            "end_date": "20250523"
+          }
         }
       ],
       "points": [
@@ -25470,8 +25804,11 @@
       "trips": [
         {
           "trip_id": "33010000212608359",
+          "service_id": "101",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003781585001",
               "stop_name": "\u00d6rsundsbro skola",
               "stop_lat": "59.733624",
@@ -25481,6 +25818,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781592001",
               "stop_name": "Rosenborg",
               "stop_lat": "59.740861",
@@ -25490,6 +25829,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781766001",
               "stop_name": "\u00d6rsunda (Nys\u00e4tra)",
               "stop_lat": "59.743492",
@@ -25499,6 +25840,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781880001",
               "stop_name": "Smedstorp",
               "stop_lat": "59.751012",
@@ -25508,6 +25851,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781591001",
               "stop_name": "Oxdjupet Odonv\u00e4gen",
               "stop_lat": "59.766723",
@@ -25517,6 +25862,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781590001",
               "stop_name": "Oxdjupet Skjutbanan",
               "stop_lat": "59.770216",
@@ -25526,6 +25873,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781596001",
               "stop_name": "Alsta Nys\u00e4tra",
               "stop_lat": "59.749920",
@@ -25535,6 +25884,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781596003",
               "stop_name": "Alsta Nys\u00e4tra",
               "stop_lat": "59.750283",
@@ -25544,6 +25895,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781968001",
               "stop_name": "Fiskebacken Mosta",
               "stop_lat": "59.750041",
@@ -25553,6 +25906,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781595001",
               "stop_name": "Mosta (Nys\u00e4tra)",
               "stop_lat": "59.750621",
@@ -25562,6 +25917,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781913001",
               "stop_name": "H\u00f6gborg",
               "stop_lat": "59.750341",
@@ -25571,6 +25928,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781767001",
               "stop_name": "H\u00f6gby (Nys\u00e4tra)",
               "stop_lat": "59.748568",
@@ -25580,6 +25939,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781887001",
               "stop_name": "Mosta skola",
               "stop_lat": "59.755428",
@@ -25589,6 +25950,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781589001",
               "stop_name": "Resta",
               "stop_lat": "59.772144",
@@ -25598,6 +25961,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781588001",
               "stop_name": "Gottvallen",
               "stop_lat": "59.780447",
@@ -25607,6 +25972,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781587001",
               "stop_name": "Bj\u00f6rktorp",
               "stop_lat": "59.785383",
@@ -25616,6 +25983,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781876001",
               "stop_name": "\u00c4ngstorp",
               "stop_lat": "59.788857",
@@ -25625,6 +25994,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003781351001",
               "stop_name": "\u00c5loppe",
               "stop_lat": "59.805432",
@@ -25633,7 +26004,12 @@
               "parent_station": "9021003781351000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "101",
+            "start_date": "20241104",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [

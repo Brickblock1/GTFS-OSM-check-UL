@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003017600000",
   "agency_id": "33010000000001407",
   "route_short_name": "176",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000198930740",
+          "service_id": "120",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003730012002",
               "stop_name": "Alsike skola",
               "stop_lat": "59.750284",
@@ -23,6 +26,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003730013002",
               "stop_name": "Alsike Gr\u00e4nsgatan",
               "stop_lat": "59.752651",
@@ -32,6 +37,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003730014002",
               "stop_name": "Alsike Vr\u00e5 skogsv\u00e4g",
               "stop_lat": "59.755884",
@@ -41,6 +48,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003730015002",
               "stop_name": "Alsike S\u00e4ttragatan",
               "stop_lat": "59.757653",
@@ -50,6 +59,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780031002",
               "stop_name": "Alsike L\u00e4rkdrillsv\u00e4gen",
               "stop_lat": "59.761102",
@@ -59,6 +70,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003730030001",
               "stop_name": "Alsike F.d. Vass aff\u00e4r",
               "stop_lat": "59.760719",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003730028001",
               "stop_name": "Johannesberg (Palmens tomt)",
               "stop_lat": "59.769845",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780336002",
               "stop_name": "Alsike Nytorp",
               "stop_lat": "59.767708",
@@ -86,6 +103,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003730029001",
               "stop_name": "Alsike Telev\u00e4gen v\u00e4ndplan",
               "stop_lat": "59.760541",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780311002",
               "stop_name": "Alsike station",
               "stop_lat": "59.757699",
@@ -104,6 +125,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780029002",
               "stop_name": "Alsike Ekedalsv\u00e4gen",
               "stop_lat": "59.750717",
@@ -112,12 +135,20 @@
               "parent_station": "9021003780029000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "120",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
           "trip_id": "33010000201330760",
+          "service_id": "120",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003730012002",
               "stop_name": "Alsike skola",
               "stop_lat": "59.750284",
@@ -127,6 +158,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003730013002",
               "stop_name": "Alsike Gr\u00e4nsgatan",
               "stop_lat": "59.752651",
@@ -136,6 +169,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003730014002",
               "stop_name": "Alsike Vr\u00e5 skogsv\u00e4g",
               "stop_lat": "59.755884",
@@ -145,6 +180,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003730015002",
               "stop_name": "Alsike S\u00e4ttragatan",
               "stop_lat": "59.757653",
@@ -154,6 +191,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780031002",
               "stop_name": "Alsike L\u00e4rkdrillsv\u00e4gen",
               "stop_lat": "59.761102",
@@ -163,6 +202,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003730030001",
               "stop_name": "Alsike F.d. Vass aff\u00e4r",
               "stop_lat": "59.760719",
@@ -172,6 +213,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003730028001",
               "stop_name": "Johannesberg (Palmens tomt)",
               "stop_lat": "59.769845",
@@ -181,6 +224,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780336002",
               "stop_name": "Alsike Nytorp",
               "stop_lat": "59.767708",
@@ -190,6 +235,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003730029001",
               "stop_name": "Alsike Telev\u00e4gen v\u00e4ndplan",
               "stop_lat": "59.760541",
@@ -199,6 +246,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780311002",
               "stop_name": "Alsike station",
               "stop_lat": "59.757699",
@@ -208,6 +257,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780029002",
               "stop_name": "Alsike Ekedalsv\u00e4gen",
               "stop_lat": "59.750717",
@@ -216,7 +267,12 @@
               "parent_station": "9021003780029000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "120",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         }
       ],
       "points": [

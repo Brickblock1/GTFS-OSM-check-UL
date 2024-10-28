@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003030300000",
   "agency_id": "33010000000001407",
   "route_short_name": "303",
@@ -11,9 +11,12 @@
       "shape_id": "1033010000143954821",
       "trips": [
         {
-          "trip_id": "33010000199956162",
+          "trip_id": "33010000213868169",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -23,6 +26,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -32,6 +37,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -41,6 +48,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -50,6 +59,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -104,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -113,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -122,6 +147,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -131,6 +158,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -140,6 +169,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -149,6 +180,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -158,6 +191,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -167,6 +202,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -176,6 +213,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -184,12 +223,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000199957653",
+          "trip_id": "33010000213868705",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -199,6 +246,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -208,6 +257,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -217,6 +268,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -226,6 +279,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -235,6 +290,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -244,6 +301,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -253,6 +312,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -262,6 +323,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -271,6 +334,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -280,6 +345,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -289,6 +356,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -298,6 +367,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -307,6 +378,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -316,6 +389,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -325,6 +400,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -334,6 +411,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -343,6 +422,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -352,6 +433,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -360,12 +443,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000199957860",
+          "trip_id": "33010000213868973",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -375,6 +466,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -384,6 +477,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -393,6 +488,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -402,6 +499,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -411,6 +510,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -420,6 +521,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -429,6 +532,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -438,6 +543,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -447,6 +554,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -456,6 +565,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -465,6 +576,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -474,6 +587,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -483,6 +598,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -492,6 +609,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -501,6 +620,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -510,6 +631,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -519,6 +642,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -528,6 +653,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -536,12 +663,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000199960137",
+          "trip_id": "33010000213870678",
+          "service_id": "83",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -551,6 +686,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -560,6 +697,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -569,6 +708,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -578,6 +719,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -587,6 +730,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -596,6 +741,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -605,6 +752,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -614,6 +763,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -623,6 +774,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -632,6 +785,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -641,6 +796,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -650,6 +807,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -659,6 +818,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -668,6 +829,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -677,6 +840,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -686,6 +851,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -695,6 +862,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -704,6 +873,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -712,12 +883,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "83",
+            "start_date": "20241028",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000199960551",
+          "trip_id": "33010000213870996",
+          "service_id": "83",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -727,6 +906,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -736,6 +917,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -745,6 +928,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -754,6 +939,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -763,6 +950,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -772,6 +961,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -781,6 +972,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -790,6 +983,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -799,6 +994,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -808,6 +1005,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -817,6 +1016,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -826,6 +1027,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -835,6 +1038,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -844,6 +1049,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -853,6 +1060,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -862,6 +1071,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -871,6 +1082,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -880,6 +1093,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -888,12 +1103,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "83",
+            "start_date": "20241028",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000199961172",
+          "trip_id": "33010000213867499",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -903,6 +1126,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -912,6 +1137,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -921,6 +1148,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -930,6 +1159,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -939,6 +1170,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -948,6 +1181,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -957,6 +1192,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -966,6 +1203,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -975,6 +1214,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -984,6 +1225,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -993,6 +1236,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -1002,6 +1247,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -1011,6 +1258,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -1020,6 +1269,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -1029,6 +1280,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -1038,6 +1291,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -1047,6 +1302,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -1056,6 +1313,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -1064,12 +1323,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000199956592",
+          "trip_id": "33010000213867767",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -1079,6 +1346,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -1088,6 +1357,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -1097,6 +1368,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -1106,6 +1379,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -1115,6 +1390,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -1124,6 +1401,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -1133,6 +1412,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -1142,6 +1423,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -1151,6 +1434,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -1160,6 +1445,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -1169,6 +1456,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -1178,6 +1467,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -1187,6 +1478,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -1196,6 +1489,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -1205,6 +1500,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -1214,6 +1511,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -1223,6 +1522,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -1232,6 +1533,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -1240,12 +1543,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000199958274",
+          "trip_id": "33010000213867901",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -1255,6 +1566,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -1264,6 +1577,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -1273,6 +1588,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -1282,6 +1599,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -1291,6 +1610,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -1300,6 +1621,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -1309,6 +1632,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -1318,6 +1643,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -1327,6 +1654,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -1336,6 +1665,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -1345,6 +1676,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -1354,6 +1687,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -1363,6 +1698,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -1372,6 +1709,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -1381,6 +1720,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -1390,6 +1731,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -1399,6 +1742,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -1408,6 +1753,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -1416,12 +1763,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000199958895",
+          "trip_id": "33010000213868571",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -1431,6 +1786,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -1440,6 +1797,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -1449,6 +1808,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -1458,6 +1819,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -1467,6 +1830,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -1476,6 +1841,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -1485,6 +1852,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -1494,6 +1863,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -1503,6 +1874,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -1512,6 +1885,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -1521,6 +1896,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -1530,6 +1907,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -1539,6 +1918,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -1548,6 +1929,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -1557,6 +1940,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -1566,6 +1951,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -1575,6 +1962,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -1584,6 +1973,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -1592,12 +1983,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000199959309",
+          "trip_id": "33010000213868839",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -1607,6 +2006,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -1616,6 +2017,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -1625,6 +2028,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -1634,6 +2039,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -1643,6 +2050,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -1652,6 +2061,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -1661,6 +2072,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -1670,6 +2083,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -1679,6 +2094,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -1688,6 +2105,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -1697,6 +2116,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -1706,6 +2127,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -1715,6 +2138,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -1724,6 +2149,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -1733,6 +2160,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -1742,6 +2171,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -1751,6 +2182,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -1760,6 +2193,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -1768,12 +2203,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000199960344",
+          "trip_id": "33010000213869927",
+          "service_id": "11",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -1783,6 +2226,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -1792,6 +2237,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -1801,6 +2248,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -1810,6 +2259,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -1819,6 +2270,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -1828,6 +2281,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -1837,6 +2292,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -1846,6 +2303,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -1855,6 +2314,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -1864,6 +2325,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -1873,6 +2336,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -1882,6 +2347,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -1891,6 +2358,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -1900,6 +2369,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -1909,6 +2380,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -1918,6 +2391,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -1927,6 +2402,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -1936,6 +2413,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -1944,12 +2423,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "11",
+            "start_date": "20241026",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000199960758",
+          "trip_id": "33010000213866963",
+          "service_id": "1",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -1959,6 +2446,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -1968,6 +2457,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -1977,6 +2468,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -1986,6 +2479,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -1995,6 +2490,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -2004,6 +2501,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -2013,6 +2512,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -2022,6 +2523,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -2031,6 +2534,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -2040,6 +2545,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -2049,6 +2556,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -2058,6 +2567,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -2067,6 +2578,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -2076,6 +2589,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -2085,6 +2600,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -2094,6 +2611,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -2103,6 +2622,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -2112,6 +2633,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -2120,12 +2643,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000199960965",
+          "trip_id": "33010000213867097",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -2135,6 +2666,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -2144,6 +2677,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -2153,6 +2688,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -2162,6 +2699,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -2171,6 +2710,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -2180,6 +2721,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -2189,6 +2732,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -2198,6 +2743,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -2207,6 +2754,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -2216,6 +2765,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -2225,6 +2776,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -2234,6 +2787,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -2243,6 +2798,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -2252,6 +2809,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -2261,6 +2820,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -2270,6 +2831,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -2279,6 +2842,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -2288,6 +2853,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -2296,12 +2863,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000199961793",
+          "trip_id": "33010000213868035",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -2311,6 +2886,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -2320,6 +2897,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -2329,6 +2908,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -2338,6 +2919,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -2347,6 +2930,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -2356,6 +2941,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -2365,6 +2952,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -2374,6 +2963,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -2383,6 +2974,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -2392,6 +2985,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -2401,6 +2996,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -2410,6 +3007,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -2419,6 +3018,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -2428,6 +3029,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -2437,6 +3040,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -2446,6 +3051,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -2455,6 +3062,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -2464,6 +3073,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -2472,12 +3083,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000199962231",
+          "trip_id": "33010000213868303",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -2487,6 +3106,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -2496,6 +3117,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -2505,6 +3128,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -2514,6 +3139,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -2523,6 +3150,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -2532,6 +3161,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -2541,6 +3172,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -2550,6 +3183,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -2559,6 +3194,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -2568,6 +3205,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -2577,6 +3216,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -2586,6 +3227,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -2595,6 +3238,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -2604,6 +3249,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -2613,6 +3260,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -2622,6 +3271,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -2631,6 +3282,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -2640,6 +3293,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -2648,12 +3303,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000199956377",
+          "trip_id": "33010000213869107",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -2663,6 +3326,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -2672,6 +3337,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -2681,6 +3348,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -2690,6 +3359,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -2699,6 +3370,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -2708,6 +3381,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -2717,6 +3392,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -2726,6 +3403,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -2735,6 +3414,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -2744,6 +3425,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -2753,6 +3436,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -2762,6 +3447,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -2771,6 +3458,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -2780,6 +3469,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -2789,6 +3480,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -2798,6 +3491,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -2807,6 +3502,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -2816,6 +3513,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -2824,12 +3523,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000199957446",
+          "trip_id": "33010000213869241",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -2839,6 +3546,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -2848,6 +3557,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -2857,6 +3568,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -2866,6 +3579,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -2875,6 +3590,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -2884,6 +3601,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -2893,6 +3612,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -2902,6 +3623,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -2911,6 +3634,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -2920,6 +3645,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -2929,6 +3656,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -2938,6 +3667,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -2947,6 +3678,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -2956,6 +3689,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -2965,6 +3700,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -2974,6 +3711,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -2983,6 +3722,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -2992,6 +3733,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -3000,12 +3743,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000199958067",
+          "trip_id": "33010000213870061",
+          "service_id": "11",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -3015,6 +3766,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -3024,6 +3777,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -3033,6 +3788,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -3042,6 +3799,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -3051,6 +3810,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -3060,6 +3821,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -3069,6 +3832,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -3078,6 +3843,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -3087,6 +3854,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -3096,6 +3865,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -3105,6 +3876,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -3114,6 +3887,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -3123,6 +3898,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -3132,6 +3909,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -3141,6 +3920,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -3150,6 +3931,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -3159,6 +3942,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -3168,6 +3953,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -3176,12 +3963,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "11",
+            "start_date": "20241026",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000199958688",
+          "trip_id": "33010000213870837",
+          "service_id": "83",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -3191,6 +3986,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -3200,6 +3997,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -3209,6 +4008,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -3218,6 +4019,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -3227,6 +4030,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -3236,6 +4041,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -3245,6 +4052,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -3254,6 +4063,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -3263,6 +4074,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -3272,6 +4085,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -3281,6 +4096,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -3290,6 +4107,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -3299,6 +4118,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -3308,6 +4129,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -3317,6 +4140,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -3326,6 +4151,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -3335,6 +4162,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -3344,6 +4173,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -3352,12 +4183,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "83",
+            "start_date": "20241028",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000199959723",
+          "trip_id": "33010000213867231",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -3367,6 +4206,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -3376,6 +4217,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -3385,6 +4228,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -3394,6 +4239,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -3403,6 +4250,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -3412,6 +4261,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -3421,6 +4272,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -3430,6 +4283,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -3439,6 +4294,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -3448,6 +4305,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -3457,6 +4316,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -3466,6 +4327,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -3475,6 +4338,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -3484,6 +4349,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -3493,6 +4360,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -3502,6 +4371,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -3511,6 +4382,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -3520,6 +4393,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -3528,12 +4403,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000199959930",
+          "trip_id": "33010000213867365",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -3543,6 +4426,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -3552,6 +4437,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -3561,6 +4448,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -3570,6 +4459,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -3579,6 +4470,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -3588,6 +4481,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -3597,6 +4492,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -3606,6 +4503,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -3615,6 +4514,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -3624,6 +4525,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -3633,6 +4536,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -3642,6 +4547,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -3651,6 +4558,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -3660,6 +4569,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -3669,6 +4580,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -3678,6 +4591,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -3687,6 +4602,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -3696,6 +4613,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -3704,12 +4623,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000199961586",
+          "trip_id": "33010000213867633",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -3719,6 +4646,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -3728,6 +4657,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -3737,6 +4668,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -3746,6 +4679,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -3755,6 +4690,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -3764,6 +4701,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -3773,6 +4712,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -3782,6 +4723,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -3791,6 +4734,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -3800,6 +4745,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -3809,6 +4756,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -3818,6 +4767,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -3827,6 +4778,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -3836,6 +4789,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -3845,6 +4800,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -3854,6 +4811,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -3863,6 +4822,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -3872,6 +4833,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -3880,12 +4843,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000199958481",
+          "trip_id": "33010000213868437",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -3895,6 +4866,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -3904,6 +4877,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -3913,6 +4888,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -3922,6 +4899,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -3931,6 +4910,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -3940,6 +4921,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -3949,6 +4932,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -3958,6 +4943,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -3967,6 +4954,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -3976,6 +4965,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -3985,6 +4976,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -3994,6 +4987,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -4003,6 +4998,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -4012,6 +5009,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -4021,6 +5020,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -4030,6 +5031,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -4039,6 +5042,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -4048,6 +5053,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -4056,12 +5063,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000199959102",
+          "trip_id": "33010000213869375",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -4071,6 +5086,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -4080,6 +5097,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -4089,6 +5108,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -4098,6 +5119,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -4107,6 +5130,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -4116,6 +5141,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -4125,6 +5152,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -4134,6 +5163,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -4143,6 +5174,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -4152,6 +5185,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -4161,6 +5196,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -4170,6 +5207,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -4179,6 +5218,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -4188,6 +5229,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -4197,6 +5240,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -4206,6 +5251,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -4215,6 +5262,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -4224,6 +5273,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -4232,12 +5283,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000199959516",
+          "trip_id": "33010000213869509",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -4247,6 +5306,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -4256,6 +5317,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -4265,6 +5328,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -4274,6 +5339,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -4283,6 +5350,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -4292,6 +5361,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -4301,6 +5372,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -4310,6 +5383,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -4319,6 +5394,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -4328,6 +5405,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -4337,6 +5416,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -4346,6 +5427,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -4355,6 +5438,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -4364,6 +5449,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -4373,6 +5460,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -4382,6 +5471,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -4391,6 +5482,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -4400,6 +5493,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -4408,12 +5503,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
         },
         {
-          "trip_id": "33010000199961379",
+          "trip_id": "33010000213869643",
+          "service_id": "63",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -4423,6 +5526,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -4432,6 +5537,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -4441,6 +5548,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -4450,6 +5559,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -4459,6 +5570,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -4468,6 +5581,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -4477,6 +5592,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -4486,6 +5603,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -4495,6 +5614,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -4504,6 +5625,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -4513,6 +5636,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -4522,6 +5647,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -4531,6 +5658,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -4540,6 +5669,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -4549,6 +5680,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -4558,6 +5691,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -4567,6 +5702,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -4576,6 +5713,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -4584,12 +5723,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "63",
+            "start_date": "20241025",
+            "end_date": "20250615"
+          }
         },
         {
-          "trip_id": "33010000199962024",
+          "trip_id": "33010000213869777",
+          "service_id": "9",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -4599,6 +5746,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -4608,6 +5757,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -4617,6 +5768,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -4626,6 +5779,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -4635,6 +5790,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -4644,6 +5801,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -4653,6 +5812,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -4662,6 +5823,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -4671,6 +5834,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -4680,6 +5845,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -4689,6 +5856,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -4698,6 +5867,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -4707,6 +5878,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -4716,6 +5889,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -4725,6 +5900,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -4734,6 +5911,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -4743,6 +5922,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -4752,6 +5933,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -4760,7 +5943,232 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "9",
+            "start_date": "20241025",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000214588837",
+          "service_id": "5",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003705003003",
+              "stop_name": "B\u00e5lsta station",
+              "stop_lat": "59.568945",
+              "stop_lon": "17.531566",
+              "location_type": "0",
+              "parent_station": "9021003705003000",
+              "platform_code": "B1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705017002",
+              "stop_name": "B\u00e5lsta v\u00e5rdcentral",
+              "stop_lat": "59.567921",
+              "stop_lon": "17.526789",
+              "location_type": "0",
+              "parent_station": "9021003705017000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705122002",
+              "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
+              "stop_lat": "59.561676",
+              "stop_lon": "17.520332",
+              "location_type": "0",
+              "parent_station": "9021003705122000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705123002",
+              "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
+              "stop_lat": "59.558282",
+              "stop_lon": "17.519009",
+              "location_type": "0",
+              "parent_station": "9021003705123000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705042001",
+              "stop_name": "B\u00e5lsta Kraftleden",
+              "stop_lat": "59.564320",
+              "stop_lon": "17.507603",
+              "location_type": "0",
+              "parent_station": "9021003705042000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705045001",
+              "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
+              "stop_lat": "59.567325",
+              "stop_lon": "17.505048",
+              "location_type": "0",
+              "parent_station": "9021003705045000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705047001",
+              "stop_name": "B\u00e5lsta Gillmarken",
+              "stop_lat": "59.570293",
+              "stop_lon": "17.502614",
+              "location_type": "0",
+              "parent_station": "9021003705047000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705024001",
+              "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
+              "stop_lat": "59.572195",
+              "stop_lon": "17.497170",
+              "location_type": "0",
+              "parent_station": "9021003705024000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705023001",
+              "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
+              "stop_lat": "59.571326",
+              "stop_lon": "17.483748",
+              "location_type": "0",
+              "parent_station": "9021003705023000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705107001",
+              "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
+              "stop_lat": "59.572043",
+              "stop_lon": "17.478882",
+              "location_type": "0",
+              "parent_station": "9021003705107000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705021001",
+              "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
+              "stop_lat": "59.567576",
+              "stop_lon": "17.482836",
+              "location_type": "0",
+              "parent_station": "9021003705021000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705024002",
+              "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
+              "stop_lat": "59.571802",
+              "stop_lon": "17.495558",
+              "location_type": "0",
+              "parent_station": "9021003705024000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705047002",
+              "stop_name": "B\u00e5lsta Gillmarken",
+              "stop_lat": "59.569051",
+              "stop_lon": "17.503507",
+              "location_type": "0",
+              "parent_station": "9021003705047000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705045002",
+              "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
+              "stop_lat": "59.566873",
+              "stop_lon": "17.505326",
+              "location_type": "0",
+              "parent_station": "9021003705045000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705042002",
+              "stop_name": "B\u00e5lsta Kraftleden",
+              "stop_lat": "59.563550",
+              "stop_lon": "17.508131",
+              "location_type": "0",
+              "parent_station": "9021003705042000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705123001",
+              "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
+              "stop_lat": "59.558387",
+              "stop_lon": "17.519174",
+              "location_type": "0",
+              "parent_station": "9021003705123000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705122001",
+              "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
+              "stop_lat": "59.561799",
+              "stop_lon": "17.520550",
+              "location_type": "0",
+              "parent_station": "9021003705122000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003705017001",
+              "stop_name": "B\u00e5lsta v\u00e5rdcentral",
+              "stop_lat": "59.568135",
+              "stop_lon": "17.527597",
+              "location_type": "0",
+              "parent_station": "9021003705017000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003705003003",
+              "stop_name": "B\u00e5lsta station",
+              "stop_lat": "59.568945",
+              "stop_lon": "17.531566",
+              "location_type": "0",
+              "parent_station": "9021003705003000",
+              "platform_code": "B1"
+            }
+          ],
+          "service": {
+            "service_id": "5",
+            "start_date": "20241025",
+            "end_date": "20241213"
+          }
         }
       ],
       "points": [
@@ -8050,9 +9458,12 @@
       "shape_id": "1033010000143954860",
       "trips": [
         {
-          "trip_id": "33010000199956808",
+          "trip_id": "33010000213870381",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -8062,6 +9473,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -8071,6 +9484,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -8080,6 +9495,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -8089,6 +9506,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705037002",
               "stop_name": "B\u00e5lsta Futurum",
               "stop_lat": "59.557062",
@@ -8098,6 +9517,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -8107,6 +9528,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -8116,6 +9539,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -8125,6 +9550,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -8134,6 +9561,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -8143,6 +9572,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -8152,6 +9583,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -8161,6 +9594,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -8170,6 +9605,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -8179,6 +9616,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -8188,6 +9627,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -8197,6 +9638,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -8206,6 +9649,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -8215,6 +9660,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -8224,6 +9671,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -8232,12 +9681,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         },
         {
-          "trip_id": "33010000199957021",
+          "trip_id": "33010000213870232",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -8247,6 +9704,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -8256,6 +9715,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -8265,6 +9726,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -8274,6 +9737,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705037002",
               "stop_name": "B\u00e5lsta Futurum",
               "stop_lat": "59.557062",
@@ -8283,6 +9748,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -8292,6 +9759,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -8301,6 +9770,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -8310,6 +9781,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -8319,6 +9792,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -8328,6 +9803,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -8337,6 +9814,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -8346,6 +9825,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -8355,6 +9836,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -8364,6 +9847,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -8373,6 +9858,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -8382,6 +9869,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -8391,6 +9880,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -8400,6 +9891,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -8409,6 +9902,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -8417,12 +9912,20 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         },
         {
-          "trip_id": "33010000199957234",
+          "trip_id": "33010000213870530",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -8432,6 +9935,8 @@
               "platform_code": "B1"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017002",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.567921",
@@ -8441,6 +9946,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122002",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561676",
@@ -8450,6 +9957,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123002",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558282",
@@ -8459,6 +9968,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705037002",
               "stop_name": "B\u00e5lsta Futurum",
               "stop_lat": "59.557062",
@@ -8468,6 +9979,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042001",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.564320",
@@ -8477,6 +9990,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045001",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.567325",
@@ -8486,6 +10001,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047001",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.570293",
@@ -8495,6 +10012,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024001",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.572195",
@@ -8504,6 +10023,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705023001",
               "stop_name": "B\u00e5lsta Gnejsv\u00e4gen",
               "stop_lat": "59.571326",
@@ -8513,6 +10034,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705107001",
               "stop_name": "B\u00e5lsta Kalkstensv\u00e4gen",
               "stop_lat": "59.572043",
@@ -8522,6 +10045,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705021001",
               "stop_name": "B\u00e5lsta Sk\u00f6rbyh\u00f6jden",
               "stop_lat": "59.567576",
@@ -8531,6 +10056,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705024002",
               "stop_name": "B\u00e5lsta Galoppv\u00e4gen",
               "stop_lat": "59.571802",
@@ -8540,6 +10067,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705047002",
               "stop_name": "B\u00e5lsta Gillmarken",
               "stop_lat": "59.569051",
@@ -8549,6 +10078,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705045002",
               "stop_name": "B\u00e5lsta \u00c5kerby v\u00e4gsk\u00e4l",
               "stop_lat": "59.566873",
@@ -8558,6 +10089,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705042002",
               "stop_name": "B\u00e5lsta Kraftleden",
               "stop_lat": "59.563550",
@@ -8567,6 +10100,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705123001",
               "stop_name": "B\u00e5lsta Lindeg\u00e5rdsv\u00e4gen",
               "stop_lat": "59.558387",
@@ -8576,6 +10111,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705122001",
               "stop_name": "B\u00e5lsta Gr\u00f6na dalen",
               "stop_lat": "59.561799",
@@ -8585,6 +10122,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003705017001",
               "stop_name": "B\u00e5lsta v\u00e5rdcentral",
               "stop_lat": "59.568135",
@@ -8594,6 +10133,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003705003003",
               "stop_name": "B\u00e5lsta station",
               "stop_lat": "59.568945",
@@ -8602,7 +10143,12 @@
               "parent_station": "9021003705003000",
               "platform_code": "B1"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [

@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003014100000",
   "agency_id": "33010000000001407",
   "route_short_name": "141",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000198948107",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780185002",
               "stop_name": "Finndalen v\u00e4gsk\u00e4l",
               "stop_lat": "59.929339",
@@ -23,6 +26,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780211001",
               "stop_name": "Stora V\u00e4sby",
               "stop_lat": "59.920850",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780209001",
               "stop_name": "Stora Tadinge",
               "stop_lat": "59.922202",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780207001",
               "stop_name": "Nybo v\u00e4gsk\u00e4l",
               "stop_lat": "59.929717",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780210001",
               "stop_name": "Moga",
               "stop_lat": "59.919201",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779588001",
               "stop_name": "Almunge Silverv\u00e4gen",
               "stop_lat": "59.911636",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779589001",
               "stop_name": "Almunge Vargmossev\u00e4gen",
               "stop_lat": "59.905666",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779590001",
               "stop_name": "Almunge Ekn\u00e4sv\u00e4gen",
               "stop_lat": "59.897673",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779591001",
               "stop_name": "Henningsro",
               "stop_lat": "59.890589",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779970001",
               "stop_name": "Pr\u00e4sttorpet",
               "stop_lat": "59.885670",
@@ -104,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779592001",
               "stop_name": "Almunge Ramparbolsv\u00e4gen",
               "stop_lat": "59.882779",
@@ -113,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779593001",
               "stop_name": "Almunge Storfamnsv\u00e4gen",
               "stop_lat": "59.878798",
@@ -122,6 +147,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780962001",
               "stop_name": "Almunge biograf",
               "stop_lat": "59.875593",
@@ -131,6 +158,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780128007",
               "stop_name": "Almunge skola",
               "stop_lat": "59.866901",
@@ -139,12 +168,20 @@
               "parent_station": "9021003780128000",
               "platform_code": "G"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         },
         {
           "trip_id": "33010000198948079",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780185002",
               "stop_name": "Finndalen v\u00e4gsk\u00e4l",
               "stop_lat": "59.929339",
@@ -154,6 +191,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780211001",
               "stop_name": "Stora V\u00e4sby",
               "stop_lat": "59.920850",
@@ -163,6 +202,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780209001",
               "stop_name": "Stora Tadinge",
               "stop_lat": "59.922202",
@@ -172,6 +213,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780207001",
               "stop_name": "Nybo v\u00e4gsk\u00e4l",
               "stop_lat": "59.929717",
@@ -181,6 +224,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780210001",
               "stop_name": "Moga",
               "stop_lat": "59.919201",
@@ -190,6 +235,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779588001",
               "stop_name": "Almunge Silverv\u00e4gen",
               "stop_lat": "59.911636",
@@ -199,6 +246,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779589001",
               "stop_name": "Almunge Vargmossev\u00e4gen",
               "stop_lat": "59.905666",
@@ -208,6 +257,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779590001",
               "stop_name": "Almunge Ekn\u00e4sv\u00e4gen",
               "stop_lat": "59.897673",
@@ -217,6 +268,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779591001",
               "stop_name": "Henningsro",
               "stop_lat": "59.890589",
@@ -226,6 +279,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779970001",
               "stop_name": "Pr\u00e4sttorpet",
               "stop_lat": "59.885670",
@@ -235,6 +290,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779592001",
               "stop_name": "Almunge Ramparbolsv\u00e4gen",
               "stop_lat": "59.882779",
@@ -244,6 +301,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779593001",
               "stop_name": "Almunge Storfamnsv\u00e4gen",
               "stop_lat": "59.878798",
@@ -253,6 +312,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780962001",
               "stop_name": "Almunge biograf",
               "stop_lat": "59.875593",
@@ -262,6 +323,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780128007",
               "stop_name": "Almunge skola",
               "stop_lat": "59.866901",
@@ -270,7 +333,12 @@
               "parent_station": "9021003780128000",
               "platform_code": "G"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -3437,8 +3505,11 @@
       "trips": [
         {
           "trip_id": "33010000198948135",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780128003",
               "stop_name": "Almunge skola",
               "stop_lat": "59.867098",
@@ -3448,6 +3519,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780962002",
               "stop_name": "Almunge biograf",
               "stop_lat": "59.875436",
@@ -3457,6 +3530,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779593002",
               "stop_name": "Almunge Storfamnsv\u00e4gen",
               "stop_lat": "59.878798",
@@ -3466,6 +3541,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779592002",
               "stop_name": "Almunge Ramparbolsv\u00e4gen",
               "stop_lat": "59.882779",
@@ -3475,6 +3552,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779970001",
               "stop_name": "Pr\u00e4sttorpet",
               "stop_lat": "59.885670",
@@ -3484,6 +3563,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779591002",
               "stop_name": "Henningsro",
               "stop_lat": "59.890589",
@@ -3493,6 +3574,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779590001",
               "stop_name": "Almunge Ekn\u00e4sv\u00e4gen",
               "stop_lat": "59.897673",
@@ -3502,6 +3585,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779589002",
               "stop_name": "Almunge Vargmossev\u00e4gen",
               "stop_lat": "59.905666",
@@ -3511,6 +3596,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779588002",
               "stop_name": "Almunge Silverv\u00e4gen",
               "stop_lat": "59.911636",
@@ -3520,6 +3607,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780210002",
               "stop_name": "Moga",
               "stop_lat": "59.919201",
@@ -3529,6 +3618,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780207002",
               "stop_name": "Nybo v\u00e4gsk\u00e4l",
               "stop_lat": "59.929717",
@@ -3538,6 +3629,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780209002",
               "stop_name": "Stora Tadinge",
               "stop_lat": "59.922202",
@@ -3547,6 +3640,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780211002",
               "stop_name": "Stora V\u00e4sby",
               "stop_lat": "59.920850",
@@ -3556,6 +3651,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780185002",
               "stop_name": "Finndalen v\u00e4gsk\u00e4l",
               "stop_lat": "59.929339",
@@ -3564,12 +3661,20 @@
               "parent_station": "9021003780185000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         },
         {
           "trip_id": "33010000198948165",
+          "service_id": "106",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780128003",
               "stop_name": "Almunge skola",
               "stop_lat": "59.867098",
@@ -3579,6 +3684,8 @@
               "platform_code": "C"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780962002",
               "stop_name": "Almunge biograf",
               "stop_lat": "59.875436",
@@ -3588,6 +3695,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779593002",
               "stop_name": "Almunge Storfamnsv\u00e4gen",
               "stop_lat": "59.878798",
@@ -3597,6 +3706,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779592002",
               "stop_name": "Almunge Ramparbolsv\u00e4gen",
               "stop_lat": "59.882779",
@@ -3606,6 +3717,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779970001",
               "stop_name": "Pr\u00e4sttorpet",
               "stop_lat": "59.885670",
@@ -3615,6 +3728,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779591002",
               "stop_name": "Henningsro",
               "stop_lat": "59.890589",
@@ -3624,6 +3739,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779590001",
               "stop_name": "Almunge Ekn\u00e4sv\u00e4gen",
               "stop_lat": "59.897673",
@@ -3633,6 +3750,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779589002",
               "stop_name": "Almunge Vargmossev\u00e4gen",
               "stop_lat": "59.905666",
@@ -3642,6 +3761,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779588002",
               "stop_name": "Almunge Silverv\u00e4gen",
               "stop_lat": "59.911636",
@@ -3651,6 +3772,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780210002",
               "stop_name": "Moga",
               "stop_lat": "59.919201",
@@ -3660,6 +3783,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780207002",
               "stop_name": "Nybo v\u00e4gsk\u00e4l",
               "stop_lat": "59.929717",
@@ -3669,6 +3794,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780209002",
               "stop_name": "Stora Tadinge",
               "stop_lat": "59.922202",
@@ -3678,6 +3805,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780211002",
               "stop_name": "Stora V\u00e4sby",
               "stop_lat": "59.920850",
@@ -3687,6 +3816,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780185002",
               "stop_name": "Finndalen v\u00e4gsk\u00e4l",
               "stop_lat": "59.929339",
@@ -3695,7 +3826,12 @@
               "parent_station": "9021003780185000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "106",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [

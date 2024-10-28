@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003053400000",
   "agency_id": "33010000000001407",
   "route_short_name": "534",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000198777278",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760715001",
               "stop_name": "Sandarna",
               "stop_lat": "60.306254",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760716001",
               "stop_name": "Fj\u00e4llen",
               "stop_lat": "60.302817",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760709001",
               "stop_name": "Storhagen",
               "stop_lat": "60.299720",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760633001",
               "stop_name": "Korsbo vsk",
               "stop_lat": "60.298988",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760184001",
               "stop_name": "Bro",
               "stop_lat": "60.274232",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760182001",
               "stop_name": "Onskarby",
               "stop_lat": "60.272611",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760178001",
               "stop_name": "Finnbo",
               "stop_lat": "60.269501",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760173001",
               "stop_name": "Odensfors",
               "stop_lat": "60.262929",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760176001",
               "stop_name": "\u00c5lfors",
               "stop_lat": "60.265024",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760180001",
               "stop_name": "Rakl\u00f6sen",
               "stop_lat": "60.270982",
@@ -104,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760183001",
               "stop_name": "Ullfors f.d aff\u00e4r",
               "stop_lat": "60.272589",
@@ -113,6 +136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760177001",
               "stop_name": "Yvre",
               "stop_lat": "60.263841",
@@ -122,6 +147,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760169001",
               "stop_name": "Yttr\u00f6 skola",
               "stop_lat": "60.259671",
@@ -131,6 +158,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760711001",
               "stop_name": "Broddstugan Skolh\u00e5llplats",
               "stop_lat": "60.255098",
@@ -140,6 +169,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760439001",
               "stop_name": "Gisselbo",
               "stop_lat": "60.256311",
@@ -149,6 +180,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760095001",
               "stop_name": "\u00c5rsta 534",
               "stop_lat": "60.268600",
@@ -158,6 +191,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760094001",
               "stop_name": "Eskesta",
               "stop_lat": "60.282600",
@@ -167,6 +202,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760704001",
               "stop_name": "T\u00e4llet",
               "stop_lat": "60.289120",
@@ -176,6 +213,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760703001",
               "stop_name": "Frebro v\u00e4gsk\u00e4l",
               "stop_lat": "60.296517",
@@ -185,6 +224,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760061001",
               "stop_name": "Tierp Kyrkskolan",
               "stop_lat": "60.298726",
@@ -194,6 +235,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760005007",
               "stop_name": "Tierp station",
               "stop_lat": "60.345486",
@@ -203,6 +246,8 @@
               "platform_code": "B4"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760400001",
               "stop_name": "Tierp Aspenskolan",
               "stop_lat": "60.345987",
@@ -211,7 +256,12 @@
               "parent_station": "9021003760400000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -4902,8 +4952,11 @@
       "trips": [
         {
           "trip_id": "33010000198777312",
+          "service_id": "68",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760715001",
               "stop_name": "Sandarna",
               "stop_lat": "60.306254",
@@ -4913,6 +4966,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760716001",
               "stop_name": "Fj\u00e4llen",
               "stop_lat": "60.302817",
@@ -4922,6 +4977,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760709001",
               "stop_name": "Storhagen",
               "stop_lat": "60.299720",
@@ -4931,6 +4988,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760633001",
               "stop_name": "Korsbo vsk",
               "stop_lat": "60.298988",
@@ -4940,6 +4999,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760184001",
               "stop_name": "Bro",
               "stop_lat": "60.274232",
@@ -4949,6 +5010,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760182001",
               "stop_name": "Onskarby",
               "stop_lat": "60.272611",
@@ -4958,6 +5021,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760178001",
               "stop_name": "Finnbo",
               "stop_lat": "60.269501",
@@ -4967,6 +5032,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760173001",
               "stop_name": "Odensfors",
               "stop_lat": "60.262929",
@@ -4976,6 +5043,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760176001",
               "stop_name": "\u00c5lfors",
               "stop_lat": "60.265024",
@@ -4985,6 +5054,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760180001",
               "stop_name": "Rakl\u00f6sen",
               "stop_lat": "60.270982",
@@ -4994,6 +5065,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760183001",
               "stop_name": "Ullfors f.d aff\u00e4r",
               "stop_lat": "60.272589",
@@ -5003,6 +5076,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760177001",
               "stop_name": "Yvre",
               "stop_lat": "60.263841",
@@ -5012,6 +5087,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760169002",
               "stop_name": "Yttr\u00f6 skola",
               "stop_lat": "60.261266",
@@ -5021,6 +5098,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760403001",
               "stop_name": "Husbyborg",
               "stop_lat": "60.276827",
@@ -5030,6 +5109,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760210002",
               "stop_name": "Gryttjom s\u00f6dra",
               "stop_lat": "60.280777",
@@ -5039,6 +5120,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760236002",
               "stop_name": "Grissla",
               "stop_lat": "60.290486",
@@ -5048,6 +5131,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760061001",
               "stop_name": "Tierp Kyrkskolan",
               "stop_lat": "60.298726",
@@ -5057,6 +5142,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760005007",
               "stop_name": "Tierp station",
               "stop_lat": "60.345486",
@@ -5066,6 +5153,8 @@
               "platform_code": "B4"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760400001",
               "stop_name": "Tierp Aspenskolan",
               "stop_lat": "60.345987",
@@ -5074,7 +5163,12 @@
               "parent_station": "9021003760400000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "68",
+            "start_date": "20241104",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -8929,8 +9023,11 @@
       "trips": [
         {
           "trip_id": "33010000198777343",
+          "service_id": "67",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760715001",
               "stop_name": "Sandarna",
               "stop_lat": "60.306254",
@@ -8940,6 +9037,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760716001",
               "stop_name": "Fj\u00e4llen",
               "stop_lat": "60.302817",
@@ -8949,6 +9048,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760709001",
               "stop_name": "Storhagen",
               "stop_lat": "60.299720",
@@ -8958,6 +9059,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760633001",
               "stop_name": "Korsbo vsk",
               "stop_lat": "60.298988",
@@ -8967,6 +9070,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760184001",
               "stop_name": "Bro",
               "stop_lat": "60.274232",
@@ -8976,6 +9081,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760182001",
               "stop_name": "Onskarby",
               "stop_lat": "60.272611",
@@ -8985,6 +9092,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760178001",
               "stop_name": "Finnbo",
               "stop_lat": "60.269501",
@@ -8994,6 +9103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760173001",
               "stop_name": "Odensfors",
               "stop_lat": "60.262929",
@@ -9003,6 +9114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760176001",
               "stop_name": "\u00c5lfors",
               "stop_lat": "60.265024",
@@ -9012,6 +9125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760180001",
               "stop_name": "Rakl\u00f6sen",
               "stop_lat": "60.270982",
@@ -9021,6 +9136,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760183001",
               "stop_name": "Ullfors f.d aff\u00e4r",
               "stop_lat": "60.272589",
@@ -9030,6 +9147,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760177001",
               "stop_name": "Yvre",
               "stop_lat": "60.263841",
@@ -9039,6 +9158,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760169002",
               "stop_name": "Yttr\u00f6 skola",
               "stop_lat": "60.261266",
@@ -9048,6 +9169,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760403001",
               "stop_name": "Husbyborg",
               "stop_lat": "60.276827",
@@ -9057,6 +9180,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760210002",
               "stop_name": "Gryttjom s\u00f6dra",
               "stop_lat": "60.280777",
@@ -9066,6 +9191,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760236002",
               "stop_name": "Grissla",
               "stop_lat": "60.290486",
@@ -9075,6 +9202,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760061001",
               "stop_name": "Tierp Kyrkskolan",
               "stop_lat": "60.298726",
@@ -9083,7 +9212,12 @@
               "parent_station": "9021003760061000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "67",
+            "start_date": "20241025",
+            "end_date": "20250523"
+          }
         }
       ],
       "points": [
@@ -11330,8 +11464,11 @@
       "trips": [
         {
           "trip_id": "33010000198777404",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760005002",
               "stop_name": "Tierp station",
               "stop_lat": "60.345683",
@@ -11341,6 +11478,8 @@
               "platform_code": "A2"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760400001",
               "stop_name": "Tierp Aspenskolan",
               "stop_lat": "60.345987",
@@ -11350,6 +11489,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003760061002",
               "stop_name": "Tierp Kyrkskolan",
               "stop_lat": "60.298726",
@@ -11359,6 +11500,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760715001",
               "stop_name": "Sandarna",
               "stop_lat": "60.306254",
@@ -11368,6 +11511,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760716001",
               "stop_name": "Fj\u00e4llen",
               "stop_lat": "60.302817",
@@ -11377,6 +11522,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760709001",
               "stop_name": "Storhagen",
               "stop_lat": "60.299720",
@@ -11386,6 +11533,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760633001",
               "stop_name": "Korsbo vsk",
               "stop_lat": "60.298988",
@@ -11395,6 +11544,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760184001",
               "stop_name": "Bro",
               "stop_lat": "60.274232",
@@ -11404,6 +11555,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760182001",
               "stop_name": "Onskarby",
               "stop_lat": "60.272611",
@@ -11413,6 +11566,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760178001",
               "stop_name": "Finnbo",
               "stop_lat": "60.269501",
@@ -11422,6 +11577,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760173001",
               "stop_name": "Odensfors",
               "stop_lat": "60.262929",
@@ -11431,6 +11588,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760176001",
               "stop_name": "\u00c5lfors",
               "stop_lat": "60.265024",
@@ -11440,6 +11599,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760180001",
               "stop_name": "Rakl\u00f6sen",
               "stop_lat": "60.270982",
@@ -11449,6 +11610,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760183001",
               "stop_name": "Ullfors f.d aff\u00e4r",
               "stop_lat": "60.272589",
@@ -11458,6 +11621,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760177001",
               "stop_name": "Yvre",
               "stop_lat": "60.263841",
@@ -11467,6 +11632,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760169002",
               "stop_name": "Yttr\u00f6 skola",
               "stop_lat": "60.261266",
@@ -11476,6 +11643,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760403001",
               "stop_name": "Husbyborg",
               "stop_lat": "60.276827",
@@ -11485,6 +11654,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760210002",
               "stop_name": "Gryttjom s\u00f6dra",
               "stop_lat": "60.280777",
@@ -11493,7 +11664,12 @@
               "parent_station": "9021003760210000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -15332,8 +15508,11 @@
       "trips": [
         {
           "trip_id": "33010000198777372",
+          "service_id": "67",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003760061002",
               "stop_name": "Tierp Kyrkskolan",
               "stop_lat": "60.298726",
@@ -15343,6 +15522,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760715001",
               "stop_name": "Sandarna",
               "stop_lat": "60.306254",
@@ -15352,6 +15533,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760716001",
               "stop_name": "Fj\u00e4llen",
               "stop_lat": "60.302817",
@@ -15361,6 +15544,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760709001",
               "stop_name": "Storhagen",
               "stop_lat": "60.299720",
@@ -15370,6 +15555,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760633001",
               "stop_name": "Korsbo vsk",
               "stop_lat": "60.298988",
@@ -15379,6 +15566,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760184001",
               "stop_name": "Bro",
               "stop_lat": "60.274232",
@@ -15388,6 +15577,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760182001",
               "stop_name": "Onskarby",
               "stop_lat": "60.272611",
@@ -15397,6 +15588,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760178001",
               "stop_name": "Finnbo",
               "stop_lat": "60.269501",
@@ -15406,6 +15599,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760173001",
               "stop_name": "Odensfors",
               "stop_lat": "60.262929",
@@ -15415,6 +15610,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760176001",
               "stop_name": "\u00c5lfors",
               "stop_lat": "60.265024",
@@ -15424,6 +15621,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760180001",
               "stop_name": "Rakl\u00f6sen",
               "stop_lat": "60.270982",
@@ -15433,6 +15632,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760183001",
               "stop_name": "Ullfors f.d aff\u00e4r",
               "stop_lat": "60.272589",
@@ -15442,6 +15643,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760177001",
               "stop_name": "Yvre",
               "stop_lat": "60.263841",
@@ -15451,6 +15654,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760169002",
               "stop_name": "Yttr\u00f6 skola",
               "stop_lat": "60.261266",
@@ -15460,6 +15665,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760403001",
               "stop_name": "Husbyborg",
               "stop_lat": "60.276827",
@@ -15469,6 +15676,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003760210002",
               "stop_name": "Gryttjom s\u00f6dra",
               "stop_lat": "60.280777",
@@ -15477,7 +15686,12 @@
               "parent_station": "9021003760210000",
               "platform_code": "B"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "67",
+            "start_date": "20241025",
+            "end_date": "20250523"
+          }
         }
       ],
       "points": [

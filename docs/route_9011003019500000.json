@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-09-28",
+  "feed_version": "2024-10-28",
   "route_id": "9011003019500000",
   "agency_id": "33010000000001407",
   "route_short_name": "195",
@@ -12,8 +12,11 @@
       "trips": [
         {
           "trip_id": "33010000201322674",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780917001",
               "stop_name": "Klivinge",
               "stop_lat": "60.017899",
@@ -23,6 +26,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780680001",
               "stop_name": "Rasbokils kyrka",
               "stop_lat": "59.990655",
@@ -32,6 +37,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779984001",
               "stop_name": "Vallby villav\u00e4g",
               "stop_lat": "59.950063",
@@ -41,6 +48,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779647001",
               "stop_name": "Olas skogsv\u00e4g",
               "stop_lat": "59.961104",
@@ -50,6 +59,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780611001",
               "stop_name": "Lillvreta",
               "stop_lat": "59.963979",
@@ -59,6 +70,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779638001",
               "stop_name": "Granbo",
               "stop_lat": "59.969697",
@@ -68,6 +81,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779639001",
               "stop_name": "Solhem (\u00c4ngeby)",
               "stop_lat": "59.972535",
@@ -77,6 +92,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779640001",
               "stop_name": "Lillebo",
               "stop_lat": "59.973701",
@@ -86,6 +103,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003779988001",
               "stop_name": "\u00c4ngeby \u00f6stra",
               "stop_lat": "59.975370",
@@ -95,6 +114,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780860001",
               "stop_name": "Storvreta Storvretaskolan",
               "stop_lat": "59.961631",
@@ -104,6 +125,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780023001",
               "stop_name": "Storvreta \u00c4rentunaskolan",
               "stop_lat": "59.962759",
@@ -112,7 +135,12 @@
               "parent_station": "9021003780023000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -3263,8 +3291,11 @@
       "trips": [
         {
           "trip_id": "33010000201322697",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780023001",
               "stop_name": "Storvreta \u00c4rentunaskolan",
               "stop_lat": "59.962759",
@@ -3274,6 +3305,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780860001",
               "stop_name": "Storvreta Storvretaskolan",
               "stop_lat": "59.961631",
@@ -3283,6 +3316,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779988002",
               "stop_name": "\u00c4ngeby \u00f6stra",
               "stop_lat": "59.975251",
@@ -3292,6 +3327,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779640001",
               "stop_name": "Lillebo",
               "stop_lat": "59.973701",
@@ -3301,6 +3338,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779639001",
               "stop_name": "Solhem (\u00c4ngeby)",
               "stop_lat": "59.972535",
@@ -3310,6 +3349,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779638001",
               "stop_name": "Granbo",
               "stop_lat": "59.969697",
@@ -3319,6 +3360,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780611002",
               "stop_name": "Lillvreta",
               "stop_lat": "59.963887",
@@ -3328,6 +3371,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779647002",
               "stop_name": "Olas skogsv\u00e4g",
               "stop_lat": "59.961023",
@@ -3337,6 +3382,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779984002",
               "stop_name": "Vallby villav\u00e4g",
               "stop_lat": "59.949996",
@@ -3346,6 +3393,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780107001",
               "stop_name": "G\u00e5vsta skola",
               "stop_lat": "59.946165",
@@ -3354,7 +3403,12 @@
               "parent_station": "9021003780107000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
@@ -5933,8 +5987,11 @@
       "trips": [
         {
           "trip_id": "33010000201322722",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780023001",
               "stop_name": "Storvreta \u00c4rentunaskolan",
               "stop_lat": "59.962759",
@@ -5944,6 +6001,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780860001",
               "stop_name": "Storvreta Storvretaskolan",
               "stop_lat": "59.961631",
@@ -5953,6 +6012,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779988002",
               "stop_name": "\u00c4ngeby \u00f6stra",
               "stop_lat": "59.975251",
@@ -5962,6 +6023,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779640001",
               "stop_name": "Lillebo",
               "stop_lat": "59.973701",
@@ -5971,6 +6034,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779639001",
               "stop_name": "Solhem (\u00c4ngeby)",
               "stop_lat": "59.972535",
@@ -5980,6 +6045,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779638001",
               "stop_name": "Granbo",
               "stop_lat": "59.969697",
@@ -5989,6 +6056,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780611002",
               "stop_name": "Lillvreta",
               "stop_lat": "59.963887",
@@ -5998,6 +6067,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779647002",
               "stop_name": "Olas skogsv\u00e4g",
               "stop_lat": "59.961023",
@@ -6007,6 +6078,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779984002",
               "stop_name": "Vallby villav\u00e4g",
               "stop_lat": "59.949996",
@@ -6016,6 +6089,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780107001",
               "stop_name": "G\u00e5vsta skola",
               "stop_lat": "59.946165",
@@ -6025,6 +6100,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780680002",
               "stop_name": "Rasbokils kyrka",
               "stop_lat": "59.990476",
@@ -6034,6 +6111,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780917001",
               "stop_name": "Klivinge",
               "stop_lat": "60.017899",
@@ -6042,12 +6121,20 @@
               "parent_station": "9021003780917000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         },
         {
           "trip_id": "33010000201322747",
+          "service_id": "65",
           "stops": [
             {
+              "pickup_type": "3",
+              "drop_off_type": "1",
               "stop_id": "9022003780023001",
               "stop_name": "Storvreta \u00c4rentunaskolan",
               "stop_lat": "59.962759",
@@ -6057,6 +6144,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "3",
+              "drop_off_type": "3",
               "stop_id": "9022003780860001",
               "stop_name": "Storvreta Storvretaskolan",
               "stop_lat": "59.961631",
@@ -6066,6 +6155,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779988002",
               "stop_name": "\u00c4ngeby \u00f6stra",
               "stop_lat": "59.975251",
@@ -6075,6 +6166,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779640001",
               "stop_name": "Lillebo",
               "stop_lat": "59.973701",
@@ -6084,6 +6177,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779639001",
               "stop_name": "Solhem (\u00c4ngeby)",
               "stop_lat": "59.972535",
@@ -6093,6 +6188,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779638001",
               "stop_name": "Granbo",
               "stop_lat": "59.969697",
@@ -6102,6 +6199,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780611002",
               "stop_name": "Lillvreta",
               "stop_lat": "59.963887",
@@ -6111,6 +6210,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779647002",
               "stop_name": "Olas skogsv\u00e4g",
               "stop_lat": "59.961023",
@@ -6120,6 +6221,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003779984002",
               "stop_name": "Vallby villav\u00e4g",
               "stop_lat": "59.949996",
@@ -6129,6 +6232,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780107001",
               "stop_name": "G\u00e5vsta skola",
               "stop_lat": "59.946165",
@@ -6138,6 +6243,8 @@
               "platform_code": "A"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780680002",
               "stop_name": "Rasbokils kyrka",
               "stop_lat": "59.990476",
@@ -6147,6 +6254,8 @@
               "platform_code": "B"
             },
             {
+              "pickup_type": "1",
+              "drop_off_type": "3",
               "stop_id": "9022003780917001",
               "stop_name": "Klivinge",
               "stop_lat": "60.017899",
@@ -6155,7 +6264,12 @@
               "parent_station": "9021003780917000",
               "platform_code": "A"
             }
-          ]
+          ],
+          "service": {
+            "service_id": "65",
+            "start_date": "20241025",
+            "end_date": "20250612"
+          }
         }
       ],
       "points": [
