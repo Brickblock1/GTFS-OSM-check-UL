@@ -1,0 +1,5477 @@
+{
+  "feed_version": "2024-11-07",
+  "route_id": "9011005035500000",
+  "agency_id": "55700000000001407",
+  "route_short_name": "355",
+  "route_long_name": "",
+  "route_type": "700",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "1055700000076522803",
+      "trips": [
+        {
+          "trip_id": "55700000076522915",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076522927",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076522987",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076523011",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076523035",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076522903",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076522939",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076522975",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076522999",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076523023",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076523047",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076523059",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076522891",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076523071",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076523083",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076522951",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076522963",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077388912",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.322211",
+          "15.132360"
+        ],
+        [
+          "58.322203",
+          "15.132445"
+        ],
+        [
+          "58.322275",
+          "15.132444"
+        ],
+        [
+          "58.322346",
+          "15.132460"
+        ],
+        [
+          "58.322391",
+          "15.132493"
+        ],
+        [
+          "58.322437",
+          "15.132543"
+        ],
+        [
+          "58.322482",
+          "15.132696"
+        ],
+        [
+          "58.322474",
+          "15.132901"
+        ],
+        [
+          "58.322367",
+          "15.132903"
+        ],
+        [
+          "58.322151",
+          "15.132873"
+        ],
+        [
+          "58.321917",
+          "15.132826"
+        ],
+        [
+          "58.321738",
+          "15.132795"
+        ],
+        [
+          "58.321432",
+          "15.132665"
+        ],
+        [
+          "58.321216",
+          "15.132584"
+        ],
+        [
+          "58.320919",
+          "15.132470"
+        ],
+        [
+          "58.320739",
+          "15.132405"
+        ],
+        [
+          "58.320496",
+          "15.132307"
+        ],
+        [
+          "58.319947",
+          "15.132113"
+        ],
+        [
+          "58.319489",
+          "15.131934"
+        ],
+        [
+          "58.319102",
+          "15.131788"
+        ],
+        [
+          "58.318922",
+          "15.131723"
+        ],
+        [
+          "58.318643",
+          "15.131643"
+        ],
+        [
+          "58.318445",
+          "15.131612"
+        ],
+        [
+          "58.318293",
+          "15.131581"
+        ],
+        [
+          "58.318167",
+          "15.131567"
+        ],
+        [
+          "58.317924",
+          "15.131571"
+        ],
+        [
+          "58.317655",
+          "15.131559"
+        ],
+        [
+          "58.317404",
+          "15.131547"
+        ],
+        [
+          "58.317143",
+          "15.131535"
+        ],
+        [
+          "58.316784",
+          "15.131508"
+        ],
+        [
+          "58.316550",
+          "15.131512"
+        ],
+        [
+          "58.316362",
+          "15.131499"
+        ],
+        [
+          "58.316191",
+          "15.131468"
+        ],
+        [
+          "58.316074",
+          "15.131453"
+        ],
+        [
+          "58.315975",
+          "15.131404"
+        ],
+        [
+          "58.315849",
+          "15.131338"
+        ],
+        [
+          "58.315732",
+          "15.131272"
+        ],
+        [
+          "58.315606",
+          "15.131172"
+        ],
+        [
+          "58.315489",
+          "15.131072"
+        ],
+        [
+          "58.315444",
+          "15.131021"
+        ],
+        [
+          "58.315317",
+          "15.130887"
+        ],
+        [
+          "58.315181",
+          "15.130685"
+        ],
+        [
+          "58.315073",
+          "15.130516"
+        ],
+        [
+          "58.314892",
+          "15.130196"
+        ],
+        [
+          "58.314764",
+          "15.129942"
+        ],
+        [
+          "58.314646",
+          "15.129637"
+        ],
+        [
+          "58.314528",
+          "15.129298"
+        ],
+        [
+          "58.314445",
+          "15.128993"
+        ],
+        [
+          "58.314381",
+          "15.128704"
+        ],
+        [
+          "58.314289",
+          "15.128262"
+        ],
+        [
+          "58.314178",
+          "15.127633"
+        ],
+        [
+          "58.314039",
+          "15.126817"
+        ],
+        [
+          "58.313937",
+          "15.126205"
+        ],
+        [
+          "58.313853",
+          "15.125677"
+        ],
+        [
+          "58.313797",
+          "15.125269"
+        ],
+        [
+          "58.313796",
+          "15.125167"
+        ],
+        [
+          "58.313777",
+          "15.124860"
+        ],
+        [
+          "58.313775",
+          "15.124467"
+        ],
+        [
+          "58.313791",
+          "15.124058"
+        ],
+        [
+          "58.313833",
+          "15.123613"
+        ],
+        [
+          "58.313885",
+          "15.123220"
+        ],
+        [
+          "58.313937",
+          "15.122980"
+        ],
+        [
+          "58.313990",
+          "15.122757"
+        ],
+        [
+          "58.314061",
+          "15.122500"
+        ],
+        [
+          "58.314131",
+          "15.122277"
+        ],
+        [
+          "58.314220",
+          "15.122036"
+        ],
+        [
+          "58.314335",
+          "15.121761"
+        ],
+        [
+          "58.314486",
+          "15.121485"
+        ],
+        [
+          "58.314691",
+          "15.121157"
+        ],
+        [
+          "58.314932",
+          "15.120879"
+        ],
+        [
+          "58.315352",
+          "15.120496"
+        ],
+        [
+          "58.315763",
+          "15.120130"
+        ],
+        [
+          "58.316138",
+          "15.119781"
+        ],
+        [
+          "58.316468",
+          "15.119433"
+        ],
+        [
+          "58.316486",
+          "15.119416"
+        ],
+        [
+          "58.316629",
+          "15.119260"
+        ],
+        [
+          "58.316700",
+          "15.119156"
+        ],
+        [
+          "58.316736",
+          "15.119104"
+        ],
+        [
+          "58.316941",
+          "15.118776"
+        ],
+        [
+          "58.317038",
+          "15.118603"
+        ],
+        [
+          "58.317092",
+          "15.118500"
+        ],
+        [
+          "58.317198",
+          "15.118293"
+        ],
+        [
+          "58.317287",
+          "15.118104"
+        ],
+        [
+          "58.317367",
+          "15.117915"
+        ],
+        [
+          "58.317447",
+          "15.117742"
+        ],
+        [
+          "58.317517",
+          "15.117536"
+        ],
+        [
+          "58.317650",
+          "15.117192"
+        ],
+        [
+          "58.317712",
+          "15.117021"
+        ],
+        [
+          "58.317835",
+          "15.116557"
+        ],
+        [
+          "58.318047",
+          "15.115768"
+        ],
+        [
+          "58.318152",
+          "15.115408"
+        ],
+        [
+          "58.318214",
+          "15.115168"
+        ],
+        [
+          "58.318293",
+          "15.114859"
+        ],
+        [
+          "58.318539",
+          "15.113831"
+        ],
+        [
+          "58.318645",
+          "15.113436"
+        ],
+        [
+          "58.318777",
+          "15.112973"
+        ],
+        [
+          "58.318927",
+          "15.112509"
+        ],
+        [
+          "58.319050",
+          "15.112131"
+        ],
+        [
+          "58.319209",
+          "15.111650"
+        ],
+        [
+          "58.319307",
+          "15.111341"
+        ],
+        [
+          "58.319386",
+          "15.111118"
+        ],
+        [
+          "58.319510",
+          "15.110808"
+        ],
+        [
+          "58.319652",
+          "15.110499"
+        ],
+        [
+          "58.319821",
+          "15.110154"
+        ],
+        [
+          "58.319901",
+          "15.109999"
+        ],
+        [
+          "58.320310",
+          "15.109257"
+        ],
+        [
+          "58.320550",
+          "15.108792"
+        ],
+        [
+          "58.320878",
+          "15.108137"
+        ],
+        [
+          "58.321038",
+          "15.107792"
+        ],
+        [
+          "58.321180",
+          "15.107465"
+        ],
+        [
+          "58.321339",
+          "15.107070"
+        ],
+        [
+          "58.321490",
+          "15.106657"
+        ],
+        [
+          "58.321640",
+          "15.106193"
+        ],
+        [
+          "58.321798",
+          "15.105610"
+        ],
+        [
+          "58.321921",
+          "15.105113"
+        ],
+        [
+          "58.322053",
+          "15.104530"
+        ],
+        [
+          "58.322148",
+          "15.103982"
+        ],
+        [
+          "58.322218",
+          "15.103520"
+        ],
+        [
+          "58.322244",
+          "15.103314"
+        ],
+        [
+          "58.322298",
+          "15.103347"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1055700000076522822",
+      "trips": [
+        {
+          "trip_id": "55700000076523161",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000128001",
+              "stop_name": "Kungsh\u00f6gaskolan",
+              "stop_lat": "58.328165",
+              "stop_lon": "15.109188",
+              "location_type": "0",
+              "parent_station": "9021005000128000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076523148",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000128001",
+              "stop_name": "Kungsh\u00f6gaskolan",
+              "stop_lat": "58.328165",
+              "stop_lon": "15.109188",
+              "location_type": "0",
+              "parent_station": "9021005000128000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076523109",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000128001",
+              "stop_name": "Kungsh\u00f6gaskolan",
+              "stop_lat": "58.328165",
+              "stop_lon": "15.109188",
+              "location_type": "0",
+              "parent_station": "9021005000128000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076523135",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000128001",
+              "stop_name": "Kungsh\u00f6gaskolan",
+              "stop_lat": "58.328165",
+              "stop_lon": "15.109188",
+              "location_type": "0",
+              "parent_station": "9021005000128000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076523096",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000128001",
+              "stop_name": "Kungsh\u00f6gaskolan",
+              "stop_lat": "58.328165",
+              "stop_lon": "15.109188",
+              "location_type": "0",
+              "parent_station": "9021005000128000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000076523122",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199001",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319875",
+              "stop_lon": "15.110255",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200001",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322298",
+              "stop_lon": "15.103347",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000128001",
+              "stop_name": "Kungsh\u00f6gaskolan",
+              "stop_lat": "58.328165",
+              "stop_lon": "15.109188",
+              "location_type": "0",
+              "parent_station": "9021005000128000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.322211",
+          "15.132360"
+        ],
+        [
+          "58.322203",
+          "15.132445"
+        ],
+        [
+          "58.322275",
+          "15.132444"
+        ],
+        [
+          "58.322346",
+          "15.132460"
+        ],
+        [
+          "58.322391",
+          "15.132493"
+        ],
+        [
+          "58.322437",
+          "15.132543"
+        ],
+        [
+          "58.322482",
+          "15.132696"
+        ],
+        [
+          "58.322474",
+          "15.132901"
+        ],
+        [
+          "58.322367",
+          "15.132903"
+        ],
+        [
+          "58.322151",
+          "15.132873"
+        ],
+        [
+          "58.321917",
+          "15.132826"
+        ],
+        [
+          "58.321738",
+          "15.132795"
+        ],
+        [
+          "58.321432",
+          "15.132665"
+        ],
+        [
+          "58.321216",
+          "15.132584"
+        ],
+        [
+          "58.320919",
+          "15.132470"
+        ],
+        [
+          "58.320739",
+          "15.132405"
+        ],
+        [
+          "58.320496",
+          "15.132307"
+        ],
+        [
+          "58.319947",
+          "15.132113"
+        ],
+        [
+          "58.319489",
+          "15.131934"
+        ],
+        [
+          "58.319102",
+          "15.131788"
+        ],
+        [
+          "58.318922",
+          "15.131723"
+        ],
+        [
+          "58.318643",
+          "15.131643"
+        ],
+        [
+          "58.318445",
+          "15.131612"
+        ],
+        [
+          "58.318293",
+          "15.131581"
+        ],
+        [
+          "58.318167",
+          "15.131567"
+        ],
+        [
+          "58.317924",
+          "15.131571"
+        ],
+        [
+          "58.317655",
+          "15.131559"
+        ],
+        [
+          "58.317404",
+          "15.131547"
+        ],
+        [
+          "58.317143",
+          "15.131535"
+        ],
+        [
+          "58.316784",
+          "15.131508"
+        ],
+        [
+          "58.316550",
+          "15.131512"
+        ],
+        [
+          "58.316362",
+          "15.131499"
+        ],
+        [
+          "58.316191",
+          "15.131468"
+        ],
+        [
+          "58.316074",
+          "15.131453"
+        ],
+        [
+          "58.315975",
+          "15.131404"
+        ],
+        [
+          "58.315849",
+          "15.131338"
+        ],
+        [
+          "58.315732",
+          "15.131272"
+        ],
+        [
+          "58.315606",
+          "15.131172"
+        ],
+        [
+          "58.315489",
+          "15.131072"
+        ],
+        [
+          "58.315444",
+          "15.131021"
+        ],
+        [
+          "58.315317",
+          "15.130887"
+        ],
+        [
+          "58.315181",
+          "15.130685"
+        ],
+        [
+          "58.315073",
+          "15.130516"
+        ],
+        [
+          "58.314892",
+          "15.130196"
+        ],
+        [
+          "58.314764",
+          "15.129942"
+        ],
+        [
+          "58.314646",
+          "15.129637"
+        ],
+        [
+          "58.314528",
+          "15.129298"
+        ],
+        [
+          "58.314445",
+          "15.128993"
+        ],
+        [
+          "58.314381",
+          "15.128704"
+        ],
+        [
+          "58.314289",
+          "15.128262"
+        ],
+        [
+          "58.314178",
+          "15.127633"
+        ],
+        [
+          "58.314039",
+          "15.126817"
+        ],
+        [
+          "58.313937",
+          "15.126205"
+        ],
+        [
+          "58.313853",
+          "15.125677"
+        ],
+        [
+          "58.313797",
+          "15.125269"
+        ],
+        [
+          "58.313796",
+          "15.125167"
+        ],
+        [
+          "58.313777",
+          "15.124860"
+        ],
+        [
+          "58.313775",
+          "15.124467"
+        ],
+        [
+          "58.313791",
+          "15.124058"
+        ],
+        [
+          "58.313833",
+          "15.123613"
+        ],
+        [
+          "58.313885",
+          "15.123220"
+        ],
+        [
+          "58.313937",
+          "15.122980"
+        ],
+        [
+          "58.313990",
+          "15.122757"
+        ],
+        [
+          "58.314061",
+          "15.122500"
+        ],
+        [
+          "58.314131",
+          "15.122277"
+        ],
+        [
+          "58.314220",
+          "15.122036"
+        ],
+        [
+          "58.314335",
+          "15.121761"
+        ],
+        [
+          "58.314486",
+          "15.121485"
+        ],
+        [
+          "58.314691",
+          "15.121157"
+        ],
+        [
+          "58.314932",
+          "15.120879"
+        ],
+        [
+          "58.315352",
+          "15.120496"
+        ],
+        [
+          "58.315763",
+          "15.120130"
+        ],
+        [
+          "58.316138",
+          "15.119781"
+        ],
+        [
+          "58.316468",
+          "15.119433"
+        ],
+        [
+          "58.316486",
+          "15.119416"
+        ],
+        [
+          "58.316629",
+          "15.119260"
+        ],
+        [
+          "58.316700",
+          "15.119156"
+        ],
+        [
+          "58.316736",
+          "15.119104"
+        ],
+        [
+          "58.316941",
+          "15.118776"
+        ],
+        [
+          "58.317038",
+          "15.118603"
+        ],
+        [
+          "58.317092",
+          "15.118500"
+        ],
+        [
+          "58.317198",
+          "15.118293"
+        ],
+        [
+          "58.317287",
+          "15.118104"
+        ],
+        [
+          "58.317367",
+          "15.117915"
+        ],
+        [
+          "58.317447",
+          "15.117742"
+        ],
+        [
+          "58.317517",
+          "15.117536"
+        ],
+        [
+          "58.317650",
+          "15.117192"
+        ],
+        [
+          "58.317712",
+          "15.117021"
+        ],
+        [
+          "58.317835",
+          "15.116557"
+        ],
+        [
+          "58.318047",
+          "15.115768"
+        ],
+        [
+          "58.318152",
+          "15.115408"
+        ],
+        [
+          "58.318214",
+          "15.115168"
+        ],
+        [
+          "58.318293",
+          "15.114859"
+        ],
+        [
+          "58.318539",
+          "15.113831"
+        ],
+        [
+          "58.318645",
+          "15.113436"
+        ],
+        [
+          "58.318777",
+          "15.112973"
+        ],
+        [
+          "58.318927",
+          "15.112509"
+        ],
+        [
+          "58.319050",
+          "15.112131"
+        ],
+        [
+          "58.319209",
+          "15.111650"
+        ],
+        [
+          "58.319307",
+          "15.111341"
+        ],
+        [
+          "58.319386",
+          "15.111118"
+        ],
+        [
+          "58.319510",
+          "15.110808"
+        ],
+        [
+          "58.319652",
+          "15.110499"
+        ],
+        [
+          "58.319821",
+          "15.110154"
+        ],
+        [
+          "58.319901",
+          "15.109999"
+        ],
+        [
+          "58.320310",
+          "15.109257"
+        ],
+        [
+          "58.320550",
+          "15.108792"
+        ],
+        [
+          "58.320878",
+          "15.108137"
+        ],
+        [
+          "58.321038",
+          "15.107792"
+        ],
+        [
+          "58.321180",
+          "15.107465"
+        ],
+        [
+          "58.321339",
+          "15.107070"
+        ],
+        [
+          "58.321490",
+          "15.106657"
+        ],
+        [
+          "58.321640",
+          "15.106193"
+        ],
+        [
+          "58.321798",
+          "15.105610"
+        ],
+        [
+          "58.321921",
+          "15.105113"
+        ],
+        [
+          "58.322053",
+          "15.104530"
+        ],
+        [
+          "58.322148",
+          "15.103982"
+        ],
+        [
+          "58.322218",
+          "15.103520"
+        ],
+        [
+          "58.322244",
+          "15.103314"
+        ],
+        [
+          "58.322321",
+          "15.102784"
+        ],
+        [
+          "58.322373",
+          "15.102288"
+        ],
+        [
+          "58.322440",
+          "15.101467"
+        ],
+        [
+          "58.322473",
+          "15.100921"
+        ],
+        [
+          "58.322497",
+          "15.100374"
+        ],
+        [
+          "58.322512",
+          "15.099862"
+        ],
+        [
+          "58.322509",
+          "15.099316"
+        ],
+        [
+          "58.322506",
+          "15.098821"
+        ],
+        [
+          "58.322495",
+          "15.098395"
+        ],
+        [
+          "58.322492",
+          "15.097951"
+        ],
+        [
+          "58.322499",
+          "15.097524"
+        ],
+        [
+          "58.322515",
+          "15.097114"
+        ],
+        [
+          "58.322557",
+          "15.096670"
+        ],
+        [
+          "58.322600",
+          "15.096276"
+        ],
+        [
+          "58.322887",
+          "15.096356"
+        ],
+        [
+          "58.323328",
+          "15.096501"
+        ],
+        [
+          "58.323490",
+          "15.096549"
+        ],
+        [
+          "58.323679",
+          "15.096613"
+        ],
+        [
+          "58.324075",
+          "15.096725"
+        ],
+        [
+          "58.324363",
+          "15.096838"
+        ],
+        [
+          "58.324749",
+          "15.096984"
+        ],
+        [
+          "58.325001",
+          "15.097082"
+        ],
+        [
+          "58.325235",
+          "15.097196"
+        ],
+        [
+          "58.325469",
+          "15.097311"
+        ],
+        [
+          "58.325713",
+          "15.097460"
+        ],
+        [
+          "58.325938",
+          "15.097626"
+        ],
+        [
+          "58.326182",
+          "15.097826"
+        ],
+        [
+          "58.326416",
+          "15.098009"
+        ],
+        [
+          "58.326660",
+          "15.098260"
+        ],
+        [
+          "58.326877",
+          "15.098478"
+        ],
+        [
+          "58.327075",
+          "15.098713"
+        ],
+        [
+          "58.327265",
+          "15.098948"
+        ],
+        [
+          "58.327437",
+          "15.099166"
+        ],
+        [
+          "58.327627",
+          "15.099436"
+        ],
+        [
+          "58.327835",
+          "15.099739"
+        ],
+        [
+          "58.328089",
+          "15.100177"
+        ],
+        [
+          "58.328334",
+          "15.100633"
+        ],
+        [
+          "58.328470",
+          "15.100904"
+        ],
+        [
+          "58.328606",
+          "15.101174"
+        ],
+        [
+          "58.328797",
+          "15.101597"
+        ],
+        [
+          "58.329015",
+          "15.102105"
+        ],
+        [
+          "58.329179",
+          "15.102511"
+        ],
+        [
+          "58.329325",
+          "15.102935"
+        ],
+        [
+          "58.329462",
+          "15.103342"
+        ],
+        [
+          "58.329590",
+          "15.103783"
+        ],
+        [
+          "58.329682",
+          "15.104140"
+        ],
+        [
+          "58.329755",
+          "15.104394"
+        ],
+        [
+          "58.329829",
+          "15.104683"
+        ],
+        [
+          "58.329930",
+          "15.105125"
+        ],
+        [
+          "58.330031",
+          "15.105567"
+        ],
+        [
+          "58.330105",
+          "15.105992"
+        ],
+        [
+          "58.330189",
+          "15.106502"
+        ],
+        [
+          "58.330254",
+          "15.106945"
+        ],
+        [
+          "58.330320",
+          "15.107438"
+        ],
+        [
+          "58.330377",
+          "15.108018"
+        ],
+        [
+          "58.330425",
+          "15.108682"
+        ],
+        [
+          "58.330445",
+          "15.109040"
+        ],
+        [
+          "58.330475",
+          "15.109569"
+        ],
+        [
+          "58.330486",
+          "15.109893"
+        ],
+        [
+          "58.330181",
+          "15.109933"
+        ],
+        [
+          "58.329894",
+          "15.109990"
+        ],
+        [
+          "58.329732",
+          "15.109993"
+        ],
+        [
+          "58.329633",
+          "15.109978"
+        ],
+        [
+          "58.329543",
+          "15.109946"
+        ],
+        [
+          "58.329399",
+          "15.109812"
+        ],
+        [
+          "58.329354",
+          "15.109779"
+        ],
+        [
+          "58.329137",
+          "15.109578"
+        ],
+        [
+          "58.328866",
+          "15.109310"
+        ],
+        [
+          "58.328496",
+          "15.108959"
+        ],
+        [
+          "58.328325",
+          "15.108809"
+        ],
+        [
+          "58.328271",
+          "15.108844"
+        ],
+        [
+          "58.328174",
+          "15.109205"
+        ],
+        [
+          "58.328165",
+          "15.109188"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1055700000076522842",
+      "trips": [
+        {
+          "trip_id": "55700000076523173",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076523301",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076523429",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076523557",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076523685",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076524069",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076524133",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076523621",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076523813",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076524005",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076523877",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076523237",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076523365",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076523493",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076523749",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076523941",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000077388938",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077389315",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077389687",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077389997",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077390121",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077389253",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077389501",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077389625",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077389873",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077389935",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077389377",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077389811",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077389439",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077389563",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077389749",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077390059",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.322173",
+          "15.103606"
+        ],
+        [
+          "58.322209",
+          "15.103622"
+        ],
+        [
+          "58.322148",
+          "15.103982"
+        ],
+        [
+          "58.322053",
+          "15.104530"
+        ],
+        [
+          "58.321921",
+          "15.105113"
+        ],
+        [
+          "58.321798",
+          "15.105610"
+        ],
+        [
+          "58.321640",
+          "15.106193"
+        ],
+        [
+          "58.321490",
+          "15.106657"
+        ],
+        [
+          "58.321339",
+          "15.107070"
+        ],
+        [
+          "58.321180",
+          "15.107465"
+        ],
+        [
+          "58.321038",
+          "15.107792"
+        ],
+        [
+          "58.320878",
+          "15.108137"
+        ],
+        [
+          "58.320550",
+          "15.108792"
+        ],
+        [
+          "58.320310",
+          "15.109257"
+        ],
+        [
+          "58.319901",
+          "15.109999"
+        ],
+        [
+          "58.319759",
+          "15.110275"
+        ],
+        [
+          "58.319652",
+          "15.110499"
+        ],
+        [
+          "58.319510",
+          "15.110808"
+        ],
+        [
+          "58.319386",
+          "15.111118"
+        ],
+        [
+          "58.319307",
+          "15.111341"
+        ],
+        [
+          "58.319209",
+          "15.111650"
+        ],
+        [
+          "58.319050",
+          "15.112131"
+        ],
+        [
+          "58.318927",
+          "15.112509"
+        ],
+        [
+          "58.318777",
+          "15.112973"
+        ],
+        [
+          "58.318645",
+          "15.113436"
+        ],
+        [
+          "58.318539",
+          "15.113831"
+        ],
+        [
+          "58.318293",
+          "15.114859"
+        ],
+        [
+          "58.318214",
+          "15.115168"
+        ],
+        [
+          "58.318152",
+          "15.115408"
+        ],
+        [
+          "58.318047",
+          "15.115768"
+        ],
+        [
+          "58.317835",
+          "15.116557"
+        ],
+        [
+          "58.317712",
+          "15.117021"
+        ],
+        [
+          "58.317650",
+          "15.117192"
+        ],
+        [
+          "58.317517",
+          "15.117536"
+        ],
+        [
+          "58.317447",
+          "15.117742"
+        ],
+        [
+          "58.317367",
+          "15.117915"
+        ],
+        [
+          "58.317287",
+          "15.118104"
+        ],
+        [
+          "58.317198",
+          "15.118293"
+        ],
+        [
+          "58.317092",
+          "15.118500"
+        ],
+        [
+          "58.317038",
+          "15.118603"
+        ],
+        [
+          "58.316941",
+          "15.118776"
+        ],
+        [
+          "58.316736",
+          "15.119104"
+        ],
+        [
+          "58.316700",
+          "15.119156"
+        ],
+        [
+          "58.316629",
+          "15.119260"
+        ],
+        [
+          "58.316486",
+          "15.119416"
+        ],
+        [
+          "58.316468",
+          "15.119433"
+        ],
+        [
+          "58.316138",
+          "15.119781"
+        ],
+        [
+          "58.315763",
+          "15.120130"
+        ],
+        [
+          "58.315352",
+          "15.120496"
+        ],
+        [
+          "58.314932",
+          "15.120879"
+        ],
+        [
+          "58.314691",
+          "15.121157"
+        ],
+        [
+          "58.314486",
+          "15.121485"
+        ],
+        [
+          "58.314335",
+          "15.121761"
+        ],
+        [
+          "58.314220",
+          "15.122036"
+        ],
+        [
+          "58.314131",
+          "15.122277"
+        ],
+        [
+          "58.314061",
+          "15.122500"
+        ],
+        [
+          "58.313990",
+          "15.122757"
+        ],
+        [
+          "58.313937",
+          "15.122980"
+        ],
+        [
+          "58.313885",
+          "15.123220"
+        ],
+        [
+          "58.313833",
+          "15.123613"
+        ],
+        [
+          "58.313791",
+          "15.124058"
+        ],
+        [
+          "58.313775",
+          "15.124467"
+        ],
+        [
+          "58.313777",
+          "15.124860"
+        ],
+        [
+          "58.313796",
+          "15.125167"
+        ],
+        [
+          "58.313797",
+          "15.125269"
+        ],
+        [
+          "58.313853",
+          "15.125677"
+        ],
+        [
+          "58.313937",
+          "15.126205"
+        ],
+        [
+          "58.314039",
+          "15.126817"
+        ],
+        [
+          "58.314178",
+          "15.127633"
+        ],
+        [
+          "58.314289",
+          "15.128262"
+        ],
+        [
+          "58.314381",
+          "15.128704"
+        ],
+        [
+          "58.314445",
+          "15.128993"
+        ],
+        [
+          "58.314528",
+          "15.129298"
+        ],
+        [
+          "58.314646",
+          "15.129637"
+        ],
+        [
+          "58.314764",
+          "15.129942"
+        ],
+        [
+          "58.314892",
+          "15.130196"
+        ],
+        [
+          "58.315073",
+          "15.130516"
+        ],
+        [
+          "58.315181",
+          "15.130685"
+        ],
+        [
+          "58.315317",
+          "15.130887"
+        ],
+        [
+          "58.315444",
+          "15.131021"
+        ],
+        [
+          "58.315489",
+          "15.131072"
+        ],
+        [
+          "58.315606",
+          "15.131172"
+        ],
+        [
+          "58.315732",
+          "15.131272"
+        ],
+        [
+          "58.315849",
+          "15.131338"
+        ],
+        [
+          "58.315975",
+          "15.131404"
+        ],
+        [
+          "58.316074",
+          "15.131453"
+        ],
+        [
+          "58.316191",
+          "15.131468"
+        ],
+        [
+          "58.316362",
+          "15.131499"
+        ],
+        [
+          "58.316550",
+          "15.131512"
+        ],
+        [
+          "58.316784",
+          "15.131508"
+        ],
+        [
+          "58.317143",
+          "15.131535"
+        ],
+        [
+          "58.317404",
+          "15.131547"
+        ],
+        [
+          "58.317655",
+          "15.131559"
+        ],
+        [
+          "58.317924",
+          "15.131571"
+        ],
+        [
+          "58.318167",
+          "15.131567"
+        ],
+        [
+          "58.318293",
+          "15.131581"
+        ],
+        [
+          "58.318445",
+          "15.131612"
+        ],
+        [
+          "58.318643",
+          "15.131643"
+        ],
+        [
+          "58.318922",
+          "15.131723"
+        ],
+        [
+          "58.319102",
+          "15.131788"
+        ],
+        [
+          "58.319489",
+          "15.131934"
+        ],
+        [
+          "58.319947",
+          "15.132113"
+        ],
+        [
+          "58.320496",
+          "15.132307"
+        ],
+        [
+          "58.320739",
+          "15.132405"
+        ],
+        [
+          "58.320919",
+          "15.132470"
+        ],
+        [
+          "58.321216",
+          "15.132584"
+        ],
+        [
+          "58.321432",
+          "15.132665"
+        ],
+        [
+          "58.321449",
+          "15.132460"
+        ],
+        [
+          "58.321465",
+          "15.132237"
+        ],
+        [
+          "58.321627",
+          "15.132286"
+        ],
+        [
+          "58.321735",
+          "15.132335"
+        ],
+        [
+          "58.321852",
+          "15.132367"
+        ],
+        [
+          "58.321996",
+          "15.132398"
+        ],
+        [
+          "58.322158",
+          "15.132429"
+        ],
+        [
+          "58.322203",
+          "15.132445"
+        ],
+        [
+          "58.322211",
+          "15.132360"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1055700000076522861",
+      "trips": [
+        {
+          "trip_id": "55700000076524393",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000128001",
+              "stop_name": "Kungsh\u00f6gaskolan",
+              "stop_lat": "58.328165",
+              "stop_lon": "15.109188",
+              "location_type": "0",
+              "parent_station": "9021005000128000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076524198",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000128001",
+              "stop_name": "Kungsh\u00f6gaskolan",
+              "stop_lat": "58.328165",
+              "stop_lon": "15.109188",
+              "location_type": "0",
+              "parent_station": "9021005000128000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076524263",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000128001",
+              "stop_name": "Kungsh\u00f6gaskolan",
+              "stop_lat": "58.328165",
+              "stop_lon": "15.109188",
+              "location_type": "0",
+              "parent_station": "9021005000128000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000076524328",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000128001",
+              "stop_name": "Kungsh\u00f6gaskolan",
+              "stop_lat": "58.328165",
+              "stop_lon": "15.109188",
+              "location_type": "0",
+              "parent_station": "9021005000128000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000077389001",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000128001",
+              "stop_name": "Kungsh\u00f6gaskolan",
+              "stop_lat": "58.328165",
+              "stop_lon": "15.109188",
+              "location_type": "0",
+              "parent_station": "9021005000128000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077389064",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000128001",
+              "stop_name": "Kungsh\u00f6gaskolan",
+              "stop_lat": "58.328165",
+              "stop_lon": "15.109188",
+              "location_type": "0",
+              "parent_station": "9021005000128000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077389191",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000128001",
+              "stop_name": "Kungsh\u00f6gaskolan",
+              "stop_lat": "58.328165",
+              "stop_lon": "15.109188",
+              "location_type": "0",
+              "parent_station": "9021005000128000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077389127",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000128001",
+              "stop_name": "Kungsh\u00f6gaskolan",
+              "stop_lat": "58.328165",
+              "stop_lon": "15.109188",
+              "location_type": "0",
+              "parent_station": "9021005000128000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002200002",
+              "stop_name": "Odengatan",
+              "stop_lat": "58.322173",
+              "stop_lon": "15.103606",
+              "location_type": "0",
+              "parent_station": "9021005002200000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005002199002",
+              "stop_name": "Lundby industriomr\u00e5de",
+              "stop_lat": "58.319731",
+              "stop_lon": "15.110224",
+              "location_type": "0",
+              "parent_station": "9021005002199000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000126002",
+              "stop_name": "Mj\u00f6lby resecentrum",
+              "stop_lat": "58.322211",
+              "stop_lon": "15.132360",
+              "location_type": "0",
+              "parent_station": "9021005000126000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.328165",
+          "15.109188"
+        ],
+        [
+          "58.328174",
+          "15.109205"
+        ],
+        [
+          "58.328271",
+          "15.108844"
+        ],
+        [
+          "58.328325",
+          "15.108809"
+        ],
+        [
+          "58.328496",
+          "15.108959"
+        ],
+        [
+          "58.328866",
+          "15.109310"
+        ],
+        [
+          "58.329137",
+          "15.109578"
+        ],
+        [
+          "58.329354",
+          "15.109779"
+        ],
+        [
+          "58.329399",
+          "15.109812"
+        ],
+        [
+          "58.329543",
+          "15.109946"
+        ],
+        [
+          "58.329633",
+          "15.109978"
+        ],
+        [
+          "58.329732",
+          "15.109993"
+        ],
+        [
+          "58.329894",
+          "15.109990"
+        ],
+        [
+          "58.330181",
+          "15.109933"
+        ],
+        [
+          "58.330486",
+          "15.109893"
+        ],
+        [
+          "58.330475",
+          "15.109569"
+        ],
+        [
+          "58.330445",
+          "15.109040"
+        ],
+        [
+          "58.330425",
+          "15.108682"
+        ],
+        [
+          "58.330377",
+          "15.108018"
+        ],
+        [
+          "58.330320",
+          "15.107438"
+        ],
+        [
+          "58.330254",
+          "15.106945"
+        ],
+        [
+          "58.330189",
+          "15.106502"
+        ],
+        [
+          "58.330105",
+          "15.105992"
+        ],
+        [
+          "58.330031",
+          "15.105567"
+        ],
+        [
+          "58.329930",
+          "15.105125"
+        ],
+        [
+          "58.329829",
+          "15.104683"
+        ],
+        [
+          "58.329755",
+          "15.104394"
+        ],
+        [
+          "58.329682",
+          "15.104140"
+        ],
+        [
+          "58.329590",
+          "15.103783"
+        ],
+        [
+          "58.329462",
+          "15.103342"
+        ],
+        [
+          "58.329325",
+          "15.102935"
+        ],
+        [
+          "58.329179",
+          "15.102511"
+        ],
+        [
+          "58.329015",
+          "15.102105"
+        ],
+        [
+          "58.328797",
+          "15.101597"
+        ],
+        [
+          "58.328606",
+          "15.101174"
+        ],
+        [
+          "58.328470",
+          "15.100904"
+        ],
+        [
+          "58.328334",
+          "15.100633"
+        ],
+        [
+          "58.328089",
+          "15.100177"
+        ],
+        [
+          "58.327835",
+          "15.099739"
+        ],
+        [
+          "58.327627",
+          "15.099436"
+        ],
+        [
+          "58.327437",
+          "15.099166"
+        ],
+        [
+          "58.327265",
+          "15.098948"
+        ],
+        [
+          "58.327075",
+          "15.098713"
+        ],
+        [
+          "58.326877",
+          "15.098478"
+        ],
+        [
+          "58.326660",
+          "15.098260"
+        ],
+        [
+          "58.326416",
+          "15.098009"
+        ],
+        [
+          "58.326182",
+          "15.097826"
+        ],
+        [
+          "58.325938",
+          "15.097626"
+        ],
+        [
+          "58.325713",
+          "15.097460"
+        ],
+        [
+          "58.325469",
+          "15.097311"
+        ],
+        [
+          "58.325235",
+          "15.097196"
+        ],
+        [
+          "58.325001",
+          "15.097082"
+        ],
+        [
+          "58.324749",
+          "15.096984"
+        ],
+        [
+          "58.324363",
+          "15.096838"
+        ],
+        [
+          "58.324075",
+          "15.096725"
+        ],
+        [
+          "58.323679",
+          "15.096613"
+        ],
+        [
+          "58.323490",
+          "15.096549"
+        ],
+        [
+          "58.323328",
+          "15.096501"
+        ],
+        [
+          "58.322887",
+          "15.096356"
+        ],
+        [
+          "58.322600",
+          "15.096276"
+        ],
+        [
+          "58.322557",
+          "15.096670"
+        ],
+        [
+          "58.322515",
+          "15.097114"
+        ],
+        [
+          "58.322499",
+          "15.097524"
+        ],
+        [
+          "58.322492",
+          "15.097951"
+        ],
+        [
+          "58.322495",
+          "15.098395"
+        ],
+        [
+          "58.322506",
+          "15.098821"
+        ],
+        [
+          "58.322509",
+          "15.099316"
+        ],
+        [
+          "58.322512",
+          "15.099862"
+        ],
+        [
+          "58.322497",
+          "15.100374"
+        ],
+        [
+          "58.322473",
+          "15.100921"
+        ],
+        [
+          "58.322440",
+          "15.101467"
+        ],
+        [
+          "58.322373",
+          "15.102288"
+        ],
+        [
+          "58.322321",
+          "15.102784"
+        ],
+        [
+          "58.322218",
+          "15.103520"
+        ],
+        [
+          "58.322209",
+          "15.103622"
+        ],
+        [
+          "58.322148",
+          "15.103982"
+        ],
+        [
+          "58.322053",
+          "15.104530"
+        ],
+        [
+          "58.321921",
+          "15.105113"
+        ],
+        [
+          "58.321798",
+          "15.105610"
+        ],
+        [
+          "58.321640",
+          "15.106193"
+        ],
+        [
+          "58.321490",
+          "15.106657"
+        ],
+        [
+          "58.321339",
+          "15.107070"
+        ],
+        [
+          "58.321180",
+          "15.107465"
+        ],
+        [
+          "58.321038",
+          "15.107792"
+        ],
+        [
+          "58.320878",
+          "15.108137"
+        ],
+        [
+          "58.320550",
+          "15.108792"
+        ],
+        [
+          "58.320310",
+          "15.109257"
+        ],
+        [
+          "58.319901",
+          "15.109999"
+        ],
+        [
+          "58.319759",
+          "15.110275"
+        ],
+        [
+          "58.319652",
+          "15.110499"
+        ],
+        [
+          "58.319510",
+          "15.110808"
+        ],
+        [
+          "58.319386",
+          "15.111118"
+        ],
+        [
+          "58.319307",
+          "15.111341"
+        ],
+        [
+          "58.319209",
+          "15.111650"
+        ],
+        [
+          "58.319050",
+          "15.112131"
+        ],
+        [
+          "58.318927",
+          "15.112509"
+        ],
+        [
+          "58.318777",
+          "15.112973"
+        ],
+        [
+          "58.318645",
+          "15.113436"
+        ],
+        [
+          "58.318539",
+          "15.113831"
+        ],
+        [
+          "58.318293",
+          "15.114859"
+        ],
+        [
+          "58.318214",
+          "15.115168"
+        ],
+        [
+          "58.318152",
+          "15.115408"
+        ],
+        [
+          "58.318047",
+          "15.115768"
+        ],
+        [
+          "58.317835",
+          "15.116557"
+        ],
+        [
+          "58.317712",
+          "15.117021"
+        ],
+        [
+          "58.317650",
+          "15.117192"
+        ],
+        [
+          "58.317517",
+          "15.117536"
+        ],
+        [
+          "58.317447",
+          "15.117742"
+        ],
+        [
+          "58.317367",
+          "15.117915"
+        ],
+        [
+          "58.317287",
+          "15.118104"
+        ],
+        [
+          "58.317198",
+          "15.118293"
+        ],
+        [
+          "58.317092",
+          "15.118500"
+        ],
+        [
+          "58.317038",
+          "15.118603"
+        ],
+        [
+          "58.316941",
+          "15.118776"
+        ],
+        [
+          "58.316736",
+          "15.119104"
+        ],
+        [
+          "58.316700",
+          "15.119156"
+        ],
+        [
+          "58.316629",
+          "15.119260"
+        ],
+        [
+          "58.316486",
+          "15.119416"
+        ],
+        [
+          "58.316468",
+          "15.119433"
+        ],
+        [
+          "58.316138",
+          "15.119781"
+        ],
+        [
+          "58.315763",
+          "15.120130"
+        ],
+        [
+          "58.315352",
+          "15.120496"
+        ],
+        [
+          "58.314932",
+          "15.120879"
+        ],
+        [
+          "58.314691",
+          "15.121157"
+        ],
+        [
+          "58.314486",
+          "15.121485"
+        ],
+        [
+          "58.314335",
+          "15.121761"
+        ],
+        [
+          "58.314220",
+          "15.122036"
+        ],
+        [
+          "58.314131",
+          "15.122277"
+        ],
+        [
+          "58.314061",
+          "15.122500"
+        ],
+        [
+          "58.313990",
+          "15.122757"
+        ],
+        [
+          "58.313937",
+          "15.122980"
+        ],
+        [
+          "58.313885",
+          "15.123220"
+        ],
+        [
+          "58.313833",
+          "15.123613"
+        ],
+        [
+          "58.313791",
+          "15.124058"
+        ],
+        [
+          "58.313775",
+          "15.124467"
+        ],
+        [
+          "58.313777",
+          "15.124860"
+        ],
+        [
+          "58.313796",
+          "15.125167"
+        ],
+        [
+          "58.313797",
+          "15.125269"
+        ],
+        [
+          "58.313853",
+          "15.125677"
+        ],
+        [
+          "58.313937",
+          "15.126205"
+        ],
+        [
+          "58.314039",
+          "15.126817"
+        ],
+        [
+          "58.314178",
+          "15.127633"
+        ],
+        [
+          "58.314289",
+          "15.128262"
+        ],
+        [
+          "58.314381",
+          "15.128704"
+        ],
+        [
+          "58.314445",
+          "15.128993"
+        ],
+        [
+          "58.314528",
+          "15.129298"
+        ],
+        [
+          "58.314646",
+          "15.129637"
+        ],
+        [
+          "58.314764",
+          "15.129942"
+        ],
+        [
+          "58.314892",
+          "15.130196"
+        ],
+        [
+          "58.315073",
+          "15.130516"
+        ],
+        [
+          "58.315181",
+          "15.130685"
+        ],
+        [
+          "58.315317",
+          "15.130887"
+        ],
+        [
+          "58.315444",
+          "15.131021"
+        ],
+        [
+          "58.315489",
+          "15.131072"
+        ],
+        [
+          "58.315606",
+          "15.131172"
+        ],
+        [
+          "58.315732",
+          "15.131272"
+        ],
+        [
+          "58.315849",
+          "15.131338"
+        ],
+        [
+          "58.315975",
+          "15.131404"
+        ],
+        [
+          "58.316074",
+          "15.131453"
+        ],
+        [
+          "58.316191",
+          "15.131468"
+        ],
+        [
+          "58.316362",
+          "15.131499"
+        ],
+        [
+          "58.316550",
+          "15.131512"
+        ],
+        [
+          "58.316784",
+          "15.131508"
+        ],
+        [
+          "58.317143",
+          "15.131535"
+        ],
+        [
+          "58.317404",
+          "15.131547"
+        ],
+        [
+          "58.317655",
+          "15.131559"
+        ],
+        [
+          "58.317924",
+          "15.131571"
+        ],
+        [
+          "58.318167",
+          "15.131567"
+        ],
+        [
+          "58.318293",
+          "15.131581"
+        ],
+        [
+          "58.318445",
+          "15.131612"
+        ],
+        [
+          "58.318643",
+          "15.131643"
+        ],
+        [
+          "58.318922",
+          "15.131723"
+        ],
+        [
+          "58.319102",
+          "15.131788"
+        ],
+        [
+          "58.319489",
+          "15.131934"
+        ],
+        [
+          "58.319947",
+          "15.132113"
+        ],
+        [
+          "58.320496",
+          "15.132307"
+        ],
+        [
+          "58.320739",
+          "15.132405"
+        ],
+        [
+          "58.320919",
+          "15.132470"
+        ],
+        [
+          "58.321216",
+          "15.132584"
+        ],
+        [
+          "58.321432",
+          "15.132665"
+        ],
+        [
+          "58.321449",
+          "15.132460"
+        ],
+        [
+          "58.321465",
+          "15.132237"
+        ],
+        [
+          "58.321627",
+          "15.132286"
+        ],
+        [
+          "58.321735",
+          "15.132335"
+        ],
+        [
+          "58.321852",
+          "15.132367"
+        ],
+        [
+          "58.321996",
+          "15.132398"
+        ],
+        [
+          "58.322158",
+          "15.132429"
+        ],
+        [
+          "58.322203",
+          "15.132445"
+        ],
+        [
+          "58.322211",
+          "15.132360"
+        ]
+      ]
+    }
+  ]
+}

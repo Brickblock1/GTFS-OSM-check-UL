@@ -1,6 +1,6 @@
 import csv, json
 
-code = "SE-003-UL"
+code = "SE-005-Ö"
 
 feedinfo = open(f"{code}/feed_info.txt", "r", encoding="UTF8")
 feedinfo = list(csv.reader(feedinfo))

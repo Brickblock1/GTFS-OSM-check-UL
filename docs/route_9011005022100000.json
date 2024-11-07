@@ -1,0 +1,5085 @@
+{
+  "feed_version": "2024-11-07",
+  "route_id": "9011005022100000",
+  "agency_id": "55700000000001407",
+  "route_short_name": "21",
+  "route_long_name": "",
+  "route_type": "700",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "1055700000054719630",
+      "trips": [
+        {
+          "trip_id": "55700000075950262",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422002",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412306",
+              "stop_lon": "15.636738",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424002",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412151",
+              "stop_lon": "15.641957",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435001",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407318",
+              "stop_lon": "15.653782",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418002",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400500",
+              "stop_lon": "15.658258",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419002",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.399846",
+              "stop_lon": "15.676424",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005001421001",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400021",
+              "stop_lon": "15.690310",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000075950164",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422002",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412306",
+              "stop_lon": "15.636738",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424002",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412151",
+              "stop_lon": "15.641957",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435001",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407318",
+              "stop_lon": "15.653782",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418002",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400500",
+              "stop_lon": "15.658258",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419002",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.399846",
+              "stop_lon": "15.676424",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005001421001",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400021",
+              "stop_lon": "15.690310",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000075950178",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422002",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412306",
+              "stop_lon": "15.636738",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424002",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412151",
+              "stop_lon": "15.641957",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435001",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407318",
+              "stop_lon": "15.653782",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418002",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400500",
+              "stop_lon": "15.658258",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419002",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.399846",
+              "stop_lon": "15.676424",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005001421001",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400021",
+              "stop_lon": "15.690310",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000075950192",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422002",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412306",
+              "stop_lon": "15.636738",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424002",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412151",
+              "stop_lon": "15.641957",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435001",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407318",
+              "stop_lon": "15.653782",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418002",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400500",
+              "stop_lon": "15.658258",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419002",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.399846",
+              "stop_lon": "15.676424",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005001421001",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400021",
+              "stop_lon": "15.690310",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000075950206",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422002",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412306",
+              "stop_lon": "15.636738",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424002",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412151",
+              "stop_lon": "15.641957",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435001",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407318",
+              "stop_lon": "15.653782",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418002",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400500",
+              "stop_lon": "15.658258",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419002",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.399846",
+              "stop_lon": "15.676424",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005001421001",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400021",
+              "stop_lon": "15.690310",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000075950234",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422002",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412306",
+              "stop_lon": "15.636738",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424002",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412151",
+              "stop_lon": "15.641957",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435001",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407318",
+              "stop_lon": "15.653782",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418002",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400500",
+              "stop_lon": "15.658258",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419002",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.399846",
+              "stop_lon": "15.676424",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005001421001",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400021",
+              "stop_lon": "15.690310",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000075950248",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422002",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412306",
+              "stop_lon": "15.636738",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424002",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412151",
+              "stop_lon": "15.641957",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435001",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407318",
+              "stop_lon": "15.653782",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418002",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400500",
+              "stop_lon": "15.658258",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419002",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.399846",
+              "stop_lon": "15.676424",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005001421001",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400021",
+              "stop_lon": "15.690310",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000075950220",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422002",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412306",
+              "stop_lon": "15.636738",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424002",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412151",
+              "stop_lon": "15.641957",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435001",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407318",
+              "stop_lon": "15.653782",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418002",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400500",
+              "stop_lon": "15.658258",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419002",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.399846",
+              "stop_lon": "15.676424",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005001421001",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400021",
+              "stop_lon": "15.690310",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000075950276",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422002",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412306",
+              "stop_lon": "15.636738",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424002",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412151",
+              "stop_lon": "15.641957",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435001",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407318",
+              "stop_lon": "15.653782",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418002",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400500",
+              "stop_lon": "15.658258",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419002",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.399846",
+              "stop_lon": "15.676424",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005001421001",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400021",
+              "stop_lon": "15.690310",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.416867",
+          "15.623969"
+        ],
+        [
+          "58.416831",
+          "15.623901"
+        ],
+        [
+          "58.417350",
+          "15.622923"
+        ],
+        [
+          "58.417449",
+          "15.622786"
+        ],
+        [
+          "58.417458",
+          "15.622785"
+        ],
+        [
+          "58.417494",
+          "15.622768"
+        ],
+        [
+          "58.417530",
+          "15.622768"
+        ],
+        [
+          "58.417593",
+          "15.622819"
+        ],
+        [
+          "58.417629",
+          "15.622836"
+        ],
+        [
+          "58.417647",
+          "15.622853"
+        ],
+        [
+          "58.417656",
+          "15.622870"
+        ],
+        [
+          "58.417691",
+          "15.622836"
+        ],
+        [
+          "58.417718",
+          "15.622801"
+        ],
+        [
+          "58.417745",
+          "15.622733"
+        ],
+        [
+          "58.417763",
+          "15.622681"
+        ],
+        [
+          "58.417772",
+          "15.622613"
+        ],
+        [
+          "58.417772",
+          "15.622544"
+        ],
+        [
+          "58.417772",
+          "15.622510"
+        ],
+        [
+          "58.417763",
+          "15.622442"
+        ],
+        [
+          "58.417754",
+          "15.622390"
+        ],
+        [
+          "58.417726",
+          "15.622237"
+        ],
+        [
+          "58.417690",
+          "15.622100"
+        ],
+        [
+          "58.417672",
+          "15.622066"
+        ],
+        [
+          "58.417636",
+          "15.621946"
+        ],
+        [
+          "58.417573",
+          "15.621844"
+        ],
+        [
+          "58.417385",
+          "15.622187"
+        ],
+        [
+          "58.417161",
+          "15.622616"
+        ],
+        [
+          "58.417063",
+          "15.622805"
+        ],
+        [
+          "58.416364",
+          "15.624109"
+        ],
+        [
+          "58.416266",
+          "15.624314"
+        ],
+        [
+          "58.416212",
+          "15.624400"
+        ],
+        [
+          "58.415854",
+          "15.625052"
+        ],
+        [
+          "58.415729",
+          "15.625292"
+        ],
+        [
+          "58.415460",
+          "15.625773"
+        ],
+        [
+          "58.415263",
+          "15.626185"
+        ],
+        [
+          "58.415004",
+          "15.626785"
+        ],
+        [
+          "58.414860",
+          "15.627145"
+        ],
+        [
+          "58.414700",
+          "15.627710"
+        ],
+        [
+          "58.414530",
+          "15.628361"
+        ],
+        [
+          "58.414378",
+          "15.628978"
+        ],
+        [
+          "58.414199",
+          "15.629475"
+        ],
+        [
+          "58.414146",
+          "15.629595"
+        ],
+        [
+          "58.414128",
+          "15.629629"
+        ],
+        [
+          "58.413940",
+          "15.629972"
+        ],
+        [
+          "58.413913",
+          "15.630024"
+        ],
+        [
+          "58.413886",
+          "15.630092"
+        ],
+        [
+          "58.413868",
+          "15.630144"
+        ],
+        [
+          "58.413823",
+          "15.630247"
+        ],
+        [
+          "58.413788",
+          "15.630367"
+        ],
+        [
+          "58.413752",
+          "15.630504"
+        ],
+        [
+          "58.413707",
+          "15.630658"
+        ],
+        [
+          "58.413261",
+          "15.632833"
+        ],
+        [
+          "58.413252",
+          "15.632884"
+        ],
+        [
+          "58.413243",
+          "15.632901"
+        ],
+        [
+          "58.413243",
+          "15.632919"
+        ],
+        [
+          "58.413235",
+          "15.632953"
+        ],
+        [
+          "58.413235",
+          "15.632970"
+        ],
+        [
+          "58.413226",
+          "15.632987"
+        ],
+        [
+          "58.413217",
+          "15.633004"
+        ],
+        [
+          "58.413217",
+          "15.633038"
+        ],
+        [
+          "58.413208",
+          "15.633056"
+        ],
+        [
+          "58.413181",
+          "15.633107"
+        ],
+        [
+          "58.413172",
+          "15.633158"
+        ],
+        [
+          "58.413154",
+          "15.633193"
+        ],
+        [
+          "58.413154",
+          "15.633193"
+        ],
+        [
+          "58.413145",
+          "15.633210"
+        ],
+        [
+          "58.413127",
+          "15.633244"
+        ],
+        [
+          "58.413118",
+          "15.633278"
+        ],
+        [
+          "58.413118",
+          "15.633296"
+        ],
+        [
+          "58.413109",
+          "15.633296"
+        ],
+        [
+          "58.413109",
+          "15.633313"
+        ],
+        [
+          "58.413100",
+          "15.633330"
+        ],
+        [
+          "58.413091",
+          "15.633330"
+        ],
+        [
+          "58.413091",
+          "15.633347"
+        ],
+        [
+          "58.413082",
+          "15.633364"
+        ],
+        [
+          "58.413073",
+          "15.633381"
+        ],
+        [
+          "58.413073",
+          "15.633381"
+        ],
+        [
+          "58.413065",
+          "15.633398"
+        ],
+        [
+          "58.413056",
+          "15.633416"
+        ],
+        [
+          "58.413047",
+          "15.633416"
+        ],
+        [
+          "58.413047",
+          "15.633433"
+        ],
+        [
+          "58.413038",
+          "15.633450"
+        ],
+        [
+          "58.413029",
+          "15.633450"
+        ],
+        [
+          "58.413020",
+          "15.633467"
+        ],
+        [
+          "58.413020",
+          "15.633484"
+        ],
+        [
+          "58.413011",
+          "15.633484"
+        ],
+        [
+          "58.413002",
+          "15.633501"
+        ],
+        [
+          "58.412993",
+          "15.633501"
+        ],
+        [
+          "58.412984",
+          "15.633519"
+        ],
+        [
+          "58.412975",
+          "15.633519"
+        ],
+        [
+          "58.412975",
+          "15.633536"
+        ],
+        [
+          "58.412966",
+          "15.633536"
+        ],
+        [
+          "58.412957",
+          "15.633553"
+        ],
+        [
+          "58.412948",
+          "15.633553"
+        ],
+        [
+          "58.412939",
+          "15.633570"
+        ],
+        [
+          "58.412930",
+          "15.633570"
+        ],
+        [
+          "58.412921",
+          "15.633587"
+        ],
+        [
+          "58.412912",
+          "15.633587"
+        ],
+        [
+          "58.412903",
+          "15.633605"
+        ],
+        [
+          "58.412894",
+          "15.633605"
+        ],
+        [
+          "58.412885",
+          "15.633605"
+        ],
+        [
+          "58.412876",
+          "15.633622"
+        ],
+        [
+          "58.412867",
+          "15.633622"
+        ],
+        [
+          "58.412858",
+          "15.633622"
+        ],
+        [
+          "58.412849",
+          "15.633622"
+        ],
+        [
+          "58.412840",
+          "15.633639"
+        ],
+        [
+          "58.412831",
+          "15.633639"
+        ],
+        [
+          "58.412831",
+          "15.633639"
+        ],
+        [
+          "58.412822",
+          "15.633639"
+        ],
+        [
+          "58.412813",
+          "15.633639"
+        ],
+        [
+          "58.412805",
+          "15.633639"
+        ],
+        [
+          "58.412796",
+          "15.633656"
+        ],
+        [
+          "58.412787",
+          "15.633656"
+        ],
+        [
+          "58.412760",
+          "15.633657"
+        ],
+        [
+          "58.412751",
+          "15.633657"
+        ],
+        [
+          "58.412697",
+          "15.633674"
+        ],
+        [
+          "58.412526",
+          "15.633675"
+        ],
+        [
+          "58.412230",
+          "15.633779"
+        ],
+        [
+          "58.412122",
+          "15.633814"
+        ],
+        [
+          "58.412033",
+          "15.633848"
+        ],
+        [
+          "58.412051",
+          "15.634019"
+        ],
+        [
+          "58.412069",
+          "15.634207"
+        ],
+        [
+          "58.412178",
+          "15.635131"
+        ],
+        [
+          "58.412196",
+          "15.635267"
+        ],
+        [
+          "58.412223",
+          "15.635541"
+        ],
+        [
+          "58.412260",
+          "15.635798"
+        ],
+        [
+          "58.412305",
+          "15.636242"
+        ],
+        [
+          "58.412360",
+          "15.636721"
+        ],
+        [
+          "58.412387",
+          "15.636926"
+        ],
+        [
+          "58.412414",
+          "15.637165"
+        ],
+        [
+          "58.412460",
+          "15.637507"
+        ],
+        [
+          "58.412460",
+          "15.637507"
+        ],
+        [
+          "58.412496",
+          "15.637815"
+        ],
+        [
+          "58.412532",
+          "15.638208"
+        ],
+        [
+          "58.412569",
+          "15.638585"
+        ],
+        [
+          "58.412578",
+          "15.638670"
+        ],
+        [
+          "58.412632",
+          "15.639029"
+        ],
+        [
+          "58.412686",
+          "15.639440"
+        ],
+        [
+          "58.412714",
+          "15.639764"
+        ],
+        [
+          "58.412723",
+          "15.639884"
+        ],
+        [
+          "58.412723",
+          "15.639970"
+        ],
+        [
+          "58.412723",
+          "15.640072"
+        ],
+        [
+          "58.412723",
+          "15.640158"
+        ],
+        [
+          "58.412706",
+          "15.640261"
+        ],
+        [
+          "58.412697",
+          "15.640346"
+        ],
+        [
+          "58.412679",
+          "15.640432"
+        ],
+        [
+          "58.412410",
+          "15.641203"
+        ],
+        [
+          "58.412267",
+          "15.641614"
+        ],
+        [
+          "58.412151",
+          "15.641957"
+        ],
+        [
+          "58.412169",
+          "15.641906"
+        ],
+        [
+          "58.412080",
+          "15.642180"
+        ],
+        [
+          "58.412017",
+          "15.642368"
+        ],
+        [
+          "58.411919",
+          "15.642642"
+        ],
+        [
+          "58.411793",
+          "15.642985"
+        ],
+        [
+          "58.411766",
+          "15.643054"
+        ],
+        [
+          "58.411749",
+          "15.643105"
+        ],
+        [
+          "58.411794",
+          "15.643173"
+        ],
+        [
+          "58.411829",
+          "15.643224"
+        ],
+        [
+          "58.411865",
+          "15.643293"
+        ],
+        [
+          "58.411901",
+          "15.643361"
+        ],
+        [
+          "58.411946",
+          "15.643429"
+        ],
+        [
+          "58.411991",
+          "15.643515"
+        ],
+        [
+          "58.412036",
+          "15.643600"
+        ],
+        [
+          "58.412090",
+          "15.643685"
+        ],
+        [
+          "58.412135",
+          "15.643770"
+        ],
+        [
+          "58.412180",
+          "15.643856"
+        ],
+        [
+          "58.412225",
+          "15.643941"
+        ],
+        [
+          "58.412270",
+          "15.644026"
+        ],
+        [
+          "58.412306",
+          "15.644112"
+        ],
+        [
+          "58.412333",
+          "15.644180"
+        ],
+        [
+          "58.412360",
+          "15.644248"
+        ],
+        [
+          "58.412379",
+          "15.644317"
+        ],
+        [
+          "58.412397",
+          "15.644385"
+        ],
+        [
+          "58.412415",
+          "15.644436"
+        ],
+        [
+          "58.412424",
+          "15.644488"
+        ],
+        [
+          "58.412433",
+          "15.644556"
+        ],
+        [
+          "58.412451",
+          "15.644624"
+        ],
+        [
+          "58.412460",
+          "15.644693"
+        ],
+        [
+          "58.412478",
+          "15.644778"
+        ],
+        [
+          "58.412496",
+          "15.644864"
+        ],
+        [
+          "58.412514",
+          "15.644949"
+        ],
+        [
+          "58.412514",
+          "15.644949"
+        ],
+        [
+          "58.412577",
+          "15.645360"
+        ],
+        [
+          "58.412595",
+          "15.645496"
+        ],
+        [
+          "58.412623",
+          "15.645753"
+        ],
+        [
+          "58.412641",
+          "15.646061"
+        ],
+        [
+          "58.412659",
+          "15.646232"
+        ],
+        [
+          "58.412705",
+          "15.646642"
+        ],
+        [
+          "58.412705",
+          "15.646676"
+        ],
+        [
+          "58.412768",
+          "15.647241"
+        ],
+        [
+          "58.412850",
+          "15.648096"
+        ],
+        [
+          "58.412932",
+          "15.648985"
+        ],
+        [
+          "58.412986",
+          "15.649447"
+        ],
+        [
+          "58.413032",
+          "15.649994"
+        ],
+        [
+          "58.413041",
+          "15.650165"
+        ],
+        [
+          "58.413050",
+          "15.650336"
+        ],
+        [
+          "58.413051",
+          "15.650507"
+        ],
+        [
+          "58.413042",
+          "15.650678"
+        ],
+        [
+          "58.413024",
+          "15.650849"
+        ],
+        [
+          "58.413006",
+          "15.651003"
+        ],
+        [
+          "58.412980",
+          "15.651175"
+        ],
+        [
+          "58.412944",
+          "15.651329"
+        ],
+        [
+          "58.412908",
+          "15.651483"
+        ],
+        [
+          "58.412872",
+          "15.651637"
+        ],
+        [
+          "58.412819",
+          "15.651791"
+        ],
+        [
+          "58.412765",
+          "15.651928"
+        ],
+        [
+          "58.412702",
+          "15.652082"
+        ],
+        [
+          "58.412613",
+          "15.652237"
+        ],
+        [
+          "58.412577",
+          "15.652305"
+        ],
+        [
+          "58.412559",
+          "15.652391"
+        ],
+        [
+          "58.412541",
+          "15.652477"
+        ],
+        [
+          "58.412505",
+          "15.652648"
+        ],
+        [
+          "58.412488",
+          "15.652716"
+        ],
+        [
+          "58.412470",
+          "15.652785"
+        ],
+        [
+          "58.412416",
+          "15.652905"
+        ],
+        [
+          "58.412380",
+          "15.652939"
+        ],
+        [
+          "58.412353",
+          "15.652974"
+        ],
+        [
+          "58.412255",
+          "15.653043"
+        ],
+        [
+          "58.412120",
+          "15.653129"
+        ],
+        [
+          "58.412093",
+          "15.653146"
+        ],
+        [
+          "58.412075",
+          "15.653163"
+        ],
+        [
+          "58.412030",
+          "15.653180"
+        ],
+        [
+          "58.411824",
+          "15.653250"
+        ],
+        [
+          "58.411734",
+          "15.653284"
+        ],
+        [
+          "58.411671",
+          "15.653319"
+        ],
+        [
+          "58.411564",
+          "15.653388"
+        ],
+        [
+          "58.411339",
+          "15.653543"
+        ],
+        [
+          "58.410819",
+          "15.653938"
+        ],
+        [
+          "58.410604",
+          "15.654076"
+        ],
+        [
+          "58.410451",
+          "15.654162"
+        ],
+        [
+          "58.410344",
+          "15.654214"
+        ],
+        [
+          "58.410182",
+          "15.654283"
+        ],
+        [
+          "58.410030",
+          "15.654318"
+        ],
+        [
+          "58.409868",
+          "15.654353"
+        ],
+        [
+          "58.409715",
+          "15.654371"
+        ],
+        [
+          "58.409554",
+          "15.654371"
+        ],
+        [
+          "58.409383",
+          "15.654355"
+        ],
+        [
+          "58.408279",
+          "15.654240"
+        ],
+        [
+          "58.408108",
+          "15.654224"
+        ],
+        [
+          "58.408000",
+          "15.654190"
+        ],
+        [
+          "58.407875",
+          "15.654173"
+        ],
+        [
+          "58.407731",
+          "15.654123"
+        ],
+        [
+          "58.407641",
+          "15.654089"
+        ],
+        [
+          "58.407444",
+          "15.653987"
+        ],
+        [
+          "58.407291",
+          "15.653902"
+        ],
+        [
+          "58.407255",
+          "15.653868"
+        ],
+        [
+          "58.407048",
+          "15.653732"
+        ],
+        [
+          "58.406851",
+          "15.653545"
+        ],
+        [
+          "58.406698",
+          "15.653392"
+        ],
+        [
+          "58.406545",
+          "15.653204"
+        ],
+        [
+          "58.406446",
+          "15.653068"
+        ],
+        [
+          "58.406419",
+          "15.653034"
+        ],
+        [
+          "58.406329",
+          "15.652914"
+        ],
+        [
+          "58.406275",
+          "15.652846"
+        ],
+        [
+          "58.406167",
+          "15.652658"
+        ],
+        [
+          "58.406077",
+          "15.652505"
+        ],
+        [
+          "58.405987",
+          "15.652351"
+        ],
+        [
+          "58.405897",
+          "15.652146"
+        ],
+        [
+          "58.405744",
+          "15.651822"
+        ],
+        [
+          "58.405303",
+          "15.650849"
+        ],
+        [
+          "58.405213",
+          "15.650644"
+        ],
+        [
+          "58.405042",
+          "15.650269"
+        ],
+        [
+          "58.404961",
+          "15.650115"
+        ],
+        [
+          "58.404871",
+          "15.649944"
+        ],
+        [
+          "58.404790",
+          "15.649825"
+        ],
+        [
+          "58.404718",
+          "15.649740"
+        ],
+        [
+          "58.404610",
+          "15.649603"
+        ],
+        [
+          "58.404511",
+          "15.649518"
+        ],
+        [
+          "58.404404",
+          "15.649433"
+        ],
+        [
+          "58.404296",
+          "15.649348"
+        ],
+        [
+          "58.404188",
+          "15.649297"
+        ],
+        [
+          "58.404053",
+          "15.649247"
+        ],
+        [
+          "58.403954",
+          "15.649230"
+        ],
+        [
+          "58.403847",
+          "15.649231"
+        ],
+        [
+          "58.403712",
+          "15.649231"
+        ],
+        [
+          "58.403577",
+          "15.649266"
+        ],
+        [
+          "58.403425",
+          "15.649318"
+        ],
+        [
+          "58.403317",
+          "15.649387"
+        ],
+        [
+          "58.403219",
+          "15.649456"
+        ],
+        [
+          "58.403147",
+          "15.649507"
+        ],
+        [
+          "58.403075",
+          "15.649576"
+        ],
+        [
+          "58.402967",
+          "15.649713"
+        ],
+        [
+          "58.402851",
+          "15.649851"
+        ],
+        [
+          "58.402627",
+          "15.650160"
+        ],
+        [
+          "58.402448",
+          "15.650417"
+        ],
+        [
+          "58.402421",
+          "15.650468"
+        ],
+        [
+          "58.402277",
+          "15.650691"
+        ],
+        [
+          "58.402250",
+          "15.650743"
+        ],
+        [
+          "58.402062",
+          "15.651051"
+        ],
+        [
+          "58.401892",
+          "15.651343"
+        ],
+        [
+          "58.401767",
+          "15.651600"
+        ],
+        [
+          "58.401641",
+          "15.651857"
+        ],
+        [
+          "58.401534",
+          "15.652080"
+        ],
+        [
+          "58.401498",
+          "15.652166"
+        ],
+        [
+          "58.401391",
+          "15.652474"
+        ],
+        [
+          "58.401373",
+          "15.652491"
+        ],
+        [
+          "58.401337",
+          "15.652543"
+        ],
+        [
+          "58.401283",
+          "15.652577"
+        ],
+        [
+          "58.401238",
+          "15.652611"
+        ],
+        [
+          "58.401193",
+          "15.652646"
+        ],
+        [
+          "58.401167",
+          "15.652680"
+        ],
+        [
+          "58.401131",
+          "15.652732"
+        ],
+        [
+          "58.401104",
+          "15.652834"
+        ],
+        [
+          "58.401086",
+          "15.652920"
+        ],
+        [
+          "58.401086",
+          "15.652954"
+        ],
+        [
+          "58.401077",
+          "15.653005"
+        ],
+        [
+          "58.401077",
+          "15.653091"
+        ],
+        [
+          "58.401086",
+          "15.653125"
+        ],
+        [
+          "58.401095",
+          "15.653176"
+        ],
+        [
+          "58.401060",
+          "15.653399"
+        ],
+        [
+          "58.401042",
+          "15.653519"
+        ],
+        [
+          "58.401015",
+          "15.653621"
+        ],
+        [
+          "58.400970",
+          "15.653776"
+        ],
+        [
+          "58.400935",
+          "15.653947"
+        ],
+        [
+          "58.400881",
+          "15.654204"
+        ],
+        [
+          "58.400845",
+          "15.654477"
+        ],
+        [
+          "58.400810",
+          "15.654734"
+        ],
+        [
+          "58.400774",
+          "15.655008"
+        ],
+        [
+          "58.400721",
+          "15.655624"
+        ],
+        [
+          "58.400712",
+          "15.655692"
+        ],
+        [
+          "58.400686",
+          "15.656069"
+        ],
+        [
+          "58.400686",
+          "15.656069"
+        ],
+        [
+          "58.400668",
+          "15.656274"
+        ],
+        [
+          "58.400668",
+          "15.656325"
+        ],
+        [
+          "58.400650",
+          "15.656565"
+        ],
+        [
+          "58.400624",
+          "15.657078"
+        ],
+        [
+          "58.400624",
+          "15.657112"
+        ],
+        [
+          "58.400589",
+          "15.657779"
+        ],
+        [
+          "58.400581",
+          "15.658258"
+        ],
+        [
+          "58.400581",
+          "15.658361"
+        ],
+        [
+          "58.400563",
+          "15.658994"
+        ],
+        [
+          "58.400563",
+          "15.659028"
+        ],
+        [
+          "58.400564",
+          "15.659267"
+        ],
+        [
+          "58.400555",
+          "15.659455"
+        ],
+        [
+          "58.400556",
+          "15.660054"
+        ],
+        [
+          "58.400565",
+          "15.660584"
+        ],
+        [
+          "58.400575",
+          "15.660977"
+        ],
+        [
+          "58.400584",
+          "15.661319"
+        ],
+        [
+          "58.400584",
+          "15.661593"
+        ],
+        [
+          "58.400584",
+          "15.661644"
+        ],
+        [
+          "58.400585",
+          "15.662004"
+        ],
+        [
+          "58.400585",
+          "15.662021"
+        ],
+        [
+          "58.400594",
+          "15.662311"
+        ],
+        [
+          "58.400604",
+          "15.662722"
+        ],
+        [
+          "58.400622",
+          "15.663081"
+        ],
+        [
+          "58.400640",
+          "15.663457"
+        ],
+        [
+          "58.400640",
+          "15.663457"
+        ],
+        [
+          "58.400659",
+          "15.663713"
+        ],
+        [
+          "58.400705",
+          "15.665509"
+        ],
+        [
+          "58.400724",
+          "15.666347"
+        ],
+        [
+          "58.400724",
+          "15.666347"
+        ],
+        [
+          "58.400734",
+          "15.666946"
+        ],
+        [
+          "58.400743",
+          "15.667373"
+        ],
+        [
+          "58.400744",
+          "15.667749"
+        ],
+        [
+          "58.400744",
+          "15.668177"
+        ],
+        [
+          "58.400745",
+          "15.668587"
+        ],
+        [
+          "58.400727",
+          "15.668981"
+        ],
+        [
+          "58.400719",
+          "15.669391"
+        ],
+        [
+          "58.400692",
+          "15.669802"
+        ],
+        [
+          "58.400674",
+          "15.670127"
+        ],
+        [
+          "58.400648",
+          "15.670520"
+        ],
+        [
+          "58.400603",
+          "15.670897"
+        ],
+        [
+          "58.400532",
+          "15.671530"
+        ],
+        [
+          "58.400426",
+          "15.672402"
+        ],
+        [
+          "58.400319",
+          "15.673207"
+        ],
+        [
+          "58.400221",
+          "15.673942"
+        ],
+        [
+          "58.400123",
+          "15.674610"
+        ],
+        [
+          "58.400051",
+          "15.675174"
+        ],
+        [
+          "58.399998",
+          "15.675551"
+        ],
+        [
+          "58.399944",
+          "15.675893"
+        ],
+        [
+          "58.399891",
+          "15.676235"
+        ],
+        [
+          "58.399864",
+          "15.676423"
+        ],
+        [
+          "58.399837",
+          "15.676629"
+        ],
+        [
+          "58.399775",
+          "15.677039"
+        ],
+        [
+          "58.399712",
+          "15.677484"
+        ],
+        [
+          "58.399668",
+          "15.677861"
+        ],
+        [
+          "58.399650",
+          "15.678032"
+        ],
+        [
+          "58.399606",
+          "15.678425"
+        ],
+        [
+          "58.399561",
+          "15.678853"
+        ],
+        [
+          "58.399535",
+          "15.679229"
+        ],
+        [
+          "58.399517",
+          "15.679503"
+        ],
+        [
+          "58.399499",
+          "15.679777"
+        ],
+        [
+          "58.399491",
+          "15.680033"
+        ],
+        [
+          "58.399482",
+          "15.680239"
+        ],
+        [
+          "58.399482",
+          "15.680290"
+        ],
+        [
+          "58.399473",
+          "15.680461"
+        ],
+        [
+          "58.399464",
+          "15.680649"
+        ],
+        [
+          "58.399465",
+          "15.680923"
+        ],
+        [
+          "58.399465",
+          "15.681521"
+        ],
+        [
+          "58.399484",
+          "15.682069"
+        ],
+        [
+          "58.399520",
+          "15.682735"
+        ],
+        [
+          "58.399566",
+          "15.683317"
+        ],
+        [
+          "58.399575",
+          "15.683488"
+        ],
+        [
+          "58.399593",
+          "15.683727"
+        ],
+        [
+          "58.399629",
+          "15.684103"
+        ],
+        [
+          "58.399684",
+          "15.684684"
+        ],
+        [
+          "58.399738",
+          "15.685334"
+        ],
+        [
+          "58.399802",
+          "15.686103"
+        ],
+        [
+          "58.399856",
+          "15.686736"
+        ],
+        [
+          "58.399911",
+          "15.687334"
+        ],
+        [
+          "58.399929",
+          "15.687523"
+        ],
+        [
+          "58.399956",
+          "15.687813"
+        ],
+        [
+          "58.399965",
+          "15.687967"
+        ],
+        [
+          "58.399983",
+          "15.688172"
+        ],
+        [
+          "58.400001",
+          "15.688446"
+        ],
+        [
+          "58.400047",
+          "15.689078"
+        ],
+        [
+          "58.400065",
+          "15.689489"
+        ],
+        [
+          "58.400074",
+          "15.689608"
+        ],
+        [
+          "58.400074",
+          "15.689626"
+        ],
+        [
+          "58.400102",
+          "15.690019"
+        ],
+        [
+          "58.400111",
+          "15.690241"
+        ],
+        [
+          "58.400111",
+          "15.690275"
+        ],
+        [
+          "58.400021",
+          "15.690310"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1055700000054719653",
+      "trips": [
+        {
+          "trip_id": "55700000073365703",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005001421002",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400073",
+              "stop_lon": "15.688172",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419001",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.400328",
+              "stop_lon": "15.674010",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418001",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400759",
+              "stop_lon": "15.657573",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435002",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407282",
+              "stop_lon": "15.654244",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424001",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412232",
+              "stop_lon": "15.641785",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422001",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412313",
+              "stop_lon": "15.635678",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073365647",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005001421002",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400073",
+              "stop_lon": "15.688172",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419001",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.400328",
+              "stop_lon": "15.674010",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418001",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400759",
+              "stop_lon": "15.657573",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435002",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407282",
+              "stop_lon": "15.654244",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424001",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412232",
+              "stop_lon": "15.641785",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422001",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412313",
+              "stop_lon": "15.635678",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073365745",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005001421002",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400073",
+              "stop_lon": "15.688172",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419001",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.400328",
+              "stop_lon": "15.674010",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418001",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400759",
+              "stop_lon": "15.657573",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435002",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407282",
+              "stop_lon": "15.654244",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424001",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412232",
+              "stop_lon": "15.641785",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422001",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412313",
+              "stop_lon": "15.635678",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073365633",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005001421002",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400073",
+              "stop_lon": "15.688172",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419001",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.400328",
+              "stop_lon": "15.674010",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418001",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400759",
+              "stop_lon": "15.657573",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435002",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407282",
+              "stop_lon": "15.654244",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424001",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412232",
+              "stop_lon": "15.641785",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422001",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412313",
+              "stop_lon": "15.635678",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073365661",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005001421002",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400073",
+              "stop_lon": "15.688172",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419001",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.400328",
+              "stop_lon": "15.674010",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418001",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400759",
+              "stop_lon": "15.657573",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435002",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407282",
+              "stop_lon": "15.654244",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424001",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412232",
+              "stop_lon": "15.641785",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422001",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412313",
+              "stop_lon": "15.635678",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073365675",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005001421002",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400073",
+              "stop_lon": "15.688172",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419001",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.400328",
+              "stop_lon": "15.674010",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418001",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400759",
+              "stop_lon": "15.657573",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435002",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407282",
+              "stop_lon": "15.654244",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424001",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412232",
+              "stop_lon": "15.641785",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422001",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412313",
+              "stop_lon": "15.635678",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073365689",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005001421002",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400073",
+              "stop_lon": "15.688172",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419001",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.400328",
+              "stop_lon": "15.674010",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418001",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400759",
+              "stop_lon": "15.657573",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435002",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407282",
+              "stop_lon": "15.654244",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424001",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412232",
+              "stop_lon": "15.641785",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422001",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412313",
+              "stop_lon": "15.635678",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073365717",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005001421002",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400073",
+              "stop_lon": "15.688172",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419001",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.400328",
+              "stop_lon": "15.674010",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418001",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400759",
+              "stop_lon": "15.657573",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435002",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407282",
+              "stop_lon": "15.654244",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424001",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412232",
+              "stop_lon": "15.641785",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422001",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412313",
+              "stop_lon": "15.635678",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073365731",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005001421002",
+              "stop_name": "Landerydsv\u00e4gen",
+              "stop_lat": "58.400073",
+              "stop_lon": "15.688172",
+              "location_type": "0",
+              "parent_station": "9021005001421000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001419001",
+              "stop_name": "Saab Civila",
+              "stop_lat": "58.400328",
+              "stop_lon": "15.674010",
+              "location_type": "0",
+              "parent_station": "9021005001419000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001418001",
+              "stop_name": "Saab S\u00f6dra",
+              "stop_lat": "58.400759",
+              "stop_lon": "15.657573",
+              "location_type": "0",
+              "parent_station": "9021005001418000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005000435002",
+              "stop_name": "Saab Norra porten",
+              "stop_lat": "58.407282",
+              "stop_lon": "15.654244",
+              "location_type": "0",
+              "parent_station": "9021005000435000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001424001",
+              "stop_name": "Korngatan",
+              "stop_lat": "58.412232",
+              "stop_lon": "15.641785",
+              "location_type": "0",
+              "parent_station": "9021005001424000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001422001",
+              "stop_name": "Humlegatan",
+              "stop_lat": "58.412313",
+              "stop_lon": "15.635678",
+              "location_type": "0",
+              "parent_station": "9021005001422000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050018",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416867",
+              "stop_lon": "15.623969",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "C4"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.400073",
+          "15.688172"
+        ],
+        [
+          "58.399983",
+          "15.688172"
+        ],
+        [
+          "58.399965",
+          "15.687967"
+        ],
+        [
+          "58.399956",
+          "15.687813"
+        ],
+        [
+          "58.399929",
+          "15.687523"
+        ],
+        [
+          "58.399911",
+          "15.687334"
+        ],
+        [
+          "58.399856",
+          "15.686736"
+        ],
+        [
+          "58.399802",
+          "15.686103"
+        ],
+        [
+          "58.399738",
+          "15.685334"
+        ],
+        [
+          "58.399684",
+          "15.684684"
+        ],
+        [
+          "58.399629",
+          "15.684103"
+        ],
+        [
+          "58.399593",
+          "15.683727"
+        ],
+        [
+          "58.399575",
+          "15.683488"
+        ],
+        [
+          "58.399566",
+          "15.683317"
+        ],
+        [
+          "58.399520",
+          "15.682735"
+        ],
+        [
+          "58.399484",
+          "15.682069"
+        ],
+        [
+          "58.399465",
+          "15.681521"
+        ],
+        [
+          "58.399465",
+          "15.680923"
+        ],
+        [
+          "58.399464",
+          "15.680649"
+        ],
+        [
+          "58.399473",
+          "15.680461"
+        ],
+        [
+          "58.399482",
+          "15.680290"
+        ],
+        [
+          "58.399482",
+          "15.680239"
+        ],
+        [
+          "58.399491",
+          "15.680033"
+        ],
+        [
+          "58.399499",
+          "15.679777"
+        ],
+        [
+          "58.399517",
+          "15.679503"
+        ],
+        [
+          "58.399535",
+          "15.679229"
+        ],
+        [
+          "58.399561",
+          "15.678853"
+        ],
+        [
+          "58.399606",
+          "15.678425"
+        ],
+        [
+          "58.399650",
+          "15.678032"
+        ],
+        [
+          "58.399668",
+          "15.677861"
+        ],
+        [
+          "58.399712",
+          "15.677484"
+        ],
+        [
+          "58.399775",
+          "15.677039"
+        ],
+        [
+          "58.399837",
+          "15.676629"
+        ],
+        [
+          "58.399891",
+          "15.676235"
+        ],
+        [
+          "58.399944",
+          "15.675893"
+        ],
+        [
+          "58.399998",
+          "15.675551"
+        ],
+        [
+          "58.400051",
+          "15.675174"
+        ],
+        [
+          "58.400123",
+          "15.674610"
+        ],
+        [
+          "58.400221",
+          "15.673942"
+        ],
+        [
+          "58.400319",
+          "15.673207"
+        ],
+        [
+          "58.400426",
+          "15.672402"
+        ],
+        [
+          "58.400532",
+          "15.671530"
+        ],
+        [
+          "58.400603",
+          "15.670897"
+        ],
+        [
+          "58.400648",
+          "15.670520"
+        ],
+        [
+          "58.400674",
+          "15.670127"
+        ],
+        [
+          "58.400692",
+          "15.669802"
+        ],
+        [
+          "58.400719",
+          "15.669391"
+        ],
+        [
+          "58.400727",
+          "15.668981"
+        ],
+        [
+          "58.400745",
+          "15.668587"
+        ],
+        [
+          "58.400744",
+          "15.668177"
+        ],
+        [
+          "58.400744",
+          "15.667749"
+        ],
+        [
+          "58.400743",
+          "15.667373"
+        ],
+        [
+          "58.400734",
+          "15.666946"
+        ],
+        [
+          "58.400724",
+          "15.666347"
+        ],
+        [
+          "58.400724",
+          "15.666347"
+        ],
+        [
+          "58.400705",
+          "15.665509"
+        ],
+        [
+          "58.400659",
+          "15.663713"
+        ],
+        [
+          "58.400676",
+          "15.663029"
+        ],
+        [
+          "58.400684",
+          "15.662773"
+        ],
+        [
+          "58.400666",
+          "15.662294"
+        ],
+        [
+          "58.400675",
+          "15.662020"
+        ],
+        [
+          "58.400665",
+          "15.661644"
+        ],
+        [
+          "58.400665",
+          "15.661576"
+        ],
+        [
+          "58.400656",
+          "15.661319"
+        ],
+        [
+          "58.400655",
+          "15.660943"
+        ],
+        [
+          "58.400655",
+          "15.660550"
+        ],
+        [
+          "58.400645",
+          "15.660105"
+        ],
+        [
+          "58.400645",
+          "15.659643"
+        ],
+        [
+          "58.400636",
+          "15.659352"
+        ],
+        [
+          "58.400635",
+          "15.659130"
+        ],
+        [
+          "58.400644",
+          "15.659062"
+        ],
+        [
+          "58.400644",
+          "15.658925"
+        ],
+        [
+          "58.400653",
+          "15.658720"
+        ],
+        [
+          "58.400661",
+          "15.658309"
+        ],
+        [
+          "58.400679",
+          "15.657864"
+        ],
+        [
+          "58.400687",
+          "15.657556"
+        ],
+        [
+          "58.400696",
+          "15.657402"
+        ],
+        [
+          "58.400714",
+          "15.657060"
+        ],
+        [
+          "58.400714",
+          "15.656975"
+        ],
+        [
+          "58.400749",
+          "15.656462"
+        ],
+        [
+          "58.400758",
+          "15.656342"
+        ],
+        [
+          "58.400784",
+          "15.655983"
+        ],
+        [
+          "58.400784",
+          "15.655931"
+        ],
+        [
+          "58.400802",
+          "15.655760"
+        ],
+        [
+          "58.400820",
+          "15.655572"
+        ],
+        [
+          "58.400846",
+          "15.655298"
+        ],
+        [
+          "58.400891",
+          "15.654785"
+        ],
+        [
+          "58.400917",
+          "15.654580"
+        ],
+        [
+          "58.400944",
+          "15.654357"
+        ],
+        [
+          "58.400980",
+          "15.654152"
+        ],
+        [
+          "58.400998",
+          "15.654032"
+        ],
+        [
+          "58.401024",
+          "15.653912"
+        ],
+        [
+          "58.401051",
+          "15.653809"
+        ],
+        [
+          "58.401078",
+          "15.653707"
+        ],
+        [
+          "58.401114",
+          "15.653621"
+        ],
+        [
+          "58.401141",
+          "15.653553"
+        ],
+        [
+          "58.401176",
+          "15.653501"
+        ],
+        [
+          "58.401239",
+          "15.653432"
+        ],
+        [
+          "58.401284",
+          "15.653449"
+        ],
+        [
+          "58.401293",
+          "15.653449"
+        ],
+        [
+          "58.401329",
+          "15.653432"
+        ],
+        [
+          "58.401365",
+          "15.653415"
+        ],
+        [
+          "58.401374",
+          "15.653415"
+        ],
+        [
+          "58.401410",
+          "15.653380"
+        ],
+        [
+          "58.401455",
+          "15.653329"
+        ],
+        [
+          "58.401472",
+          "15.653277"
+        ],
+        [
+          "58.401499",
+          "15.653209"
+        ],
+        [
+          "58.401508",
+          "15.653140"
+        ],
+        [
+          "58.401517",
+          "15.653072"
+        ],
+        [
+          "58.401517",
+          "15.652986"
+        ],
+        [
+          "58.401508",
+          "15.652918"
+        ],
+        [
+          "58.401508",
+          "15.652884"
+        ],
+        [
+          "58.401499",
+          "15.652833"
+        ],
+        [
+          "58.401490",
+          "15.652781"
+        ],
+        [
+          "58.401490",
+          "15.652713"
+        ],
+        [
+          "58.401490",
+          "15.652627"
+        ],
+        [
+          "58.401525",
+          "15.652473"
+        ],
+        [
+          "58.401552",
+          "15.652336"
+        ],
+        [
+          "58.401588",
+          "15.652217"
+        ],
+        [
+          "58.401633",
+          "15.652097"
+        ],
+        [
+          "58.401695",
+          "15.651977"
+        ],
+        [
+          "58.401749",
+          "15.651840"
+        ],
+        [
+          "58.401857",
+          "15.651634"
+        ],
+        [
+          "58.401991",
+          "15.651394"
+        ],
+        [
+          "58.402107",
+          "15.651171"
+        ],
+        [
+          "58.402242",
+          "15.650948"
+        ],
+        [
+          "58.402251",
+          "15.650914"
+        ],
+        [
+          "58.402376",
+          "15.650708"
+        ],
+        [
+          "58.402412",
+          "15.650674"
+        ],
+        [
+          "58.402609",
+          "15.650365"
+        ],
+        [
+          "58.402717",
+          "15.650211"
+        ],
+        [
+          "58.402905",
+          "15.649987"
+        ],
+        [
+          "58.403138",
+          "15.649730"
+        ],
+        [
+          "58.403264",
+          "15.649609"
+        ],
+        [
+          "58.403335",
+          "15.649558"
+        ],
+        [
+          "58.403452",
+          "15.649506"
+        ],
+        [
+          "58.403596",
+          "15.649437"
+        ],
+        [
+          "58.403739",
+          "15.649419"
+        ],
+        [
+          "58.403811",
+          "15.649402"
+        ],
+        [
+          "58.403883",
+          "15.649401"
+        ],
+        [
+          "58.403991",
+          "15.649418"
+        ],
+        [
+          "58.404098",
+          "15.649452"
+        ],
+        [
+          "58.404206",
+          "15.649503"
+        ],
+        [
+          "58.404287",
+          "15.649537"
+        ],
+        [
+          "58.404404",
+          "15.649622"
+        ],
+        [
+          "58.404503",
+          "15.649707"
+        ],
+        [
+          "58.404602",
+          "15.649809"
+        ],
+        [
+          "58.404602",
+          "15.649809"
+        ],
+        [
+          "58.404700",
+          "15.649928"
+        ],
+        [
+          "58.404790",
+          "15.650047"
+        ],
+        [
+          "58.404871",
+          "15.650184"
+        ],
+        [
+          "58.404952",
+          "15.650337"
+        ],
+        [
+          "58.405033",
+          "15.650491"
+        ],
+        [
+          "58.405195",
+          "15.650832"
+        ],
+        [
+          "58.405744",
+          "15.652044"
+        ],
+        [
+          "58.405870",
+          "15.652318"
+        ],
+        [
+          "58.405951",
+          "15.652488"
+        ],
+        [
+          "58.406095",
+          "15.652727"
+        ],
+        [
+          "58.406203",
+          "15.652915"
+        ],
+        [
+          "58.406302",
+          "15.653051"
+        ],
+        [
+          "58.406320",
+          "15.653085"
+        ],
+        [
+          "58.406392",
+          "15.653188"
+        ],
+        [
+          "58.406473",
+          "15.653290"
+        ],
+        [
+          "58.406644",
+          "15.653494"
+        ],
+        [
+          "58.406806",
+          "15.653665"
+        ],
+        [
+          "58.406887",
+          "15.653750"
+        ],
+        [
+          "58.407057",
+          "15.653886"
+        ],
+        [
+          "58.407165",
+          "15.653971"
+        ],
+        [
+          "58.407309",
+          "15.654073"
+        ],
+        [
+          "58.407345",
+          "15.654090"
+        ],
+        [
+          "58.407525",
+          "15.654192"
+        ],
+        [
+          "58.407704",
+          "15.654260"
+        ],
+        [
+          "58.407893",
+          "15.654327"
+        ],
+        [
+          "58.408028",
+          "15.654361"
+        ],
+        [
+          "58.408153",
+          "15.654377"
+        ],
+        [
+          "58.409455",
+          "15.654509"
+        ],
+        [
+          "58.409662",
+          "15.654525"
+        ],
+        [
+          "58.409877",
+          "15.654507"
+        ],
+        [
+          "58.410021",
+          "15.654472"
+        ],
+        [
+          "58.410227",
+          "15.654420"
+        ],
+        [
+          "58.410353",
+          "15.654368"
+        ],
+        [
+          "58.410541",
+          "15.654265"
+        ],
+        [
+          "58.410676",
+          "15.654196"
+        ],
+        [
+          "58.410864",
+          "15.654058"
+        ],
+        [
+          "58.411053",
+          "15.653920"
+        ],
+        [
+          "58.411411",
+          "15.653645"
+        ],
+        [
+          "58.411528",
+          "15.653559"
+        ],
+        [
+          "58.411645",
+          "15.653490"
+        ],
+        [
+          "58.411779",
+          "15.653421"
+        ],
+        [
+          "58.411833",
+          "15.653386"
+        ],
+        [
+          "58.411959",
+          "15.653369"
+        ],
+        [
+          "58.412057",
+          "15.653351"
+        ],
+        [
+          "58.412057",
+          "15.653351"
+        ],
+        [
+          "58.412120",
+          "15.653351"
+        ],
+        [
+          "58.412165",
+          "15.653368"
+        ],
+        [
+          "58.412192",
+          "15.653385"
+        ],
+        [
+          "58.412228",
+          "15.653419"
+        ],
+        [
+          "58.412282",
+          "15.653504"
+        ],
+        [
+          "58.412300",
+          "15.653556"
+        ],
+        [
+          "58.412318",
+          "15.653607"
+        ],
+        [
+          "58.412345",
+          "15.653658"
+        ],
+        [
+          "58.412381",
+          "15.653692"
+        ],
+        [
+          "58.412408",
+          "15.653709"
+        ],
+        [
+          "58.412444",
+          "15.653726"
+        ],
+        [
+          "58.412480",
+          "15.653743"
+        ],
+        [
+          "58.412516",
+          "15.653726"
+        ],
+        [
+          "58.412543",
+          "15.653708"
+        ],
+        [
+          "58.412579",
+          "15.653691"
+        ],
+        [
+          "58.412605",
+          "15.653657"
+        ],
+        [
+          "58.412632",
+          "15.653605"
+        ],
+        [
+          "58.412659",
+          "15.653571"
+        ],
+        [
+          "58.412677",
+          "15.653503"
+        ],
+        [
+          "58.412686",
+          "15.653451"
+        ],
+        [
+          "58.412695",
+          "15.653383"
+        ],
+        [
+          "58.412704",
+          "15.653314"
+        ],
+        [
+          "58.412704",
+          "15.653246"
+        ],
+        [
+          "58.412695",
+          "15.653177"
+        ],
+        [
+          "58.412677",
+          "15.653126"
+        ],
+        [
+          "58.412659",
+          "15.653058"
+        ],
+        [
+          "58.412641",
+          "15.653007"
+        ],
+        [
+          "58.412622",
+          "15.652836"
+        ],
+        [
+          "58.412604",
+          "15.652665"
+        ],
+        [
+          "58.412604",
+          "15.652579"
+        ],
+        [
+          "58.412604",
+          "15.652511"
+        ],
+        [
+          "58.412613",
+          "15.652425"
+        ],
+        [
+          "58.412631",
+          "15.652357"
+        ],
+        [
+          "58.412702",
+          "15.652082"
+        ],
+        [
+          "58.412765",
+          "15.651928"
+        ],
+        [
+          "58.412819",
+          "15.651791"
+        ],
+        [
+          "58.412872",
+          "15.651637"
+        ],
+        [
+          "58.412908",
+          "15.651483"
+        ],
+        [
+          "58.412944",
+          "15.651329"
+        ],
+        [
+          "58.412980",
+          "15.651175"
+        ],
+        [
+          "58.413006",
+          "15.651003"
+        ],
+        [
+          "58.413024",
+          "15.650849"
+        ],
+        [
+          "58.413042",
+          "15.650678"
+        ],
+        [
+          "58.413051",
+          "15.650507"
+        ],
+        [
+          "58.413050",
+          "15.650336"
+        ],
+        [
+          "58.413041",
+          "15.650165"
+        ],
+        [
+          "58.413032",
+          "15.649994"
+        ],
+        [
+          "58.412986",
+          "15.649447"
+        ],
+        [
+          "58.412932",
+          "15.648985"
+        ],
+        [
+          "58.412850",
+          "15.648096"
+        ],
+        [
+          "58.412768",
+          "15.647241"
+        ],
+        [
+          "58.412705",
+          "15.646676"
+        ],
+        [
+          "58.412705",
+          "15.646642"
+        ],
+        [
+          "58.412659",
+          "15.646232"
+        ],
+        [
+          "58.412641",
+          "15.646061"
+        ],
+        [
+          "58.412623",
+          "15.645753"
+        ],
+        [
+          "58.412595",
+          "15.645496"
+        ],
+        [
+          "58.412577",
+          "15.645360"
+        ],
+        [
+          "58.412550",
+          "15.644966"
+        ],
+        [
+          "58.412541",
+          "15.644846"
+        ],
+        [
+          "58.412532",
+          "15.644710"
+        ],
+        [
+          "58.412514",
+          "15.644590"
+        ],
+        [
+          "58.412495",
+          "15.644487"
+        ],
+        [
+          "58.412477",
+          "15.644385"
+        ],
+        [
+          "58.412459",
+          "15.644316"
+        ],
+        [
+          "58.412441",
+          "15.644248"
+        ],
+        [
+          "58.412414",
+          "15.644163"
+        ],
+        [
+          "58.412387",
+          "15.644094"
+        ],
+        [
+          "58.412360",
+          "15.644009"
+        ],
+        [
+          "58.412324",
+          "15.643924"
+        ],
+        [
+          "58.412279",
+          "15.643838"
+        ],
+        [
+          "58.412234",
+          "15.643753"
+        ],
+        [
+          "58.412189",
+          "15.643668"
+        ],
+        [
+          "58.412144",
+          "15.643582"
+        ],
+        [
+          "58.412099",
+          "15.643514"
+        ],
+        [
+          "58.412063",
+          "15.643429"
+        ],
+        [
+          "58.412027",
+          "15.643360"
+        ],
+        [
+          "58.411991",
+          "15.643309"
+        ],
+        [
+          "58.411964",
+          "15.643258"
+        ],
+        [
+          "58.411928",
+          "15.643207"
+        ],
+        [
+          "58.411901",
+          "15.643156"
+        ],
+        [
+          "58.411883",
+          "15.643122"
+        ],
+        [
+          "58.411874",
+          "15.643087"
+        ],
+        [
+          "58.411865",
+          "15.643070"
+        ],
+        [
+          "58.411856",
+          "15.643070"
+        ],
+        [
+          "58.411838",
+          "15.643036"
+        ],
+        [
+          "58.411793",
+          "15.642985"
+        ],
+        [
+          "58.411919",
+          "15.642642"
+        ],
+        [
+          "58.412017",
+          "15.642368"
+        ],
+        [
+          "58.412080",
+          "15.642180"
+        ],
+        [
+          "58.412223",
+          "15.641751"
+        ],
+        [
+          "58.412232",
+          "15.641785"
+        ],
+        [
+          "58.412214",
+          "15.641768"
+        ],
+        [
+          "58.412267",
+          "15.641614"
+        ],
+        [
+          "58.412410",
+          "15.641203"
+        ],
+        [
+          "58.412679",
+          "15.640432"
+        ],
+        [
+          "58.412697",
+          "15.640346"
+        ],
+        [
+          "58.412706",
+          "15.640261"
+        ],
+        [
+          "58.412723",
+          "15.640158"
+        ],
+        [
+          "58.412723",
+          "15.640072"
+        ],
+        [
+          "58.412723",
+          "15.639970"
+        ],
+        [
+          "58.412723",
+          "15.639884"
+        ],
+        [
+          "58.412714",
+          "15.639764"
+        ],
+        [
+          "58.412686",
+          "15.639440"
+        ],
+        [
+          "58.412632",
+          "15.639029"
+        ],
+        [
+          "58.412578",
+          "15.638670"
+        ],
+        [
+          "58.412569",
+          "15.638585"
+        ],
+        [
+          "58.412532",
+          "15.638208"
+        ],
+        [
+          "58.412496",
+          "15.637815"
+        ],
+        [
+          "58.412460",
+          "15.637507"
+        ],
+        [
+          "58.412460",
+          "15.637507"
+        ],
+        [
+          "58.412414",
+          "15.637165"
+        ],
+        [
+          "58.412387",
+          "15.636926"
+        ],
+        [
+          "58.412360",
+          "15.636721"
+        ],
+        [
+          "58.412305",
+          "15.636242"
+        ],
+        [
+          "58.412260",
+          "15.635798"
+        ],
+        [
+          "58.412242",
+          "15.635695"
+        ],
+        [
+          "58.412223",
+          "15.635541"
+        ],
+        [
+          "58.412196",
+          "15.635267"
+        ],
+        [
+          "58.412178",
+          "15.635131"
+        ],
+        [
+          "58.412069",
+          "15.634207"
+        ],
+        [
+          "58.412051",
+          "15.634019"
+        ],
+        [
+          "58.412150",
+          "15.634002"
+        ],
+        [
+          "58.412168",
+          "15.633985"
+        ],
+        [
+          "58.412230",
+          "15.633967"
+        ],
+        [
+          "58.412347",
+          "15.633932"
+        ],
+        [
+          "58.412347",
+          "15.633932"
+        ],
+        [
+          "58.412356",
+          "15.633932"
+        ],
+        [
+          "58.412365",
+          "15.633932"
+        ],
+        [
+          "58.412374",
+          "15.633949"
+        ],
+        [
+          "58.412383",
+          "15.633949"
+        ],
+        [
+          "58.412383",
+          "15.633949"
+        ],
+        [
+          "58.412392",
+          "15.633949"
+        ],
+        [
+          "58.412401",
+          "15.633949"
+        ],
+        [
+          "58.412401",
+          "15.633966"
+        ],
+        [
+          "58.412410",
+          "15.633966"
+        ],
+        [
+          "58.412410",
+          "15.633966"
+        ],
+        [
+          "58.412419",
+          "15.633983"
+        ],
+        [
+          "58.412428",
+          "15.633983"
+        ],
+        [
+          "58.412428",
+          "15.634000"
+        ],
+        [
+          "58.412437",
+          "15.634000"
+        ],
+        [
+          "58.412446",
+          "15.634017"
+        ],
+        [
+          "58.412446",
+          "15.634017"
+        ],
+        [
+          "58.412455",
+          "15.634034"
+        ],
+        [
+          "58.412455",
+          "15.634034"
+        ],
+        [
+          "58.412464",
+          "15.634052"
+        ],
+        [
+          "58.412464",
+          "15.634052"
+        ],
+        [
+          "58.412473",
+          "15.634069"
+        ],
+        [
+          "58.412482",
+          "15.634086"
+        ],
+        [
+          "58.412482",
+          "15.634103"
+        ],
+        [
+          "58.412482",
+          "15.634120"
+        ],
+        [
+          "58.412491",
+          "15.634120"
+        ],
+        [
+          "58.412491",
+          "15.634137"
+        ],
+        [
+          "58.412491",
+          "15.634154"
+        ],
+        [
+          "58.412500",
+          "15.634205"
+        ],
+        [
+          "58.412500",
+          "15.634257"
+        ],
+        [
+          "58.412509",
+          "15.634274"
+        ],
+        [
+          "58.412518",
+          "15.634291"
+        ],
+        [
+          "58.412527",
+          "15.634325"
+        ],
+        [
+          "58.412536",
+          "15.634342"
+        ],
+        [
+          "58.412536",
+          "15.634359"
+        ],
+        [
+          "58.412545",
+          "15.634376"
+        ],
+        [
+          "58.412563",
+          "15.634393"
+        ],
+        [
+          "58.412572",
+          "15.634410"
+        ],
+        [
+          "58.412581",
+          "15.634427"
+        ],
+        [
+          "58.412590",
+          "15.634444"
+        ],
+        [
+          "58.412608",
+          "15.634444"
+        ],
+        [
+          "58.412617",
+          "15.634461"
+        ],
+        [
+          "58.412626",
+          "15.634461"
+        ],
+        [
+          "58.412644",
+          "15.634478"
+        ],
+        [
+          "58.412653",
+          "15.634478"
+        ],
+        [
+          "58.412671",
+          "15.634478"
+        ],
+        [
+          "58.412680",
+          "15.634478"
+        ],
+        [
+          "58.412698",
+          "15.634478"
+        ],
+        [
+          "58.412707",
+          "15.634478"
+        ],
+        [
+          "58.412725",
+          "15.634478"
+        ],
+        [
+          "58.412734",
+          "15.634461"
+        ],
+        [
+          "58.412752",
+          "15.634461"
+        ],
+        [
+          "58.412761",
+          "15.634444"
+        ],
+        [
+          "58.412770",
+          "15.634444"
+        ],
+        [
+          "58.412788",
+          "15.634426"
+        ],
+        [
+          "58.412797",
+          "15.634409"
+        ],
+        [
+          "58.412806",
+          "15.634392"
+        ],
+        [
+          "58.412814",
+          "15.634392"
+        ],
+        [
+          "58.412850",
+          "15.634306"
+        ],
+        [
+          "58.412895",
+          "15.634220"
+        ],
+        [
+          "58.412994",
+          "15.634049"
+        ],
+        [
+          "58.413003",
+          "15.634032"
+        ],
+        [
+          "58.413011",
+          "15.634015"
+        ],
+        [
+          "58.413020",
+          "15.633997"
+        ],
+        [
+          "58.413029",
+          "15.633980"
+        ],
+        [
+          "58.413038",
+          "15.633963"
+        ],
+        [
+          "58.413047",
+          "15.633946"
+        ],
+        [
+          "58.413056",
+          "15.633929"
+        ],
+        [
+          "58.413065",
+          "15.633895"
+        ],
+        [
+          "58.413074",
+          "15.633877"
+        ],
+        [
+          "58.413083",
+          "15.633860"
+        ],
+        [
+          "58.413092",
+          "15.633843"
+        ],
+        [
+          "58.413101",
+          "15.633826"
+        ],
+        [
+          "58.413110",
+          "15.633809"
+        ],
+        [
+          "58.413119",
+          "15.633792"
+        ],
+        [
+          "58.413128",
+          "15.633757"
+        ],
+        [
+          "58.413128",
+          "15.633740"
+        ],
+        [
+          "58.413137",
+          "15.633723"
+        ],
+        [
+          "58.413146",
+          "15.633706"
+        ],
+        [
+          "58.413155",
+          "15.633672"
+        ],
+        [
+          "58.413164",
+          "15.633655"
+        ],
+        [
+          "58.413164",
+          "15.633637"
+        ],
+        [
+          "58.413173",
+          "15.633620"
+        ],
+        [
+          "58.413181",
+          "15.633586"
+        ],
+        [
+          "58.413181",
+          "15.633569"
+        ],
+        [
+          "58.413190",
+          "15.633552"
+        ],
+        [
+          "58.413199",
+          "15.633518"
+        ],
+        [
+          "58.413199",
+          "15.633500"
+        ],
+        [
+          "58.413208",
+          "15.633449"
+        ],
+        [
+          "58.413235",
+          "15.633329"
+        ],
+        [
+          "58.413315",
+          "15.632884"
+        ],
+        [
+          "58.413476",
+          "15.632130"
+        ],
+        [
+          "58.413717",
+          "15.630983"
+        ],
+        [
+          "58.413797",
+          "15.630657"
+        ],
+        [
+          "58.413842",
+          "15.630503"
+        ],
+        [
+          "58.413913",
+          "15.630315"
+        ],
+        [
+          "58.413931",
+          "15.630263"
+        ],
+        [
+          "58.413949",
+          "15.630229"
+        ],
+        [
+          "58.413967",
+          "15.630195"
+        ],
+        [
+          "58.413985",
+          "15.630160"
+        ],
+        [
+          "58.414003",
+          "15.630126"
+        ],
+        [
+          "58.414021",
+          "15.630075"
+        ],
+        [
+          "58.414137",
+          "15.629869"
+        ],
+        [
+          "58.414191",
+          "15.629749"
+        ],
+        [
+          "58.414244",
+          "15.629629"
+        ],
+        [
+          "58.414298",
+          "15.629492"
+        ],
+        [
+          "58.414343",
+          "15.629372"
+        ],
+        [
+          "58.414388",
+          "15.629234"
+        ],
+        [
+          "58.414450",
+          "15.629063"
+        ],
+        [
+          "58.414495",
+          "15.628909"
+        ],
+        [
+          "58.414548",
+          "15.628720"
+        ],
+        [
+          "58.414790",
+          "15.627795"
+        ],
+        [
+          "58.414852",
+          "15.627573"
+        ],
+        [
+          "58.414879",
+          "15.627487"
+        ],
+        [
+          "58.414906",
+          "15.627401"
+        ],
+        [
+          "58.414933",
+          "15.627333"
+        ],
+        [
+          "58.414968",
+          "15.627247"
+        ],
+        [
+          "58.414995",
+          "15.627161"
+        ],
+        [
+          "58.415022",
+          "15.627075"
+        ],
+        [
+          "58.415058",
+          "15.627007"
+        ],
+        [
+          "58.415094",
+          "15.626921"
+        ],
+        [
+          "58.415129",
+          "15.626835"
+        ],
+        [
+          "58.415156",
+          "15.626767"
+        ],
+        [
+          "58.415192",
+          "15.626698"
+        ],
+        [
+          "58.415210",
+          "15.626647"
+        ],
+        [
+          "58.415228",
+          "15.626612"
+        ],
+        [
+          "58.415264",
+          "15.626544"
+        ],
+        [
+          "58.415308",
+          "15.626475"
+        ],
+        [
+          "58.415344",
+          "15.626407"
+        ],
+        [
+          "58.415819",
+          "15.625480"
+        ],
+        [
+          "58.415953",
+          "15.625223"
+        ],
+        [
+          "58.416258",
+          "15.624640"
+        ],
+        [
+          "58.416293",
+          "15.624691"
+        ],
+        [
+          "58.416383",
+          "15.624742"
+        ],
+        [
+          "58.416652",
+          "15.624227"
+        ],
+        [
+          "58.416831",
+          "15.623901"
+        ],
+        [
+          "58.416867",
+          "15.623969"
+        ]
+      ]
+    }
+  ]
+}

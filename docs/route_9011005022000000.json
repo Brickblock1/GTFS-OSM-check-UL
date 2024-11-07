@@ -1,0 +1,5406 @@
+{
+  "feed_version": "2024-11-07",
+  "route_id": "9011005022000000",
+  "agency_id": "55700000000001407",
+  "route_short_name": "20",
+  "route_long_name": "",
+  "route_type": "700",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "1055700000050980738",
+      "trips": [
+        {
+          "trip_id": "55700000075984859",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000075984905",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000075985043",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000075985089",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000075984951",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000075984997",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000075985135",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000075985181",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000075985227",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000077420570",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077420435",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077420480",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077420345",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077420390",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077420525",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077420300",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077420615",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077420660",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256001",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400200",
+              "stop_lon": "15.571603",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257001",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.396687",
+              "stop_lon": "15.570497",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847002",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394713",
+              "stop_lon": "15.566082",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232003",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394693",
+              "stop_lon": "15.560131",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005004139002",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.397845",
+              "stop_lon": "15.556227",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.416545",
+          "15.624912"
+        ],
+        [
+          "58.416554",
+          "15.624809"
+        ],
+        [
+          "58.416608",
+          "15.624826"
+        ],
+        [
+          "58.416617",
+          "15.624826"
+        ],
+        [
+          "58.416635",
+          "15.624826"
+        ],
+        [
+          "58.416644",
+          "15.624826"
+        ],
+        [
+          "58.416653",
+          "15.624809"
+        ],
+        [
+          "58.416671",
+          "15.624791"
+        ],
+        [
+          "58.416680",
+          "15.624774"
+        ],
+        [
+          "58.416805",
+          "15.624568"
+        ],
+        [
+          "58.417575",
+          "15.623093"
+        ],
+        [
+          "58.417647",
+          "15.622990"
+        ],
+        [
+          "58.417656",
+          "15.622990"
+        ],
+        [
+          "58.417665",
+          "15.622973"
+        ],
+        [
+          "58.417665",
+          "15.622973"
+        ],
+        [
+          "58.417674",
+          "15.622938"
+        ],
+        [
+          "58.417674",
+          "15.622921"
+        ],
+        [
+          "58.417665",
+          "15.622904"
+        ],
+        [
+          "58.417656",
+          "15.622870"
+        ],
+        [
+          "58.417691",
+          "15.622836"
+        ],
+        [
+          "58.417718",
+          "15.622801"
+        ],
+        [
+          "58.417745",
+          "15.622733"
+        ],
+        [
+          "58.417763",
+          "15.622681"
+        ],
+        [
+          "58.417772",
+          "15.622613"
+        ],
+        [
+          "58.417772",
+          "15.622544"
+        ],
+        [
+          "58.417772",
+          "15.622510"
+        ],
+        [
+          "58.417763",
+          "15.622442"
+        ],
+        [
+          "58.417754",
+          "15.622390"
+        ],
+        [
+          "58.417726",
+          "15.622237"
+        ],
+        [
+          "58.417690",
+          "15.622100"
+        ],
+        [
+          "58.417672",
+          "15.622066"
+        ],
+        [
+          "58.417636",
+          "15.621946"
+        ],
+        [
+          "58.417690",
+          "15.621843"
+        ],
+        [
+          "58.417976",
+          "15.621294"
+        ],
+        [
+          "58.418433",
+          "15.620419"
+        ],
+        [
+          "58.419114",
+          "15.619132"
+        ],
+        [
+          "58.419391",
+          "15.618583"
+        ],
+        [
+          "58.419436",
+          "15.618463"
+        ],
+        [
+          "58.419445",
+          "15.618429"
+        ],
+        [
+          "58.419462",
+          "15.618326"
+        ],
+        [
+          "58.419489",
+          "15.618189"
+        ],
+        [
+          "58.419516",
+          "15.618001"
+        ],
+        [
+          "58.419525",
+          "15.617812"
+        ],
+        [
+          "58.419542",
+          "15.617504"
+        ],
+        [
+          "58.419568",
+          "15.616734"
+        ],
+        [
+          "58.419576",
+          "15.616358"
+        ],
+        [
+          "58.419585",
+          "15.616221"
+        ],
+        [
+          "58.419594",
+          "15.616152"
+        ],
+        [
+          "58.419603",
+          "15.616101"
+        ],
+        [
+          "58.419621",
+          "15.616032"
+        ],
+        [
+          "58.419656",
+          "15.615946"
+        ],
+        [
+          "58.419692",
+          "15.615912"
+        ],
+        [
+          "58.419701",
+          "15.615895"
+        ],
+        [
+          "58.419728",
+          "15.615843"
+        ],
+        [
+          "58.419746",
+          "15.615792"
+        ],
+        [
+          "58.419755",
+          "15.615741"
+        ],
+        [
+          "58.419764",
+          "15.615672"
+        ],
+        [
+          "58.419764",
+          "15.615621"
+        ],
+        [
+          "58.419755",
+          "15.615552"
+        ],
+        [
+          "58.419746",
+          "15.615518"
+        ],
+        [
+          "58.419737",
+          "15.615467"
+        ],
+        [
+          "58.419719",
+          "15.615416"
+        ],
+        [
+          "58.419692",
+          "15.615382"
+        ],
+        [
+          "58.419673",
+          "15.615211"
+        ],
+        [
+          "58.419673",
+          "15.615193"
+        ],
+        [
+          "58.419673",
+          "15.615057"
+        ],
+        [
+          "58.419664",
+          "15.614937"
+        ],
+        [
+          "58.419646",
+          "15.614612"
+        ],
+        [
+          "58.419636",
+          "15.614338"
+        ],
+        [
+          "58.419627",
+          "15.614099"
+        ],
+        [
+          "58.419627",
+          "15.613979"
+        ],
+        [
+          "58.419652",
+          "15.613192"
+        ],
+        [
+          "58.419669",
+          "15.612575"
+        ],
+        [
+          "58.419686",
+          "15.611891"
+        ],
+        [
+          "58.419703",
+          "15.611326"
+        ],
+        [
+          "58.419721",
+          "15.610813"
+        ],
+        [
+          "58.419738",
+          "15.610214"
+        ],
+        [
+          "58.419755",
+          "15.609598"
+        ],
+        [
+          "58.419772",
+          "15.609084"
+        ],
+        [
+          "58.419789",
+          "15.608502"
+        ],
+        [
+          "58.419815",
+          "15.607869"
+        ],
+        [
+          "58.419823",
+          "15.607509"
+        ],
+        [
+          "58.419832",
+          "15.607321"
+        ],
+        [
+          "58.419841",
+          "15.607201"
+        ],
+        [
+          "58.419858",
+          "15.607064"
+        ],
+        [
+          "58.419876",
+          "15.607047"
+        ],
+        [
+          "58.419894",
+          "15.607030"
+        ],
+        [
+          "58.419912",
+          "15.606979"
+        ],
+        [
+          "58.419930",
+          "15.606893"
+        ],
+        [
+          "58.419930",
+          "15.606824"
+        ],
+        [
+          "58.419930",
+          "15.606790"
+        ],
+        [
+          "58.419930",
+          "15.606756"
+        ],
+        [
+          "58.419930",
+          "15.606722"
+        ],
+        [
+          "58.419921",
+          "15.606705"
+        ],
+        [
+          "58.419912",
+          "15.606671"
+        ],
+        [
+          "58.419894",
+          "15.606636"
+        ],
+        [
+          "58.419885",
+          "15.606619"
+        ],
+        [
+          "58.419867",
+          "15.606585"
+        ],
+        [
+          "58.419849",
+          "15.606568"
+        ],
+        [
+          "58.419985",
+          "15.602118"
+        ],
+        [
+          "58.420003",
+          "15.601793"
+        ],
+        [
+          "58.420011",
+          "15.601091"
+        ],
+        [
+          "58.420019",
+          "15.600493"
+        ],
+        [
+          "58.420009",
+          "15.599825"
+        ],
+        [
+          "58.419981",
+          "15.599226"
+        ],
+        [
+          "58.419962",
+          "15.598747"
+        ],
+        [
+          "58.419889",
+          "15.597824"
+        ],
+        [
+          "58.419888",
+          "15.597687"
+        ],
+        [
+          "58.419888",
+          "15.597584"
+        ],
+        [
+          "58.419906",
+          "15.597516"
+        ],
+        [
+          "58.419924",
+          "15.597430"
+        ],
+        [
+          "58.419942",
+          "15.597379"
+        ],
+        [
+          "58.419969",
+          "15.597310"
+        ],
+        [
+          "58.419986",
+          "15.597241"
+        ],
+        [
+          "58.419995",
+          "15.597173"
+        ],
+        [
+          "58.419995",
+          "15.597087"
+        ],
+        [
+          "58.419995",
+          "15.597070"
+        ],
+        [
+          "58.419986",
+          "15.597019"
+        ],
+        [
+          "58.419977",
+          "15.596934"
+        ],
+        [
+          "58.419959",
+          "15.596865"
+        ],
+        [
+          "58.419932",
+          "15.596814"
+        ],
+        [
+          "58.419905",
+          "15.596763"
+        ],
+        [
+          "58.419869",
+          "15.596729"
+        ],
+        [
+          "58.419824",
+          "15.596695"
+        ],
+        [
+          "58.419815",
+          "15.596695"
+        ],
+        [
+          "58.419743",
+          "15.596576"
+        ],
+        [
+          "58.419716",
+          "15.596507"
+        ],
+        [
+          "58.419680",
+          "15.596405"
+        ],
+        [
+          "58.419417",
+          "15.594747"
+        ],
+        [
+          "58.419290",
+          "15.594251"
+        ],
+        [
+          "58.419227",
+          "15.593858"
+        ],
+        [
+          "58.419154",
+          "15.593550"
+        ],
+        [
+          "58.419145",
+          "15.593482"
+        ],
+        [
+          "58.419127",
+          "15.593396"
+        ],
+        [
+          "58.419091",
+          "15.593243"
+        ],
+        [
+          "58.419037",
+          "15.593003"
+        ],
+        [
+          "58.419010",
+          "15.592901"
+        ],
+        [
+          "58.419010",
+          "15.592884"
+        ],
+        [
+          "58.418983",
+          "15.592781"
+        ],
+        [
+          "58.418964",
+          "15.592696"
+        ],
+        [
+          "58.418937",
+          "15.592611"
+        ],
+        [
+          "58.418910",
+          "15.592525"
+        ],
+        [
+          "58.418865",
+          "15.592388"
+        ],
+        [
+          "58.418739",
+          "15.591944"
+        ],
+        [
+          "58.418585",
+          "15.591535"
+        ],
+        [
+          "58.418558",
+          "15.591483"
+        ],
+        [
+          "58.418477",
+          "15.591279"
+        ],
+        [
+          "58.418396",
+          "15.591091"
+        ],
+        [
+          "58.418045",
+          "15.590306"
+        ],
+        [
+          "58.417684",
+          "15.589504"
+        ],
+        [
+          "58.417657",
+          "15.589453"
+        ],
+        [
+          "58.417504",
+          "15.589129"
+        ],
+        [
+          "58.417414",
+          "15.588941"
+        ],
+        [
+          "58.417261",
+          "15.588651"
+        ],
+        [
+          "58.417099",
+          "15.588395"
+        ],
+        [
+          "58.416973",
+          "15.588242"
+        ],
+        [
+          "58.416847",
+          "15.588089"
+        ],
+        [
+          "58.416694",
+          "15.587953"
+        ],
+        [
+          "58.416496",
+          "15.587817"
+        ],
+        [
+          "58.416299",
+          "15.587716"
+        ],
+        [
+          "58.416083",
+          "15.587615"
+        ],
+        [
+          "58.415634",
+          "15.587412"
+        ],
+        [
+          "58.413028",
+          "15.586436"
+        ],
+        [
+          "58.412427",
+          "15.586217"
+        ],
+        [
+          "58.412184",
+          "15.586133"
+        ],
+        [
+          "58.411933",
+          "15.586032"
+        ],
+        [
+          "58.411816",
+          "15.585982"
+        ],
+        [
+          "58.411429",
+          "15.585847"
+        ],
+        [
+          "58.411232",
+          "15.585763"
+        ],
+        [
+          "58.411043",
+          "15.585696"
+        ],
+        [
+          "58.410675",
+          "15.585561"
+        ],
+        [
+          "58.410324",
+          "15.585426"
+        ],
+        [
+          "58.409965",
+          "15.585292"
+        ],
+        [
+          "58.408815",
+          "15.584837"
+        ],
+        [
+          "58.408581",
+          "15.584702"
+        ],
+        [
+          "58.408429",
+          "15.584600"
+        ],
+        [
+          "58.408267",
+          "15.584447"
+        ],
+        [
+          "58.408123",
+          "15.584294"
+        ],
+        [
+          "58.407763",
+          "15.583817"
+        ],
+        [
+          "58.407700",
+          "15.583698"
+        ],
+        [
+          "58.407637",
+          "15.583613"
+        ],
+        [
+          "58.407556",
+          "15.583511"
+        ],
+        [
+          "58.407484",
+          "15.583426"
+        ],
+        [
+          "58.407376",
+          "15.583289"
+        ],
+        [
+          "58.407349",
+          "15.583255"
+        ],
+        [
+          "58.407331",
+          "15.583221"
+        ],
+        [
+          "58.407313",
+          "15.583187"
+        ],
+        [
+          "58.407295",
+          "15.583153"
+        ],
+        [
+          "58.407277",
+          "15.583119"
+        ],
+        [
+          "58.407259",
+          "15.583085"
+        ],
+        [
+          "58.407241",
+          "15.583034"
+        ],
+        [
+          "58.407232",
+          "15.583000"
+        ],
+        [
+          "58.407214",
+          "15.582948"
+        ],
+        [
+          "58.407205",
+          "15.582914"
+        ],
+        [
+          "58.407196",
+          "15.582863"
+        ],
+        [
+          "58.407178",
+          "15.582795"
+        ],
+        [
+          "58.407159",
+          "15.582692"
+        ],
+        [
+          "58.407132",
+          "15.582538"
+        ],
+        [
+          "58.407096",
+          "15.582333"
+        ],
+        [
+          "58.407087",
+          "15.582265"
+        ],
+        [
+          "58.407069",
+          "15.582094"
+        ],
+        [
+          "58.407041",
+          "15.581957"
+        ],
+        [
+          "58.407014",
+          "15.581804"
+        ],
+        [
+          "58.406978",
+          "15.581667"
+        ],
+        [
+          "58.406942",
+          "15.581565"
+        ],
+        [
+          "58.406897",
+          "15.581445"
+        ],
+        [
+          "58.406861",
+          "15.581360"
+        ],
+        [
+          "58.406807",
+          "15.581257"
+        ],
+        [
+          "58.406789",
+          "15.581223"
+        ],
+        [
+          "58.406762",
+          "15.581172"
+        ],
+        [
+          "58.406744",
+          "15.581138"
+        ],
+        [
+          "58.406717",
+          "15.581104"
+        ],
+        [
+          "58.406690",
+          "15.581070"
+        ],
+        [
+          "58.406663",
+          "15.581036"
+        ],
+        [
+          "58.406636",
+          "15.581002"
+        ],
+        [
+          "58.406609",
+          "15.580985"
+        ],
+        [
+          "58.406600",
+          "15.580968"
+        ],
+        [
+          "58.406555",
+          "15.580951"
+        ],
+        [
+          "58.406519",
+          "15.580917"
+        ],
+        [
+          "58.406465",
+          "15.580883"
+        ],
+        [
+          "58.406411",
+          "15.580849"
+        ],
+        [
+          "58.406348",
+          "15.580833"
+        ],
+        [
+          "58.406285",
+          "15.580816"
+        ],
+        [
+          "58.406231",
+          "15.580816"
+        ],
+        [
+          "58.406178",
+          "15.580834"
+        ],
+        [
+          "58.406151",
+          "15.580834"
+        ],
+        [
+          "58.406133",
+          "15.580834"
+        ],
+        [
+          "58.406088",
+          "15.580852"
+        ],
+        [
+          "58.406043",
+          "15.580886"
+        ],
+        [
+          "58.405998",
+          "15.580903"
+        ],
+        [
+          "58.405962",
+          "15.580938"
+        ],
+        [
+          "58.405918",
+          "15.580972"
+        ],
+        [
+          "58.405882",
+          "15.581024"
+        ],
+        [
+          "58.405837",
+          "15.581076"
+        ],
+        [
+          "58.405801",
+          "15.581127"
+        ],
+        [
+          "58.405765",
+          "15.581213"
+        ],
+        [
+          "58.405721",
+          "15.581299"
+        ],
+        [
+          "58.405694",
+          "15.581384"
+        ],
+        [
+          "58.405595",
+          "15.581539"
+        ],
+        [
+          "58.405533",
+          "15.581625"
+        ],
+        [
+          "58.405470",
+          "15.581711"
+        ],
+        [
+          "58.405398",
+          "15.581728"
+        ],
+        [
+          "58.405335",
+          "15.581746"
+        ],
+        [
+          "58.405263",
+          "15.581729"
+        ],
+        [
+          "58.405147",
+          "15.581661"
+        ],
+        [
+          "58.405093",
+          "15.581542"
+        ],
+        [
+          "58.405029",
+          "15.581286"
+        ],
+        [
+          "58.405002",
+          "15.581132"
+        ],
+        [
+          "58.404974",
+          "15.580739"
+        ],
+        [
+          "58.404938",
+          "15.580175"
+        ],
+        [
+          "58.404919",
+          "15.579627"
+        ],
+        [
+          "58.404918",
+          "15.579251"
+        ],
+        [
+          "58.404927",
+          "15.579063"
+        ],
+        [
+          "58.404944",
+          "15.578926"
+        ],
+        [
+          "58.404953",
+          "15.578943"
+        ],
+        [
+          "58.404962",
+          "15.578943"
+        ],
+        [
+          "58.404971",
+          "15.578943"
+        ],
+        [
+          "58.404980",
+          "15.578943"
+        ],
+        [
+          "58.404989",
+          "15.578926"
+        ],
+        [
+          "58.405007",
+          "15.578926"
+        ],
+        [
+          "58.405016",
+          "15.578926"
+        ],
+        [
+          "58.405025",
+          "15.578908"
+        ],
+        [
+          "58.405034",
+          "15.578891"
+        ],
+        [
+          "58.405043",
+          "15.578891"
+        ],
+        [
+          "58.405052",
+          "15.578874"
+        ],
+        [
+          "58.405052",
+          "15.578857"
+        ],
+        [
+          "58.405061",
+          "15.578840"
+        ],
+        [
+          "58.405070",
+          "15.578823"
+        ],
+        [
+          "58.405070",
+          "15.578805"
+        ],
+        [
+          "58.405079",
+          "15.578788"
+        ],
+        [
+          "58.405079",
+          "15.578771"
+        ],
+        [
+          "58.405079",
+          "15.578754"
+        ],
+        [
+          "58.405088",
+          "15.578737"
+        ],
+        [
+          "58.405088",
+          "15.578720"
+        ],
+        [
+          "58.405088",
+          "15.578703"
+        ],
+        [
+          "58.405087",
+          "15.578669"
+        ],
+        [
+          "58.405078",
+          "15.578651"
+        ],
+        [
+          "58.405078",
+          "15.578634"
+        ],
+        [
+          "58.405078",
+          "15.578617"
+        ],
+        [
+          "58.405069",
+          "15.578600"
+        ],
+        [
+          "58.405060",
+          "15.578583"
+        ],
+        [
+          "58.405060",
+          "15.578566"
+        ],
+        [
+          "58.405051",
+          "15.578549"
+        ],
+        [
+          "58.405042",
+          "15.578532"
+        ],
+        [
+          "58.405033",
+          "15.578532"
+        ],
+        [
+          "58.405024",
+          "15.578515"
+        ],
+        [
+          "58.405015",
+          "15.578515"
+        ],
+        [
+          "58.405006",
+          "15.578498"
+        ],
+        [
+          "58.404997",
+          "15.578498"
+        ],
+        [
+          "58.404988",
+          "15.578481"
+        ],
+        [
+          "58.404979",
+          "15.578481"
+        ],
+        [
+          "58.404970",
+          "15.578481"
+        ],
+        [
+          "58.404970",
+          "15.578190"
+        ],
+        [
+          "58.404978",
+          "15.577865"
+        ],
+        [
+          "58.404987",
+          "15.577506"
+        ],
+        [
+          "58.404968",
+          "15.577215"
+        ],
+        [
+          "58.404950",
+          "15.576942"
+        ],
+        [
+          "58.404913",
+          "15.576600"
+        ],
+        [
+          "58.404886",
+          "15.576378"
+        ],
+        [
+          "58.404767",
+          "15.575318"
+        ],
+        [
+          "58.404603",
+          "15.573985"
+        ],
+        [
+          "58.404540",
+          "15.573489"
+        ],
+        [
+          "58.404467",
+          "15.573165"
+        ],
+        [
+          "58.404377",
+          "15.572875"
+        ],
+        [
+          "58.404260",
+          "15.572602"
+        ],
+        [
+          "58.404124",
+          "15.572363"
+        ],
+        [
+          "58.403990",
+          "15.572210"
+        ],
+        [
+          "58.403891",
+          "15.572108"
+        ],
+        [
+          "58.403693",
+          "15.571990"
+        ],
+        [
+          "58.403549",
+          "15.571922"
+        ],
+        [
+          "58.403405",
+          "15.571923"
+        ],
+        [
+          "58.403073",
+          "15.571960"
+        ],
+        [
+          "58.402714",
+          "15.572031"
+        ],
+        [
+          "58.402257",
+          "15.572119"
+        ],
+        [
+          "58.402077",
+          "15.572155"
+        ],
+        [
+          "58.402005",
+          "15.572155"
+        ],
+        [
+          "58.401942",
+          "15.572155"
+        ],
+        [
+          "58.401871",
+          "15.572173"
+        ],
+        [
+          "58.401808",
+          "15.572173"
+        ],
+        [
+          "58.401736",
+          "15.572174"
+        ],
+        [
+          "58.401449",
+          "15.572159"
+        ],
+        [
+          "58.401197",
+          "15.572092"
+        ],
+        [
+          "58.400928",
+          "15.572008"
+        ],
+        [
+          "58.400883",
+          "15.572009"
+        ],
+        [
+          "58.400829",
+          "15.571992"
+        ],
+        [
+          "58.400694",
+          "15.571941"
+        ],
+        [
+          "58.400182",
+          "15.571791"
+        ],
+        [
+          "58.399976",
+          "15.571724"
+        ],
+        [
+          "58.397020",
+          "15.570803"
+        ],
+        [
+          "58.396849",
+          "15.570719"
+        ],
+        [
+          "58.396670",
+          "15.570668"
+        ],
+        [
+          "58.396203",
+          "15.570535"
+        ],
+        [
+          "58.395637",
+          "15.570248"
+        ],
+        [
+          "58.395511",
+          "15.570163"
+        ],
+        [
+          "58.395394",
+          "15.570096"
+        ],
+        [
+          "58.395277",
+          "15.570011"
+        ],
+        [
+          "58.395169",
+          "15.569943"
+        ],
+        [
+          "58.395052",
+          "15.569858"
+        ],
+        [
+          "58.394944",
+          "15.569757"
+        ],
+        [
+          "58.394549",
+          "15.569400"
+        ],
+        [
+          "58.393928",
+          "15.568754"
+        ],
+        [
+          "58.393820",
+          "15.568636"
+        ],
+        [
+          "58.393891",
+          "15.568430"
+        ],
+        [
+          "58.394463",
+          "15.566699"
+        ],
+        [
+          "58.394668",
+          "15.566031"
+        ],
+        [
+          "58.394882",
+          "15.565379"
+        ],
+        [
+          "58.394909",
+          "15.565294"
+        ],
+        [
+          "58.394927",
+          "15.565225"
+        ],
+        [
+          "58.394945",
+          "15.565157"
+        ],
+        [
+          "58.394962",
+          "15.565071"
+        ],
+        [
+          "58.394980",
+          "15.564985"
+        ],
+        [
+          "58.394998",
+          "15.564917"
+        ],
+        [
+          "58.395016",
+          "15.564831"
+        ],
+        [
+          "58.395025",
+          "15.564746"
+        ],
+        [
+          "58.395034",
+          "15.564660"
+        ],
+        [
+          "58.395042",
+          "15.564575"
+        ],
+        [
+          "58.395051",
+          "15.564489"
+        ],
+        [
+          "58.395060",
+          "15.564404"
+        ],
+        [
+          "58.395060",
+          "15.564318"
+        ],
+        [
+          "58.395060",
+          "15.564233"
+        ],
+        [
+          "58.395068",
+          "15.564147"
+        ],
+        [
+          "58.395059",
+          "15.564062"
+        ],
+        [
+          "58.395059",
+          "15.563976"
+        ],
+        [
+          "58.395059",
+          "15.563891"
+        ],
+        [
+          "58.395050",
+          "15.563788"
+        ],
+        [
+          "58.395050",
+          "15.563703"
+        ],
+        [
+          "58.395041",
+          "15.563600"
+        ],
+        [
+          "58.395022",
+          "15.563515"
+        ],
+        [
+          "58.395004",
+          "15.563412"
+        ],
+        [
+          "58.394986",
+          "15.563310"
+        ],
+        [
+          "58.394968",
+          "15.563207"
+        ],
+        [
+          "58.394941",
+          "15.563122"
+        ],
+        [
+          "58.394914",
+          "15.563019"
+        ],
+        [
+          "58.394878",
+          "15.562917"
+        ],
+        [
+          "58.394715",
+          "15.562474"
+        ],
+        [
+          "58.394625",
+          "15.562218"
+        ],
+        [
+          "58.394553",
+          "15.561996"
+        ],
+        [
+          "58.394480",
+          "15.561774"
+        ],
+        [
+          "58.394399",
+          "15.561570"
+        ],
+        [
+          "58.394336",
+          "15.561365"
+        ],
+        [
+          "58.394318",
+          "15.561297"
+        ],
+        [
+          "58.394300",
+          "15.561194"
+        ],
+        [
+          "58.394290",
+          "15.561040"
+        ],
+        [
+          "58.394290",
+          "15.560886"
+        ],
+        [
+          "58.394299",
+          "15.560749"
+        ],
+        [
+          "58.394290",
+          "15.560647"
+        ],
+        [
+          "58.394272",
+          "15.560562"
+        ],
+        [
+          "58.394254",
+          "15.560493"
+        ],
+        [
+          "58.394334",
+          "15.560373"
+        ],
+        [
+          "58.394639",
+          "15.559978"
+        ],
+        [
+          "58.394862",
+          "15.559668"
+        ],
+        [
+          "58.395158",
+          "15.559273"
+        ],
+        [
+          "58.395203",
+          "15.559204"
+        ],
+        [
+          "58.395624",
+          "15.558654"
+        ],
+        [
+          "58.395803",
+          "15.558413"
+        ],
+        [
+          "58.396044",
+          "15.558087"
+        ],
+        [
+          "58.396125",
+          "15.557984"
+        ],
+        [
+          "58.396788",
+          "15.557124"
+        ],
+        [
+          "58.396904",
+          "15.556969"
+        ],
+        [
+          "58.396949",
+          "15.556900"
+        ],
+        [
+          "58.397200",
+          "15.556574"
+        ],
+        [
+          "58.397253",
+          "15.556505"
+        ],
+        [
+          "58.397343",
+          "15.556402"
+        ],
+        [
+          "58.397406",
+          "15.556333"
+        ],
+        [
+          "58.397477",
+          "15.556281"
+        ],
+        [
+          "58.397827",
+          "15.556108"
+        ],
+        [
+          "58.397845",
+          "15.556227"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1055700000050980761",
+      "trips": [
+        {
+          "trip_id": "55700000073366256",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005004139001",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.396456",
+              "stop_lon": "15.557383",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232001",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394481",
+              "stop_lon": "15.562014",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847001",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394248",
+              "stop_lon": "15.567230",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257002",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.397416",
+              "stop_lon": "15.571057",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256002",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400335",
+              "stop_lon": "15.571995",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073366269",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005004139001",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.396456",
+              "stop_lon": "15.557383",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232001",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394481",
+              "stop_lon": "15.562014",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847001",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394248",
+              "stop_lon": "15.567230",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257002",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.397416",
+              "stop_lon": "15.571057",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256002",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400335",
+              "stop_lon": "15.571995",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073366282",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005004139001",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.396456",
+              "stop_lon": "15.557383",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232001",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394481",
+              "stop_lon": "15.562014",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847001",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394248",
+              "stop_lon": "15.567230",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257002",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.397416",
+              "stop_lon": "15.571057",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256002",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400335",
+              "stop_lon": "15.571995",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073366243",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005004139001",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.396456",
+              "stop_lon": "15.557383",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232001",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394481",
+              "stop_lon": "15.562014",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847001",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394248",
+              "stop_lon": "15.567230",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257002",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.397416",
+              "stop_lon": "15.571057",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256002",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400335",
+              "stop_lon": "15.571995",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073366204",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005004139001",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.396456",
+              "stop_lon": "15.557383",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232001",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394481",
+              "stop_lon": "15.562014",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847001",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394248",
+              "stop_lon": "15.567230",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257002",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.397416",
+              "stop_lon": "15.571057",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256002",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400335",
+              "stop_lon": "15.571995",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073366217",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005004139001",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.396456",
+              "stop_lon": "15.557383",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232001",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394481",
+              "stop_lon": "15.562014",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847001",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394248",
+              "stop_lon": "15.567230",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257002",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.397416",
+              "stop_lon": "15.571057",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256002",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400335",
+              "stop_lon": "15.571995",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073366295",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005004139001",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.396456",
+              "stop_lon": "15.557383",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232001",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394481",
+              "stop_lon": "15.562014",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847001",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394248",
+              "stop_lon": "15.567230",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257002",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.397416",
+              "stop_lon": "15.571057",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256002",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400335",
+              "stop_lon": "15.571995",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073366321",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005004139001",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.396456",
+              "stop_lon": "15.557383",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232001",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394481",
+              "stop_lon": "15.562014",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847001",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394248",
+              "stop_lon": "15.567230",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257002",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.397416",
+              "stop_lon": "15.571057",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256002",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400335",
+              "stop_lon": "15.571995",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073366191",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005004139001",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.396456",
+              "stop_lon": "15.557383",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232001",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394481",
+              "stop_lon": "15.562014",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847001",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394248",
+              "stop_lon": "15.567230",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257002",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.397416",
+              "stop_lon": "15.571057",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256002",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400335",
+              "stop_lon": "15.571995",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073366230",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005004139001",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.396456",
+              "stop_lon": "15.557383",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232001",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394481",
+              "stop_lon": "15.562014",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847001",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394248",
+              "stop_lon": "15.567230",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257002",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.397416",
+              "stop_lon": "15.571057",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256002",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400335",
+              "stop_lon": "15.571995",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000073366308",
+          "service_id": "15",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005004139001",
+              "stop_name": "Mj\u00e4rdevi",
+              "stop_lat": "58.396456",
+              "stop_lon": "15.557383",
+              "location_type": "0",
+              "parent_station": "9021005004139000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005004232001",
+              "stop_name": "Mj\u00e4rdevi Center",
+              "stop_lat": "58.394481",
+              "stop_lon": "15.562014",
+              "location_type": "0",
+              "parent_station": "9021005004232000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005003847001",
+              "stop_name": "Forskningsbyn",
+              "stop_lat": "58.394248",
+              "stop_lon": "15.567230",
+              "location_type": "0",
+              "parent_station": "9021005003847000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001257002",
+              "stop_name": "M\u00e4ster Mattias v\u00e4g",
+              "stop_lat": "58.397416",
+              "stop_lon": "15.571057",
+              "location_type": "0",
+              "parent_station": "9021005001257000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022005001256002",
+              "stop_name": "Universitetet",
+              "stop_lat": "58.400335",
+              "stop_lon": "15.571995",
+              "location_type": "0",
+              "parent_station": "9021005001256000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000050020",
+              "stop_name": "Link\u00f6pings resecentrum",
+              "stop_lat": "58.416545",
+              "stop_lon": "15.624912",
+              "location_type": "0",
+              "parent_station": "9021005000050000",
+              "platform_code": "D1"
+            }
+          ],
+          "service": {
+            "service_id": "15",
+            "start_date": "20241104",
+            "end_date": "20250613"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.396456",
+          "15.557383"
+        ],
+        [
+          "58.396492",
+          "15.557502"
+        ],
+        [
+          "58.396125",
+          "15.557984"
+        ],
+        [
+          "58.396044",
+          "15.558087"
+        ],
+        [
+          "58.395803",
+          "15.558413"
+        ],
+        [
+          "58.395624",
+          "15.558654"
+        ],
+        [
+          "58.395203",
+          "15.559204"
+        ],
+        [
+          "58.395158",
+          "15.559273"
+        ],
+        [
+          "58.394862",
+          "15.559668"
+        ],
+        [
+          "58.394334",
+          "15.560373"
+        ],
+        [
+          "58.394254",
+          "15.560493"
+        ],
+        [
+          "58.394272",
+          "15.560562"
+        ],
+        [
+          "58.394290",
+          "15.560647"
+        ],
+        [
+          "58.394299",
+          "15.560749"
+        ],
+        [
+          "58.394290",
+          "15.560886"
+        ],
+        [
+          "58.394290",
+          "15.561040"
+        ],
+        [
+          "58.394300",
+          "15.561194"
+        ],
+        [
+          "58.394318",
+          "15.561297"
+        ],
+        [
+          "58.394336",
+          "15.561365"
+        ],
+        [
+          "58.394399",
+          "15.561570"
+        ],
+        [
+          "58.394480",
+          "15.561774"
+        ],
+        [
+          "58.394535",
+          "15.561945"
+        ],
+        [
+          "58.394553",
+          "15.561996"
+        ],
+        [
+          "58.394625",
+          "15.562218"
+        ],
+        [
+          "58.394715",
+          "15.562474"
+        ],
+        [
+          "58.394878",
+          "15.562917"
+        ],
+        [
+          "58.394914",
+          "15.563019"
+        ],
+        [
+          "58.394941",
+          "15.563122"
+        ],
+        [
+          "58.394968",
+          "15.563207"
+        ],
+        [
+          "58.394986",
+          "15.563310"
+        ],
+        [
+          "58.395004",
+          "15.563412"
+        ],
+        [
+          "58.395022",
+          "15.563515"
+        ],
+        [
+          "58.395041",
+          "15.563600"
+        ],
+        [
+          "58.395050",
+          "15.563703"
+        ],
+        [
+          "58.395050",
+          "15.563788"
+        ],
+        [
+          "58.395059",
+          "15.563891"
+        ],
+        [
+          "58.395059",
+          "15.563976"
+        ],
+        [
+          "58.395059",
+          "15.564062"
+        ],
+        [
+          "58.395068",
+          "15.564147"
+        ],
+        [
+          "58.395060",
+          "15.564233"
+        ],
+        [
+          "58.395060",
+          "15.564318"
+        ],
+        [
+          "58.395060",
+          "15.564404"
+        ],
+        [
+          "58.395051",
+          "15.564489"
+        ],
+        [
+          "58.395042",
+          "15.564575"
+        ],
+        [
+          "58.395034",
+          "15.564660"
+        ],
+        [
+          "58.395025",
+          "15.564746"
+        ],
+        [
+          "58.395016",
+          "15.564831"
+        ],
+        [
+          "58.394998",
+          "15.564917"
+        ],
+        [
+          "58.394980",
+          "15.564985"
+        ],
+        [
+          "58.394962",
+          "15.565071"
+        ],
+        [
+          "58.394945",
+          "15.565157"
+        ],
+        [
+          "58.394927",
+          "15.565225"
+        ],
+        [
+          "58.394909",
+          "15.565294"
+        ],
+        [
+          "58.394882",
+          "15.565379"
+        ],
+        [
+          "58.394463",
+          "15.566699"
+        ],
+        [
+          "58.394275",
+          "15.567265"
+        ],
+        [
+          "58.393891",
+          "15.568430"
+        ],
+        [
+          "58.393820",
+          "15.568636"
+        ],
+        [
+          "58.393928",
+          "15.568754"
+        ],
+        [
+          "58.394549",
+          "15.569400"
+        ],
+        [
+          "58.394944",
+          "15.569757"
+        ],
+        [
+          "58.395052",
+          "15.569858"
+        ],
+        [
+          "58.395169",
+          "15.569943"
+        ],
+        [
+          "58.395277",
+          "15.570011"
+        ],
+        [
+          "58.395394",
+          "15.570096"
+        ],
+        [
+          "58.395511",
+          "15.570163"
+        ],
+        [
+          "58.395637",
+          "15.570248"
+        ],
+        [
+          "58.396203",
+          "15.570535"
+        ],
+        [
+          "58.396849",
+          "15.570719"
+        ],
+        [
+          "58.397020",
+          "15.570803"
+        ],
+        [
+          "58.397424",
+          "15.570920"
+        ],
+        [
+          "58.399976",
+          "15.571724"
+        ],
+        [
+          "58.400344",
+          "15.571841"
+        ],
+        [
+          "58.400694",
+          "15.571941"
+        ],
+        [
+          "58.400829",
+          "15.571992"
+        ],
+        [
+          "58.400883",
+          "15.572009"
+        ],
+        [
+          "58.400928",
+          "15.572008"
+        ],
+        [
+          "58.401197",
+          "15.572092"
+        ],
+        [
+          "58.401449",
+          "15.572159"
+        ],
+        [
+          "58.401736",
+          "15.572174"
+        ],
+        [
+          "58.401808",
+          "15.572173"
+        ],
+        [
+          "58.401871",
+          "15.572173"
+        ],
+        [
+          "58.401942",
+          "15.572155"
+        ],
+        [
+          "58.402005",
+          "15.572155"
+        ],
+        [
+          "58.402077",
+          "15.572155"
+        ],
+        [
+          "58.402257",
+          "15.572119"
+        ],
+        [
+          "58.402714",
+          "15.572031"
+        ],
+        [
+          "58.403073",
+          "15.571960"
+        ],
+        [
+          "58.403405",
+          "15.571923"
+        ],
+        [
+          "58.403549",
+          "15.571922"
+        ],
+        [
+          "58.403693",
+          "15.571990"
+        ],
+        [
+          "58.403891",
+          "15.572108"
+        ],
+        [
+          "58.403990",
+          "15.572210"
+        ],
+        [
+          "58.404124",
+          "15.572363"
+        ],
+        [
+          "58.404260",
+          "15.572602"
+        ],
+        [
+          "58.404377",
+          "15.572875"
+        ],
+        [
+          "58.404467",
+          "15.573165"
+        ],
+        [
+          "58.404540",
+          "15.573489"
+        ],
+        [
+          "58.404603",
+          "15.573985"
+        ],
+        [
+          "58.404767",
+          "15.575318"
+        ],
+        [
+          "58.404886",
+          "15.576378"
+        ],
+        [
+          "58.404913",
+          "15.576600"
+        ],
+        [
+          "58.404950",
+          "15.576942"
+        ],
+        [
+          "58.404968",
+          "15.577215"
+        ],
+        [
+          "58.404987",
+          "15.577506"
+        ],
+        [
+          "58.404978",
+          "15.577865"
+        ],
+        [
+          "58.404970",
+          "15.578190"
+        ],
+        [
+          "58.404970",
+          "15.578481"
+        ],
+        [
+          "58.404961",
+          "15.578481"
+        ],
+        [
+          "58.404944",
+          "15.578481"
+        ],
+        [
+          "58.404935",
+          "15.578498"
+        ],
+        [
+          "58.404926",
+          "15.578499"
+        ],
+        [
+          "58.404917",
+          "15.578499"
+        ],
+        [
+          "58.404908",
+          "15.578516"
+        ],
+        [
+          "58.404899",
+          "15.578516"
+        ],
+        [
+          "58.404890",
+          "15.578533"
+        ],
+        [
+          "58.404890",
+          "15.578550"
+        ],
+        [
+          "58.404881",
+          "15.578567"
+        ],
+        [
+          "58.404872",
+          "15.578567"
+        ],
+        [
+          "58.404863",
+          "15.578584"
+        ],
+        [
+          "58.404863",
+          "15.578602"
+        ],
+        [
+          "58.404854",
+          "15.578619"
+        ],
+        [
+          "58.404854",
+          "15.578636"
+        ],
+        [
+          "58.404854",
+          "15.578653"
+        ],
+        [
+          "58.404854",
+          "15.578687"
+        ],
+        [
+          "58.404845",
+          "15.578704"
+        ],
+        [
+          "58.404845",
+          "15.578721"
+        ],
+        [
+          "58.404854",
+          "15.578738"
+        ],
+        [
+          "58.404854",
+          "15.578756"
+        ],
+        [
+          "58.404854",
+          "15.578773"
+        ],
+        [
+          "58.404854",
+          "15.578790"
+        ],
+        [
+          "58.404863",
+          "15.578807"
+        ],
+        [
+          "58.404863",
+          "15.578824"
+        ],
+        [
+          "58.404872",
+          "15.578841"
+        ],
+        [
+          "58.404881",
+          "15.578858"
+        ],
+        [
+          "58.404890",
+          "15.578875"
+        ],
+        [
+          "58.404899",
+          "15.578892"
+        ],
+        [
+          "58.404899",
+          "15.578909"
+        ],
+        [
+          "58.404908",
+          "15.578909"
+        ],
+        [
+          "58.404926",
+          "15.578926"
+        ],
+        [
+          "58.404935",
+          "15.578926"
+        ],
+        [
+          "58.404944",
+          "15.578926"
+        ],
+        [
+          "58.404927",
+          "15.579063"
+        ],
+        [
+          "58.404918",
+          "15.579251"
+        ],
+        [
+          "58.404919",
+          "15.579627"
+        ],
+        [
+          "58.404938",
+          "15.580175"
+        ],
+        [
+          "58.404974",
+          "15.580739"
+        ],
+        [
+          "58.405002",
+          "15.581132"
+        ],
+        [
+          "58.405029",
+          "15.581286"
+        ],
+        [
+          "58.405093",
+          "15.581542"
+        ],
+        [
+          "58.405147",
+          "15.581661"
+        ],
+        [
+          "58.405165",
+          "15.581713"
+        ],
+        [
+          "58.405183",
+          "15.581747"
+        ],
+        [
+          "58.405210",
+          "15.581781"
+        ],
+        [
+          "58.405246",
+          "15.581832"
+        ],
+        [
+          "58.405282",
+          "15.581866"
+        ],
+        [
+          "58.405309",
+          "15.581900"
+        ],
+        [
+          "58.405336",
+          "15.581934"
+        ],
+        [
+          "58.405354",
+          "15.581968"
+        ],
+        [
+          "58.405381",
+          "15.582002"
+        ],
+        [
+          "58.405399",
+          "15.582053"
+        ],
+        [
+          "58.405417",
+          "15.582087"
+        ],
+        [
+          "58.405435",
+          "15.582156"
+        ],
+        [
+          "58.405453",
+          "15.582224"
+        ],
+        [
+          "58.405462",
+          "15.582292"
+        ],
+        [
+          "58.405480",
+          "15.582361"
+        ],
+        [
+          "58.405525",
+          "15.582634"
+        ],
+        [
+          "58.405526",
+          "15.582720"
+        ],
+        [
+          "58.405526",
+          "15.582805"
+        ],
+        [
+          "58.405535",
+          "15.582873"
+        ],
+        [
+          "58.405544",
+          "15.582959"
+        ],
+        [
+          "58.405553",
+          "15.583044"
+        ],
+        [
+          "58.405562",
+          "15.583113"
+        ],
+        [
+          "58.405571",
+          "15.583198"
+        ],
+        [
+          "58.405589",
+          "15.583284"
+        ],
+        [
+          "58.405607",
+          "15.583352"
+        ],
+        [
+          "58.405626",
+          "15.583420"
+        ],
+        [
+          "58.405644",
+          "15.583506"
+        ],
+        [
+          "58.405671",
+          "15.583574"
+        ],
+        [
+          "58.405689",
+          "15.583642"
+        ],
+        [
+          "58.405716",
+          "15.583710"
+        ],
+        [
+          "58.405743",
+          "15.583779"
+        ],
+        [
+          "58.405779",
+          "15.583864"
+        ],
+        [
+          "58.405815",
+          "15.583932"
+        ],
+        [
+          "58.405842",
+          "15.583966"
+        ],
+        [
+          "58.405887",
+          "15.584051"
+        ],
+        [
+          "58.405923",
+          "15.584120"
+        ],
+        [
+          "58.405968",
+          "15.584171"
+        ],
+        [
+          "58.406013",
+          "15.584205"
+        ],
+        [
+          "58.406094",
+          "15.584307"
+        ],
+        [
+          "58.406193",
+          "15.584357"
+        ],
+        [
+          "58.406256",
+          "15.584391"
+        ],
+        [
+          "58.406327",
+          "15.584391"
+        ],
+        [
+          "58.406381",
+          "15.584390"
+        ],
+        [
+          "58.406444",
+          "15.584373"
+        ],
+        [
+          "58.406507",
+          "15.584373"
+        ],
+        [
+          "58.406561",
+          "15.584338"
+        ],
+        [
+          "58.406597",
+          "15.584304"
+        ],
+        [
+          "58.406659",
+          "15.584269"
+        ],
+        [
+          "58.406704",
+          "15.584217"
+        ],
+        [
+          "58.406767",
+          "15.584149"
+        ],
+        [
+          "58.406821",
+          "15.584080"
+        ],
+        [
+          "58.406848",
+          "15.584011"
+        ],
+        [
+          "58.406865",
+          "15.583994"
+        ],
+        [
+          "58.407000",
+          "15.583839"
+        ],
+        [
+          "58.407054",
+          "15.583770"
+        ],
+        [
+          "58.407089",
+          "15.583719"
+        ],
+        [
+          "58.407125",
+          "15.583684"
+        ],
+        [
+          "58.407161",
+          "15.583650"
+        ],
+        [
+          "58.407188",
+          "15.583633"
+        ],
+        [
+          "58.407224",
+          "15.583615"
+        ],
+        [
+          "58.407260",
+          "15.583598"
+        ],
+        [
+          "58.407296",
+          "15.583598"
+        ],
+        [
+          "58.407332",
+          "15.583581"
+        ],
+        [
+          "58.407368",
+          "15.583580"
+        ],
+        [
+          "58.407403",
+          "15.583580"
+        ],
+        [
+          "58.407439",
+          "15.583597"
+        ],
+        [
+          "58.407475",
+          "15.583614"
+        ],
+        [
+          "58.407520",
+          "15.583631"
+        ],
+        [
+          "58.407556",
+          "15.583665"
+        ],
+        [
+          "58.407682",
+          "15.583766"
+        ],
+        [
+          "58.407763",
+          "15.583817"
+        ],
+        [
+          "58.408123",
+          "15.584294"
+        ],
+        [
+          "58.408267",
+          "15.584447"
+        ],
+        [
+          "58.408429",
+          "15.584600"
+        ],
+        [
+          "58.408581",
+          "15.584702"
+        ],
+        [
+          "58.408815",
+          "15.584837"
+        ],
+        [
+          "58.409965",
+          "15.585292"
+        ],
+        [
+          "58.410324",
+          "15.585426"
+        ],
+        [
+          "58.410675",
+          "15.585561"
+        ],
+        [
+          "58.411043",
+          "15.585696"
+        ],
+        [
+          "58.411232",
+          "15.585763"
+        ],
+        [
+          "58.411429",
+          "15.585847"
+        ],
+        [
+          "58.411816",
+          "15.585982"
+        ],
+        [
+          "58.411933",
+          "15.586032"
+        ],
+        [
+          "58.412184",
+          "15.586133"
+        ],
+        [
+          "58.412427",
+          "15.586217"
+        ],
+        [
+          "58.413028",
+          "15.586436"
+        ],
+        [
+          "58.415634",
+          "15.587412"
+        ],
+        [
+          "58.416083",
+          "15.587615"
+        ],
+        [
+          "58.416299",
+          "15.587716"
+        ],
+        [
+          "58.416496",
+          "15.587817"
+        ],
+        [
+          "58.416694",
+          "15.587953"
+        ],
+        [
+          "58.416847",
+          "15.588089"
+        ],
+        [
+          "58.416973",
+          "15.588242"
+        ],
+        [
+          "58.417099",
+          "15.588395"
+        ],
+        [
+          "58.417261",
+          "15.588651"
+        ],
+        [
+          "58.417414",
+          "15.588941"
+        ],
+        [
+          "58.417504",
+          "15.589129"
+        ],
+        [
+          "58.417657",
+          "15.589453"
+        ],
+        [
+          "58.417684",
+          "15.589504"
+        ],
+        [
+          "58.418045",
+          "15.590306"
+        ],
+        [
+          "58.418396",
+          "15.591091"
+        ],
+        [
+          "58.418477",
+          "15.591279"
+        ],
+        [
+          "58.418558",
+          "15.591483"
+        ],
+        [
+          "58.418585",
+          "15.591535"
+        ],
+        [
+          "58.418739",
+          "15.591944"
+        ],
+        [
+          "58.418865",
+          "15.592388"
+        ],
+        [
+          "58.418910",
+          "15.592525"
+        ],
+        [
+          "58.418937",
+          "15.592611"
+        ],
+        [
+          "58.418964",
+          "15.592696"
+        ],
+        [
+          "58.418983",
+          "15.592781"
+        ],
+        [
+          "58.419010",
+          "15.592884"
+        ],
+        [
+          "58.419010",
+          "15.592901"
+        ],
+        [
+          "58.419037",
+          "15.593003"
+        ],
+        [
+          "58.419091",
+          "15.593243"
+        ],
+        [
+          "58.419127",
+          "15.593396"
+        ],
+        [
+          "58.419145",
+          "15.593482"
+        ],
+        [
+          "58.419154",
+          "15.593550"
+        ],
+        [
+          "58.419227",
+          "15.593858"
+        ],
+        [
+          "58.419290",
+          "15.594251"
+        ],
+        [
+          "58.419626",
+          "15.596491"
+        ],
+        [
+          "58.419626",
+          "15.596576"
+        ],
+        [
+          "58.419617",
+          "15.596645"
+        ],
+        [
+          "58.419618",
+          "15.596730"
+        ],
+        [
+          "58.419609",
+          "15.596799"
+        ],
+        [
+          "58.419600",
+          "15.596816"
+        ],
+        [
+          "58.419573",
+          "15.596885"
+        ],
+        [
+          "58.419555",
+          "15.596953"
+        ],
+        [
+          "58.419546",
+          "15.597022"
+        ],
+        [
+          "58.419537",
+          "15.597056"
+        ],
+        [
+          "58.419537",
+          "15.597090"
+        ],
+        [
+          "58.419537",
+          "15.597176"
+        ],
+        [
+          "58.419547",
+          "15.597244"
+        ],
+        [
+          "58.419565",
+          "15.597330"
+        ],
+        [
+          "58.419592",
+          "15.597381"
+        ],
+        [
+          "58.419619",
+          "15.597432"
+        ],
+        [
+          "58.419646",
+          "15.597483"
+        ],
+        [
+          "58.419655",
+          "15.597483"
+        ],
+        [
+          "58.419691",
+          "15.597517"
+        ],
+        [
+          "58.419727",
+          "15.597534"
+        ],
+        [
+          "58.419736",
+          "15.597534"
+        ],
+        [
+          "58.419763",
+          "15.597653"
+        ],
+        [
+          "58.419781",
+          "15.597756"
+        ],
+        [
+          "58.419799",
+          "15.597841"
+        ],
+        [
+          "58.419817",
+          "15.598030"
+        ],
+        [
+          "58.419826",
+          "15.598201"
+        ],
+        [
+          "58.419854",
+          "15.598834"
+        ],
+        [
+          "58.419864",
+          "15.599210"
+        ],
+        [
+          "58.419892",
+          "15.600168"
+        ],
+        [
+          "58.419893",
+          "15.600699"
+        ],
+        [
+          "58.419877",
+          "15.601777"
+        ],
+        [
+          "58.419818",
+          "15.603899"
+        ],
+        [
+          "58.419775",
+          "15.605268"
+        ],
+        [
+          "58.419732",
+          "15.606620"
+        ],
+        [
+          "58.419714",
+          "15.606655"
+        ],
+        [
+          "58.419705",
+          "15.606706"
+        ],
+        [
+          "58.419696",
+          "15.606757"
+        ],
+        [
+          "58.419687",
+          "15.606826"
+        ],
+        [
+          "58.419697",
+          "15.606911"
+        ],
+        [
+          "58.419706",
+          "15.606963"
+        ],
+        [
+          "58.419724",
+          "15.607031"
+        ],
+        [
+          "58.419733",
+          "15.607322"
+        ],
+        [
+          "58.419733",
+          "15.607493"
+        ],
+        [
+          "58.419725",
+          "15.607715"
+        ],
+        [
+          "58.419716",
+          "15.607938"
+        ],
+        [
+          "58.419708",
+          "15.608400"
+        ],
+        [
+          "58.419691",
+          "15.608913"
+        ],
+        [
+          "58.419674",
+          "15.609461"
+        ],
+        [
+          "58.419656",
+          "15.609992"
+        ],
+        [
+          "58.419639",
+          "15.610556"
+        ],
+        [
+          "58.419622",
+          "15.611190"
+        ],
+        [
+          "58.419605",
+          "15.611720"
+        ],
+        [
+          "58.419588",
+          "15.612302"
+        ],
+        [
+          "58.419562",
+          "15.612987"
+        ],
+        [
+          "58.419554",
+          "15.613449"
+        ],
+        [
+          "58.419537",
+          "15.613928"
+        ],
+        [
+          "58.419546",
+          "15.613962"
+        ],
+        [
+          "58.419555",
+          "15.614287"
+        ],
+        [
+          "58.419555",
+          "15.614304"
+        ],
+        [
+          "58.419583",
+          "15.614937"
+        ],
+        [
+          "58.419592",
+          "15.614989"
+        ],
+        [
+          "58.419592",
+          "15.615040"
+        ],
+        [
+          "58.419583",
+          "15.615143"
+        ],
+        [
+          "58.419583",
+          "15.615160"
+        ],
+        [
+          "58.419557",
+          "15.615331"
+        ],
+        [
+          "58.419530",
+          "15.615348"
+        ],
+        [
+          "58.419503",
+          "15.615383"
+        ],
+        [
+          "58.419476",
+          "15.615417"
+        ],
+        [
+          "58.419458",
+          "15.615468"
+        ],
+        [
+          "58.419440",
+          "15.615520"
+        ],
+        [
+          "58.419431",
+          "15.615571"
+        ],
+        [
+          "58.419432",
+          "15.615640"
+        ],
+        [
+          "58.419432",
+          "15.615708"
+        ],
+        [
+          "58.419441",
+          "15.615759"
+        ],
+        [
+          "58.419459",
+          "15.615811"
+        ],
+        [
+          "58.419468",
+          "15.615845"
+        ],
+        [
+          "58.419468",
+          "15.615948"
+        ],
+        [
+          "58.419443",
+          "15.617556"
+        ],
+        [
+          "58.419444",
+          "15.617659"
+        ],
+        [
+          "58.419444",
+          "15.617779"
+        ],
+        [
+          "58.419435",
+          "15.617864"
+        ],
+        [
+          "58.419426",
+          "15.617933"
+        ],
+        [
+          "58.419417",
+          "15.618018"
+        ],
+        [
+          "58.419408",
+          "15.618104"
+        ],
+        [
+          "58.419390",
+          "15.618172"
+        ],
+        [
+          "58.419373",
+          "15.618258"
+        ],
+        [
+          "58.419355",
+          "15.618327"
+        ],
+        [
+          "58.419337",
+          "15.618395"
+        ],
+        [
+          "58.419310",
+          "15.618515"
+        ],
+        [
+          "58.419265",
+          "15.618669"
+        ],
+        [
+          "58.419203",
+          "15.618789"
+        ],
+        [
+          "58.419140",
+          "15.618910"
+        ],
+        [
+          "58.419113",
+          "15.618961"
+        ],
+        [
+          "58.419042",
+          "15.619064"
+        ],
+        [
+          "58.418737",
+          "15.619647"
+        ],
+        [
+          "58.417922",
+          "15.621175"
+        ],
+        [
+          "58.417636",
+          "15.621724"
+        ],
+        [
+          "58.417573",
+          "15.621844"
+        ],
+        [
+          "58.417385",
+          "15.622187"
+        ],
+        [
+          "58.417161",
+          "15.622616"
+        ],
+        [
+          "58.417063",
+          "15.622805"
+        ],
+        [
+          "58.416364",
+          "15.624109"
+        ],
+        [
+          "58.416266",
+          "15.624314"
+        ],
+        [
+          "58.416258",
+          "15.624640"
+        ],
+        [
+          "58.416293",
+          "15.624691"
+        ],
+        [
+          "58.416383",
+          "15.624742"
+        ],
+        [
+          "58.416500",
+          "15.624792"
+        ],
+        [
+          "58.416554",
+          "15.624809"
+        ],
+        [
+          "58.416545",
+          "15.624912"
+        ]
+      ]
+    }
+  ]
+}

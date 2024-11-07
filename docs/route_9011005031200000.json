@@ -1,0 +1,158 @@
+{
+  "feed_version": "2024-11-07",
+  "route_id": "9011005031200000",
+  "agency_id": "55700000000001407",
+  "route_short_name": "312",
+  "route_long_name": "Anropsstyrd Stadstrafik Motala",
+  "route_type": "700",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "1055700000019230269",
+      "trips": [
+        {
+          "trip_id": "55700000075370232",
+          "service_id": "7",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000184001",
+              "stop_name": "Motala Central",
+              "stop_lat": "58.537265",
+              "stop_lon": "15.047335",
+              "location_type": "0",
+              "parent_station": "9021005000184000",
+              "platform_code": "A1"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000184002",
+              "stop_name": "Motala Central",
+              "stop_lat": "58.537110",
+              "stop_lon": "15.046892",
+              "location_type": "0",
+              "parent_station": "9021005000184000",
+              "platform_code": "B2"
+            }
+          ],
+          "service": {
+            "service_id": "7",
+            "start_date": "20241104",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "55700000075370242",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000184001",
+              "stop_name": "Motala Central",
+              "stop_lat": "58.537265",
+              "stop_lon": "15.047335",
+              "location_type": "0",
+              "parent_station": "9021005000184000",
+              "platform_code": "A1"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000184002",
+              "stop_name": "Motala Central",
+              "stop_lat": "58.537110",
+              "stop_lon": "15.046892",
+              "location_type": "0",
+              "parent_station": "9021005000184000",
+              "platform_code": "B2"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241104",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "55700000077388887",
+          "service_id": "8",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000184001",
+              "stop_name": "Motala Central",
+              "stop_lat": "58.537265",
+              "stop_lon": "15.047335",
+              "location_type": "0",
+              "parent_station": "9021005000184000",
+              "platform_code": "A1"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000184002",
+              "stop_name": "Motala Central",
+              "stop_lat": "58.537110",
+              "stop_lon": "15.046892",
+              "location_type": "0",
+              "parent_station": "9021005000184000",
+              "platform_code": "B2"
+            }
+          ],
+          "service": {
+            "service_id": "8",
+            "start_date": "20241216",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "55700000077388878",
+          "service_id": "20",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022005000184001",
+              "stop_name": "Motala Central",
+              "stop_lat": "58.537265",
+              "stop_lon": "15.047335",
+              "location_type": "0",
+              "parent_station": "9021005000184000",
+              "platform_code": "A1"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022005000184002",
+              "stop_name": "Motala Central",
+              "stop_lat": "58.537110",
+              "stop_lon": "15.046892",
+              "location_type": "0",
+              "parent_station": "9021005000184000",
+              "platform_code": "B2"
+            }
+          ],
+          "service": {
+            "service_id": "20",
+            "start_date": "20241216",
+            "end_date": "20250614"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.537265",
+          "15.047335"
+        ],
+        [
+          "58.537110",
+          "15.046892"
+        ]
+      ]
+    }
+  ]
+}
