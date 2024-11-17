@@ -1,8 +1,12 @@
-import csv, json
+import csv, json, argparse, os
 
-code = "SE-005-Ö"
+parser = argparse.ArgumentParser()
+parser.add_argument("code", help="The prefix of the folder the generetad files will be dumped to in the data folder.")
+args = parser.parse_args()
 
-feedinfo = open(f"{code}/feed_info.txt", "r", encoding="UTF8")
+code = args.code
+
+feedinfo = open(f"gtfs/feed_info.txt", "r", encoding="UTF8")
 feedinfo = list(csv.reader(feedinfo))
 
 version = feedinfo[1][feedinfo[0].index("feed_version")]
@@ -22,7 +26,7 @@ calendar_dict = dict()
 #special
 shape_trips_dict = dict()
 
-routes = open(f"{code}/routes.txt", "r", encoding="UTF8")
+routes = open(f"gtfs/routes.txt", "r", encoding="UTF8")
 routes = csv.reader(routes)
 routes = list(routes)
 route_headers = list()
@@ -33,7 +37,7 @@ for route in routes:
     else:
         routes_dict[route[0]] = list_to_dict(route_headers, route)
 
-trips = open(f"{code}/trips.txt", "r", encoding="UTF8")
+trips = open(f"gtfs/trips.txt", "r", encoding="UTF8")
 trips = csv.reader(trips)
 trips = list(trips)
 trip_headers = list()
@@ -65,7 +69,7 @@ for trip in trips:
 
 def get_shapes(code):
     shapes_dict = dict()
-    shapes = open(f"{code}/shapes.txt", "r", encoding="UTF8")
+    shapes = open(f"gtfs/shapes.txt", "r", encoding="UTF8")
     shapes = csv.reader(shapes)
     shapes = list(shapes)
     shape_headers = list()
@@ -84,7 +88,7 @@ def get_shapes(code):
 
     return shapes_dict
 
-stops = open(f"{code}/stops.txt", "r", encoding="UTF8")
+stops = open(f"gtfs/stops.txt", "r", encoding="UTF8")
 stops = csv.reader(stops)
 stops = list(stops)
 stop_headers = list()
@@ -95,7 +99,7 @@ for stop in stops:
     else:
         stops_dict[stop[0]] = list_to_dict(stop_headers, stop)
 
-stop_refs = open(f"{code}/stop_times.txt", "r", encoding="UTF8")
+stop_refs = open(f"gtfs/stop_times.txt", "r", encoding="UTF8")
 stop_refs = csv.reader(stop_refs)
 stop_refs = list(stop_refs)
 stop_ref_headers = list()
@@ -114,7 +118,7 @@ for stop_ref in stop_refs:
 
 shapes_dict = get_shapes(code)
 
-calendar = open(f"{code}/calendar.txt", "r", encoding="UTF8")
+calendar = open(f"gtfs/calendar.txt", "r", encoding="UTF8")
 calendar = csv.reader(calendar)
 calendar = list(calendar)
 calendar_headers = list()
@@ -133,8 +137,8 @@ for row in calendar:
 #json.dump(trips_dict, export, indent=2)
 #export = open(f"shapes_dict.json", 'w', encoding="UTF8")
 #json.dump(shapes_dict, export, indent=2)
-#export = open(f"stops_dict.json", 'w', encoding="UTF8")
-#json.dump(stops_dict, export, indent=2)
+export = open(f"stops_dict.json", 'w', encoding="UTF8")
+json.dump(stops_dict, export, indent=2)
 #export = open(f"stop_refs_dict.json", 'w', encoding="UTF8")
 #json.dump(stop_refs_dict, export, indent=2)
 #export = open(f"calendat_dict.json", 'w', encoding="UTF8")
@@ -142,6 +146,10 @@ for row in calendar:
 
 
 # Write route specific files THIS CODE IS CURSED TRY TO AVOID IT
+try:
+    os.mkdir(f"./data/{code}")
+except:
+    print(f"./data/{code} directory will be overriden.")
 
 for route in routes_dict.values():
     route_dict = dict()
@@ -157,7 +165,12 @@ for route in routes_dict.values():
                 route_dict["shapes"][shape]["trips"][trip]["stops"][stop] = list(stop_refs_dict[route_dict["shapes"][shape]["trips"][trip]["trip_id"]][stop].values())[0]
                 route_dict["shapes"][shape]["trips"][trip]["stops"][stop].update(stops_dict[list(route_dict["shapes"][shape]["trips"][trip]["stops"][stop].values())[2]])
 
-    export = open(f"docs/route_{route['route_id']}.json", 'w', encoding="UTF8")
+    export = open(f"data/{code}/route_{route['route_id']}.json", 'w', encoding="UTF8")
     json.dump(route_dict, export, indent=2)
+
+export = open(f"data/{code}/routes.json", 'w', encoding="UTF8")
+json.dump(routes_dict, export, indent=2)
+export = open(f"data/{code}/stops.json", 'w', encoding="UTF8")
+json.dump(stops_dict, export, indent=2)
 
 print("done")
