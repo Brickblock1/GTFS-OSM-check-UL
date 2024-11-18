@@ -31,11 +31,11 @@ routes = csv.reader(routes)
 routes = list(routes)
 route_headers = list()
 for route in routes:
-    if route is routes[0]:
-        for header in route:
-            route_headers.append(header)
-    else:
-        routes_dict[route[0]] = list_to_dict(route_headers, route)
+        if route is routes[0]:
+            for header in route:
+                route_headers.append(header)
+        else:
+            routes_dict[route[0]] = list_to_dict(route_headers, route)
 
 trips = open(f"gtfs/trips.txt", "r", encoding="UTF8")
 trips = csv.reader(trips)
@@ -48,22 +48,22 @@ for trip in trips:
         for header in trip:
             trip_headers.append(header)
     else:
-        if trip[5] in prev_trip_shape:
-            shape_trips_dict[trip[5]].append({trip_headers[2]: trip[2], trip_headers[1]: trip[1]})
+        if trip[0]+trip[5] in prev_trip_shape:
+            shape_trips_dict[trip[0]+trip[5]].append({trip_headers[2]: trip[2], trip_headers[1]: trip[1]})
         else:
-            shape_trips_dict[trip[5]] = list()
-            shape_trips_dict[trip[5]].append({trip_headers[2]: trip[2], trip_headers[1]: trip[1]})
-            prev_trip_shape.add(trip[5])
+            shape_trips_dict[trip[0]+trip[5]] = list()
+            shape_trips_dict[trip[0]+trip[5]].append({trip_headers[2]: trip[2], trip_headers[1]: trip[1]})
+            prev_trip_shape.add(trip[0]+trip[5])
 
 prev_trip = set()
 for trip in trips:
     # spacial handeling of first line
     if trip is not trips[0]:
         if trip[0] in prev_trip:
-            trips_dict[trip[0]][trip[5]] = dict(shape_id = trip[5], trips = shape_trips_dict[trip[5]])
+            trips_dict[trip[0]][trip[5]] = dict(shape_id = trip[5], trips = shape_trips_dict[trip[0]+trip[5]])
         else:
             trips_dict[trip[0]] = dict()
-            trips_dict[trip[0]][trip[5]] = dict(shape_id = trip[5], trips = shape_trips_dict[trip[5]])
+            trips_dict[trip[0]][trip[5]] = dict(shape_id = trip[5], trips = shape_trips_dict[trip[0]+trip[5]])
             prev_trip.add(trip[0])
 
 
@@ -137,8 +137,8 @@ for row in calendar:
 #json.dump(trips_dict, export, indent=2)
 #export = open(f"shapes_dict.json", 'w', encoding="UTF8")
 #json.dump(shapes_dict, export, indent=2)
-export = open(f"stops_dict.json", 'w', encoding="UTF8")
-json.dump(stops_dict, export, indent=2)
+#export = open(f"stops_dict.json", 'w', encoding="UTF8")
+#json.dump(stops_dict, export, indent=2)
 #export = open(f"stop_refs_dict.json", 'w', encoding="UTF8")
 #json.dump(stop_refs_dict, export, indent=2)
 #export = open(f"calendat_dict.json", 'w', encoding="UTF8")
@@ -162,9 +162,9 @@ for route in routes_dict.values():
             route_dict["shapes"][shape]["trips"][trip]["stops"] = stop_refs_dict[route_dict["shapes"][shape]["trips"][trip]["trip_id"]]
             route_dict["shapes"][shape]["trips"][trip]["service"] = calendar_dict[route_dict["shapes"][shape]["trips"][trip]["service_id"]]
             for stop in range(len(route_dict["shapes"][shape]["trips"][trip]["stops"])):
-                route_dict["shapes"][shape]["trips"][trip]["stops"][stop] = list(stop_refs_dict[route_dict["shapes"][shape]["trips"][trip]["trip_id"]][stop].values())[0]
-                route_dict["shapes"][shape]["trips"][trip]["stops"][stop].update(stops_dict[list(route_dict["shapes"][shape]["trips"][trip]["stops"][stop].values())[2]])
-
+                    route_dict["shapes"][shape]["trips"][trip]["stops"][stop] = list(stop_refs_dict[route_dict["shapes"][shape]["trips"][trip]["trip_id"]][stop].values())[0]
+                    route_dict["shapes"][shape]["trips"][trip]["stops"][stop].update(stops_dict[list(route_dict["shapes"][shape]["trips"][trip]["stops"][stop].values())[2]])
+                
     export = open(f"data/{code}/route_{route['route_id']}.json", 'w', encoding="UTF8")
     json.dump(route_dict, export, indent=2)
 
