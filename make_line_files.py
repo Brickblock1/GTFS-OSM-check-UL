@@ -170,7 +170,24 @@ for route in routes_dict.values():
 
 export = open(f"data/{code}/routes.json", 'w', encoding="UTF8")
 json.dump(routes_dict, export, indent=2)
+
+clean_stops_dict = {}
+
+inuse_stops = set()
+
+for stopidk in stop_refs_dict.values():
+    for stopidk2 in stopidk:
+        stopidk2 = list(stopidk2.values())[0]
+        inuse_stops.add(stopidk2["stop_id"])
+
+for stop in stops_dict.values():
+    if stop["stop_id"] in inuse_stops:
+        stop["inuse"] = True
+    else:
+        stop["inuse"] = False
+    clean_stops_dict[stop["stop_id"]] = stop
+
 export = open(f"data/{code}/stops.json", 'w', encoding="UTF8")
-json.dump(stops_dict, export, indent=2)
+json.dump(clean_stops_dict, export, indent=2)
 
 print("done")
