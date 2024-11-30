@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-11-17",
+  "feed_version": "2024-11-30",
   "route_id": "9011003016400000",
   "agency_id": "33010000000001407",
   "route_short_name": "164",
@@ -50,7 +50,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         }
@@ -901,7 +901,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         }
@@ -6318,7 +6318,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         }
@@ -10130,413 +10130,6 @@
       "shape_id": "1033010000215002591",
       "trips": [
         {
-          "trip_id": "33010000215002881",
-          "service_id": "5",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003780557001",
-              "stop_name": "Jumkils skola",
-              "stop_lat": "59.942330",
-              "stop_lon": "17.425227",
-              "location_type": "0",
-              "parent_station": "9021003780557000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779981001",
-              "stop_name": "K\u00e4ttslinge by",
-              "stop_lat": "59.942882",
-              "stop_lon": "17.441627",
-              "location_type": "0",
-              "parent_station": "9021003779981000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779466001",
-              "stop_name": "Agersta g\u00e5rd",
-              "stop_lat": "59.939268",
-              "stop_lon": "17.455745",
-              "location_type": "0",
-              "parent_station": "9021003779466000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779663001",
-              "stop_name": "Broholm g\u00e5rd",
-              "stop_lat": "59.949081",
-              "stop_lon": "17.408393",
-              "location_type": "0",
-              "parent_station": "9021003779663000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780570002",
-              "stop_name": "Broholm",
-              "stop_lat": "59.950812",
-              "stop_lon": "17.409944",
-              "location_type": "0",
-              "parent_station": "9021003780570000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780583002",
-              "stop_name": "Blacksta",
-              "stop_lat": "59.956986",
-              "stop_lon": "17.400540",
-              "location_type": "0",
-              "parent_station": "9021003780583000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779985001",
-              "stop_name": "Skr\u00e4ddarbo (inre v\u00e4gen)",
-              "stop_lat": "59.964035",
-              "stop_lon": "17.378695",
-              "location_type": "0",
-              "parent_station": "9021003779985000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780893001",
-              "stop_name": "Dalkarlsbo (inre v\u00e4gen)",
-              "stop_lat": "59.967569",
-              "stop_lon": "17.369121",
-              "location_type": "0",
-              "parent_station": "9021003780893000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779986001",
-              "stop_name": "Bj\u00f6rnarbo skolh\u00e5llplats",
-              "stop_lat": "59.976908",
-              "stop_lon": "17.348335",
-              "location_type": "0",
-              "parent_station": "9021003779986000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780631002",
-              "stop_name": "Bj\u00f6rnarbo g\u00e5rd",
-              "stop_lat": "59.977876",
-              "stop_lon": "17.346912",
-              "location_type": "0",
-              "parent_station": "9021003780631000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780640003",
-              "stop_name": "Bolandet v\u00e4gsk\u00e4l",
-              "stop_lat": "59.980267",
-              "stop_lon": "17.341219",
-              "location_type": "0",
-              "parent_station": "9021003780640000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780653002",
-              "stop_name": "Majneg\u00e5rd",
-              "stop_lat": "59.985952",
-              "stop_lon": "17.328600",
-              "location_type": "0",
-              "parent_station": "9021003780653000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780676002",
-              "stop_name": "Stenlunda",
-              "stop_lat": "59.995632",
-              "stop_lon": "17.314349",
-              "location_type": "0",
-              "parent_station": "9021003780676000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780683002",
-              "stop_name": "\u00d6stfora v\u00e4gsk\u00e4l (v 272)",
-              "stop_lat": "60.000572",
-              "stop_lon": "17.306257",
-              "location_type": "0",
-              "parent_station": "9021003780683000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780892001",
-              "stop_name": "P\u00e5lsbo",
-              "stop_lat": "59.999489",
-              "stop_lon": "17.304326",
-              "location_type": "0",
-              "parent_station": "9021003780892000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779521001",
-              "stop_name": "S\u00e4trarna (\u00d6stfora)",
-              "stop_lat": "59.999796",
-              "stop_lon": "17.295449",
-              "location_type": "0",
-              "parent_station": "9021003779521000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779520001",
-              "stop_name": "M\u00e5lsta (\u00d6stfora)",
-              "stop_lat": "60.000577",
-              "stop_lon": "17.270552",
-              "location_type": "0",
-              "parent_station": "9021003779520000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780891001",
-              "stop_name": "Fagerdal",
-              "stop_lat": "59.996224",
-              "stop_lon": "17.246846",
-              "location_type": "0",
-              "parent_station": "9021003780891000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779519001",
-              "stop_name": "Hedbron",
-              "stop_lat": "59.995688",
-              "stop_lon": "17.242485",
-              "location_type": "0",
-              "parent_station": "9021003779519000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779341002",
-              "stop_name": "Kall\u00e5s",
-              "stop_lat": "59.995438",
-              "stop_lon": "17.239052",
-              "location_type": "0",
-              "parent_station": "9021003779341000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779517001",
-              "stop_name": "Stenforsbacka",
-              "stop_lat": "59.992057",
-              "stop_lon": "17.227885",
-              "location_type": "0",
-              "parent_station": "9021003779517000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780890001",
-              "stop_name": "Granmarken",
-              "stop_lat": "59.991428",
-              "stop_lon": "17.224633",
-              "location_type": "0",
-              "parent_station": "9021003780890000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779997001",
-              "stop_name": "Fallet (J\u00e4rl\u00e5sa)",
-              "stop_lat": "59.986869",
-              "stop_lon": "17.201791",
-              "location_type": "0",
-              "parent_station": "9021003779997000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780649002",
-              "stop_name": "\u00d6stfora",
-              "stop_lat": "59.984457",
-              "stop_lon": "17.190438",
-              "location_type": "0",
-              "parent_station": "9021003780649000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780706002",
-              "stop_name": "Granlunda",
-              "stop_lat": "60.013658",
-              "stop_lon": "17.289725",
-              "location_type": "0",
-              "parent_station": "9021003780706000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779176001",
-              "stop_name": "Vibro\u00e4ng",
-              "stop_lat": "60.017632",
-              "stop_lon": "17.294817",
-              "location_type": "0",
-              "parent_station": "9021003779176000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779055001",
-              "stop_name": "Simonsbo",
-              "stop_lat": "60.018997",
-              "stop_lon": "17.297102",
-              "location_type": "0",
-              "parent_station": "9021003779055000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779552001",
-              "stop_name": "Lindberg",
-              "stop_lat": "60.033807",
-              "stop_lon": "17.307674",
-              "location_type": "0",
-              "parent_station": "9021003779552000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779175001",
-              "stop_name": "R\u00f6rmyra",
-              "stop_lat": "60.037901",
-              "stop_lon": "17.303696",
-              "location_type": "0",
-              "parent_station": "9021003779175000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779551001",
-              "stop_name": "Lindbergs\u00e4ngen",
-              "stop_lat": "60.034388",
-              "stop_lon": "17.295140",
-              "location_type": "0",
-              "parent_station": "9021003779551000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779550001",
-              "stop_name": "Stenvallen",
-              "stop_lat": "60.030908",
-              "stop_lon": "17.288543",
-              "location_type": "0",
-              "parent_station": "9021003779550000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779549001",
-              "stop_name": "Draglunda",
-              "stop_lat": "60.030043",
-              "stop_lon": "17.285616",
-              "location_type": "0",
-              "parent_station": "9021003779549000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780761001",
-              "stop_name": "Fallet",
-              "stop_lat": "60.033635",
-              "stop_lon": "17.264461",
-              "location_type": "0",
-              "parent_station": "9021003780761000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793021001",
-              "stop_name": "H\u00f6gskogen",
-              "stop_lat": "60.038760",
-              "stop_lon": "17.247352",
-              "location_type": "0",
-              "parent_station": "9021003793021000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780745001",
-              "stop_name": "R\u00f6rmyra v\u00e4gsk\u00e4l",
-              "stop_lat": "60.029118",
-              "stop_lon": "17.276802",
-              "location_type": "0",
-              "parent_station": "9021003780745000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780719001",
-              "stop_name": "Kiplinge krog",
-              "stop_lat": "60.019867",
-              "stop_lon": "17.282004",
-              "location_type": "0",
-              "parent_station": "9021003780719000",
-              "platform_code": "A"
-            }
-          ],
-          "service": {
-            "service_id": "5",
-            "start_date": "20241114",
-            "end_date": "20241212"
-          }
-        },
-        {
           "trip_id": "33010000215002995",
           "service_id": "1",
           "stops": [
@@ -10939,8 +10532,415 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "33010000215002881",
+          "service_id": "5",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003780557001",
+              "stop_name": "Jumkils skola",
+              "stop_lat": "59.942330",
+              "stop_lon": "17.425227",
+              "location_type": "0",
+              "parent_station": "9021003780557000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779981001",
+              "stop_name": "K\u00e4ttslinge by",
+              "stop_lat": "59.942882",
+              "stop_lon": "17.441627",
+              "location_type": "0",
+              "parent_station": "9021003779981000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779466001",
+              "stop_name": "Agersta g\u00e5rd",
+              "stop_lat": "59.939268",
+              "stop_lon": "17.455745",
+              "location_type": "0",
+              "parent_station": "9021003779466000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779663001",
+              "stop_name": "Broholm g\u00e5rd",
+              "stop_lat": "59.949081",
+              "stop_lon": "17.408393",
+              "location_type": "0",
+              "parent_station": "9021003779663000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780570002",
+              "stop_name": "Broholm",
+              "stop_lat": "59.950812",
+              "stop_lon": "17.409944",
+              "location_type": "0",
+              "parent_station": "9021003780570000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780583002",
+              "stop_name": "Blacksta",
+              "stop_lat": "59.956986",
+              "stop_lon": "17.400540",
+              "location_type": "0",
+              "parent_station": "9021003780583000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779985001",
+              "stop_name": "Skr\u00e4ddarbo (inre v\u00e4gen)",
+              "stop_lat": "59.964035",
+              "stop_lon": "17.378695",
+              "location_type": "0",
+              "parent_station": "9021003779985000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780893001",
+              "stop_name": "Dalkarlsbo (inre v\u00e4gen)",
+              "stop_lat": "59.967569",
+              "stop_lon": "17.369121",
+              "location_type": "0",
+              "parent_station": "9021003780893000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779986001",
+              "stop_name": "Bj\u00f6rnarbo skolh\u00e5llplats",
+              "stop_lat": "59.976908",
+              "stop_lon": "17.348335",
+              "location_type": "0",
+              "parent_station": "9021003779986000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780631002",
+              "stop_name": "Bj\u00f6rnarbo g\u00e5rd",
+              "stop_lat": "59.977876",
+              "stop_lon": "17.346912",
+              "location_type": "0",
+              "parent_station": "9021003780631000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780640003",
+              "stop_name": "Bolandet v\u00e4gsk\u00e4l",
+              "stop_lat": "59.980267",
+              "stop_lon": "17.341219",
+              "location_type": "0",
+              "parent_station": "9021003780640000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780653002",
+              "stop_name": "Majneg\u00e5rd",
+              "stop_lat": "59.985952",
+              "stop_lon": "17.328600",
+              "location_type": "0",
+              "parent_station": "9021003780653000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780676002",
+              "stop_name": "Stenlunda",
+              "stop_lat": "59.995632",
+              "stop_lon": "17.314349",
+              "location_type": "0",
+              "parent_station": "9021003780676000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780683002",
+              "stop_name": "\u00d6stfora v\u00e4gsk\u00e4l (v 272)",
+              "stop_lat": "60.000572",
+              "stop_lon": "17.306257",
+              "location_type": "0",
+              "parent_station": "9021003780683000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780892001",
+              "stop_name": "P\u00e5lsbo",
+              "stop_lat": "59.999489",
+              "stop_lon": "17.304326",
+              "location_type": "0",
+              "parent_station": "9021003780892000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779521001",
+              "stop_name": "S\u00e4trarna (\u00d6stfora)",
+              "stop_lat": "59.999796",
+              "stop_lon": "17.295449",
+              "location_type": "0",
+              "parent_station": "9021003779521000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779520001",
+              "stop_name": "M\u00e5lsta (\u00d6stfora)",
+              "stop_lat": "60.000577",
+              "stop_lon": "17.270552",
+              "location_type": "0",
+              "parent_station": "9021003779520000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780891001",
+              "stop_name": "Fagerdal",
+              "stop_lat": "59.996224",
+              "stop_lon": "17.246846",
+              "location_type": "0",
+              "parent_station": "9021003780891000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779519001",
+              "stop_name": "Hedbron",
+              "stop_lat": "59.995688",
+              "stop_lon": "17.242485",
+              "location_type": "0",
+              "parent_station": "9021003779519000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779341002",
+              "stop_name": "Kall\u00e5s",
+              "stop_lat": "59.995438",
+              "stop_lon": "17.239052",
+              "location_type": "0",
+              "parent_station": "9021003779341000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779517001",
+              "stop_name": "Stenforsbacka",
+              "stop_lat": "59.992057",
+              "stop_lon": "17.227885",
+              "location_type": "0",
+              "parent_station": "9021003779517000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780890001",
+              "stop_name": "Granmarken",
+              "stop_lat": "59.991428",
+              "stop_lon": "17.224633",
+              "location_type": "0",
+              "parent_station": "9021003780890000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779997001",
+              "stop_name": "Fallet (J\u00e4rl\u00e5sa)",
+              "stop_lat": "59.986869",
+              "stop_lon": "17.201791",
+              "location_type": "0",
+              "parent_station": "9021003779997000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780649002",
+              "stop_name": "\u00d6stfora",
+              "stop_lat": "59.984457",
+              "stop_lon": "17.190438",
+              "location_type": "0",
+              "parent_station": "9021003780649000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780706002",
+              "stop_name": "Granlunda",
+              "stop_lat": "60.013658",
+              "stop_lon": "17.289725",
+              "location_type": "0",
+              "parent_station": "9021003780706000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779176001",
+              "stop_name": "Vibro\u00e4ng",
+              "stop_lat": "60.017632",
+              "stop_lon": "17.294817",
+              "location_type": "0",
+              "parent_station": "9021003779176000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779055001",
+              "stop_name": "Simonsbo",
+              "stop_lat": "60.018997",
+              "stop_lon": "17.297102",
+              "location_type": "0",
+              "parent_station": "9021003779055000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779552001",
+              "stop_name": "Lindberg",
+              "stop_lat": "60.033807",
+              "stop_lon": "17.307674",
+              "location_type": "0",
+              "parent_station": "9021003779552000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779175001",
+              "stop_name": "R\u00f6rmyra",
+              "stop_lat": "60.037901",
+              "stop_lon": "17.303696",
+              "location_type": "0",
+              "parent_station": "9021003779175000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779551001",
+              "stop_name": "Lindbergs\u00e4ngen",
+              "stop_lat": "60.034388",
+              "stop_lon": "17.295140",
+              "location_type": "0",
+              "parent_station": "9021003779551000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779550001",
+              "stop_name": "Stenvallen",
+              "stop_lat": "60.030908",
+              "stop_lon": "17.288543",
+              "location_type": "0",
+              "parent_station": "9021003779550000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779549001",
+              "stop_name": "Draglunda",
+              "stop_lat": "60.030043",
+              "stop_lon": "17.285616",
+              "location_type": "0",
+              "parent_station": "9021003779549000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780761001",
+              "stop_name": "Fallet",
+              "stop_lat": "60.033635",
+              "stop_lon": "17.264461",
+              "location_type": "0",
+              "parent_station": "9021003780761000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793021001",
+              "stop_name": "H\u00f6gskogen",
+              "stop_lat": "60.038760",
+              "stop_lon": "17.247352",
+              "location_type": "0",
+              "parent_station": "9021003793021000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780745001",
+              "stop_name": "R\u00f6rmyra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.029118",
+              "stop_lon": "17.276802",
+              "location_type": "0",
+              "parent_station": "9021003780745000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780719001",
+              "stop_name": "Kiplinge krog",
+              "stop_lat": "60.019867",
+              "stop_lon": "17.282004",
+              "location_type": "0",
+              "parent_station": "9021003780719000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "5",
+            "start_date": "20241127",
+            "end_date": "20241212"
           }
         }
       ],
@@ -16268,6 +16268,1025 @@
       ]
     },
     {
+      "shape_id": "1033010000215002694",
+      "trips": [
+        {
+          "trip_id": "33010000215003032",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003780683002",
+              "stop_name": "\u00d6stfora v\u00e4gsk\u00e4l (v 272)",
+              "stop_lat": "60.000572",
+              "stop_lon": "17.306257",
+              "location_type": "0",
+              "parent_station": "9021003780683000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780892001",
+              "stop_name": "P\u00e5lsbo",
+              "stop_lat": "59.999489",
+              "stop_lon": "17.304326",
+              "location_type": "0",
+              "parent_station": "9021003780892000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779521001",
+              "stop_name": "S\u00e4trarna (\u00d6stfora)",
+              "stop_lat": "59.999796",
+              "stop_lon": "17.295449",
+              "location_type": "0",
+              "parent_station": "9021003779521000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779520001",
+              "stop_name": "M\u00e5lsta (\u00d6stfora)",
+              "stop_lat": "60.000577",
+              "stop_lon": "17.270552",
+              "location_type": "0",
+              "parent_station": "9021003779520000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780891001",
+              "stop_name": "Fagerdal",
+              "stop_lat": "59.996224",
+              "stop_lon": "17.246846",
+              "location_type": "0",
+              "parent_station": "9021003780891000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779519001",
+              "stop_name": "Hedbron",
+              "stop_lat": "59.995688",
+              "stop_lon": "17.242485",
+              "location_type": "0",
+              "parent_station": "9021003779519000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779341002",
+              "stop_name": "Kall\u00e5s",
+              "stop_lat": "59.995438",
+              "stop_lon": "17.239052",
+              "location_type": "0",
+              "parent_station": "9021003779341000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779517001",
+              "stop_name": "Stenforsbacka",
+              "stop_lat": "59.992057",
+              "stop_lon": "17.227885",
+              "location_type": "0",
+              "parent_station": "9021003779517000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780890001",
+              "stop_name": "Granmarken",
+              "stop_lat": "59.991428",
+              "stop_lon": "17.224633",
+              "location_type": "0",
+              "parent_station": "9021003780890000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779997001",
+              "stop_name": "Fallet (J\u00e4rl\u00e5sa)",
+              "stop_lat": "59.986869",
+              "stop_lon": "17.201791",
+              "location_type": "0",
+              "parent_station": "9021003779997000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780649002",
+              "stop_name": "\u00d6stfora",
+              "stop_lat": "59.984457",
+              "stop_lon": "17.190438",
+              "location_type": "0",
+              "parent_station": "9021003780649000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241127",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "33010000215003058",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003780683002",
+              "stop_name": "\u00d6stfora v\u00e4gsk\u00e4l (v 272)",
+              "stop_lat": "60.000572",
+              "stop_lon": "17.306257",
+              "location_type": "0",
+              "parent_station": "9021003780683000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780892001",
+              "stop_name": "P\u00e5lsbo",
+              "stop_lat": "59.999489",
+              "stop_lon": "17.304326",
+              "location_type": "0",
+              "parent_station": "9021003780892000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779521001",
+              "stop_name": "S\u00e4trarna (\u00d6stfora)",
+              "stop_lat": "59.999796",
+              "stop_lon": "17.295449",
+              "location_type": "0",
+              "parent_station": "9021003779521000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779520001",
+              "stop_name": "M\u00e5lsta (\u00d6stfora)",
+              "stop_lat": "60.000577",
+              "stop_lon": "17.270552",
+              "location_type": "0",
+              "parent_station": "9021003779520000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780891001",
+              "stop_name": "Fagerdal",
+              "stop_lat": "59.996224",
+              "stop_lon": "17.246846",
+              "location_type": "0",
+              "parent_station": "9021003780891000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779519001",
+              "stop_name": "Hedbron",
+              "stop_lat": "59.995688",
+              "stop_lon": "17.242485",
+              "location_type": "0",
+              "parent_station": "9021003779519000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779341002",
+              "stop_name": "Kall\u00e5s",
+              "stop_lat": "59.995438",
+              "stop_lon": "17.239052",
+              "location_type": "0",
+              "parent_station": "9021003779341000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779517001",
+              "stop_name": "Stenforsbacka",
+              "stop_lat": "59.992057",
+              "stop_lon": "17.227885",
+              "location_type": "0",
+              "parent_station": "9021003779517000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780890001",
+              "stop_name": "Granmarken",
+              "stop_lat": "59.991428",
+              "stop_lon": "17.224633",
+              "location_type": "0",
+              "parent_station": "9021003780890000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003779997001",
+              "stop_name": "Fallet (J\u00e4rl\u00e5sa)",
+              "stop_lat": "59.986869",
+              "stop_lon": "17.201791",
+              "location_type": "0",
+              "parent_station": "9021003779997000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780649002",
+              "stop_name": "\u00d6stfora",
+              "stop_lat": "59.984457",
+              "stop_lon": "17.190438",
+              "location_type": "0",
+              "parent_station": "9021003780649000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241127",
+            "end_date": "20241213"
+          }
+        }
+      ],
+      "points": [
+        [
+          "60.000572",
+          "17.306257"
+        ],
+        [
+          "60.000874",
+          "17.305751"
+        ],
+        [
+          "60.000812",
+          "17.305622"
+        ],
+        [
+          "60.000619",
+          "17.305219"
+        ],
+        [
+          "60.000435",
+          "17.304870"
+        ],
+        [
+          "60.000338",
+          "17.304687"
+        ],
+        [
+          "60.000276",
+          "17.304594"
+        ],
+        [
+          "60.000214",
+          "17.304538"
+        ],
+        [
+          "60.000161",
+          "17.304499"
+        ],
+        [
+          "60.000089",
+          "17.304460"
+        ],
+        [
+          "59.999982",
+          "17.304420"
+        ],
+        [
+          "59.999829",
+          "17.304431"
+        ],
+        [
+          "59.999776",
+          "17.304410"
+        ],
+        [
+          "59.999623",
+          "17.304403"
+        ],
+        [
+          "59.999614",
+          "17.304403"
+        ],
+        [
+          "59.999578",
+          "17.304384"
+        ],
+        [
+          "59.999534",
+          "17.304310"
+        ],
+        [
+          "59.999491",
+          "17.304182"
+        ],
+        [
+          "59.999474",
+          "17.304110"
+        ],
+        [
+          "59.999457",
+          "17.304020"
+        ],
+        [
+          "59.999458",
+          "17.303894"
+        ],
+        [
+          "59.999469",
+          "17.303733"
+        ],
+        [
+          "59.999480",
+          "17.303572"
+        ],
+        [
+          "59.999500",
+          "17.303358"
+        ],
+        [
+          "59.999562",
+          "17.302662"
+        ],
+        [
+          "59.999675",
+          "17.301377"
+        ],
+        [
+          "59.999801",
+          "17.299805"
+        ],
+        [
+          "59.999895",
+          "17.298608"
+        ],
+        [
+          "59.999926",
+          "17.298251"
+        ],
+        [
+          "59.999929",
+          "17.298018"
+        ],
+        [
+          "59.999940",
+          "17.297822"
+        ],
+        [
+          "59.999933",
+          "17.297678"
+        ],
+        [
+          "59.999926",
+          "17.297498"
+        ],
+        [
+          "59.999901",
+          "17.297264"
+        ],
+        [
+          "59.999919",
+          "17.297265"
+        ],
+        [
+          "59.999901",
+          "17.297264"
+        ],
+        [
+          "59.999863",
+          "17.296653"
+        ],
+        [
+          "59.999817",
+          "17.295970"
+        ],
+        [
+          "59.999803",
+          "17.295611"
+        ],
+        [
+          "59.999805",
+          "17.295432"
+        ],
+        [
+          "59.999815",
+          "17.295325"
+        ],
+        [
+          "59.999844",
+          "17.295218"
+        ],
+        [
+          "59.999873",
+          "17.295023"
+        ],
+        [
+          "60.000155",
+          "17.293888"
+        ],
+        [
+          "60.000202",
+          "17.293675"
+        ],
+        [
+          "60.000560",
+          "17.292186"
+        ],
+        [
+          "60.000664",
+          "17.291706"
+        ],
+        [
+          "60.000702",
+          "17.291511"
+        ],
+        [
+          "60.000742",
+          "17.291172"
+        ],
+        [
+          "60.000843",
+          "17.290191"
+        ],
+        [
+          "60.001005",
+          "17.288549"
+        ],
+        [
+          "60.001137",
+          "17.287157"
+        ],
+        [
+          "60.001188",
+          "17.286585"
+        ],
+        [
+          "60.001220",
+          "17.286210"
+        ],
+        [
+          "60.001232",
+          "17.285906"
+        ],
+        [
+          "60.001234",
+          "17.285709"
+        ],
+        [
+          "60.001245",
+          "17.285512"
+        ],
+        [
+          "60.001240",
+          "17.285172"
+        ],
+        [
+          "60.001228",
+          "17.283898"
+        ],
+        [
+          "60.001220",
+          "17.283002"
+        ],
+        [
+          "60.001211",
+          "17.282159"
+        ],
+        [
+          "60.001199",
+          "17.280868"
+        ],
+        [
+          "60.001196",
+          "17.280312"
+        ],
+        [
+          "60.001189",
+          "17.280097"
+        ],
+        [
+          "60.001182",
+          "17.279953"
+        ],
+        [
+          "60.001165",
+          "17.279845"
+        ],
+        [
+          "60.001148",
+          "17.279754"
+        ],
+        [
+          "60.001114",
+          "17.279627"
+        ],
+        [
+          "60.001053",
+          "17.279427"
+        ],
+        [
+          "60.000871",
+          "17.278864"
+        ],
+        [
+          "60.000811",
+          "17.278628"
+        ],
+        [
+          "60.000751",
+          "17.278374"
+        ],
+        [
+          "60.000735",
+          "17.278176"
+        ],
+        [
+          "60.000719",
+          "17.278014"
+        ],
+        [
+          "60.000721",
+          "17.277835"
+        ],
+        [
+          "60.000723",
+          "17.277620"
+        ],
+        [
+          "60.000734",
+          "17.277442"
+        ],
+        [
+          "60.000754",
+          "17.277281"
+        ],
+        [
+          "60.000812",
+          "17.276854"
+        ],
+        [
+          "60.000891",
+          "17.276283"
+        ],
+        [
+          "60.000969",
+          "17.275660"
+        ],
+        [
+          "60.001028",
+          "17.275232"
+        ],
+        [
+          "60.001048",
+          "17.275000"
+        ],
+        [
+          "60.001060",
+          "17.274749"
+        ],
+        [
+          "60.001062",
+          "17.274570"
+        ],
+        [
+          "60.001046",
+          "17.274390"
+        ],
+        [
+          "60.001031",
+          "17.274157"
+        ],
+        [
+          "60.000998",
+          "17.273904"
+        ],
+        [
+          "60.000940",
+          "17.273471"
+        ],
+        [
+          "60.000757",
+          "17.272191"
+        ],
+        [
+          "60.000590",
+          "17.271000"
+        ],
+        [
+          "60.000532",
+          "17.270550"
+        ],
+        [
+          "60.000568",
+          "17.270533"
+        ],
+        [
+          "60.000577",
+          "17.270552"
+        ],
+        [
+          "60.000614",
+          "17.270517"
+        ],
+        [
+          "60.000532",
+          "17.270550"
+        ],
+        [
+          "60.000524",
+          "17.270460"
+        ],
+        [
+          "60.000435",
+          "17.269595"
+        ],
+        [
+          "60.000233",
+          "17.267561"
+        ],
+        [
+          "60.000096",
+          "17.266211"
+        ],
+        [
+          "59.999975",
+          "17.264915"
+        ],
+        [
+          "59.999862",
+          "17.263817"
+        ],
+        [
+          "59.999796",
+          "17.263294"
+        ],
+        [
+          "59.999661",
+          "17.262463"
+        ],
+        [
+          "59.999451",
+          "17.261146"
+        ],
+        [
+          "59.999325",
+          "17.260387"
+        ],
+        [
+          "59.999248",
+          "17.260043"
+        ],
+        [
+          "59.999179",
+          "17.259790"
+        ],
+        [
+          "59.999066",
+          "17.259462"
+        ],
+        [
+          "59.998761",
+          "17.258660"
+        ],
+        [
+          "59.998455",
+          "17.257840"
+        ],
+        [
+          "59.998246",
+          "17.257293"
+        ],
+        [
+          "59.998124",
+          "17.256965"
+        ],
+        [
+          "59.997985",
+          "17.256565"
+        ],
+        [
+          "59.997933",
+          "17.256401"
+        ],
+        [
+          "59.997898",
+          "17.256274"
+        ],
+        [
+          "59.997838",
+          "17.256003"
+        ],
+        [
+          "59.997787",
+          "17.255768"
+        ],
+        [
+          "59.997719",
+          "17.255424"
+        ],
+        [
+          "59.997642",
+          "17.255026"
+        ],
+        [
+          "59.997371",
+          "17.253545"
+        ],
+        [
+          "59.997084",
+          "17.251901"
+        ],
+        [
+          "59.996871",
+          "17.250853"
+        ],
+        [
+          "59.996668",
+          "17.249751"
+        ],
+        [
+          "59.996456",
+          "17.248558"
+        ],
+        [
+          "59.996244",
+          "17.247438"
+        ],
+        [
+          "59.996151",
+          "17.246896"
+        ],
+        [
+          "59.996152",
+          "17.246878"
+        ],
+        [
+          "59.996067",
+          "17.246391"
+        ],
+        [
+          "59.996017",
+          "17.246048"
+        ],
+        [
+          "59.995984",
+          "17.245742"
+        ],
+        [
+          "59.995879",
+          "17.244716"
+        ],
+        [
+          "59.995782",
+          "17.243762"
+        ],
+        [
+          "59.995709",
+          "17.242988"
+        ],
+        [
+          "59.995694",
+          "17.242701"
+        ],
+        [
+          "59.995688",
+          "17.242468"
+        ],
+        [
+          "59.995679",
+          "17.242449"
+        ],
+        [
+          "59.995659",
+          "17.241785"
+        ],
+        [
+          "59.995615",
+          "17.240941"
+        ],
+        [
+          "59.995586",
+          "17.240295"
+        ],
+        [
+          "59.995570",
+          "17.240079"
+        ],
+        [
+          "59.995554",
+          "17.239953"
+        ],
+        [
+          "59.995537",
+          "17.239809"
+        ],
+        [
+          "59.995512",
+          "17.239646"
+        ],
+        [
+          "59.995444",
+          "17.239267"
+        ],
+        [
+          "59.995410",
+          "17.239086"
+        ],
+        [
+          "59.995334",
+          "17.238689"
+        ],
+        [
+          "59.995309",
+          "17.238526"
+        ],
+        [
+          "59.995080",
+          "17.237316"
+        ],
+        [
+          "59.994960",
+          "17.236773"
+        ],
+        [
+          "59.994856",
+          "17.236392"
+        ],
+        [
+          "59.994682",
+          "17.235883"
+        ],
+        [
+          "59.994290",
+          "17.234773"
+        ],
+        [
+          "59.993881",
+          "17.233572"
+        ],
+        [
+          "59.993437",
+          "17.232335"
+        ],
+        [
+          "59.992862",
+          "17.230715"
+        ],
+        [
+          "59.992600",
+          "17.229969"
+        ],
+        [
+          "59.992357",
+          "17.229206"
+        ],
+        [
+          "59.992237",
+          "17.228699"
+        ],
+        [
+          "59.992067",
+          "17.227832"
+        ],
+        [
+          "59.992058",
+          "17.227867"
+        ],
+        [
+          "59.992067",
+          "17.227832"
+        ],
+        [
+          "59.991760",
+          "17.226277"
+        ],
+        [
+          "59.991428",
+          "17.224633"
+        ],
+        [
+          "59.991139",
+          "17.223169"
+        ],
+        [
+          "59.991121",
+          "17.223114"
+        ],
+        [
+          "59.990286",
+          "17.218939"
+        ],
+        [
+          "59.989835",
+          "17.216644"
+        ],
+        [
+          "59.989494",
+          "17.214981"
+        ],
+        [
+          "59.989195",
+          "17.213482"
+        ],
+        [
+          "59.988522",
+          "17.210156"
+        ],
+        [
+          "59.988044",
+          "17.207807"
+        ],
+        [
+          "59.987550",
+          "17.205295"
+        ],
+        [
+          "59.987081",
+          "17.202964"
+        ],
+        [
+          "59.986851",
+          "17.201790"
+        ],
+        [
+          "59.986860",
+          "17.201790"
+        ],
+        [
+          "59.986851",
+          "17.201790"
+        ],
+        [
+          "59.986373",
+          "17.199405"
+        ],
+        [
+          "59.986049",
+          "17.197797"
+        ],
+        [
+          "59.985751",
+          "17.196315"
+        ],
+        [
+          "59.985614",
+          "17.195611"
+        ],
+        [
+          "59.985000",
+          "17.192539"
+        ],
+        [
+          "59.984974",
+          "17.192431"
+        ],
+        [
+          "59.984804",
+          "17.191564"
+        ],
+        [
+          "59.984531",
+          "17.190227"
+        ],
+        [
+          "59.984422",
+          "17.190312"
+        ],
+        [
+          "59.984457",
+          "17.190438"
+        ]
+      ]
+    },
+    {
       "shape_id": "1033010000215002643",
       "trips": [
         {
@@ -16662,7 +17681,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         }
@@ -19652,1025 +20671,6 @@
           "60.000572",
           "17.306239"
         ],
-        [
-          "60.000572",
-          "17.306257"
-        ],
-        [
-          "60.000874",
-          "17.305751"
-        ],
-        [
-          "60.000812",
-          "17.305622"
-        ],
-        [
-          "60.000619",
-          "17.305219"
-        ],
-        [
-          "60.000435",
-          "17.304870"
-        ],
-        [
-          "60.000338",
-          "17.304687"
-        ],
-        [
-          "60.000276",
-          "17.304594"
-        ],
-        [
-          "60.000214",
-          "17.304538"
-        ],
-        [
-          "60.000161",
-          "17.304499"
-        ],
-        [
-          "60.000089",
-          "17.304460"
-        ],
-        [
-          "59.999982",
-          "17.304420"
-        ],
-        [
-          "59.999829",
-          "17.304431"
-        ],
-        [
-          "59.999776",
-          "17.304410"
-        ],
-        [
-          "59.999623",
-          "17.304403"
-        ],
-        [
-          "59.999614",
-          "17.304403"
-        ],
-        [
-          "59.999578",
-          "17.304384"
-        ],
-        [
-          "59.999534",
-          "17.304310"
-        ],
-        [
-          "59.999491",
-          "17.304182"
-        ],
-        [
-          "59.999474",
-          "17.304110"
-        ],
-        [
-          "59.999457",
-          "17.304020"
-        ],
-        [
-          "59.999458",
-          "17.303894"
-        ],
-        [
-          "59.999469",
-          "17.303733"
-        ],
-        [
-          "59.999480",
-          "17.303572"
-        ],
-        [
-          "59.999500",
-          "17.303358"
-        ],
-        [
-          "59.999562",
-          "17.302662"
-        ],
-        [
-          "59.999675",
-          "17.301377"
-        ],
-        [
-          "59.999801",
-          "17.299805"
-        ],
-        [
-          "59.999895",
-          "17.298608"
-        ],
-        [
-          "59.999926",
-          "17.298251"
-        ],
-        [
-          "59.999929",
-          "17.298018"
-        ],
-        [
-          "59.999940",
-          "17.297822"
-        ],
-        [
-          "59.999933",
-          "17.297678"
-        ],
-        [
-          "59.999926",
-          "17.297498"
-        ],
-        [
-          "59.999901",
-          "17.297264"
-        ],
-        [
-          "59.999919",
-          "17.297265"
-        ],
-        [
-          "59.999901",
-          "17.297264"
-        ],
-        [
-          "59.999863",
-          "17.296653"
-        ],
-        [
-          "59.999817",
-          "17.295970"
-        ],
-        [
-          "59.999803",
-          "17.295611"
-        ],
-        [
-          "59.999805",
-          "17.295432"
-        ],
-        [
-          "59.999815",
-          "17.295325"
-        ],
-        [
-          "59.999844",
-          "17.295218"
-        ],
-        [
-          "59.999873",
-          "17.295023"
-        ],
-        [
-          "60.000155",
-          "17.293888"
-        ],
-        [
-          "60.000202",
-          "17.293675"
-        ],
-        [
-          "60.000560",
-          "17.292186"
-        ],
-        [
-          "60.000664",
-          "17.291706"
-        ],
-        [
-          "60.000702",
-          "17.291511"
-        ],
-        [
-          "60.000742",
-          "17.291172"
-        ],
-        [
-          "60.000843",
-          "17.290191"
-        ],
-        [
-          "60.001005",
-          "17.288549"
-        ],
-        [
-          "60.001137",
-          "17.287157"
-        ],
-        [
-          "60.001188",
-          "17.286585"
-        ],
-        [
-          "60.001220",
-          "17.286210"
-        ],
-        [
-          "60.001232",
-          "17.285906"
-        ],
-        [
-          "60.001234",
-          "17.285709"
-        ],
-        [
-          "60.001245",
-          "17.285512"
-        ],
-        [
-          "60.001240",
-          "17.285172"
-        ],
-        [
-          "60.001228",
-          "17.283898"
-        ],
-        [
-          "60.001220",
-          "17.283002"
-        ],
-        [
-          "60.001211",
-          "17.282159"
-        ],
-        [
-          "60.001199",
-          "17.280868"
-        ],
-        [
-          "60.001196",
-          "17.280312"
-        ],
-        [
-          "60.001189",
-          "17.280097"
-        ],
-        [
-          "60.001182",
-          "17.279953"
-        ],
-        [
-          "60.001165",
-          "17.279845"
-        ],
-        [
-          "60.001148",
-          "17.279754"
-        ],
-        [
-          "60.001114",
-          "17.279627"
-        ],
-        [
-          "60.001053",
-          "17.279427"
-        ],
-        [
-          "60.000871",
-          "17.278864"
-        ],
-        [
-          "60.000811",
-          "17.278628"
-        ],
-        [
-          "60.000751",
-          "17.278374"
-        ],
-        [
-          "60.000735",
-          "17.278176"
-        ],
-        [
-          "60.000719",
-          "17.278014"
-        ],
-        [
-          "60.000721",
-          "17.277835"
-        ],
-        [
-          "60.000723",
-          "17.277620"
-        ],
-        [
-          "60.000734",
-          "17.277442"
-        ],
-        [
-          "60.000754",
-          "17.277281"
-        ],
-        [
-          "60.000812",
-          "17.276854"
-        ],
-        [
-          "60.000891",
-          "17.276283"
-        ],
-        [
-          "60.000969",
-          "17.275660"
-        ],
-        [
-          "60.001028",
-          "17.275232"
-        ],
-        [
-          "60.001048",
-          "17.275000"
-        ],
-        [
-          "60.001060",
-          "17.274749"
-        ],
-        [
-          "60.001062",
-          "17.274570"
-        ],
-        [
-          "60.001046",
-          "17.274390"
-        ],
-        [
-          "60.001031",
-          "17.274157"
-        ],
-        [
-          "60.000998",
-          "17.273904"
-        ],
-        [
-          "60.000940",
-          "17.273471"
-        ],
-        [
-          "60.000757",
-          "17.272191"
-        ],
-        [
-          "60.000590",
-          "17.271000"
-        ],
-        [
-          "60.000532",
-          "17.270550"
-        ],
-        [
-          "60.000568",
-          "17.270533"
-        ],
-        [
-          "60.000577",
-          "17.270552"
-        ],
-        [
-          "60.000614",
-          "17.270517"
-        ],
-        [
-          "60.000532",
-          "17.270550"
-        ],
-        [
-          "60.000524",
-          "17.270460"
-        ],
-        [
-          "60.000435",
-          "17.269595"
-        ],
-        [
-          "60.000233",
-          "17.267561"
-        ],
-        [
-          "60.000096",
-          "17.266211"
-        ],
-        [
-          "59.999975",
-          "17.264915"
-        ],
-        [
-          "59.999862",
-          "17.263817"
-        ],
-        [
-          "59.999796",
-          "17.263294"
-        ],
-        [
-          "59.999661",
-          "17.262463"
-        ],
-        [
-          "59.999451",
-          "17.261146"
-        ],
-        [
-          "59.999325",
-          "17.260387"
-        ],
-        [
-          "59.999248",
-          "17.260043"
-        ],
-        [
-          "59.999179",
-          "17.259790"
-        ],
-        [
-          "59.999066",
-          "17.259462"
-        ],
-        [
-          "59.998761",
-          "17.258660"
-        ],
-        [
-          "59.998455",
-          "17.257840"
-        ],
-        [
-          "59.998246",
-          "17.257293"
-        ],
-        [
-          "59.998124",
-          "17.256965"
-        ],
-        [
-          "59.997985",
-          "17.256565"
-        ],
-        [
-          "59.997933",
-          "17.256401"
-        ],
-        [
-          "59.997898",
-          "17.256274"
-        ],
-        [
-          "59.997838",
-          "17.256003"
-        ],
-        [
-          "59.997787",
-          "17.255768"
-        ],
-        [
-          "59.997719",
-          "17.255424"
-        ],
-        [
-          "59.997642",
-          "17.255026"
-        ],
-        [
-          "59.997371",
-          "17.253545"
-        ],
-        [
-          "59.997084",
-          "17.251901"
-        ],
-        [
-          "59.996871",
-          "17.250853"
-        ],
-        [
-          "59.996668",
-          "17.249751"
-        ],
-        [
-          "59.996456",
-          "17.248558"
-        ],
-        [
-          "59.996244",
-          "17.247438"
-        ],
-        [
-          "59.996151",
-          "17.246896"
-        ],
-        [
-          "59.996152",
-          "17.246878"
-        ],
-        [
-          "59.996067",
-          "17.246391"
-        ],
-        [
-          "59.996017",
-          "17.246048"
-        ],
-        [
-          "59.995984",
-          "17.245742"
-        ],
-        [
-          "59.995879",
-          "17.244716"
-        ],
-        [
-          "59.995782",
-          "17.243762"
-        ],
-        [
-          "59.995709",
-          "17.242988"
-        ],
-        [
-          "59.995694",
-          "17.242701"
-        ],
-        [
-          "59.995688",
-          "17.242468"
-        ],
-        [
-          "59.995679",
-          "17.242449"
-        ],
-        [
-          "59.995659",
-          "17.241785"
-        ],
-        [
-          "59.995615",
-          "17.240941"
-        ],
-        [
-          "59.995586",
-          "17.240295"
-        ],
-        [
-          "59.995570",
-          "17.240079"
-        ],
-        [
-          "59.995554",
-          "17.239953"
-        ],
-        [
-          "59.995537",
-          "17.239809"
-        ],
-        [
-          "59.995512",
-          "17.239646"
-        ],
-        [
-          "59.995444",
-          "17.239267"
-        ],
-        [
-          "59.995410",
-          "17.239086"
-        ],
-        [
-          "59.995334",
-          "17.238689"
-        ],
-        [
-          "59.995309",
-          "17.238526"
-        ],
-        [
-          "59.995080",
-          "17.237316"
-        ],
-        [
-          "59.994960",
-          "17.236773"
-        ],
-        [
-          "59.994856",
-          "17.236392"
-        ],
-        [
-          "59.994682",
-          "17.235883"
-        ],
-        [
-          "59.994290",
-          "17.234773"
-        ],
-        [
-          "59.993881",
-          "17.233572"
-        ],
-        [
-          "59.993437",
-          "17.232335"
-        ],
-        [
-          "59.992862",
-          "17.230715"
-        ],
-        [
-          "59.992600",
-          "17.229969"
-        ],
-        [
-          "59.992357",
-          "17.229206"
-        ],
-        [
-          "59.992237",
-          "17.228699"
-        ],
-        [
-          "59.992067",
-          "17.227832"
-        ],
-        [
-          "59.992058",
-          "17.227867"
-        ],
-        [
-          "59.992067",
-          "17.227832"
-        ],
-        [
-          "59.991760",
-          "17.226277"
-        ],
-        [
-          "59.991428",
-          "17.224633"
-        ],
-        [
-          "59.991139",
-          "17.223169"
-        ],
-        [
-          "59.991121",
-          "17.223114"
-        ],
-        [
-          "59.990286",
-          "17.218939"
-        ],
-        [
-          "59.989835",
-          "17.216644"
-        ],
-        [
-          "59.989494",
-          "17.214981"
-        ],
-        [
-          "59.989195",
-          "17.213482"
-        ],
-        [
-          "59.988522",
-          "17.210156"
-        ],
-        [
-          "59.988044",
-          "17.207807"
-        ],
-        [
-          "59.987550",
-          "17.205295"
-        ],
-        [
-          "59.987081",
-          "17.202964"
-        ],
-        [
-          "59.986851",
-          "17.201790"
-        ],
-        [
-          "59.986860",
-          "17.201790"
-        ],
-        [
-          "59.986851",
-          "17.201790"
-        ],
-        [
-          "59.986373",
-          "17.199405"
-        ],
-        [
-          "59.986049",
-          "17.197797"
-        ],
-        [
-          "59.985751",
-          "17.196315"
-        ],
-        [
-          "59.985614",
-          "17.195611"
-        ],
-        [
-          "59.985000",
-          "17.192539"
-        ],
-        [
-          "59.984974",
-          "17.192431"
-        ],
-        [
-          "59.984804",
-          "17.191564"
-        ],
-        [
-          "59.984531",
-          "17.190227"
-        ],
-        [
-          "59.984422",
-          "17.190312"
-        ],
-        [
-          "59.984457",
-          "17.190438"
-        ]
-      ]
-    },
-    {
-      "shape_id": "1033010000215002694",
-      "trips": [
-        {
-          "trip_id": "33010000215003032",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003780683002",
-              "stop_name": "\u00d6stfora v\u00e4gsk\u00e4l (v 272)",
-              "stop_lat": "60.000572",
-              "stop_lon": "17.306257",
-              "location_type": "0",
-              "parent_station": "9021003780683000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780892001",
-              "stop_name": "P\u00e5lsbo",
-              "stop_lat": "59.999489",
-              "stop_lon": "17.304326",
-              "location_type": "0",
-              "parent_station": "9021003780892000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779521001",
-              "stop_name": "S\u00e4trarna (\u00d6stfora)",
-              "stop_lat": "59.999796",
-              "stop_lon": "17.295449",
-              "location_type": "0",
-              "parent_station": "9021003779521000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779520001",
-              "stop_name": "M\u00e5lsta (\u00d6stfora)",
-              "stop_lat": "60.000577",
-              "stop_lon": "17.270552",
-              "location_type": "0",
-              "parent_station": "9021003779520000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780891001",
-              "stop_name": "Fagerdal",
-              "stop_lat": "59.996224",
-              "stop_lon": "17.246846",
-              "location_type": "0",
-              "parent_station": "9021003780891000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779519001",
-              "stop_name": "Hedbron",
-              "stop_lat": "59.995688",
-              "stop_lon": "17.242485",
-              "location_type": "0",
-              "parent_station": "9021003779519000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779341002",
-              "stop_name": "Kall\u00e5s",
-              "stop_lat": "59.995438",
-              "stop_lon": "17.239052",
-              "location_type": "0",
-              "parent_station": "9021003779341000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779517001",
-              "stop_name": "Stenforsbacka",
-              "stop_lat": "59.992057",
-              "stop_lon": "17.227885",
-              "location_type": "0",
-              "parent_station": "9021003779517000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780890001",
-              "stop_name": "Granmarken",
-              "stop_lat": "59.991428",
-              "stop_lon": "17.224633",
-              "location_type": "0",
-              "parent_station": "9021003780890000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779997001",
-              "stop_name": "Fallet (J\u00e4rl\u00e5sa)",
-              "stop_lat": "59.986869",
-              "stop_lon": "17.201791",
-              "location_type": "0",
-              "parent_station": "9021003779997000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780649002",
-              "stop_name": "\u00d6stfora",
-              "stop_lat": "59.984457",
-              "stop_lon": "17.190438",
-              "location_type": "0",
-              "parent_station": "9021003780649000",
-              "platform_code": "B"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20241114",
-            "end_date": "20241213"
-          }
-        },
-        {
-          "trip_id": "33010000215003058",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003780683002",
-              "stop_name": "\u00d6stfora v\u00e4gsk\u00e4l (v 272)",
-              "stop_lat": "60.000572",
-              "stop_lon": "17.306257",
-              "location_type": "0",
-              "parent_station": "9021003780683000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780892001",
-              "stop_name": "P\u00e5lsbo",
-              "stop_lat": "59.999489",
-              "stop_lon": "17.304326",
-              "location_type": "0",
-              "parent_station": "9021003780892000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779521001",
-              "stop_name": "S\u00e4trarna (\u00d6stfora)",
-              "stop_lat": "59.999796",
-              "stop_lon": "17.295449",
-              "location_type": "0",
-              "parent_station": "9021003779521000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779520001",
-              "stop_name": "M\u00e5lsta (\u00d6stfora)",
-              "stop_lat": "60.000577",
-              "stop_lon": "17.270552",
-              "location_type": "0",
-              "parent_station": "9021003779520000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780891001",
-              "stop_name": "Fagerdal",
-              "stop_lat": "59.996224",
-              "stop_lon": "17.246846",
-              "location_type": "0",
-              "parent_station": "9021003780891000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779519001",
-              "stop_name": "Hedbron",
-              "stop_lat": "59.995688",
-              "stop_lon": "17.242485",
-              "location_type": "0",
-              "parent_station": "9021003779519000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779341002",
-              "stop_name": "Kall\u00e5s",
-              "stop_lat": "59.995438",
-              "stop_lon": "17.239052",
-              "location_type": "0",
-              "parent_station": "9021003779341000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779517001",
-              "stop_name": "Stenforsbacka",
-              "stop_lat": "59.992057",
-              "stop_lon": "17.227885",
-              "location_type": "0",
-              "parent_station": "9021003779517000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780890001",
-              "stop_name": "Granmarken",
-              "stop_lat": "59.991428",
-              "stop_lon": "17.224633",
-              "location_type": "0",
-              "parent_station": "9021003780890000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779997001",
-              "stop_name": "Fallet (J\u00e4rl\u00e5sa)",
-              "stop_lat": "59.986869",
-              "stop_lon": "17.201791",
-              "location_type": "0",
-              "parent_station": "9021003779997000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780649002",
-              "stop_name": "\u00d6stfora",
-              "stop_lat": "59.984457",
-              "stop_lon": "17.190438",
-              "location_type": "0",
-              "parent_station": "9021003780649000",
-              "platform_code": "B"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20241114",
-            "end_date": "20241213"
-          }
-        }
-      ],
-      "points": [
         [
           "60.000572",
           "17.306257"

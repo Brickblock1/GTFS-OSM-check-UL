@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-11-17",
+  "feed_version": "2024-11-30",
   "route_id": "9011003008200000",
   "agency_id": "33010000000001407",
   "route_short_name": "82",
@@ -10,61 +10,6 @@
     {
       "shape_id": "1033010000189488745",
       "trips": [
-        {
-          "trip_id": "33010000201136043",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700398001",
-              "stop_name": "Uppsala Siktargatan",
-              "stop_lat": "59.850853",
-              "stop_lon": "17.651515",
-              "location_type": "0",
-              "parent_station": "9021003700398000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003700048003",
-              "stop_name": "Uppsala Brantingsskolan",
-              "stop_lat": "59.867398",
-              "stop_lon": "17.670750",
-              "location_type": "0",
-              "parent_station": "9021003700048000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003779414001",
-              "stop_name": "Uppsala Almtunaskolan",
-              "stop_lat": "59.863329",
-              "stop_lon": "17.664542",
-              "location_type": "0",
-              "parent_station": "9021003779414000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700048003",
-              "stop_name": "Uppsala Brantingsskolan",
-              "stop_lat": "59.867398",
-              "stop_lon": "17.670750",
-              "location_type": "0",
-              "parent_station": "9021003700048000",
-              "platform_code": "C"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20241114",
-            "end_date": "20241213"
-          }
-        },
         {
           "trip_id": "33010000201136027",
           "service_id": "1",
@@ -116,7 +61,62 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "33010000201136043",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700398001",
+              "stop_name": "Uppsala Siktargatan",
+              "stop_lat": "59.850853",
+              "stop_lon": "17.651515",
+              "location_type": "0",
+              "parent_station": "9021003700398000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003700048003",
+              "stop_name": "Uppsala Brantingsskolan",
+              "stop_lat": "59.867398",
+              "stop_lon": "17.670750",
+              "location_type": "0",
+              "parent_station": "9021003700048000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003779414001",
+              "stop_name": "Uppsala Almtunaskolan",
+              "stop_lat": "59.863329",
+              "stop_lon": "17.664542",
+              "location_type": "0",
+              "parent_station": "9021003779414000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700048003",
+              "stop_name": "Uppsala Brantingsskolan",
+              "stop_lat": "59.867398",
+              "stop_lon": "17.670750",
+              "location_type": "0",
+              "parent_station": "9021003700048000",
+              "platform_code": "C"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         }
@@ -1433,7 +1433,7 @@
       "trips": [
         {
           "trip_id": "33010000201136088",
-          "service_id": "61",
+          "service_id": "64",
           "stops": [
             {
               "pickup_type": "3",
@@ -1481,8 +1481,8 @@
             }
           ],
           "service": {
-            "service_id": "61",
-            "start_date": "20241115",
+            "service_id": "64",
+            "start_date": "20241129",
             "end_date": "20241213"
           }
         }
@@ -2790,50 +2790,6 @@
       "shape_id": "1033010000189488765",
       "trips": [
         {
-          "trip_id": "33010000201136073",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700048003",
-              "stop_name": "Uppsala Brantingsskolan",
-              "stop_lat": "59.867398",
-              "stop_lon": "17.670750",
-              "location_type": "0",
-              "parent_station": "9021003700048000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003779414001",
-              "stop_name": "Uppsala Almtunaskolan",
-              "stop_lat": "59.863329",
-              "stop_lon": "17.664542",
-              "location_type": "0",
-              "parent_station": "9021003779414000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700398002",
-              "stop_name": "Uppsala Siktargatan",
-              "stop_lat": "59.850797",
-              "stop_lon": "17.650995",
-              "location_type": "0",
-              "parent_station": "9021003700398000",
-              "platform_code": "B"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20241114",
-            "end_date": "20241213"
-          }
-        },
-        {
           "trip_id": "33010000201136058",
           "service_id": "5",
           "stops": [
@@ -2873,8 +2829,52 @@
           ],
           "service": {
             "service_id": "5",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241212"
+          }
+        },
+        {
+          "trip_id": "33010000201136073",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700048003",
+              "stop_name": "Uppsala Brantingsskolan",
+              "stop_lat": "59.867398",
+              "stop_lon": "17.670750",
+              "location_type": "0",
+              "parent_station": "9021003700048000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003779414001",
+              "stop_name": "Uppsala Almtunaskolan",
+              "stop_lat": "59.863329",
+              "stop_lon": "17.664542",
+              "location_type": "0",
+              "parent_station": "9021003779414000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700398002",
+              "stop_name": "Uppsala Siktargatan",
+              "stop_lat": "59.850797",
+              "stop_lon": "17.650995",
+              "location_type": "0",
+              "parent_station": "9021003700398000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241127",
+            "end_date": "20241213"
           }
         }
       ],

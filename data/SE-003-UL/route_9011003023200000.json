@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-11-17",
+  "feed_version": "2024-11-30",
   "route_id": "9011003023200000",
   "agency_id": "33010000000001407",
   "route_short_name": "232",
@@ -61,7 +61,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         }
@@ -6311,7 +6311,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         }
@@ -8836,7 +8836,7 @@
       "trips": [
         {
           "trip_id": "33010000214998027",
-          "service_id": "166",
+          "service_id": "196",
           "stops": [
             {
               "pickup_type": "3",
@@ -9082,14 +9082,14 @@
             }
           ],
           "service": {
-            "service_id": "166",
-            "start_date": "20241114",
+            "service_id": "196",
+            "start_date": "20241128",
             "end_date": "20241212"
           }
         },
         {
           "trip_id": "33010000214998128",
-          "service_id": "156",
+          "service_id": "184",
           "stops": [
             {
               "pickup_type": "3",
@@ -9335,14 +9335,14 @@
             }
           ],
           "service": {
-            "service_id": "156",
-            "start_date": "20241120",
+            "service_id": "184",
+            "start_date": "20241127",
             "end_date": "20241211"
           }
         },
         {
           "trip_id": "33010000214998062",
-          "service_id": "61",
+          "service_id": "64",
           "stops": [
             {
               "pickup_type": "3",
@@ -9588,8 +9588,8 @@
             }
           ],
           "service": {
-            "service_id": "61",
-            "start_date": "20241115",
+            "service_id": "64",
+            "start_date": "20241129",
             "end_date": "20241213"
           }
         }
@@ -12822,7 +12822,7 @@
       "trips": [
         {
           "trip_id": "33010000214998197",
-          "service_id": "61",
+          "service_id": "64",
           "stops": [
             {
               "pickup_type": "3",
@@ -13057,14 +13057,14 @@
             }
           ],
           "service": {
-            "service_id": "61",
-            "start_date": "20241115",
+            "service_id": "64",
+            "start_date": "20241129",
             "end_date": "20241213"
           }
         },
         {
           "trip_id": "33010000214998232",
-          "service_id": "100",
+          "service_id": "104",
           "stops": [
             {
               "pickup_type": "3",
@@ -13299,8 +13299,8 @@
             }
           ],
           "service": {
-            "service_id": "100",
-            "start_date": "20241118",
+            "service_id": "104",
+            "start_date": "20241202",
             "end_date": "20241209"
           }
         }
@@ -19537,7 +19537,7 @@
       "trips": [
         {
           "trip_id": "33010000214998093",
-          "service_id": "157",
+          "service_id": "185",
           "stops": [
             {
               "pickup_type": "3",
@@ -19750,8 +19750,8 @@
             }
           ],
           "service": {
-            "service_id": "157",
-            "start_date": "20241114",
+            "service_id": "185",
+            "start_date": "20241128",
             "end_date": "20241212"
           }
         }
@@ -22072,7 +22072,7 @@
       "trips": [
         {
           "trip_id": "33010000214998162",
-          "service_id": "105",
+          "service_id": "109",
           "stops": [
             {
               "pickup_type": "3",
@@ -22318,8 +22318,8 @@
             }
           ],
           "service": {
-            "service_id": "105",
-            "start_date": "20241114",
+            "service_id": "109",
+            "start_date": "20241127",
             "end_date": "20241212"
           }
         }

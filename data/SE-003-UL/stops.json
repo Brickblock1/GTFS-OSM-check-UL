@@ -6284,8 +6284,8 @@
   "9021003700360000": {
     "stop_id": "9021003700360000",
     "stop_name": "Fiskgjusev\u00e4gen (Uppsala)",
-    "stop_lat": "59.819969",
-    "stop_lon": "17.709409",
+    "stop_lat": "59.820057",
+    "stop_lon": "17.708915",
     "location_type": "1",
     "parent_station": "",
     "platform_code": ""
@@ -13106,8 +13106,8 @@
   "9021003760111000": {
     "stop_id": "9021003760111000",
     "stop_name": "Husby (Vendel) (Tierp)",
-    "stop_lat": "60.144180",
-    "stop_lon": "17.575890",
+    "stop_lat": "60.144288",
+    "stop_lon": "17.575860",
     "location_type": "1",
     "parent_station": "",
     "platform_code": ""
@@ -13915,9 +13915,9 @@
   },
   "9021003760202000": {
     "stop_id": "9021003760202000",
-    "stop_name": "L\u00f6nn\u00f6 v\u00e4gsk\u00e4l (Tierp)",
-    "stop_lat": "60.533628",
-    "stop_lon": "17.863876",
+    "stop_name": "L\u00f6nn\u00f6 (Tierp)",
+    "stop_lat": "60.533750",
+    "stop_lon": "17.864103",
     "location_type": "1",
     "parent_station": "",
     "platform_code": ""
@@ -28307,8 +28307,8 @@
   "9021003780944000": {
     "stop_id": "9021003780944000",
     "stop_name": "Berget (Stavby) (Uppsala)",
-    "stop_lat": "60.027920",
-    "stop_lon": "18.004034",
+    "stop_lat": "60.027083",
+    "stop_lon": "18.000910",
     "location_type": "1",
     "parent_station": "",
     "platform_code": ""
@@ -36229,6 +36229,24 @@
     "stop_name": "S\u00e4va (Altuna) (Enk\u00f6ping)",
     "stop_lat": "59.845559",
     "stop_lon": "16.909698",
+    "location_type": "1",
+    "parent_station": "",
+    "platform_code": ""
+  },
+  "9021003781973000": {
+    "stop_id": "9021003781973000",
+    "stop_name": "Norrskog (Enk\u00f6ping)",
+    "stop_lat": "59.818725",
+    "stop_lon": "17.189352",
+    "location_type": "1",
+    "parent_station": "",
+    "platform_code": ""
+  },
+  "9021003781974000": {
+    "stop_id": "9021003781974000",
+    "stop_name": "Stockmossen (Enk\u00f6ping)",
+    "stop_lat": "59.820431",
+    "stop_lon": "17.190189",
     "location_type": "1",
     "parent_station": "",
     "platform_code": ""
@@ -55928,8 +55946,8 @@
   "9022003700360002": {
     "stop_id": "9022003700360002",
     "stop_name": "Uppsala Fiskgjusev\u00e4gen",
-    "stop_lat": "59.819863",
-    "stop_lon": "17.709920",
+    "stop_lat": "59.820039",
+    "stop_lon": "17.708932",
     "location_type": "0",
     "parent_station": "9021003700360000",
     "platform_code": "B"
@@ -69203,8 +69221,8 @@
   "9022003760111003": {
     "stop_id": "9022003760111003",
     "stop_name": "Husby",
-    "stop_lat": "60.144698",
-    "stop_lon": "17.575396",
+    "stop_lat": "60.144495",
+    "stop_lon": "17.575817",
     "location_type": "0",
     "parent_station": "9021003760111000",
     "platform_code": "C"
@@ -70840,18 +70858,18 @@
   },
   "9022003760202001": {
     "stop_id": "9022003760202001",
-    "stop_name": "L\u00f6nn\u00f6 Vsk",
-    "stop_lat": "60.533628",
-    "stop_lon": "17.863876",
+    "stop_name": "L\u00f6nn\u00f6",
+    "stop_lat": "60.533769",
+    "stop_lon": "17.864086",
     "location_type": "0",
     "parent_station": "9021003760202000",
     "platform_code": "A"
   },
   "9022003760202002": {
     "stop_id": "9022003760202002",
-    "stop_name": "L\u00f6nn\u00f6 Vsk",
-    "stop_lat": "60.533628",
-    "stop_lon": "17.863876",
+    "stop_name": "L\u00f6nn\u00f6",
+    "stop_lat": "60.533724",
+    "stop_lon": "17.864101",
     "location_type": "0",
     "parent_station": "9021003760202000",
     "platform_code": "B"
@@ -97652,8 +97670,8 @@
   "9022003780944001": {
     "stop_id": "9022003780944001",
     "stop_name": "Berget (Stavby)",
-    "stop_lat": "60.027920",
-    "stop_lon": "18.004034",
+    "stop_lat": "60.027083",
+    "stop_lon": "18.000910",
     "location_type": "0",
     "parent_station": "9021003780944000",
     "platform_code": "A"
@@ -110445,6 +110463,42 @@
     "stop_lon": "16.909146",
     "location_type": "0",
     "parent_station": "9021003781972000",
+    "platform_code": "B"
+  },
+  "9022003781973001": {
+    "stop_id": "9022003781973001",
+    "stop_name": "Norrskog",
+    "stop_lat": "59.818707",
+    "stop_lon": "17.189298",
+    "location_type": "0",
+    "parent_station": "9021003781973000",
+    "platform_code": "A"
+  },
+  "9022003781973002": {
+    "stop_id": "9022003781973002",
+    "stop_name": "Norrskog",
+    "stop_lat": "59.818742",
+    "stop_lon": "17.189406",
+    "location_type": "0",
+    "parent_station": "9021003781973000",
+    "platform_code": "B"
+  },
+  "9022003781974001": {
+    "stop_id": "9022003781974001",
+    "stop_name": "Stockmossen",
+    "stop_lat": "59.820431",
+    "stop_lon": "17.190189",
+    "location_type": "0",
+    "parent_station": "9021003781974000",
+    "platform_code": "A"
+  },
+  "9022003781974002": {
+    "stop_id": "9022003781974002",
+    "stop_name": "Stockmossen",
+    "stop_lat": "59.820430",
+    "stop_lon": "17.190279",
+    "location_type": "0",
+    "parent_station": "9021003781974000",
     "platform_code": "B"
   },
   "9022003782000001": {

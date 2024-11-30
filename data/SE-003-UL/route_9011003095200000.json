@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-11-17",
+  "feed_version": "2024-11-30",
   "route_id": "9011003095200000",
   "agency_id": "33010000000001407",
   "route_short_name": "952",
@@ -50,7 +50,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         },
@@ -94,7 +94,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         }
@@ -711,7 +711,7 @@
       "trips": [
         {
           "trip_id": "33010000198572401",
-          "service_id": "61",
+          "service_id": "64",
           "stops": [
             {
               "pickup_type": "3",
@@ -748,8 +748,8 @@
             }
           ],
           "service": {
-            "service_id": "61",
-            "start_date": "20241115",
+            "service_id": "64",
+            "start_date": "20241129",
             "end_date": "20241213"
           }
         },
@@ -793,7 +793,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         },
@@ -837,7 +837,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         },
@@ -881,7 +881,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         },
@@ -925,7 +925,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         }

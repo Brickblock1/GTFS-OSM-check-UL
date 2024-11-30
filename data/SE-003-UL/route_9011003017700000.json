@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-11-17",
+  "feed_version": "2024-11-30",
   "route_id": "9011003017700000",
   "agency_id": "33010000000001407",
   "route_short_name": "177",
@@ -11,7 +11,7 @@
       "shape_id": "1033010000197804314",
       "trips": [
         {
-          "trip_id": "33010000198930825",
+          "trip_id": "33010000215207206",
           "service_id": "1",
           "stops": [
             {
@@ -347,7 +347,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         }

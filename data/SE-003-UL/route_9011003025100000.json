@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-11-17",
+  "feed_version": "2024-11-30",
   "route_id": "9011003025100000",
   "agency_id": "33010000000001407",
   "route_short_name": "251",
@@ -292,7 +292,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         }
@@ -5717,7 +5717,7 @@
       "trips": [
         {
           "trip_id": "33010000213053059",
-          "service_id": "105",
+          "service_id": "109",
           "stops": [
             {
               "pickup_type": "3",
@@ -5919,8 +5919,8 @@
             }
           ],
           "service": {
-            "service_id": "105",
-            "start_date": "20241114",
+            "service_id": "109",
+            "start_date": "20241127",
             "end_date": "20241212"
           }
         }
@@ -8681,7 +8681,7 @@
       "trips": [
         {
           "trip_id": "33010000213053027",
-          "service_id": "160",
+          "service_id": "188",
           "stops": [
             {
               "pickup_type": "3",
@@ -8916,8 +8916,8 @@
             }
           ],
           "service": {
-            "service_id": "160",
-            "start_date": "20241115",
+            "service_id": "188",
+            "start_date": "20241129",
             "end_date": "20241213"
           }
         }

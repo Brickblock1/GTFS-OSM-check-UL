@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-11-17",
+  "feed_version": "2024-11-30",
   "route_id": "9011003022600000",
   "agency_id": "33010000000001407",
   "route_short_name": "226",
@@ -105,7 +105,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         },
@@ -204,106 +204,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
-            "end_date": "20241213"
-          }
-        },
-        {
-          "trip_id": "33010000198898533",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003781023002",
-              "stop_name": "Haga v\u00e4ndslinga",
-              "stop_lat": "59.604601",
-              "stop_lon": "17.052200",
-              "location_type": "0",
-              "parent_station": "9021003781023000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781024001",
-              "stop_name": "Haga konferenscenter",
-              "stop_lat": "59.606062",
-              "stop_lon": "17.047702",
-              "location_type": "0",
-              "parent_station": "9021003781024000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781149001",
-              "stop_name": "Vappa s\u00e4teri",
-              "stop_lat": "59.620314",
-              "stop_lon": "17.042380",
-              "location_type": "0",
-              "parent_station": "9021003781149000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781166003",
-              "stop_name": "Enk\u00f6ping Lasarettet",
-              "stop_lat": "59.629535",
-              "stop_lon": "17.067623",
-              "location_type": "0",
-              "parent_station": "9021003781166000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781172001",
-              "stop_name": "Enk\u00f6ping Enavallen",
-              "stop_lat": "59.631501",
-              "stop_lon": "17.071366",
-              "location_type": "0",
-              "parent_station": "9021003781172000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781002003",
-              "stop_name": "Gustav Adolfs plan",
-              "stop_lat": "59.636655",
-              "stop_lon": "17.075886",
-              "location_type": "0",
-              "parent_station": "9021003781002000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781416001",
-              "stop_name": "Enk\u00f6ping S:t Iliansskolan",
-              "stop_lat": "59.642282",
-              "stop_lon": "17.078847",
-              "location_type": "0",
-              "parent_station": "9021003781416000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003781210003",
-              "stop_name": "Enk\u00f6ping station",
-              "stop_lat": "59.644543",
-              "stop_lon": "17.086381",
-              "location_type": "0",
-              "parent_station": "9021003781210000",
-              "platform_code": "B1"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         },
@@ -402,7 +303,106 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "33010000198898533",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003781023002",
+              "stop_name": "Haga v\u00e4ndslinga",
+              "stop_lat": "59.604601",
+              "stop_lon": "17.052200",
+              "location_type": "0",
+              "parent_station": "9021003781023000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003781024001",
+              "stop_name": "Haga konferenscenter",
+              "stop_lat": "59.606062",
+              "stop_lon": "17.047702",
+              "location_type": "0",
+              "parent_station": "9021003781024000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003781149001",
+              "stop_name": "Vappa s\u00e4teri",
+              "stop_lat": "59.620314",
+              "stop_lon": "17.042380",
+              "location_type": "0",
+              "parent_station": "9021003781149000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003781166003",
+              "stop_name": "Enk\u00f6ping Lasarettet",
+              "stop_lat": "59.629535",
+              "stop_lon": "17.067623",
+              "location_type": "0",
+              "parent_station": "9021003781166000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003781172001",
+              "stop_name": "Enk\u00f6ping Enavallen",
+              "stop_lat": "59.631501",
+              "stop_lon": "17.071366",
+              "location_type": "0",
+              "parent_station": "9021003781172000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003781002003",
+              "stop_name": "Gustav Adolfs plan",
+              "stop_lat": "59.636655",
+              "stop_lon": "17.075886",
+              "location_type": "0",
+              "parent_station": "9021003781002000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003781416001",
+              "stop_name": "Enk\u00f6ping S:t Iliansskolan",
+              "stop_lat": "59.642282",
+              "stop_lon": "17.078847",
+              "location_type": "0",
+              "parent_station": "9021003781416000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003781210003",
+              "stop_name": "Enk\u00f6ping station",
+              "stop_lat": "59.644543",
+              "stop_lon": "17.086381",
+              "location_type": "0",
+              "parent_station": "9021003781210000",
+              "platform_code": "B1"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         }
@@ -1901,7 +1901,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         }
@@ -4055,7 +4055,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         },
@@ -4154,7 +4154,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         }
@@ -5934,7 +5934,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         },
@@ -6055,7 +6055,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241114",
+            "start_date": "20241127",
             "end_date": "20241213"
           }
         }
