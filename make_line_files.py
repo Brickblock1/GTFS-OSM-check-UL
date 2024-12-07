@@ -177,7 +177,8 @@ inuse_stops = set()
 
 for stopidk in stop_refs_dict.values():
     for stopidk2 in stopidk:
-        stopidk2 = list(stopidk2.values())[0]
+        #print(list(stopidk2.values()))
+        #stopidk2 = list(stopidk2.values())[0]
         inuse_stops.add(stopidk2["stop_id"])
 
 for stop in stops_dict.values():

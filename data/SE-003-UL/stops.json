@@ -7812,8 +7812,8 @@
   "9021003700531000": {
     "stop_id": "9021003700531000",
     "stop_name": "Sofielundsgatan (Uppsala)",
-    "stop_lat": "59.852369",
-    "stop_lon": "17.664984",
+    "stop_lat": "59.852739",
+    "stop_lon": "17.664237",
     "location_type": "1",
     "parent_station": "",
     "platform_code": "",
@@ -22682,8 +22682,8 @@
   "9021003780020000": {
     "stop_id": "9021003780020000",
     "stop_name": "Wiks slott (Uppsala)",
-    "stop_lat": "59.736355",
-    "stop_lon": "17.463556",
+    "stop_lat": "59.737292",
+    "stop_lon": "17.463265",
     "location_type": "1",
     "parent_station": "",
     "platform_code": "",
@@ -31532,8 +31532,8 @@
   "9021003780953000": {
     "stop_id": "9021003780953000",
     "stop_name": "\u00c5kerl\u00e4nna skola (Uppsala)",
-    "stop_lat": "60.024426",
-    "stop_lon": "17.370352",
+    "stop_lat": "60.025396",
+    "stop_lon": "17.370290",
     "location_type": "1",
     "parent_station": "",
     "platform_code": "",
@@ -55457,7 +55457,7 @@
     "location_type": "0",
     "parent_station": "9021003194007000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003194007002": {
     "stop_id": "9022003194007002",
@@ -55467,7 +55467,7 @@
     "location_type": "0",
     "parent_station": "9021003194007000",
     "platform_code": "B",
-    "inuse": false
+    "inuse": true
   },
   "9022003194008001": {
     "stop_id": "9022003194008001",
@@ -55477,7 +55477,7 @@
     "location_type": "0",
     "parent_station": "9021003194008000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003194008002": {
     "stop_id": "9022003194008002",
@@ -55487,7 +55487,7 @@
     "location_type": "0",
     "parent_station": "9021003194008000",
     "platform_code": "B",
-    "inuse": false
+    "inuse": true
   },
   "9022003194009001": {
     "stop_id": "9022003194009001",
@@ -58857,7 +58857,7 @@
     "location_type": "0",
     "parent_station": "9021003700128000",
     "platform_code": "D",
-    "inuse": true
+    "inuse": false
   },
   "9022003700128005": {
     "stop_id": "9022003700128005",
@@ -58867,7 +58867,7 @@
     "location_type": "0",
     "parent_station": "9021003700128000",
     "platform_code": "E",
-    "inuse": true
+    "inuse": false
   },
   "9022003700128006": {
     "stop_id": "9022003700128006",
@@ -63862,8 +63862,8 @@
   "9022003700531002": {
     "stop_id": "9022003700531002",
     "stop_name": "Uppsala Sofielundsgatan",
-    "stop_lat": "59.852001",
-    "stop_lon": "17.665624",
+    "stop_lat": "59.852732",
+    "stop_lon": "17.664112",
     "location_type": "0",
     "parent_station": "9021003700531000",
     "platform_code": "B",
@@ -64527,7 +64527,7 @@
     "location_type": "0",
     "parent_station": "9021003700581000",
     "platform_code": "A",
-    "inuse": true
+    "inuse": false
   },
   "9022003700581002": {
     "stop_id": "9022003700581002",
@@ -64537,7 +64537,7 @@
     "location_type": "0",
     "parent_station": "9021003700581000",
     "platform_code": "B",
-    "inuse": true
+    "inuse": false
   },
   "9022003700581004": {
     "stop_id": "9022003700581004",
@@ -64547,7 +64547,7 @@
     "location_type": "0",
     "parent_station": "9021003700581000",
     "platform_code": "D",
-    "inuse": true
+    "inuse": false
   },
   "9022003700581005": {
     "stop_id": "9022003700581005",
@@ -64747,7 +64747,7 @@
     "location_type": "0",
     "parent_station": "9021003700594000",
     "platform_code": "A",
-    "inuse": true
+    "inuse": false
   },
   "9022003700594002": {
     "stop_id": "9022003700594002",
@@ -64757,7 +64757,7 @@
     "location_type": "0",
     "parent_station": "9021003700594000",
     "platform_code": "B",
-    "inuse": true
+    "inuse": false
   },
   "9022003700595002": {
     "stop_id": "9022003700595002",
@@ -74627,7 +74627,7 @@
     "location_type": "0",
     "parent_station": "9021003730187000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003730187002": {
     "stop_id": "9022003730187002",
@@ -76917,7 +76917,7 @@
     "location_type": "0",
     "parent_station": "9021003760111000",
     "platform_code": "C",
-    "inuse": false
+    "inuse": true
   },
   "9022003760111004": {
     "stop_id": "9022003760111004",
@@ -76927,7 +76927,7 @@
     "location_type": "0",
     "parent_station": "9021003760111000",
     "platform_code": "D",
-    "inuse": false
+    "inuse": true
   },
   "9022003760112001": {
     "stop_id": "9022003760112001",
@@ -78737,7 +78737,7 @@
     "location_type": "0",
     "parent_station": "9021003760202000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003760202002": {
     "stop_id": "9022003760202002",
@@ -78747,7 +78747,7 @@
     "location_type": "0",
     "parent_station": "9021003760202000",
     "platform_code": "B",
-    "inuse": false
+    "inuse": true
   },
   "9022003760203001": {
     "stop_id": "9022003760203001",
@@ -83277,7 +83277,7 @@
     "location_type": "0",
     "parent_station": "9021003760441000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003760441002": {
     "stop_id": "9022003760441002",
@@ -83287,7 +83287,7 @@
     "location_type": "0",
     "parent_station": "9021003760441000",
     "platform_code": "B",
-    "inuse": false
+    "inuse": true
   },
   "9022003760601001": {
     "stop_id": "9022003760601001",
@@ -83787,7 +83787,7 @@
     "location_type": "0",
     "parent_station": "9021003760724000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003760724002": {
     "stop_id": "9022003760724002",
@@ -83797,7 +83797,7 @@
     "location_type": "0",
     "parent_station": "9021003760724000",
     "platform_code": "B",
-    "inuse": false
+    "inuse": true
   },
   "9022003779006001": {
     "stop_id": "9022003779006001",
@@ -86447,7 +86447,7 @@
     "location_type": "0",
     "parent_station": "9021003779334000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003779334002": {
     "stop_id": "9022003779334002",
@@ -86457,7 +86457,7 @@
     "location_type": "0",
     "parent_station": "9021003779334000",
     "platform_code": "B",
-    "inuse": false
+    "inuse": true
   },
   "9022003779335001": {
     "stop_id": "9022003779335001",
@@ -86467,7 +86467,7 @@
     "location_type": "0",
     "parent_station": "9021003779335000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003779335002": {
     "stop_id": "9022003779335002",
@@ -86477,7 +86477,7 @@
     "location_type": "0",
     "parent_station": "9021003779335000",
     "platform_code": "B",
-    "inuse": false
+    "inuse": true
   },
   "9022003779336001": {
     "stop_id": "9022003779336001",
@@ -86487,7 +86487,7 @@
     "location_type": "0",
     "parent_station": "9021003779336000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003779336002": {
     "stop_id": "9022003779336002",
@@ -86497,7 +86497,7 @@
     "location_type": "0",
     "parent_station": "9021003779336000",
     "platform_code": "B",
-    "inuse": false
+    "inuse": true
   },
   "9022003779337001": {
     "stop_id": "9022003779337001",
@@ -86507,7 +86507,7 @@
     "location_type": "0",
     "parent_station": "9021003779337000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003779337002": {
     "stop_id": "9022003779337002",
@@ -86517,7 +86517,7 @@
     "location_type": "0",
     "parent_station": "9021003779337000",
     "platform_code": "B",
-    "inuse": false
+    "inuse": true
   },
   "9022003779338001": {
     "stop_id": "9022003779338001",
@@ -86527,7 +86527,7 @@
     "location_type": "0",
     "parent_station": "9021003779338000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003779338002": {
     "stop_id": "9022003779338002",
@@ -86537,7 +86537,7 @@
     "location_type": "0",
     "parent_station": "9021003779338000",
     "platform_code": "B",
-    "inuse": false
+    "inuse": true
   },
   "9022003779339001": {
     "stop_id": "9022003779339001",
@@ -86547,7 +86547,7 @@
     "location_type": "0",
     "parent_station": "9021003779339000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003779339002": {
     "stop_id": "9022003779339002",
@@ -86557,7 +86557,7 @@
     "location_type": "0",
     "parent_station": "9021003779339000",
     "platform_code": "B",
-    "inuse": false
+    "inuse": true
   },
   "9022003779340001": {
     "stop_id": "9022003779340001",
@@ -86567,7 +86567,7 @@
     "location_type": "0",
     "parent_station": "9021003779340000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003779340002": {
     "stop_id": "9022003779340002",
@@ -86577,7 +86577,7 @@
     "location_type": "0",
     "parent_station": "9021003779340000",
     "platform_code": "B",
-    "inuse": false
+    "inuse": true
   },
   "9022003779341001": {
     "stop_id": "9022003779341001",
@@ -88777,7 +88777,7 @@
     "location_type": "0",
     "parent_station": "9021003779601000",
     "platform_code": "B",
-    "inuse": false
+    "inuse": true
   },
   "9022003779602002": {
     "stop_id": "9022003779602002",
@@ -89517,7 +89517,7 @@
     "location_type": "0",
     "parent_station": "9021003779657000",
     "platform_code": "B",
-    "inuse": false
+    "inuse": true
   },
   "9022003779658001": {
     "stop_id": "9022003779658001",
@@ -90552,12 +90552,12 @@
   "9022003780020002": {
     "stop_id": "9022003780020002",
     "stop_name": "Wiks slott",
-    "stop_lat": "59.737228",
-    "stop_lon": "17.461946",
+    "stop_lat": "59.738230",
+    "stop_lon": "17.462938",
     "location_type": "0",
     "parent_station": "9021003780020000",
     "platform_code": "B",
-    "inuse": false
+    "inuse": true
   },
   "9022003780021001": {
     "stop_id": "9022003780021001",
@@ -108612,8 +108612,8 @@
   "9022003780953001": {
     "stop_id": "9022003780953001",
     "stop_name": "\u00c5kerl\u00e4nna skola",
-    "stop_lat": "60.024426",
-    "stop_lon": "17.370352",
+    "stop_lat": "60.025396",
+    "stop_lon": "17.370290",
     "location_type": "0",
     "parent_station": "9021003780953000",
     "platform_code": "A",
@@ -110147,7 +110147,7 @@
     "location_type": "0",
     "parent_station": "9021003781055000",
     "platform_code": "B",
-    "inuse": false
+    "inuse": true
   },
   "9022003781057001": {
     "stop_id": "9022003781057001",
@@ -115527,7 +115527,7 @@
     "location_type": "0",
     "parent_station": "9021003781368000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003781368002": {
     "stop_id": "9022003781368002",
@@ -120147,7 +120147,7 @@
     "location_type": "0",
     "parent_station": "9021003781773000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003781774001": {
     "stop_id": "9022003781774001",
@@ -120347,7 +120347,7 @@
     "location_type": "0",
     "parent_station": "9021003781789000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003781790001": {
     "stop_id": "9022003781790001",
@@ -120557,7 +120557,7 @@
     "location_type": "0",
     "parent_station": "9021003781809000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003781811001": {
     "stop_id": "9022003781811001",
@@ -121647,7 +121647,7 @@
     "location_type": "0",
     "parent_station": "9021003781911000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003781912001": {
     "stop_id": "9022003781912001",
@@ -122747,7 +122747,7 @@
     "location_type": "0",
     "parent_station": "9021003781973000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003781973002": {
     "stop_id": "9022003781973002",
@@ -122767,7 +122767,7 @@
     "location_type": "0",
     "parent_station": "9021003781974000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003781974002": {
     "stop_id": "9022003781974002",
@@ -127057,7 +127057,7 @@
     "location_type": "0",
     "parent_station": "9021003782200000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003782200002": {
     "stop_id": "9022003782200002",
@@ -133387,7 +133387,7 @@
     "location_type": "0",
     "parent_station": "9021003782566000",
     "platform_code": "A",
-    "inuse": false
+    "inuse": true
   },
   "9022003791227001": {
     "stop_id": "9022003791227001",
