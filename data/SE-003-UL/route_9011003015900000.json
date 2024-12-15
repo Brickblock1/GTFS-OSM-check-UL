@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-07",
+  "feed_version": "2024-12-15",
   "route_id": "9011003015900000",
   "agency_id": "33010000000001407",
   "route_short_name": "159",
@@ -12,7 +12,7 @@
       "trips": [
         {
           "trip_id": "33010000198942861",
-          "service_id": "237",
+          "service_id": "213",
           "stops": [
             {
               "pickup_type": "3",
@@ -38,14 +38,14 @@
             }
           ],
           "service": {
-            "service_id": "237",
+            "service_id": "213",
             "start_date": "20250110",
             "end_date": "20250523"
           }
         },
         {
           "trip_id": "33010000198942837",
-          "service_id": "238",
+          "service_id": "214",
           "stops": [
             {
               "pickup_type": "3",
@@ -71,14 +71,14 @@
             }
           ],
           "service": {
-            "service_id": "238",
+            "service_id": "214",
             "start_date": "20241219",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000198942849",
-          "service_id": "238",
+          "service_id": "214",
           "stops": [
             {
               "pickup_type": "3",
@@ -104,14 +104,14 @@
             }
           ],
           "service": {
-            "service_id": "238",
+            "service_id": "214",
             "start_date": "20241219",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000213509648",
-          "service_id": "240",
+          "service_id": "18",
           "stops": [
             {
               "pickup_type": "3",
@@ -137,14 +137,14 @@
             }
           ],
           "service": {
-            "service_id": "240",
-            "start_date": "20241205",
+            "service_id": "18",
+            "start_date": "20241212",
             "end_date": "20241212"
           }
         },
         {
           "trip_id": "33010000213509658",
-          "service_id": "240",
+          "service_id": "18",
           "stops": [
             {
               "pickup_type": "3",
@@ -170,14 +170,14 @@
             }
           ],
           "service": {
-            "service_id": "240",
-            "start_date": "20241205",
+            "service_id": "18",
+            "start_date": "20241212",
             "end_date": "20241212"
           }
         },
         {
           "trip_id": "33010000213509668",
-          "service_id": "94",
+          "service_id": "62",
           "stops": [
             {
               "pickup_type": "3",
@@ -203,14 +203,14 @@
             }
           ],
           "service": {
-            "service_id": "94",
-            "start_date": "20241206",
+            "service_id": "62",
+            "start_date": "20241213",
             "end_date": "20241213"
           }
         },
         {
           "trip_id": "33010000216171499",
-          "service_id": "241",
+          "service_id": "215",
           "stops": [
             {
               "pickup_type": "3",
@@ -236,7 +236,7 @@
             }
           ],
           "service": {
-            "service_id": "241",
+            "service_id": "215",
             "start_date": "20250109",
             "end_date": "20250612"
           }
@@ -822,7 +822,7 @@
       "trips": [
         {
           "trip_id": "33010000198942940",
-          "service_id": "223",
+          "service_id": "202",
           "stops": [
             {
               "pickup_type": "3",
@@ -848,14 +848,14 @@
             }
           ],
           "service": {
-            "service_id": "223",
-            "start_date": "20241205",
+            "service_id": "202",
+            "start_date": "20241212",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000198942952",
-          "service_id": "223",
+          "service_id": "202",
           "stops": [
             {
               "pickup_type": "3",
@@ -881,14 +881,14 @@
             }
           ],
           "service": {
-            "service_id": "223",
-            "start_date": "20241205",
+            "service_id": "202",
+            "start_date": "20241212",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000201342024",
-          "service_id": "239",
+          "service_id": "193",
           "stops": [
             {
               "pickup_type": "3",
@@ -914,14 +914,14 @@
             }
           ],
           "service": {
-            "service_id": "239",
-            "start_date": "20241209",
+            "service_id": "193",
+            "start_date": "20241216",
             "end_date": "20241216"
           }
         },
         {
           "trip_id": "33010000216171480",
-          "service_id": "242",
+          "service_id": "216",
           "stops": [
             {
               "pickup_type": "3",
@@ -947,7 +947,7 @@
             }
           ],
           "service": {
-            "service_id": "242",
+            "service_id": "216",
             "start_date": "20250113",
             "end_date": "20250609"
           }
@@ -2385,7 +2385,7 @@
       "trips": [
         {
           "trip_id": "33010000198942889",
-          "service_id": "215",
+          "service_id": "194",
           "stops": [
             {
               "pickup_type": "3",
@@ -2411,8 +2411,8 @@
             }
           ],
           "service": {
-            "service_id": "215",
-            "start_date": "20241210",
+            "service_id": "194",
+            "start_date": "20241217",
             "end_date": "20250610"
           }
         }
@@ -4677,7 +4677,7 @@
       "trips": [
         {
           "trip_id": "33010000198942914",
-          "service_id": "215",
+          "service_id": "194",
           "stops": [
             {
               "pickup_type": "3",
@@ -4714,8 +4714,8 @@
             }
           ],
           "service": {
-            "service_id": "215",
-            "start_date": "20241210",
+            "service_id": "194",
+            "start_date": "20241217",
             "end_date": "20250610"
           }
         }
@@ -6836,7 +6836,7 @@
       "trips": [
         {
           "trip_id": "33010000201342001",
-          "service_id": "209",
+          "service_id": "187",
           "stops": [
             {
               "pickup_type": "3",
@@ -6862,14 +6862,14 @@
             }
           ],
           "service": {
-            "service_id": "209",
-            "start_date": "20241204",
+            "service_id": "187",
+            "start_date": "20241217",
             "end_date": "20250611"
           }
         },
         {
           "trip_id": "33010000201341974",
-          "service_id": "209",
+          "service_id": "187",
           "stops": [
             {
               "pickup_type": "3",
@@ -6895,8 +6895,8 @@
             }
           ],
           "service": {
-            "service_id": "209",
-            "start_date": "20241204",
+            "service_id": "187",
+            "start_date": "20241217",
             "end_date": "20250611"
           }
         }
@@ -7313,7 +7313,7 @@
       "trips": [
         {
           "trip_id": "33010000213222225",
-          "service_id": "221",
+          "service_id": "200",
           "stops": [
             {
               "pickup_type": "3",
@@ -7339,8 +7339,8 @@
             }
           ],
           "service": {
-            "service_id": "221",
-            "start_date": "20241204",
+            "service_id": "200",
+            "start_date": "20241218",
             "end_date": "20250611"
           }
         }
@@ -8589,7 +8589,7 @@
       "trips": [
         {
           "trip_id": "33010000198943071",
-          "service_id": "237",
+          "service_id": "213",
           "stops": [
             {
               "pickup_type": "3",
@@ -8615,14 +8615,14 @@
             }
           ],
           "service": {
-            "service_id": "237",
+            "service_id": "213",
             "start_date": "20250110",
             "end_date": "20250523"
           }
         },
         {
           "trip_id": "33010000198943027",
-          "service_id": "238",
+          "service_id": "214",
           "stops": [
             {
               "pickup_type": "3",
@@ -8648,47 +8648,14 @@
             }
           ],
           "service": {
-            "service_id": "238",
+            "service_id": "214",
             "start_date": "20241219",
             "end_date": "20250612"
           }
         },
         {
-          "trip_id": "33010000198943051",
-          "service_id": "237",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003780965001",
-              "stop_name": "Uppsala Upps\u00e4vjaskolan",
-              "stop_lat": "59.820323",
-              "stop_lon": "17.706078",
-              "location_type": "0",
-              "parent_station": "9021003780965000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780197003",
-              "stop_name": "Danmarks skola",
-              "stop_lat": "59.830519",
-              "stop_lon": "17.739581",
-              "location_type": "0",
-              "parent_station": "9021003780197000",
-              "platform_code": "C"
-            }
-          ],
-          "service": {
-            "service_id": "237",
-            "start_date": "20250110",
-            "end_date": "20250523"
-          }
-        },
-        {
           "trip_id": "33010000198943015",
-          "service_id": "238",
+          "service_id": "214",
           "stops": [
             {
               "pickup_type": "3",
@@ -8714,14 +8681,14 @@
             }
           ],
           "service": {
-            "service_id": "238",
+            "service_id": "214",
             "start_date": "20241219",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000198943039",
-          "service_id": "238",
+          "service_id": "214",
           "stops": [
             {
               "pickup_type": "3",
@@ -8747,14 +8714,14 @@
             }
           ],
           "service": {
-            "service_id": "238",
+            "service_id": "214",
             "start_date": "20241219",
             "end_date": "20250612"
           }
         },
         {
-          "trip_id": "33010000213509688",
-          "service_id": "240",
+          "trip_id": "33010000198943051",
+          "service_id": "213",
           "stops": [
             {
               "pickup_type": "3",
@@ -8780,80 +8747,14 @@
             }
           ],
           "service": {
-            "service_id": "240",
-            "start_date": "20241205",
-            "end_date": "20241212"
-          }
-        },
-        {
-          "trip_id": "33010000213509698",
-          "service_id": "240",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003780965001",
-              "stop_name": "Uppsala Upps\u00e4vjaskolan",
-              "stop_lat": "59.820323",
-              "stop_lon": "17.706078",
-              "location_type": "0",
-              "parent_station": "9021003780965000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780197003",
-              "stop_name": "Danmarks skola",
-              "stop_lat": "59.830519",
-              "stop_lon": "17.739581",
-              "location_type": "0",
-              "parent_station": "9021003780197000",
-              "platform_code": "C"
-            }
-          ],
-          "service": {
-            "service_id": "240",
-            "start_date": "20241205",
-            "end_date": "20241212"
-          }
-        },
-        {
-          "trip_id": "33010000213509678",
-          "service_id": "240",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003780965001",
-              "stop_name": "Uppsala Upps\u00e4vjaskolan",
-              "stop_lat": "59.820323",
-              "stop_lon": "17.706078",
-              "location_type": "0",
-              "parent_station": "9021003780965000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780197003",
-              "stop_name": "Danmarks skola",
-              "stop_lat": "59.830519",
-              "stop_lon": "17.739581",
-              "location_type": "0",
-              "parent_station": "9021003780197000",
-              "platform_code": "C"
-            }
-          ],
-          "service": {
-            "service_id": "240",
-            "start_date": "20241205",
-            "end_date": "20241212"
+            "service_id": "213",
+            "start_date": "20250110",
+            "end_date": "20250523"
           }
         },
         {
           "trip_id": "33010000213509708",
-          "service_id": "94",
+          "service_id": "62",
           "stops": [
             {
               "pickup_type": "3",
@@ -8879,14 +8780,14 @@
             }
           ],
           "service": {
-            "service_id": "94",
-            "start_date": "20241206",
+            "service_id": "62",
+            "start_date": "20241213",
             "end_date": "20241213"
           }
         },
         {
           "trip_id": "33010000213509718",
-          "service_id": "94",
+          "service_id": "62",
           "stops": [
             {
               "pickup_type": "3",
@@ -8912,9 +8813,108 @@
             }
           ],
           "service": {
-            "service_id": "94",
-            "start_date": "20241206",
+            "service_id": "62",
+            "start_date": "20241213",
             "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "33010000213509698",
+          "service_id": "18",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003780965001",
+              "stop_name": "Uppsala Upps\u00e4vjaskolan",
+              "stop_lat": "59.820323",
+              "stop_lon": "17.706078",
+              "location_type": "0",
+              "parent_station": "9021003780965000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780197003",
+              "stop_name": "Danmarks skola",
+              "stop_lat": "59.830519",
+              "stop_lon": "17.739581",
+              "location_type": "0",
+              "parent_station": "9021003780197000",
+              "platform_code": "C"
+            }
+          ],
+          "service": {
+            "service_id": "18",
+            "start_date": "20241212",
+            "end_date": "20241212"
+          }
+        },
+        {
+          "trip_id": "33010000213509678",
+          "service_id": "18",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003780965001",
+              "stop_name": "Uppsala Upps\u00e4vjaskolan",
+              "stop_lat": "59.820323",
+              "stop_lon": "17.706078",
+              "location_type": "0",
+              "parent_station": "9021003780965000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780197003",
+              "stop_name": "Danmarks skola",
+              "stop_lat": "59.830519",
+              "stop_lon": "17.739581",
+              "location_type": "0",
+              "parent_station": "9021003780197000",
+              "platform_code": "C"
+            }
+          ],
+          "service": {
+            "service_id": "18",
+            "start_date": "20241212",
+            "end_date": "20241212"
+          }
+        },
+        {
+          "trip_id": "33010000213509688",
+          "service_id": "18",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003780965001",
+              "stop_name": "Uppsala Upps\u00e4vjaskolan",
+              "stop_lat": "59.820323",
+              "stop_lon": "17.706078",
+              "location_type": "0",
+              "parent_station": "9021003780965000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780197003",
+              "stop_name": "Danmarks skola",
+              "stop_lat": "59.830519",
+              "stop_lon": "17.739581",
+              "location_type": "0",
+              "parent_station": "9021003780197000",
+              "platform_code": "C"
+            }
+          ],
+          "service": {
+            "service_id": "18",
+            "start_date": "20241212",
+            "end_date": "20241212"
           }
         }
       ],
@@ -9506,7 +9506,7 @@
       "trips": [
         {
           "trip_id": "33010000198943110",
-          "service_id": "215",
+          "service_id": "194",
           "stops": [
             {
               "pickup_type": "3",
@@ -9543,8 +9543,8 @@
             }
           ],
           "service": {
-            "service_id": "215",
-            "start_date": "20241210",
+            "service_id": "194",
+            "start_date": "20241217",
             "end_date": "20250610"
           }
         }
@@ -11721,7 +11721,7 @@
       "trips": [
         {
           "trip_id": "33010000198943159",
-          "service_id": "223",
+          "service_id": "202",
           "stops": [
             {
               "pickup_type": "3",
@@ -11747,14 +11747,47 @@
             }
           ],
           "service": {
-            "service_id": "223",
-            "start_date": "20241205",
+            "service_id": "202",
+            "start_date": "20241212",
+            "end_date": "20250612"
+          }
+        },
+        {
+          "trip_id": "33010000198943147",
+          "service_id": "202",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003780128009",
+              "stop_name": "Almunge skola",
+              "stop_lat": "59.866676",
+              "stop_lon": "18.071806",
+              "location_type": "0",
+              "parent_station": "9021003780128000",
+              "platform_code": "I"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003780027004",
+              "stop_name": "Knutby skola",
+              "stop_lat": "59.911618",
+              "stop_lon": "18.267554",
+              "location_type": "0",
+              "parent_station": "9021003780027000",
+              "platform_code": "D"
+            }
+          ],
+          "service": {
+            "service_id": "202",
+            "start_date": "20241212",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000198943136",
-          "service_id": "180",
+          "service_id": "161",
           "stops": [
             {
               "pickup_type": "3",
@@ -11780,42 +11813,9 @@
             }
           ],
           "service": {
-            "service_id": "180",
-            "start_date": "20241209",
+            "service_id": "161",
+            "start_date": "20241216",
             "end_date": "20250609"
-          }
-        },
-        {
-          "trip_id": "33010000198943147",
-          "service_id": "223",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003780128009",
-              "stop_name": "Almunge skola",
-              "stop_lat": "59.866676",
-              "stop_lon": "18.071806",
-              "location_type": "0",
-              "parent_station": "9021003780128000",
-              "platform_code": "I"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780027004",
-              "stop_name": "Knutby skola",
-              "stop_lat": "59.911618",
-              "stop_lon": "18.267554",
-              "location_type": "0",
-              "parent_station": "9021003780027000",
-              "platform_code": "D"
-            }
-          ],
-          "service": {
-            "service_id": "223",
-            "start_date": "20241205",
-            "end_date": "20250612"
           }
         }
       ],
@@ -13227,7 +13227,7 @@
       "trips": [
         {
           "trip_id": "33010000198943097",
-          "service_id": "215",
+          "service_id": "194",
           "stops": [
             {
               "pickup_type": "3",
@@ -13253,14 +13253,14 @@
             }
           ],
           "service": {
-            "service_id": "215",
-            "start_date": "20241210",
+            "service_id": "194",
+            "start_date": "20241217",
             "end_date": "20250610"
           }
         },
         {
           "trip_id": "33010000198943085",
-          "service_id": "215",
+          "service_id": "194",
           "stops": [
             {
               "pickup_type": "3",
@@ -13286,8 +13286,8 @@
             }
           ],
           "service": {
-            "service_id": "215",
-            "start_date": "20241210",
+            "service_id": "194",
+            "start_date": "20241217",
             "end_date": "20250610"
           }
         }
@@ -15600,7 +15600,7 @@
       "trips": [
         {
           "trip_id": "33010000198943183",
-          "service_id": "209",
+          "service_id": "187",
           "stops": [
             {
               "pickup_type": "3",
@@ -15626,80 +15626,14 @@
             }
           ],
           "service": {
-            "service_id": "209",
-            "start_date": "20241204",
-            "end_date": "20250611"
-          }
-        },
-        {
-          "trip_id": "33010000201342053",
-          "service_id": "215",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003780965001",
-              "stop_name": "Uppsala Upps\u00e4vjaskolan",
-              "stop_lat": "59.820323",
-              "stop_lon": "17.706078",
-              "location_type": "0",
-              "parent_station": "9021003780965000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700364001",
-              "stop_name": "Uppsala V\u00e4vstolsv\u00e4gen",
-              "stop_lat": "59.814881",
-              "stop_lon": "17.683645",
-              "location_type": "0",
-              "parent_station": "9021003700364000",
-              "platform_code": "A"
-            }
-          ],
-          "service": {
-            "service_id": "215",
-            "start_date": "20241210",
-            "end_date": "20250610"
-          }
-        },
-        {
-          "trip_id": "33010000201342082",
-          "service_id": "221",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003780965001",
-              "stop_name": "Uppsala Upps\u00e4vjaskolan",
-              "stop_lat": "59.820323",
-              "stop_lon": "17.706078",
-              "location_type": "0",
-              "parent_station": "9021003780965000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700364001",
-              "stop_name": "Uppsala V\u00e4vstolsv\u00e4gen",
-              "stop_lat": "59.814881",
-              "stop_lon": "17.683645",
-              "location_type": "0",
-              "parent_station": "9021003700364000",
-              "platform_code": "A"
-            }
-          ],
-          "service": {
-            "service_id": "221",
-            "start_date": "20241204",
+            "service_id": "187",
+            "start_date": "20241217",
             "end_date": "20250611"
           }
         },
         {
           "trip_id": "33010000201342069",
-          "service_id": "215",
+          "service_id": "194",
           "stops": [
             {
               "pickup_type": "3",
@@ -15725,9 +15659,75 @@
             }
           ],
           "service": {
-            "service_id": "215",
-            "start_date": "20241210",
+            "service_id": "194",
+            "start_date": "20241217",
             "end_date": "20250610"
+          }
+        },
+        {
+          "trip_id": "33010000201342053",
+          "service_id": "194",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003780965001",
+              "stop_name": "Uppsala Upps\u00e4vjaskolan",
+              "stop_lat": "59.820323",
+              "stop_lon": "17.706078",
+              "location_type": "0",
+              "parent_station": "9021003780965000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700364001",
+              "stop_name": "Uppsala V\u00e4vstolsv\u00e4gen",
+              "stop_lat": "59.814881",
+              "stop_lon": "17.683645",
+              "location_type": "0",
+              "parent_station": "9021003700364000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "194",
+            "start_date": "20241217",
+            "end_date": "20250610"
+          }
+        },
+        {
+          "trip_id": "33010000201342082",
+          "service_id": "200",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003780965001",
+              "stop_name": "Uppsala Upps\u00e4vjaskolan",
+              "stop_lat": "59.820323",
+              "stop_lon": "17.706078",
+              "location_type": "0",
+              "parent_station": "9021003780965000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700364001",
+              "stop_name": "Uppsala V\u00e4vstolsv\u00e4gen",
+              "stop_lat": "59.814881",
+              "stop_lon": "17.683645",
+              "location_type": "0",
+              "parent_station": "9021003700364000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "200",
+            "start_date": "20241218",
+            "end_date": "20250611"
           }
         }
       ],
@@ -16131,7 +16131,7 @@
       "trips": [
         {
           "trip_id": "33010000213222256",
-          "service_id": "221",
+          "service_id": "200",
           "stops": [
             {
               "pickup_type": "3",
@@ -16157,8 +16157,8 @@
             }
           ],
           "service": {
-            "service_id": "221",
-            "start_date": "20241204",
+            "service_id": "200",
+            "start_date": "20241218",
             "end_date": "20250611"
           }
         }

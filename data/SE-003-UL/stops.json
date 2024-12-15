@@ -4701,9 +4701,9 @@
   },
   "9021003700022000": {
     "stop_id": "9021003700022000",
-    "stop_name": "Rosendals skola (Uppsala)",
-    "stop_lat": "59.832549",
-    "stop_lon": "17.639783",
+    "stop_name": "Rosendalsv\u00e4gen (Uppsala)",
+    "stop_lat": "59.832401",
+    "stop_lon": "17.639418",
     "location_type": "1",
     "parent_station": "",
     "platform_code": "",
@@ -5951,7 +5951,7 @@
   },
   "9021003700218000": {
     "stop_id": "9021003700218000",
-    "stop_name": "Lundellska skolan (Uppsala)",
+    "stop_name": "Kungs\u00e4ngsleden (Uppsala)",
     "stop_lat": "59.838856",
     "stop_lon": "17.651012",
     "location_type": "1",
@@ -7232,8 +7232,8 @@
   "9021003700400000": {
     "stop_id": "9021003700400000",
     "stop_name": "L\u00e4gerhyddsv\u00e4gen (Uppsala)",
-    "stop_lat": "59.835642",
-    "stop_lon": "17.649728",
+    "stop_lat": "59.839313",
+    "stop_lon": "17.651073",
     "location_type": "1",
     "parent_station": "",
     "platform_code": "",
@@ -13791,7 +13791,7 @@
   },
   "9021003760030000": {
     "stop_id": "9021003760030000",
-    "stop_name": "Labbo v\u00e4gsk\u00e4l (Tierp)",
+    "stop_name": "Labbo (Tierp)",
     "stop_lat": "60.237388",
     "stop_lon": "17.723660",
     "location_type": "1",
@@ -13871,7 +13871,7 @@
   },
   "9021003760039000": {
     "stop_id": "9021003760039000",
-    "stop_name": "Bussgaraget (Sk\u00e4rplinge) (Tierp)",
+    "stop_name": "Tv\u00e4rgatan (Sk\u00e4rplinge) (Tierp)",
     "stop_lat": "60.473104",
     "stop_lon": "17.752303",
     "location_type": "1",
@@ -14131,7 +14131,7 @@
   },
   "9021003760067000": {
     "stop_id": "9021003760067000",
-    "stop_name": "Sakrisbergs v\u00e4gsk\u00e4l (Tierp)",
+    "stop_name": "Sakrisberg (Tierp)",
     "stop_lat": "60.392245",
     "stop_lon": "17.760100",
     "location_type": "1",
@@ -29622,8 +29622,8 @@
   "9021003780753000": {
     "stop_id": "9021003780753000",
     "stop_name": "Skr\u00e4ddarbol (Uppsala)",
-    "stop_lat": "60.021778",
-    "stop_lon": "17.888188",
+    "stop_lat": "60.021531",
+    "stop_lon": "17.879920",
     "location_type": "1",
     "parent_station": "",
     "platform_code": "",
@@ -42252,8 +42252,8 @@
   "9021003782200000": {
     "stop_id": "9021003782200000",
     "stop_name": "Str\u00f6mg\u00e4rde (\u00d6sthammar)",
-    "stop_lat": "60.146140",
-    "stop_lon": "18.166012",
+    "stop_lat": "60.147464",
+    "stop_lon": "18.179326",
     "location_type": "1",
     "parent_station": "",
     "platform_code": "",
@@ -57221,9 +57221,9 @@
   },
   "9022003700022001": {
     "stop_id": "9022003700022001",
-    "stop_name": "Uppsala Rosendals skola",
-    "stop_lat": "59.832806",
-    "stop_lon": "17.640636",
+    "stop_name": "Uppsala Rosendalsv\u00e4gen",
+    "stop_lat": "59.832502",
+    "stop_lon": "17.639905",
     "location_type": "0",
     "parent_station": "9021003700022000",
     "platform_code": "A",
@@ -57231,7 +57231,7 @@
   },
   "9022003700022002": {
     "stop_id": "9022003700022002",
-    "stop_name": "Uppsala Rosendals skola",
+    "stop_name": "Uppsala Rosendalsv\u00e4gen",
     "stop_lat": "59.832291",
     "stop_lon": "17.638931",
     "location_type": "0",
@@ -60011,7 +60011,7 @@
   },
   "9022003700218001": {
     "stop_id": "9022003700218001",
-    "stop_name": "Uppsala Lundellska skolan",
+    "stop_name": "Uppsala Kungs\u00e4ngsleden",
     "stop_lat": "59.838602",
     "stop_lon": "17.651230",
     "location_type": "0",
@@ -60021,7 +60021,7 @@
   },
   "9022003700218002": {
     "stop_id": "9022003700218002",
-    "stop_name": "Uppsala Lundellska skolan",
+    "stop_name": "Uppsala Kungs\u00e4ngsleden",
     "stop_lat": "59.838223",
     "stop_lon": "17.650709",
     "location_type": "0",
@@ -75291,7 +75291,7 @@
   },
   "9022003760030001": {
     "stop_id": "9022003760030001",
-    "stop_name": "Labbo v\u00e4gsk\u00e4l",
+    "stop_name": "Labbo",
     "stop_lat": "60.237371",
     "stop_lon": "17.723587",
     "location_type": "0",
@@ -75301,7 +75301,7 @@
   },
   "9022003760030002": {
     "stop_id": "9022003760030002",
-    "stop_name": "Labbo v\u00e4gsk\u00e4l",
+    "stop_name": "Labbo",
     "stop_lat": "60.237414",
     "stop_lon": "17.723734",
     "location_type": "0",
@@ -75451,7 +75451,7 @@
   },
   "9022003760039001": {
     "stop_id": "9022003760039001",
-    "stop_name": "Sk\u00e4rplinge Bussgaraget",
+    "stop_name": "Sk\u00e4rplinge Tv\u00e4rgatan",
     "stop_lat": "60.473139",
     "stop_lon": "17.752377",
     "location_type": "0",
@@ -75461,7 +75461,7 @@
   },
   "9022003760039002": {
     "stop_id": "9022003760039002",
-    "stop_name": "Sk\u00e4rplinge Bussgaraget",
+    "stop_name": "Sk\u00e4rplinge Tv\u00e4rgatan",
     "stop_lat": "60.473078",
     "stop_lon": "17.752228",
     "location_type": "0",
@@ -76021,7 +76021,7 @@
   },
   "9022003760067001": {
     "stop_id": "9022003760067001",
-    "stop_name": "Sakrisbergs v\u00e4gsk\u00e4l",
+    "stop_name": "Sakrisberg",
     "stop_lat": "60.392115",
     "stop_lon": "17.759802",
     "location_type": "0",
@@ -76031,7 +76031,7 @@
   },
   "9022003760067002": {
     "stop_id": "9022003760067002",
-    "stop_name": "Sakrisbergs v\u00e4gsk\u00e4l",
+    "stop_name": "Sakrisberg",
     "stop_lat": "60.392366",
     "stop_lon": "17.760380",
     "location_type": "0",
@@ -105192,8 +105192,8 @@
   "9022003780753001": {
     "stop_id": "9022003780753001",
     "stop_name": "Skr\u00e4ddarbol",
-    "stop_lat": "60.021875",
-    "stop_lon": "17.887727",
+    "stop_lat": "60.021531",
+    "stop_lon": "17.879920",
     "location_type": "0",
     "parent_station": "9021003780753000",
     "platform_code": "A",
@@ -105202,8 +105202,8 @@
   "9022003780753002": {
     "stop_id": "9022003780753002",
     "stop_name": "Skr\u00e4ddarbol",
-    "stop_lat": "60.021681",
-    "stop_lon": "17.888648",
+    "stop_lat": "60.021531",
+    "stop_lon": "17.879920",
     "location_type": "0",
     "parent_station": "9021003780753000",
     "platform_code": "B",
@@ -127052,8 +127052,8 @@
   "9022003782200001": {
     "stop_id": "9022003782200001",
     "stop_name": "Str\u00f6mg\u00e4rde",
-    "stop_lat": "60.145836",
-    "stop_lon": "18.164946",
+    "stop_lat": "60.147484",
+    "stop_lon": "18.179255",
     "location_type": "0",
     "parent_station": "9021003782200000",
     "platform_code": "A",
@@ -127062,8 +127062,8 @@
   "9022003782200002": {
     "stop_id": "9022003782200002",
     "stop_name": "Str\u00f6mg\u00e4rde",
-    "stop_lat": "60.146444",
-    "stop_lon": "18.167097",
+    "stop_lat": "60.147454",
+    "stop_lon": "18.179379",
     "location_type": "0",
     "parent_station": "9021003782200000",
     "platform_code": "B",

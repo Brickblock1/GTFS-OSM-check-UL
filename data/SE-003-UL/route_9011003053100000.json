@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-07",
+  "feed_version": "2024-12-15",
   "route_id": "9011003053100000",
   "agency_id": "33010000000001407",
   "route_short_name": "531",
@@ -12,7 +12,7 @@
       "trips": [
         {
           "trip_id": "33010000198780044",
-          "service_id": "174",
+          "service_id": "155",
           "stops": [
             {
               "pickup_type": "3",
@@ -214,8 +214,8 @@
             }
           ],
           "service": {
-            "service_id": "174",
-            "start_date": "20241204",
+            "service_id": "155",
+            "start_date": "20241212",
             "end_date": "20250612"
           }
         }
@@ -3828,7 +3828,7 @@
       "trips": [
         {
           "trip_id": "33010000198780114",
-          "service_id": "176",
+          "service_id": "158",
           "stops": [
             {
               "pickup_type": "3",
@@ -4052,14 +4052,14 @@
             }
           ],
           "service": {
-            "service_id": "176",
-            "start_date": "20241204",
+            "service_id": "158",
+            "start_date": "20241212",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000198780079",
-          "service_id": "176",
+          "service_id": "158",
           "stops": [
             {
               "pickup_type": "3",
@@ -4283,14 +4283,14 @@
             }
           ],
           "service": {
-            "service_id": "176",
-            "start_date": "20241204",
+            "service_id": "158",
+            "start_date": "20241212",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000215715211",
-          "service_id": "179",
+          "service_id": "160",
           "stops": [
             {
               "pickup_type": "3",
@@ -4514,7 +4514,7 @@
             }
           ],
           "service": {
-            "service_id": "179",
+            "service_id": "160",
             "start_date": "20241220",
             "end_date": "20241220"
           }

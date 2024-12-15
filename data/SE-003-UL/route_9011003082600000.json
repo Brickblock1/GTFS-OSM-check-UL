@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-07",
+  "feed_version": "2024-12-15",
   "route_id": "9011003082600000",
   "agency_id": "33010000000001407",
   "route_short_name": "826",
@@ -369,13 +369,13 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241204",
+            "start_date": "20241212",
             "end_date": "20241213"
           }
         },
         {
           "trip_id": "33010000213714817",
-          "service_id": "15",
+          "service_id": "13",
           "stops": [
             {
               "pickup_type": "3",
@@ -731,7 +731,7 @@
             }
           ],
           "service": {
-            "service_id": "15",
+            "service_id": "13",
             "start_date": "20241216",
             "end_date": "20250613"
           }
@@ -5702,13 +5702,13 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241204",
+            "start_date": "20241212",
             "end_date": "20241213"
           }
         },
         {
           "trip_id": "33010000213714857",
-          "service_id": "15",
+          "service_id": "13",
           "stops": [
             {
               "pickup_type": "3",
@@ -6064,7 +6064,7 @@
             }
           ],
           "service": {
-            "service_id": "15",
+            "service_id": "13",
             "start_date": "20241216",
             "end_date": "20250613"
           }

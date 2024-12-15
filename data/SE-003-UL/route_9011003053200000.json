@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-07",
+  "feed_version": "2024-12-15",
   "route_id": "9011003053200000",
   "agency_id": "33010000000001407",
   "route_short_name": "532",
@@ -12,7 +12,7 @@
       "trips": [
         {
           "trip_id": "33010000198776869",
-          "service_id": "174",
+          "service_id": "155",
           "stops": [
             {
               "pickup_type": "3",
@@ -291,8 +291,8 @@
             }
           ],
           "service": {
-            "service_id": "174",
-            "start_date": "20241204",
+            "service_id": "155",
+            "start_date": "20241212",
             "end_date": "20250612"
           }
         }
@@ -6812,8 +6812,8 @@
       "shape_id": "1033010000189263028",
       "trips": [
         {
-          "trip_id": "33010000198776951",
-          "service_id": "275",
+          "trip_id": "33010000198776909",
+          "service_id": "158",
           "stops": [
             {
               "pickup_type": "3",
@@ -7103,14 +7103,14 @@
             }
           ],
           "service": {
-            "service_id": "275",
-            "start_date": "20241204",
+            "service_id": "158",
+            "start_date": "20241212",
             "end_date": "20250612"
           }
         },
         {
-          "trip_id": "33010000198776909",
-          "service_id": "176",
+          "trip_id": "33010000198776951",
+          "service_id": "246",
           "stops": [
             {
               "pickup_type": "3",
@@ -7400,14 +7400,14 @@
             }
           ],
           "service": {
-            "service_id": "176",
-            "start_date": "20241204",
+            "service_id": "246",
+            "start_date": "20241212",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000215715263",
-          "service_id": "179",
+          "service_id": "160",
           "stops": [
             {
               "pickup_type": "3",
@@ -7697,7 +7697,7 @@
             }
           ],
           "service": {
-            "service_id": "179",
+            "service_id": "160",
             "start_date": "20241220",
             "end_date": "20241220"
           }

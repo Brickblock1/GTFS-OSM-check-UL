@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-07",
+  "feed_version": "2024-12-15",
   "route_id": "9011003052200000",
   "agency_id": "33010000000001407",
   "route_short_name": "522",
@@ -12,7 +12,7 @@
       "trips": [
         {
           "trip_id": "33010000198778803",
-          "service_id": "174",
+          "service_id": "155",
           "stops": [
             {
               "pickup_type": "3",
@@ -214,8 +214,8 @@
             }
           ],
           "service": {
-            "service_id": "174",
-            "start_date": "20241204",
+            "service_id": "155",
+            "start_date": "20241212",
             "end_date": "20250612"
           }
         }
@@ -7720,7 +7720,7 @@
       "trips": [
         {
           "trip_id": "33010000198778871",
-          "service_id": "176",
+          "service_id": "158",
           "stops": [
             {
               "pickup_type": "3",
@@ -7933,14 +7933,14 @@
             }
           ],
           "service": {
-            "service_id": "176",
-            "start_date": "20241204",
+            "service_id": "158",
+            "start_date": "20241212",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000198778836",
-          "service_id": "176",
+          "service_id": "158",
           "stops": [
             {
               "pickup_type": "3",
@@ -8153,14 +8153,14 @@
             }
           ],
           "service": {
-            "service_id": "176",
-            "start_date": "20241204",
+            "service_id": "158",
+            "start_date": "20241212",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000215715706",
-          "service_id": "179",
+          "service_id": "160",
           "stops": [
             {
               "pickup_type": "3",
@@ -8373,7 +8373,7 @@
             }
           ],
           "service": {
-            "service_id": "179",
+            "service_id": "160",
             "start_date": "20241220",
             "end_date": "20241220"
           }
@@ -16215,7 +16215,7 @@
       "trips": [
         {
           "trip_id": "33010000198778899",
-          "service_id": "330",
+          "service_id": "293",
           "stops": [
             {
               "pickup_type": "3",
@@ -16351,8 +16351,8 @@
             }
           ],
           "service": {
-            "service_id": "330",
-            "start_date": "20241204",
+            "service_id": "293",
+            "start_date": "20241213",
             "end_date": "20250611"
           }
         }

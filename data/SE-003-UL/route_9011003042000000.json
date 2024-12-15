@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-07",
+  "feed_version": "2024-12-15",
   "route_id": "9011003042000000",
   "agency_id": "33010000000001407",
   "route_short_name": "420",
@@ -12,7 +12,7 @@
       "trips": [
         {
           "trip_id": "33010000198830095",
-          "service_id": "187",
+          "service_id": "168",
           "stops": [
             {
               "pickup_type": "3",
@@ -115,8 +115,8 @@
             }
           ],
           "service": {
-            "service_id": "187",
-            "start_date": "20241204",
+            "service_id": "168",
+            "start_date": "20241212",
             "end_date": "20241220"
           }
         }
@@ -1717,7 +1717,7 @@
       "trips": [
         {
           "trip_id": "33010000215928744",
-          "service_id": "309",
+          "service_id": "277",
           "stops": [
             {
               "pickup_type": "3",
@@ -1853,7 +1853,7 @@
             }
           ],
           "service": {
-            "service_id": "309",
+            "service_id": "277",
             "start_date": "20250108",
             "end_date": "20250612"
           }
@@ -4223,7 +4223,7 @@
       "trips": [
         {
           "trip_id": "33010000198830118",
-          "service_id": "236",
+          "service_id": "212",
           "stops": [
             {
               "pickup_type": "3",
@@ -4326,14 +4326,14 @@
             }
           ],
           "service": {
-            "service_id": "236",
-            "start_date": "20241204",
+            "service_id": "212",
+            "start_date": "20241212",
             "end_date": "20241219"
           }
         },
         {
           "trip_id": "33010000198830141",
-          "service_id": "310",
+          "service_id": "278",
           "stops": [
             {
               "pickup_type": "3",
@@ -4436,14 +4436,14 @@
             }
           ],
           "service": {
-            "service_id": "310",
-            "start_date": "20241204",
+            "service_id": "278",
+            "start_date": "20241212",
             "end_date": "20241219"
           }
         },
         {
           "trip_id": "33010000215721893",
-          "service_id": "179",
+          "service_id": "160",
           "stops": [
             {
               "pickup_type": "3",
@@ -4546,7 +4546,7 @@
             }
           ],
           "service": {
-            "service_id": "179",
+            "service_id": "160",
             "start_date": "20241220",
             "end_date": "20241220"
           }
@@ -6016,7 +6016,7 @@
       "trips": [
         {
           "trip_id": "33010000215928773",
-          "service_id": "311",
+          "service_id": "279",
           "stops": [
             {
               "pickup_type": "3",
@@ -6152,14 +6152,14 @@
             }
           ],
           "service": {
-            "service_id": "311",
+            "service_id": "279",
             "start_date": "20250108",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000215928804",
-          "service_id": "309",
+          "service_id": "277",
           "stops": [
             {
               "pickup_type": "3",
@@ -6295,7 +6295,7 @@
             }
           ],
           "service": {
-            "service_id": "309",
+            "service_id": "277",
             "start_date": "20250108",
             "end_date": "20250612"
           }
